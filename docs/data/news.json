@@ -1,0 +1,18 @@
+{
+  "generatedAt": "2026-08-26T04:30:00.000Z",
+  "generatedAtKST": "2026-08-26T13:30:00+09:00",
+  "date": "2026-08-26",
+  "aiSummaryEnabled": false,
+  "briefing": [
+    "교육부 공식 발표와 국내·외 교육정책 뉴스를 매일 자동 수집하도록 구성했습니다.",
+    "실제 배포 후 매일 오전 6:30(KST) 스케줄러가 최신 데이터로 이 화면을 갱신합니다."
+  ],
+  "stats": {"total": 5,"official": 4,"domestic": 0,"foreign": 1},
+  "items": [
+    {"id":"demo1","title":"새 학기에도 안심하고 등교하도록, 학교 주변 위해요소 집중 점검","url":"https://www.moe.go.kr/boardCnts/listRenew.do?boardID=294&m=020402&page=1","source":"교육부","kind":"official","publishedAt":"2026-08-23T09:00:00+09:00","description":"교육부 공식 보도자료","category":"유·초중등","score":80},
+    {"id":"demo2","title":"데이터로 읽는 우리 교육 제12호 발간","url":"https://www.moe.go.kr/boardCnts/listRenew.do?boardID=294&m=020402&page=1","source":"교육부","kind":"official","publishedAt":"2026-08-23T09:00:00+09:00","description":"교육부 공식 보도자료","category":"기타","score":78},
+    {"id":"demo3","title":"교육부 소관 법안 「교육환경법」 국회 본회의 통과","url":"https://www.moe.go.kr/boardCnts/listRenew.do?boardID=294&m=020402&page=1","source":"교육부","kind":"official","publishedAt":"2026-08-20T09:00:00+09:00","description":"교육부 공식 보도자료","category":"재정·법령","score":76},
+    {"id":"demo4","title":"인공지능(AI) 온이음, 인공지능(AI)과 이어지는 첫 연결고리","url":"https://www.moe.go.kr/boardCnts/listRenew.do?boardID=294&m=020402&page=1","source":"교육부","kind":"official","publishedAt":"2026-08-19T09:00:00+09:00","description":"교육부 공식 보도자료","category":"AI·디지털","score":74},
+    {"id":"demo5","title":"South Korea plans chip windfall fund to back youth, AI investment","url":"https://www.reuters.com/world/asia-pacific/south-korea-plans-chip-windfall-fund-back-youth-ai-investment-2026-08-21/","source":"Reuters","kind":"foreign","publishedAt":"2026-08-21T00:00:00Z","description":"청년·AI 투자와 함께 고등교육 및 평생학습 재정 개편이 언급된 해외 보도입니다.","category":"재정·법령","score":65}
+  ]
+}
