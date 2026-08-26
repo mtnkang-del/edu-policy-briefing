@@ -1,22 +1,77 @@
 {
-  "generatedAt": "2026-08-26T04:44:23.605Z",
-  "generatedAtKST": "2026-08-26T13:44:13.066+09:00",
+  "generatedAt": "2026-08-26T04:49:14.621Z",
+  "generatedAtKST": "2026-08-26T13:49:12.093+09:00",
   "date": "2026-08-26",
   "aiSummaryEnabled": false,
   "briefing": [
-    "학생 줄고 재정 늘고…교육교부금 개편 이유는 [정진호의 정책톺아보기] — sisaon.co.kr",
-    "AI시대 '문해교육' 방향은…27~28일 청주서 정책 전시회 — 뉴시스",
-    "정부, 성인 문해교육 20년 기념 전시…한글 넘어 AI·금융까지 배운다 — 뉴스핌",
-    "학령인구 감소 가속…유·초·중등 학생 1년 새 19만명 줄어, 교육부 교육통계 발표 — eduplusnews.com",
-    "\"AI 시대 이끌 기술인재 한자리에\"…교육부·한국발명진흥회, 직업계고 인재성장 기업포럼 성료 — 네이트"
+    "문해와 인공지능(AI)으로 연결하는 새로운 세상, ‘대한민국 문해교육 정책전시회’ 개최 — 교육부",
+    "2026년 교육기본통계 조사 결과 발표 — 교육부",
+    "인문사회 ‘집단지성’으로 해법 찾는다 — 교육부",
+    "정부 초청 외국인 장학생 졸업 축하 행사 개최 — 교육부",
+    "2027학년도 수시모집 대입 원서접수 미리 작성! — 교육부"
   ],
   "stats": {
     "total": 80,
-    "official": 0,
-    "domestic": 52,
+    "official": 9,
+    "domestic": 43,
     "foreign": 28
   },
   "items": [
+    {
+      "id": "e1b7053ad10d",
+      "title": "문해와 인공지능(AI)으로 연결하는 새로운 세상, ‘대한민국 문해교육 정책전시회’ 개최",
+      "url": "https://www.moe.go.kr/#",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-26T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "AI·디지털",
+      "score": 78
+    },
+    {
+      "id": "e1b7053ad10d",
+      "title": "2026년 교육기본통계 조사 결과 발표",
+      "url": "https://www.moe.go.kr/#",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-26T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "기타",
+      "score": 74
+    },
+    {
+      "id": "e1b7053ad10d",
+      "title": "인문사회 ‘집단지성’으로 해법 찾는다",
+      "url": "https://www.moe.go.kr/#",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-26T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "기타",
+      "score": 70
+    },
+    {
+      "id": "e1b7053ad10d",
+      "title": "정부 초청 외국인 장학생 졸업 축하 행사 개최",
+      "url": "https://www.moe.go.kr/#",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-26T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "유·초중등",
+      "score": 70
+    },
+    {
+      "id": "e1b7053ad10d",
+      "title": "2027학년도 수시모집 대입 원서접수 미리 작성!",
+      "url": "https://www.moe.go.kr/#",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-25T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "입시·사교육",
+      "score": 64
+    },
     {
       "id": "b87e5def16f5",
       "title": "학생 줄고 재정 늘고…교육교부금 개편 이유는 [정진호의 정책톺아보기]",
@@ -27,6 +82,50 @@
       "description": "학생 줄고 재정 늘고…교육교부금 개편 이유는 [정진호의 정책톺아보기] sisaon.co.kr",
       "category": "유·초중등",
       "score": 61
+    },
+    {
+      "id": "e1b7053ad10d",
+      "title": "학교 역사교육 활성화 지원 거점, 서울대학교 역사교육지원연구센터 개소",
+      "url": "https://www.moe.go.kr/#",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-25T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "입시·사교육",
+      "score": 60
+    },
+    {
+      "id": "e1b7053ad10d",
+      "title": "영유아 통학안전 강화, 어린이통학버스 3,089대 상반기 합동점검 완료",
+      "url": "https://www.moe.go.kr/#",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-25T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "기타",
+      "score": 60
+    },
+    {
+      "id": "e1b7053ad10d",
+      "title": "2027학년도 대학수학능력시험 9월 모의평가 실시",
+      "url": "https://www.moe.go.kr/#",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-25T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "고등교육",
+      "score": 60
+    },
+    {
+      "id": "e1b7053ad10d",
+      "title": "늘어나는 이주배경학생, '맞춤형 한국어 진단도구'로 공교육 적응 돕는다",
+      "url": "https://www.moe.go.kr/#",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-25T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "유·초중등",
+      "score": 60
     },
     {
       "id": "ac12f0fa1d9b",
@@ -469,9 +568,9 @@
       "score": 47
     },
     {
-      "id": "a2ded442ab31",
+      "id": "62bffb9c6290",
       "title": "Jang Dong-hyeok vows party overhaul, targets 2028 majority and tougher fight in Korea - CHOSUNBIZ",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kQzB1eEtheHlIRVU0SW9tRUNLWkM0MnZzUkU5SVUtZkYxYUdkZFcybDIzTHJZQ1JGVE5VYkUxTHd2eEhDTTh5ekFlYzJoeTJNRUlRelFJc011bklTTlg4Q1MwRlZLRjN6djRKSUJfYW0wVC1jUUdrZy1La3BEdG_SAZMBQVVfeXFMTmpsT2hjUUc4Q3pabjhxcVhKbUxTOGJ5ZFB0UkZrdzJvaUNGd3JENGV5T2JWZHVKanJ3Wno0d2w3Z2ZuLWVhSllXNVlwTHgwR0hHQ3F1bkVKUTNaUVNrMXhpMHIzY3B2RkI2d3VGS0pFMldOUlNpc0FoR2lROTNkLWpoN01MUnpmM2g2akE2WUgzX05V?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOamxPaGNRRzhDelpuOHFxWEptTFM4YnlkUHRSRmt3Mm9pQ0Z3ckQ0ZXlPYlZkdUpqcndaejR3bDdnZm4tZWFKWVc1WXBMeDBHSEdDcXVuRUpRM1pRU2sxeGkwcjNjcHZGQjZ3dUZLSkUyV05SU2lzQWhHaVE5M2Qtamg3TUxSemYzaDZqQTZZSDNfTlXSAZMBQVVfeXFMTmpsT2hjUUc4Q3pabjhxcVhKbUxTOGJ5ZFB0UkZrdzJvaUNGd3JENGV5T2JWZHVKanJ3Wno0d2w3Z2ZuLWVhSllXNVlwTHgwR0hHQ3F1bkVKUTNaUVNrMXhpMHIzY3B2RkI2d3VGS0pFMldOUlNpc0FoR2lROTNkLWpoN01MUnpmM2g2akE2WUgzX05V?oc=5",
       "source": "Chosunbiz",
       "kind": "foreign",
       "publishedAt": "2026-08-26T01:30:00.000Z",
@@ -612,17 +711,6 @@
       "score": 47
     },
     {
-      "id": "67054e3d44d8",
-      "title": "중국 학교, 전교생 AI 필수교육으로…교육의 기준이 달라진다",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1GR2NodWVvUUFQYkhsdWZzbTViNDlwTmFOdFZBaGhncXJQbmJzM1lYS1NGMzlueGN5YlpDSS1QUFdvUHRKSnRGcQ?oc=5",
-      "source": "얼리어답터뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-08-25T00:20:34.000Z",
-      "description": "중국 학교, 전교생 AI 필수교육으로…교육의 기준이 달라진다 얼리어답터뉴스",
-      "category": "유·초중등",
-      "score": 47
-    },
-    {
       "id": "152310fa755a",
       "title": "천재교육, AI 디지털 연수 운영… 교사 역량 강화 지원",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51aDFPdVFVOG4yc3B0bWhreXEya0VSVzhqZ3RDZ2JORTRGZEk0RjNpSDdmRnRvUHZKdXZTMU9IS3lDbWlTQVhYTTJhbXV3RWI0aGpzejZVdHpBVlczUWlaekFDd1lGbGZfb3BoddIBb0FVX3lxTFBXRWJaRjRKZUdoOGJhTlFlN0xaZzJlb3puMUVpaS1CeVRKX2pFb0xZNjlUZkpuLW1QY0cxeUFqejQteTBvT0h3a1hScUk3WFQtc2FOc2ppWHFoNkNmTG5oenFtWG9KTVBCTG9YUWI5OA?oc=5",
@@ -678,13 +766,13 @@
       "score": 47
     },
     {
-      "id": "25dce5c45b58",
+      "id": "24523ae0594f",
       "title": "이지스퍼블리싱, 교사용 AI 실용서 ‘된다! 교사를 위한 에듀테크 바이브 코딩 수업 활용법’ 출간",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsSTA3UEd2QXFoV3FKWWJFZ09aYUdqUU9KQnRpTzF0UFdIT0c1MnRKaWJWM2pKQlBIQmV4RllaYUJjLWdjRWpEV1lqVlBIV00zUTUtSWtRUmEzM0t3aVF3?oc=5",
-      "source": "press.theleader.kr",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNaFNjVFdvUG9YUkxVQ3k4aVZBRzNEeUdoeHdfeUxGWUhvZ2ZmampyN0xGY0hwbnFMelJFbk41TG5lWU1DTXF2Z1plZlQwREs1b2c?oc=5",
+      "source": "AI경기방송",
       "kind": "domestic",
       "publishedAt": "2026-08-24T01:38:00.000Z",
-      "description": "이지스퍼블리싱, 교사용 AI 실용서 ‘된다! 교사를 위한 에듀테크 바이브 코딩 수업 활용법’ 출간 press.theleader.kr",
+      "description": "이지스퍼블리싱, 교사용 AI 실용서 ‘된다! 교사를 위한 에듀테크 바이브 코딩 수업 활용법’ 출간 AI경기방송",
       "category": "교원·조직",
       "score": 47
     },
@@ -697,17 +785,6 @@
       "publishedAt": "2026-08-24T00:36:00.000Z",
       "description": "천재교육·천재교과서, 'AI 디지털 교육자료 찾아가는 연수' 운영 네이트",
       "category": "AI·디지털",
-      "score": 47
-    },
-    {
-      "id": "bf64e5d15241",
-      "title": "\"AI는 교사 돕는 도구\"…천재교육, 교사 맞춤형 '디지털 수업 연수' 확대",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15elFadzdpbkVvUm1kTloxTEl6X0RYZHhSOTh5TDRWckw2akRDWWlIT0ZZNFNzc29kMUtmNFZqdTRCQWszclRZa1p2QS1NVnRjWVV4dG92eGVxVE9IVll1Mg?oc=5",
-      "source": "네이트",
-      "kind": "domestic",
-      "publishedAt": "2026-08-24T00:36:00.000Z",
-      "description": "\"AI는 교사 돕는 도구\"…천재교육, 교사 맞춤형 '디지털 수업 연수' 확대 네이트",
-      "category": "교원·조직",
       "score": 47
     },
     {
@@ -818,83 +895,6 @@
       "publishedAt": "2026-08-24T21:00:00.000Z",
       "description": "매출 78% 빠진 NE능률…‘일시적 반품’ 해명에 남은 물음표 아시아투데이",
       "category": "기타",
-      "score": 43
-    },
-    {
-      "id": "929d829883d9",
-      "title": "현장체험학습 교직원 법적 부담 완화 입법 추진",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFMWxtT21CR1RhcTZhRGU0YVdSRThlQlBQSUowWFg5amcyd1dnR2NVb2s5SWpfVUNfd3dEcWhMOGhoUVF5R0drQjZ0Skt5aUJpWk8xWmR6R3dvSDFaN0tv?oc=5",
-      "source": "한국교육신문",
-      "kind": "domestic",
-      "publishedAt": "2026-08-24T11:27:56.000Z",
-      "description": "현장체험학습 교직원 법적 부담 완화 입법 추진 한국교육신문",
-      "category": "교원·조직",
-      "score": 43
-    },
-    {
-      "id": "1081104bc45a",
-      "title": "쪼그라드는 곳간…특수교육·노후학교 개선 차질 우려",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VT3hfUjB1N0dUa0dCVV9VeWVGV0dheXBWengwbXViREczcWVPMnVYcjNqNDNYZ0hYcWh3Um9Xc0JnQ2UzS2RVLWJucWkyRkJ2Y3hFMENhM1E3MnU5cXA0d3JjTnVXbUhrN3c?oc=5",
-      "source": "광주타임즈",
-      "kind": "domestic",
-      "publishedAt": "2026-08-24T09:18:55.000Z",
-      "description": "쪼그라드는 곳간…특수교육·노후학교 개선 차질 우려 광주타임즈",
-      "category": "유·초중등",
-      "score": 43
-    },
-    {
-      "id": "f0edd43e73fe",
-      "title": "7년만에 교육부 감사 받는 충북교육청…윤건영호 행정 검증대 올라",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PVzFMdEtfQ01oalA1SUtXMnNoUmpsTno0bHFraHlndlVyMm0zNFhpODF3ZmktekpLM1FRNGxCY19jVkphVkI1TWdodl9sM1FIMTlqS2lDQ2ZIQUc5UjVUdGkzRF9aZnFHYmtN?oc=5",
-      "source": "BBS불교방송",
-      "kind": "domestic",
-      "publishedAt": "2026-08-24T08:30:00.000Z",
-      "description": "7년만에 교육부 감사 받는 충북교육청…윤건영호 행정 검증대 올라 BBS불교방송",
-      "category": "기타",
-      "score": 43
-    },
-    {
-      "id": "92495f7a2e67",
-      "title": "[똑똑한교육] 웅진씽크빅, 미래엔, 천재교육·천재교과서, 베테랑스에듀",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GWVNLeEpfRFFBR0ljNE5yVDlPMVVZUDRtWER6N0h1LWFLSWgxRk04TzFrYy1qN2xNd2o5TVFOaHhJMjRjNWd0c2kxYTloU0EzLXNsMDVQOHJESjg?oc=5",
-      "source": "에너지경제신문",
-      "kind": "domestic",
-      "publishedAt": "2026-08-24T07:00:00.000Z",
-      "description": "[똑똑한교육] 웅진씽크빅, 미래엔, 천재교육·천재교과서, 베테랑스에듀 에너지경제신문",
-      "category": "기타",
-      "score": 43
-    },
-    {
-      "id": "f707fc4ee369",
-      "title": "[교육트렌드] 한국영유아보육교육진흥원, 노사 공동선언으로 내부통제 강화 外",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03M21nQzcwbm5Qa1FqQ0JsMWk1aGF3cVRyUzZzOVFOZU5pRHdWTFZkWVBHbHd2YWJEQ3o5X3gyOXdsVUZGczJ4TGJ4QkRYZUk3YV81NQ?oc=5",
-      "source": "v.daum.net",
-      "kind": "domestic",
-      "publishedAt": "2026-08-24T06:18:43.000Z",
-      "description": "[교육트렌드] 한국영유아보육교육진흥원, 노사 공동선언으로 내부통제 강화 外 v.daum.net",
-      "category": "기타",
-      "score": 43
-    },
-    {
-      "id": "d8018d8ea8e8",
-      "title": "부산교대, 부산·울산·경남 지역 학교 관리자 에듀테크 직무 연수 진행",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxVnNkNWh6Ukp4U2s3R2RseFNVeXJuM3ZWUFRTT2lheFBQLUdIR3M3bXNPVWV6N1QwWEVRd0puTzlzM0Y1SllJX3NWQTI2WUE4Nk16c2hOOEFMSDNuZFpGY2JZTk54ODRpZEQ1LUltWXZiNDBsMjItcVBQRFA?oc=5",
-      "source": "비욘드포스트",
-      "kind": "domestic",
-      "publishedAt": "2026-08-24T05:25:10.000Z",
-      "description": "부산교대, 부산·울산·경남 지역 학교 관리자 에듀테크 직무 연수 진행 비욘드포스트",
-      "category": "유·초중등",
-      "score": 43
-    },
-    {
-      "id": "174d92d07647",
-      "title": "대구시교육청, ‘2026 에듀테크 커넥트’ 개최",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkMmUwbnhuMU9lSGVYSzBlcUltNDRQS21vZlNnRXFsZ2JJb3pKbElvZk10ZFVlNVFIaENtQkIxcnk1azlERzlfTGlHclgyb1AzeHJRZmV5Mkg5WlVjNGV1Q0RKcw?oc=5",
-      "source": "대한민국교육신문",
-      "kind": "domestic",
-      "publishedAt": "2026-08-23T15:43:30.000Z",
-      "description": "대구시교육청, ‘2026 에듀테크 커넥트’ 개최 대한민국교육신문",
-      "category": "AI·디지털",
       "score": 43
     }
   ]
