@@ -5,7 +5,7 @@
   "description": "Daily automated briefing for Korean education policy and Ministry of Education news",
   "type": "module",
   "scripts": {
-    "update": "node scripts/fetch-news.mjs && node scripts/fix-moe-links.mjs && node scripts/foreign-fallback.mjs",
+    "update": "node scripts/fetch-news.mjs && node scripts/fix-moe-links.mjs && node scripts/foreign-fallback.mjs && node scripts/build-history.mjs",
     "serve": "npx serve docs"
   },
   "dependencies": {
