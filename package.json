@@ -1,0 +1,15 @@
+{
+  "name": "edu-policy-briefing",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/fetch-news.mjs",
+    "serve": "npx serve docs"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "openai": "^5.0.0",
+    "rss-parser": "^3.13.0"
+  }
+}
