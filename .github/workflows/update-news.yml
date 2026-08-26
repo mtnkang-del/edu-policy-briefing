@@ -1,0 +1,61 @@
+name: Update education briefing
+
+on:
+  schedule:
+    - cron: '30 21 * * *' # 매일 06:30 KST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: education-briefing-update
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: package.json
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Refresh briefing
+        run: npm run update
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5-mini' }}
+
+      - name: Commit fresh briefing
+        run: |
+          git config user.name "edu-briefing-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/data
+          git diff --cached --quiet || git commit -m "chore: update education briefing $(date -u +%F)"
+          git push
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: docs
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
