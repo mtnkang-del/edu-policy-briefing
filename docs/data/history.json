@@ -1,59 +1,11 @@
 {
-  "generatedAt": "2026-08-27T12:31:12.508Z",
+  "generatedAt": "2026-08-27T12:47:37.823Z",
   "retentionDays": 30,
   "days": [
     "2026-08-27",
     "2026-08-26"
   ],
   "items": [
-    {
-      "id": "c49b9d7b7078",
-      "title": "인공지능(AI) 교과, 교원이 주도하여 교육자료부터 인정교과서까지 만든다",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107049&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-08-27T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "AI·디지털",
-      "score": 78,
-      "snapshotDate": "2026-08-27"
-    },
-    {
-      "id": "c09781f02639",
-      "title": "2026년 8월 대학정보공시 분석 결과 발표",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107048&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-08-27T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "고등교육",
-      "score": 74,
-      "snapshotDate": "2026-08-27"
-    },
-    {
-      "id": "5ac435d84d87",
-      "title": "2029학년도 대학입학전형기본사항 발표",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107052&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-08-27T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "고등교육",
-      "score": 74,
-      "snapshotDate": "2026-08-27"
-    },
-    {
-      "id": "7479eb90ce00",
-      "title": "학교 역사교육 활성화를 위한 교육부-독립기념관 업무협약(MOU) 체결",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107050&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-08-27T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "입시·사교육",
-      "score": 70,
-      "snapshotDate": "2026-08-27"
-    },
     {
       "id": "c1fe939d27e4",
       "title": "부이사관 교육부(애틀란타한국교육원 파견) 김새봄 강원대학교 강릉캠퍼스 행정본부장 구영실",
@@ -64,6 +16,18 @@
       "description": "◇부이사관 △교육부(애틀란타한국교육원 파견) 김새봄 △강원대학교 강릉캠퍼스 행정본부장 구영실 ◇서기관 △평생학습정책과장 민미홍 △학생건강정책과장 김주연 △교육부 최흥윤 △교육부 이상범 △교육부(국외훈련 파견) 강현 △기획조정실 임종일 △감사관실 이종환 △학교정책실 ...",
       "category": "고등교육",
       "score": 53,
+      "snapshotDate": "2026-08-27"
+    },
+    {
+      "id": "5483514f7c42",
+      "title": "양평군, 지속가능 미래도시 전략 모색…AI·디지털 정책 강화",
+      "url": "https://www.msn.com/ko-kr/money/topstories/%EC%96%91%ED%8F%89%EA%B5%B0-%EC%A7%80%EC%86%8D%EA%B0%80%EB%8A%A5-%EB%AF%B8%EB%9E%98%EB%8F%84%EC%8B%9C-%EC%A0%84%EB%9E%B5-%EB%AA%A8%EC%83%89-ai-%EB%94%94%EC%A7%80%ED%84%B8-%EC%A0%95%EC%B1%85-%EA%B0%95%ED%99%94/ar-AA2b0ESX",
+      "source": "아시아경제 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-08-26T19:25:00.000Z",
+      "description": "경기 양평군(군수 전진선)은 지난 26일 지속가능발전위원회 위원과 전문가 등 40여 명이 참석한 가운데 '2026년 제1차 정책포럼'을 열고 지속가능한 미래도시로 도약하기 위한 발전 전략을 논의했다. 이번 포럼은 ...",
+      "category": "AI·디지털",
+      "score": 57,
       "snapshotDate": "2026-08-27"
     },
     {
@@ -91,6 +55,33 @@
       "snapshotDate": "2026-08-27"
     },
     {
+      "id": "5faf16185f42",
+      "title": "South Korea military academy merger plan draws heated opposition",
+      "url": "https://www.upi.com/Top_News/World-News/2026/08/26/military-academies-reform-merging-into-one/3151787789597/",
+      "source": "UPI",
+      "kind": "foreign",
+      "publishedAt": "2026-08-26T13:16:00.000Z",
+      "description": "S. Korea's first public hearing on merging three service academies turned heated as supporters and opponents clashed over military education reform.",
+      "category": "기타",
+      "score": 51,
+      "originalTitle": "South Korea military academy merger plan draws heated opposition",
+      "titleKo": "한국 사관학교 병합 계획은 열띤 반대를 이끌어 냅니다.",
+      "summaryKo": "S. 한국 최초의 복무 아카데미 병합 공청회는 군사 교육 개혁에 대한 지지자와 반대자가 충돌하면서 열띤 반응을 보였다.",
+      "snapshotDate": "2026-08-27"
+    },
+    {
+      "id": "238c020c6eb9",
+      "title": "경남교육청, 미국 AI·디지털 교육 연수 보고회…수업혁신 지원",
+      "url": "https://www.yna.co.kr/view/AKR20260826161900052",
+      "source": "연합뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-08-26T10:28:00.000Z",
+      "description": "(창원=연합뉴스) 김동민 기자 = 경남도교육청은 26일 그랜드머큐어 창원에서 '2026년 디지털 기반 교육혁신 유공 교원 국외 연수 사후 보고회'를 열고 미국의 인공지능 (AI)과 디지털 교육 우수 사례 및 현장 적용 방안을 논의했다.",
+      "category": "AI·디지털",
+      "score": 51,
+      "snapshotDate": "2026-08-27"
+    },
+    {
       "id": "f96db02b49af",
       "title": "AI시대 '문해교육' 방향은…27~28일 청주서 정책 전시회",
       "url": "https://www.newsis.com/view/NISX20260826_0003762785",
@@ -115,13 +106,13 @@
       "snapshotDate": "2026-08-27"
     },
     {
-      "id": "e2ce706f26b0",
-      "title": "경남교육청, 미국 AI·디지털 교육 연수 보고회…수업혁신 지원",
-      "url": "https://www.msn.com/ko-kr/news/national/%EA%B2%BD%EB%82%A8%EA%B5%90%EC%9C%A1%EC%B2%AD-%EB%AF%B8%EA%B5%AD-ai-%EB%94%94%EC%A7%80%ED%84%B8-%EA%B5%90%EC%9C%A1-%EC%97%B0%EC%88%98-%EB%B3%B4%EA%B3%A0%ED%9A%8C-%EC%88%98%EC%97%85%ED%98%81%EC%8B%A0-%EC%A7%80%EC%9B%90/ar-AA2aXipz",
-      "source": "연합뉴스 on MSN",
+      "id": "f51b2d923c5b",
+      "title": "경남교육청, 미국 국외 연수 성과 공유…“인공지능(AI)·디지털 교육 현장 확산”",
+      "url": "http://www.newskorea21.com/2284879",
+      "source": "더뉴스코리아",
       "kind": "domestic",
-      "publishedAt": "2026-08-26T01:28:26.000Z",
-      "description": "(창원=연합뉴스) 김동민 기자 = 경남도교육청은 26일 그랜드머큐어 창원에서 '2026년 디지털 기반 교육혁신 유공 교원 국외 연수 사후 보고회'를 열고 미국의 인공지능(AI)과 디지털 교육 우수 사례 및 현장 적용 방안을 논의했다. 도내 초·중등 교사와 교육 전문직 등 24명으로 구성된 연수단은 이달 5일부터 ...",
+      "publishedAt": "2026-08-26T01:17:00.000Z",
+      "description": "[더뉴스코리아=김두용 기자] 경상남도교육청은 26일 ‘2026년 디지털 기반 교육혁신 유공교원 국외 연수 사후 보고회’를 열고, 미국의 인공지능(AI) 및 디지털 교육 우수 사례와 도내 현장 적용 방안을 논의했다. 이번 연수는 관련 분야 발전에 이바지한 교원들의 국제적 역량을 높이고 선도 교사 간 네트워크를 구축하고자 마련됐다. 초·중등 교사 17명을 비롯 ...",
       "category": "AI·디지털",
       "score": 51,
       "snapshotDate": "2026-08-27"
@@ -147,8 +138,8 @@
       "publishedAt": "2026-08-26T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "기타",
-      "score": 64,
-      "snapshotDate": "2026-08-27"
+      "score": 74,
+      "snapshotDate": "2026-08-26"
     },
     {
       "id": "5ea2d69d7531",
@@ -159,8 +150,8 @@
       "publishedAt": "2026-08-26T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "AI·디지털",
-      "score": 64,
-      "snapshotDate": "2026-08-27"
+      "score": 74,
+      "snapshotDate": "2026-08-26"
     },
     {
       "id": "19e8165b5dae",
@@ -171,8 +162,8 @@
       "publishedAt": "2026-08-26T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "기타",
-      "score": 60,
-      "snapshotDate": "2026-08-27"
+      "score": 70,
+      "snapshotDate": "2026-08-26"
     },
     {
       "id": "796498d222a1",
@@ -183,8 +174,8 @@
       "publishedAt": "2026-08-26T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "유·초중등",
-      "score": 60,
-      "snapshotDate": "2026-08-27"
+      "score": 70,
+      "snapshotDate": "2026-08-26"
     },
     {
       "id": "aa9dc7db9810",
@@ -199,6 +190,18 @@
       "snapshotDate": "2026-08-27"
     },
     {
+      "id": "556d726e0aa3",
+      "title": "문해교육 20년 한눈에…교육부, 대한민국 문해교육 정책전시회",
+      "url": "https://www.msn.com/ko-kr/news/national/%EB%AC%B8%ED%95%B4%EA%B5%90%EC%9C%A1-20%EB%85%84-%ED%95%9C%EB%88%88%EC%97%90-%EA%B5%90%EC%9C%A1%EB%B6%80-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AC%B8%ED%95%B4%EA%B5%90%EC%9C%A1-%EC%A0%95%EC%B1%85%EC%A0%84%EC%8B%9C%ED%9A%8C/ar-AA2aVyvN",
+      "source": "뉴스1 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-08-25T20:00:00.000Z",
+      "description": "27~28일 청주 오스코서 '문해교육 정책전시회' 개최 (서울=뉴스1) 김재현 기자 = 교육부와 국가평생교육진흥원은 27~28일 이틀간 충북 청주 오스코(OSCO)에서 '대한민국 문해교육 정책전시회'를 개최한다고 26일 밝혔다. 성인문해교육 지원사업 20주년을 맞아 마련된 이번 행사는 지난 20년간의 정책 성과를 ...",
+      "category": "지역·평생교육",
+      "score": 43,
+      "snapshotDate": "2026-08-27"
+    },
+    {
       "id": "fecfb1a8f9c5",
       "title": "문해교육 20년 한눈에…교육부, 대한민국 문해교육 정책전시회",
       "url": "https://www.msn.com/ko-kr/news/other/%EB%AC%B8%ED%95%B4%EA%B5%90%EC%9C%A1-20%EB%85%84-%ED%95%9C%EB%88%88%EC%97%90-%EA%B5%90%EC%9C%A1%EB%B6%80-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AC%B8%ED%95%B4%EA%B5%90%EC%9C%A1-%EC%A0%95%EC%B1%85%EC%A0%84%EC%8B%9C%ED%9A%8C/ar-AA2aVyvN",
@@ -207,8 +210,8 @@
       "publishedAt": "2026-08-25T20:00:00.000Z",
       "description": "27~28일 청주 오스코서 '문해교육 정책전시회' 개최 (서울=뉴스1) 김재현 기자 = 교육부와 국가평생교육진흥원은 27~28일 이틀간 충북 청주 오스코(OSCO)에서 '대한민국 문해교육 정책전시회'를 개최한다고 26일 밝혔다. 성인문해교육 지원사업 20주년을 맞아 마련된 이번 행사는 지난 20년간의 정책 성과를 ...",
       "category": "지역·평생교육",
-      "score": 43,
-      "snapshotDate": "2026-08-27"
+      "score": 53,
+      "snapshotDate": "2026-08-26"
     },
     {
       "id": "967a905b0f4f",
@@ -278,8 +281,8 @@
       "kind": "foreign",
       "publishedAt": "2026-08-25T00:40:15.000Z",
       "description": "Seven historical and archaeological societies, including the Korean Historical Research Association, are set to issue a joint declaration opposing the government’s policy to expand the proportion of ...",
-      "category": "기타",
-      "score": 41,
+      "category": "AI·디지털",
+      "score": 30,
       "originalTitle": "Exclusive: Historians warn against politicizing history education",
       "titleKo": "독점: 역사학자들이 역사 교육의 정치화를 경고하다",
       "summaryKo": "한국역사연구회를 포함한 7개 역사 · 고고학회는 정부의 비중 확대 정책에 반대하는 공동선언문을 발표할...",
@@ -298,30 +301,6 @@
       "snapshotDate": "2026-08-26"
     },
     {
-      "id": "11def3b658e7",
-      "title": "학교 역사교육 활성화 지원 거점, 서울대학교 역사교육지원연구센터 개소",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107019&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-08-25T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "입시·사교육",
-      "score": 60,
-      "snapshotDate": "2026-08-27"
-    },
-    {
-      "id": "9b182ca8ed8d",
-      "title": "교육부.외교부.아태교육원, 제11회 세계시민교육 국제회의 개최",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107018&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-08-25T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "기타",
-      "score": 60,
-      "snapshotDate": "2026-08-27"
-    },
-    {
       "id": "163bc08c6a58",
       "title": "2027학년도 수시모집 대입 원서접수 미리 작성!",
       "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107014&lev=0&m=020402",
@@ -331,6 +310,18 @@
       "description": "교육부 공식 보도자료",
       "category": "입시·사교육",
       "score": 64,
+      "snapshotDate": "2026-08-26"
+    },
+    {
+      "id": "11def3b658e7",
+      "title": "학교 역사교육 활성화 지원 거점, 서울대학교 역사교육지원연구센터 개소",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107019&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-25T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "입시·사교육",
+      "score": 60,
       "snapshotDate": "2026-08-26"
     },
     {
@@ -380,21 +371,6 @@
       "category": "기타",
       "score": 43,
       "snapshotDate": "2026-08-26"
-    },
-    {
-      "id": "91d7e3ffaa57",
-      "title": "Inside South Korea’s chipmaking cram schools",
-      "url": "https://www.ft.com/content/0c9c66a6-339a-420e-9e73-178195382259?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "kind": "foreign",
-      "publishedAt": "2026-08-22T17:01:00.000Z",
-      "description": "Semiconductor cram schools are flourishing in Seoul as applications to South Korea’s two biggest chipmakers surge, fuelled by record earnings from the AI boom and eye-catching worker bonuses.",
-      "category": "AI·디지털",
-      "score": 31,
-      "originalTitle": "Inside South Korea’s chipmaking cram schools",
-      "titleKo": "한국의 칩 제조 크램 학교 내부",
-      "summaryKo": "반도체 상온 재활용 학교는 AI 붐과 눈길을 끄는 근로자 보너스로 인한 기록적인 수입에 힘입어 한국에서 가장 큰 두 칩 제조업체에 대한 적용이 급증함에 따라 서울에서 번성하고 있습니다.",
-      "snapshotDate": "2026-08-27"
     }
   ]
 }
