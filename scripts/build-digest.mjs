@@ -23,7 +23,7 @@ function statsOf(items){
   };
 }
 
-function fallbackDigest(reportDate,dataDate,items,stats,windowStart,windowEnd){
+function fallbackDigest(reportDate,dataDate,items,stats,windowStart,windowEnd,itemIds){
   const sorted=[...items].sort((a,b)=>(b.score||0)-(a.score||0)||new Date(b.publishedAt)-new Date(a.publishedAt));
   const counts=new Map();
   for(const x of sorted) counts.set(x.category||'기타',(counts.get(x.category||'기타')||0)+1);
@@ -48,6 +48,7 @@ function fallbackDigest(reportDate,dataDate,items,stats,windowStart,windowEnd){
     basis:'previous-day-plus-early-morning',
     windowStart:windowStart.toISOString(),
     windowEnd:windowEnd.toISOString(),
+    itemIds,
     stats,
     headline:sorted.length?`오늘 아침 교육뉴스는 ${focus} 이슈를 중심으로 형성됐습니다.`:'오늘 아침 브리핑 기준 확인된 교육뉴스가 없습니다.',
     summary:sorted.length
@@ -58,7 +59,7 @@ function fallbackDigest(reportDate,dataDate,items,stats,windowStart,windowEnd){
   };
 }
 
-async function aiDigest(reportDate,dataDate,fallback,items,stats,windowStart,windowEnd){
+async function aiDigest(reportDate,dataDate,fallback,items,stats,windowStart,windowEnd,itemIds){
   if(!process.env.OPENAI_API_KEY||!items.length) return fallback;
   try{
     const OpenAI=(await import('openai')).default;
@@ -76,6 +77,7 @@ async function aiDigest(reportDate,dataDate,fallback,items,stats,windowStart,win
       basis:'previous-day-plus-early-morning',
       windowStart:windowStart.toISOString(),
       windowEnd:windowEnd.toISOString(),
+      itemIds,
       stats,
       headline:clean(p.headline)||fallback.headline,
       summary:clean(p.summary)||fallback.summary,
@@ -93,9 +95,10 @@ const reportItems=(data.items||[]).filter(x=>{
   const t=new Date(x.publishedAt||0);
   return !Number.isNaN(t.getTime())&&t>=windowStart&&t<=windowEnd;
 });
+const itemIds=reportItems.map(x=>x.id).filter(Boolean);
 const stats=statsOf(reportItems);
-const fallback=fallbackDigest(reportDate,data.date,reportItems,stats,windowStart,windowEnd);
-data.dailyDigest=await aiDigest(reportDate,data.date,fallback,reportItems,stats,windowStart,windowEnd);
+const fallback=fallbackDigest(reportDate,data.date,reportItems,stats,windowStart,windowEnd,itemIds);
+data.dailyDigest=await aiDigest(reportDate,data.date,fallback,reportItems,stats,windowStart,windowEnd,itemIds);
 await fs.writeFile(DATA,JSON.stringify(data,null,2),'utf8');
 if(data.date) await fs.writeFile(`docs/data/archive/${data.date}.json`,JSON.stringify(data,null,2),'utf8');
 console.log(`Morning digest built from ${reportItems.length} items (${reportDate} 00:00 KST through refresh). AI=${data.dailyDigest.ai}`);
