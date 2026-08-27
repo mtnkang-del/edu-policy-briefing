@@ -3,7 +3,7 @@ import crypto from 'node:crypto';
 import Parser from 'rss-parser';
 
 const DATA='docs/data/news.json';
-const parser=new Parser({timeout:15000,headers:{'User-Agent':'Mozilla/5.0 EduPolicyBriefing/1.3'},customFields:{item:[['News:Source','newsSource']]}});
+const parser=new Parser({timeout:15000,headers:{'User-Agent':'Mozilla/5.0 EduPolicyBriefing/1.4'},customFields:{item:[['News:Source','newsSource']]}});
 const clean=(s='')=>String(s).replace(/<[^>]+>/g,' ').replace(/\s+/g,' ').trim();
 const norm=(s='')=>clean(s).toLowerCase().replace(/[^0-9a-z가-힣]+/g,' ').trim();
 const hash=s=>crypto.createHash('sha1').update(s).digest('hex').slice(0,12);
@@ -12,7 +12,13 @@ function direct(link=''){try{const u=new URL(link);if(u.hostname.endsWith('bing.
 function category(t=''){t=t.toLowerCase();if(/admission|exam|csat|입시|수능/.test(t))return'입시·사교육';if(/teacher|faculty|교사|교원/.test(t))return'교원·조직';if(/ai|digital|edtech|artificial intelligence/.test(t))return'AI·디지털';if(/university|college|higher education/.test(t))return'고등교육';if(/school|student|k-12/.test(t))return'유·초중등';if(/budget|funding|law/.test(t))return'재정·법령';return'기타'}
 async function translate(text){
   const q=clean(text).slice(0,420); if(!q)return'';
-  try{const u=`https://api.mymemory.translated.net/get?q=${encodeURIComponent(q)}&langpair=en%7Cko&mt=1`;const r=await fetch(u,{headers:{'User-Agent':'EduPolicyBriefing/1.3'}});if(!r.ok)return'';const j=await r.json();return clean(j?.responseData?.translatedText||'')}catch{return''}
+  try{
+    const u=`https://api.mymemory.translated.net/get?q=${encodeURIComponent(q)}&langpair=en%7Cko&mt=1`;
+    const r=await fetch(u,{headers:{'User-Agent':'EduPolicyBriefing/1.4'},signal:AbortSignal.timeout(8000)});
+    if(!r.ok)return'';
+    const j=await r.json();
+    return clean(j?.responseData?.translatedText||'');
+  }catch{return''}
 }
 const data=JSON.parse(await fs.readFile(DATA,'utf8'));
 const existing=new Set((data.items||[]).map(x=>norm(x.title)));
