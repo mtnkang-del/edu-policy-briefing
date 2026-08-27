@@ -8,6 +8,7 @@ const LIST = 'https://www.moe.go.kr/boardCnts/listRenew.do?boardID=294&m=020402&
 const clean = (s='') => String(s).replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
 const norm = (s='') => clean(s).toLowerCase().replace(/[^0-9a-z가-힣]+/g, ' ').trim();
 const hash = (s='') => crypto.createHash('sha1').update(s).digest('hex').slice(0, 12);
+const sleep = ms => new Promise(r => setTimeout(r, ms));
 
 function boardSeq(raw='') {
   const named = raw.match(/boardSeq[^0-9]{0,20}(\d{5,})/i)
@@ -33,36 +34,59 @@ function category(title='') {
   return '기타';
 }
 
-const res = await fetch(LIST, { headers: { 'User-Agent': 'Mozilla/5.0 EduPolicyBriefing/1.1' } });
-if (!res.ok) throw new Error(`MOE list ${res.status}`);
-const html = await res.text();
-const $ = cheerio.load(html);
-const lookup = new Map();
-
-$('table tbody tr').each((_, tr) => {
-  const row = $(tr);
-  const a = row.find('a').first();
-  const title = clean(a.text());
-  if (!title) return;
-  const raw = [a.attr('onclick') || '', row.attr('onclick') || '', a.attr('data-seq') || '', row.html() || ''].join(' ');
-  const seq = boardSeq(raw);
-  lookup.set(norm(title), { title, seq });
-});
+async function loadMoeLookup() {
+  let lastError = null;
+  for (let attempt = 1; attempt <= 2; attempt++) {
+    try {
+      const res = await fetch(LIST, {
+        headers: { 'User-Agent': 'Mozilla/5.0 EduPolicyBriefing/1.2' },
+        signal: AbortSignal.timeout(15000)
+      });
+      if (!res.ok) throw new Error(`MOE list ${res.status}`);
+      const html = await res.text();
+      const $ = cheerio.load(html);
+      const lookup = new Map();
+      $('table tbody tr').each((_, tr) => {
+        const row = $(tr);
+        const a = row.find('a').first();
+        const title = clean(a.text());
+        if (!title) return;
+        const raw = [a.attr('onclick') || '', row.attr('onclick') || '', a.attr('data-seq') || '', row.html() || ''].join(' ');
+        lookup.set(norm(title), { title, seq: boardSeq(raw) });
+      });
+      return lookup;
+    } catch (e) {
+      lastError = e;
+      if (attempt < 2) await sleep(1500);
+    }
+  }
+  console.warn(`MOE link repair skipped after retries: ${lastError?.message || 'unknown error'}`);
+  return null;
+}
 
 const data = JSON.parse(await fs.readFile(DATA, 'utf8'));
+const lookup = await loadMoeLookup();
 let fixed = 0;
+let fallback = 0;
+
 for (const item of data.items || []) {
   if (item.kind !== 'official' || item.source !== '교육부') continue;
-  const found = lookup.get(norm(item.title));
-  const seq = found?.seq || null;
-  item.url = seq
-    ? `https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=${seq}&lev=0&m=020402`
-    : `${LIST}&searchType=S&searchStr=${encodeURIComponent(item.title)}`;
-  item.id = hash(`moe:${seq || norm(item.title)}:${item.publishedAt?.slice(0,10) || data.date}`);
   item.category = category(item.title);
-  fixed++;
+
+  if (lookup) {
+    const found = lookup.get(norm(item.title));
+    const seq = found?.seq || null;
+    item.url = seq
+      ? `https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=${seq}&lev=0&m=020402`
+      : `${LIST}&searchType=S&searchStr=${encodeURIComponent(item.title)}`;
+    item.id = hash(`moe:${seq || norm(item.title)}:${item.publishedAt?.slice(0,10) || data.date}`);
+    fixed++;
+  } else if (!item.url || /moe\.go\.kr\/?#?$/.test(item.url)) {
+    item.url = `${LIST}&searchType=S&searchStr=${encodeURIComponent(item.title)}`;
+    fallback++;
+  }
 }
 
 await fs.writeFile(DATA, JSON.stringify(data, null, 2), 'utf8');
 if (data.date) await fs.writeFile(`docs/data/archive/${data.date}.json`, JSON.stringify(data, null, 2), 'utf8');
-console.log(`MOE links checked: ${fixed}, matched rows: ${lookup.size}`);
+console.log(`MOE link repair complete: fixed=${fixed}, fallback=${fallback}, lookup=${lookup ? lookup.size : 0}`);
