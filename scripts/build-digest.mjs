@@ -2,7 +2,6 @@ import fs from 'node:fs/promises';
 
 const DATA='docs/data/news.json';
 const clean=s=>String(s??'').replace(/<[^>]+>/g,' ').replace(/\s+/g,' ').trim();
-const kstDate=s=>{try{return new Date(new Date(s).getTime()+9*3600000).toISOString().slice(0,10)}catch{return''}};
 const shiftDate=(date,days)=>{const d=new Date(`${date}T00:00:00Z`);d.setUTCDate(d.getUTCDate()+days);return d.toISOString().slice(0,10)};
 const whyByCategory={
   '입시·사교육':'대입·수능·사교육 이슈는 학생·학부모 체감도가 높고 후속 안내와 현장 반응 점검이 중요합니다.',
@@ -24,8 +23,8 @@ function statsOf(items){
   };
 }
 
-function fallbackDigest(reportDate,items,stats){
-  const sorted=[...items].sort((a,b)=>(b.score||0)-(a.score||0));
+function fallbackDigest(reportDate,dataDate,items,stats,windowStart,windowEnd){
+  const sorted=[...items].sort((a,b)=>(b.score||0)-(a.score||0)||new Date(b.publishedAt)-new Date(a.publishedAt));
   const counts=new Map();
   for(const x of sorted) counts.set(x.category||'기타',(counts.get(x.category||'기타')||0)+1);
   const cats=[...counts.entries()].sort((a,b)=>b[1]-a[1]).map(x=>x[0]);
@@ -45,24 +44,27 @@ function fallbackDigest(reportDate,items,stats){
   return {
     ai:false,
     date:reportDate,
-    basis:'previous-day',
+    throughDate:dataDate,
+    basis:'previous-day-plus-early-morning',
+    windowStart:windowStart.toISOString(),
+    windowEnd:windowEnd.toISOString(),
     stats,
-    headline:sorted.length?`${reportDate} 교육뉴스는 ${focus} 이슈를 중심으로 형성됐습니다.`:`${reportDate} 기준 확인된 교육뉴스가 없습니다.`,
+    headline:sorted.length?`오늘 아침 교육뉴스는 ${focus} 이슈를 중심으로 형성됐습니다.`:'오늘 아침 브리핑 기준 확인된 교육뉴스가 없습니다.',
     summary:sorted.length
-      ? `전일 발행 교육 관련 기사는 총 ${stats.total}건입니다. 교육부 공식 ${stats.official}건, 국내 언론 ${stats.domestic}건, 해외 언론 ${stats.foreign}건을 종합하면 ${topTitles.join(' / ')} 등이 주요 흐름으로 확인됩니다.`
-      : '전일 날짜로 확인된 교육 관련 기사가 없습니다.',
+      ? `전일 00시부터 오늘 아침 갱신 시각까지 확인된 교육 관련 기사는 총 ${stats.total}건입니다. 교육부 공식 ${stats.official}건, 국내 언론 ${stats.domestic}건, 해외 언론 ${stats.foreign}건을 종합하면 ${topTitles.join(' / ')} 등이 주요 흐름으로 확인됩니다.`
+      : '전일 00시부터 오늘 아침 갱신 시각까지 확인된 교육 관련 기사가 없습니다.',
     issues,
     watchpoints:issues.slice(0,3).map(x=>`${x.title}: ${x.why}`)
   };
 }
 
-async function aiDigest(reportDate,fallback,items,stats){
+async function aiDigest(reportDate,dataDate,fallback,items,stats,windowStart,windowEnd){
   if(!process.env.OPENAI_API_KEY||!items.length) return fallback;
   try{
     const OpenAI=(await import('openai')).default;
     const client=new OpenAI({apiKey:process.env.OPENAI_API_KEY});
     const rows=items.slice(0,35).map((x,i)=>({i,title:x.title,titleKo:x.titleKo||'',source:x.source,kind:x.kind,category:x.category,description:x.description||'',summary:x.summary||x.summaryKo||''}));
-    const prompt=`너는 대한민국 교육부 정책 담당자를 위한 아침 브리핑 편집자다. 아래 ${reportDate} 전일 발행 뉴스 목록만 근거로 같은 사건의 중복 보도를 하나의 이슈로 묶어 한국어 브리핑을 작성하라. 다른 날짜의 이슈를 추가하거나 사실을 추측하지 마라. JSON만 출력한다. 형식은 {"headline":"전일 교육뉴스 전체를 한 문장으로 총평","summary":"전체 흐름을 3~4문장으로 요약","issues":[{"title":"이슈명","summary":"무슨 일이 있었는지 2문장 이내","why":"교육부가 왜 봐야 하는지 1문장","sources":["출처"]}],"watchpoints":["오늘 아침 확인할 점"]}. issues는 최대 5개, watchpoints는 최대 4개. 기사 목록: ${JSON.stringify(rows)}`;
+    const prompt=`너는 대한민국 교육부 정책 담당자를 위한 아침 브리핑 편집자다. 아래 뉴스는 ${reportDate} 00:00 KST부터 ${dataDate} 아침 갱신 시각까지 수집된 기사다. 이 목록만 근거로 같은 사건의 중복 보도를 하나의 이슈로 묶어 한국어 브리핑을 작성하라. 사실을 추가하거나 추측하지 마라. JSON만 출력한다. 형식은 {"headline":"아침 교육뉴스 전체를 한 문장으로 총평","summary":"전체 흐름을 3~4문장으로 요약","issues":[{"title":"이슈명","summary":"무슨 일이 있었는지 2문장 이내","why":"교육부가 왜 봐야 하는지 1문장","sources":["출처"]}],"watchpoints":["오늘 아침 확인할 점"]}. issues는 최대 5개, watchpoints는 최대 4개. 기사 목록: ${JSON.stringify(rows)}`;
     const r=await client.responses.create({model:process.env.OPENAI_MODEL||'gpt-5-mini',input:prompt});
     const m=(r.output_text||'').match(/\{[\s\S]*\}/);
     if(!m) return fallback;
@@ -70,7 +72,10 @@ async function aiDigest(reportDate,fallback,items,stats){
     return {
       ai:true,
       date:reportDate,
-      basis:'previous-day',
+      throughDate:dataDate,
+      basis:'previous-day-plus-early-morning',
+      windowStart:windowStart.toISOString(),
+      windowEnd:windowEnd.toISOString(),
       stats,
       headline:clean(p.headline)||fallback.headline,
       summary:clean(p.summary)||fallback.summary,
@@ -82,11 +87,15 @@ async function aiDigest(reportDate,fallback,items,stats){
 
 const data=JSON.parse(await fs.readFile(DATA,'utf8'));
 const reportDate=shiftDate(data.date,-1);
-const reportItems=(data.items||[]).filter(x=>kstDate(x.publishedAt)===reportDate);
+const windowStart=new Date(`${reportDate}T00:00:00+09:00`);
+const windowEnd=new Date(data.generatedAt||Date.now());
+const reportItems=(data.items||[]).filter(x=>{
+  const t=new Date(x.publishedAt||0);
+  return !Number.isNaN(t.getTime())&&t>=windowStart&&t<=windowEnd;
+});
 const stats=statsOf(reportItems);
-const fallback=fallbackDigest(reportDate,reportItems,stats);
-data.dailyDigest=await aiDigest(reportDate,fallback,reportItems,stats);
-data.stats=stats;
+const fallback=fallbackDigest(reportDate,data.date,reportItems,stats,windowStart,windowEnd);
+data.dailyDigest=await aiDigest(reportDate,data.date,fallback,reportItems,stats,windowStart,windowEnd);
 await fs.writeFile(DATA,JSON.stringify(data,null,2),'utf8');
 if(data.date) await fs.writeFile(`docs/data/archive/${data.date}.json`,JSON.stringify(data,null,2),'utf8');
-console.log(`Morning digest built from ${reportItems.length} previous-day items (${reportDate}). AI=${data.dailyDigest.ai}`);
+console.log(`Morning digest built from ${reportItems.length} items (${reportDate} 00:00 KST through refresh). AI=${data.dailyDigest.ai}`);
