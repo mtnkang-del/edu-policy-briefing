@@ -1,6 +1,6 @@
 {
   "name": "edu-policy-briefing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Daily automated briefing for Korean education policy and Ministry of Education news",
   "type": "module",
