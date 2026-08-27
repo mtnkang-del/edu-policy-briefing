@@ -1,11 +1,71 @@
 {
-  "generatedAt": "2026-08-27T12:54:36.041Z",
+  "generatedAt": "2026-08-27T13:19:13.047Z",
   "retentionDays": 30,
   "days": [
     "2026-08-27",
     "2026-08-26"
   ],
   "items": [
+    {
+      "id": "ce22f0930daa",
+      "title": "교육부, 'AI 교과서 개발역량 강화 워크숍' 개최",
+      "url": "https://www.fnnews.com/news/202608271201311807",
+      "source": "파이낸셜뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-08-27T05:01:00.000Z",
+      "description": "교육부, 'AI 교과서 개발역량 강화 워크숍' 개최 현장교원 참여 '인정 교과서' 2028년부터 학교 수업에 적용 (서울=연합뉴스) 노재현 기자 = 교육부는 28∼29일 대구 인터불고엑스코 호텔에서 인공지능(AI) 교과 교과서 집필위원을 대상으로 'AI 교과 교과서 개발 ..",
+      "category": "AI·디지털",
+      "score": 61,
+      "snapshotDate": "2026-08-27"
+    },
+    {
+      "id": "c49b9d7b7078",
+      "title": "인공지능(AI) 교과, 교원이 주도하여 교육자료부터 인정교과서까지 만든다",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107049&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-27T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "AI·디지털",
+      "score": 78,
+      "snapshotDate": "2026-08-27"
+    },
+    {
+      "id": "c09781f02639",
+      "title": "2026년 8월 대학정보공시 분석 결과 발표",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107048&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-27T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "고등교육",
+      "score": 74,
+      "snapshotDate": "2026-08-27"
+    },
+    {
+      "id": "5ac435d84d87",
+      "title": "2029학년도 대학입학전형기본사항 발표",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107052&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-27T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "고등교육",
+      "score": 74,
+      "snapshotDate": "2026-08-27"
+    },
+    {
+      "id": "7479eb90ce00",
+      "title": "학교 역사교육 활성화를 위한 교육부-독립기념관 업무협약(MOU) 체결",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107050&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-27T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "입시·사교육",
+      "score": 70,
+      "snapshotDate": "2026-08-27"
+    },
     {
       "id": "c1fe939d27e4",
       "title": "부이사관 교육부(애틀란타한국교육원 파견) 김새봄 강원대학교 강릉캠퍼스 행정본부장 구영실",
@@ -16,18 +76,6 @@
       "description": "◇부이사관 △교육부(애틀란타한국교육원 파견) 김새봄 △강원대학교 강릉캠퍼스 행정본부장 구영실 ◇서기관 △평생학습정책과장 민미홍 △학생건강정책과장 김주연 △교육부 최흥윤 △교육부 이상범 △교육부(국외훈련 파견) 강현 △기획조정실 임종일 △감사관실 이종환 △학교정책실 ...",
       "category": "고등교육",
       "score": 53,
-      "snapshotDate": "2026-08-27"
-    },
-    {
-      "id": "a5bf327bf91a",
-      "title": "교육부, 인문사회 집단연구군 94개 신규 선정…AI·사회적 고립·기후위기 해법 모색",
-      "url": "https://www.lecturernews.com/news/articleView.html?idxno=209450",
-      "source": "한국강사신문",
-      "kind": "domestic",
-      "publishedAt": "2026-08-26T19:07:00.000Z",
-      "description": "[한국강사신문 이미숙 기자] 인공지능(AI) 전환과 사회적 고립, 기후위기 등 복합적인 사회 현상에 대응하기 위해 인문사회 분야 연구자들이 머리를 맞댄다.교육부(장관 최교진)와 한국연구재단(이사장 홍원화)은 2026년 인문사회 분야 학술지원 집단연구군 신규과제 94개를 선정했다고 밝혔다. 선정된 과제에는 올해 총 195억 원이 투입되며, 연구는 9월 1일부 ...",
-      "category": "AI·디지털",
-      "score": 57,
       "snapshotDate": "2026-08-27"
     },
     {
@@ -51,7 +99,7 @@
       "publishedAt": "2026-08-26T13:16:00.000Z",
       "description": "S. Korea's first public hearing on merging three service academies turned heated as supporters and opponents clashed over military education reform.",
       "category": "기타",
-      "score": 51,
+      "score": 41,
       "originalTitle": "South Korea military academy merger plan draws heated opposition",
       "titleKo": "한국 사관학교 병합 계획은 열띤 반대를 이끌어 냅니다.",
       "summaryKo": "S. 한국 최초의 복무 아카데미 병합 공청회는 군사 교육 개혁에 대한 지지자와 반대자가 충돌하면서 열띤 반응을 보였다.",
@@ -82,6 +130,18 @@
       "snapshotDate": "2026-08-27"
     },
     {
+      "id": "8ad2ad0f3fc2",
+      "title": "경남교육청, 미국 AI·디지털 교육 연수 보고회…수업혁신 지원",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B2%BD%EB%82%A8%EA%B5%90%EC%9C%A1%EC%B2%AD-%EB%AF%B8%EA%B5%AD-ai-%EB%94%94%EC%A7%80%ED%84%B8-%EA%B5%90%EC%9C%A1-%EC%97%B0%EC%88%98-%EB%B3%B4%EA%B3%A0%ED%9A%8C-%EC%88%98%EC%97%85%ED%98%81%EC%8B%A0-%EC%A7%80%EC%9B%90/ar-AA2aXipz",
+      "source": "연합뉴스 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-08-26T01:28:26.000Z",
+      "description": "(창원=연합뉴스) 김동민 기자 = 경남도교육청은 26일 그랜드머큐어 창원에서 '2026년 디지털 기반 교육혁신 유공 교원 국외 연수 사후 보고회'를 열고 미국의 인공지능(AI)과 디지털 교육 우수 사례 및 현장 적용 방안을 논의했다. 도내 초·중등 교사와 교육 전문직 등 24명으로 구성된 연수단은 이달 5일부터 ...",
+      "category": "AI·디지털",
+      "score": 51,
+      "snapshotDate": "2026-08-27"
+    },
+    {
       "id": "d745d270f00d",
       "title": "경남교육청, 미국 국외 연수 성과 인공지능(AI)·디지털 교육 현장 확산",
       "url": "https://www.idomin.com/news/articleView.html?idxno=2013262",
@@ -102,8 +162,8 @@
       "publishedAt": "2026-08-26T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "기타",
-      "score": 74,
-      "snapshotDate": "2026-08-26"
+      "score": 64,
+      "snapshotDate": "2026-08-27"
     },
     {
       "id": "5ea2d69d7531",
@@ -114,8 +174,8 @@
       "publishedAt": "2026-08-26T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "AI·디지털",
-      "score": 74,
-      "snapshotDate": "2026-08-26"
+      "score": 64,
+      "snapshotDate": "2026-08-27"
     },
     {
       "id": "19e8165b5dae",
@@ -126,8 +186,8 @@
       "publishedAt": "2026-08-26T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "기타",
-      "score": 70,
-      "snapshotDate": "2026-08-26"
+      "score": 60,
+      "snapshotDate": "2026-08-27"
     },
     {
       "id": "796498d222a1",
@@ -138,8 +198,8 @@
       "publishedAt": "2026-08-26T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "유·초중등",
-      "score": 70,
-      "snapshotDate": "2026-08-26"
+      "score": 60,
+      "snapshotDate": "2026-08-27"
     },
     {
       "id": "aa9dc7db9810",
@@ -245,8 +305,8 @@
       "kind": "foreign",
       "publishedAt": "2026-08-25T00:40:15.000Z",
       "description": "Seven historical and archaeological societies, including the Korean Historical Research Association, are set to issue a joint declaration opposing the government’s policy to expand the proportion of ...",
-      "category": "기타",
-      "score": 41,
+      "category": "AI·디지털",
+      "score": 30,
       "originalTitle": "Exclusive: Historians warn against politicizing history education",
       "titleKo": "독점: 역사학자들이 역사 교육의 정치화를 경고하다",
       "summaryKo": "한국역사연구회를 포함한 7개 역사 · 고고학회는 정부의 비중 확대 정책에 반대하는 공동선언문을 발표할...",
@@ -265,16 +325,16 @@
       "snapshotDate": "2026-08-26"
     },
     {
-      "id": "163bc08c6a58",
+      "id": "1aea6474ff1f",
       "title": "2027학년도 수시모집 대입 원서접수 미리 작성!",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107014&lev=0&m=020402",
+      "url": "https://www.moe.go.kr/boardCnts/listRenew.do?boardID=294&m=020402&page=1&searchType=S&searchStr=2027%ED%95%99%EB%85%84%EB%8F%84%20%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%20%EB%8C%80%EC%9E%85%20%EC%9B%90%EC%84%9C%EC%A0%91%EC%88%98%20%EB%AF%B8%EB%A6%AC%20%EC%9E%91%EC%84%B1!",
       "source": "교육부",
       "kind": "official",
       "publishedAt": "2026-08-25T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "입시·사교육",
       "score": 64,
-      "snapshotDate": "2026-08-26"
+      "snapshotDate": "2026-08-27"
     },
     {
       "id": "11def3b658e7",
@@ -286,6 +346,66 @@
       "description": "교육부 공식 보도자료",
       "category": "입시·사교육",
       "score": 60,
+      "snapshotDate": "2026-08-27"
+    },
+    {
+      "id": "9b182ca8ed8d",
+      "title": "교육부.외교부.아태교육원, 제11회 세계시민교육 국제회의 개최",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107018&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-25T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "기타",
+      "score": 60,
+      "snapshotDate": "2026-08-27"
+    },
+    {
+      "id": "80532da53a33",
+      "title": "영유아 통학안전 강화, 어린이통학버스 3,089대 상반기 합동점검 완료",
+      "url": "https://www.moe.go.kr/boardCnts/listRenew.do?boardID=294&m=020402&page=1&searchType=S&searchStr=%EC%98%81%EC%9C%A0%EC%95%84%20%ED%86%B5%ED%95%99%EC%95%88%EC%A0%84%20%EA%B0%95%ED%99%94%2C%20%EC%96%B4%EB%A6%B0%EC%9D%B4%ED%86%B5%ED%95%99%EB%B2%84%EC%8A%A4%203%2C089%EB%8C%80%20%EC%83%81%EB%B0%98%EA%B8%B0%20%ED%95%A9%EB%8F%99%EC%A0%90%EA%B2%80%20%EC%99%84%EB%A3%8C",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-25T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "유·초중등",
+      "score": 60,
+      "snapshotDate": "2026-08-27"
+    },
+    {
+      "id": "3dad42873385",
+      "title": "2027학년도 대학수학능력시험 9월 모의평가 실시",
+      "url": "https://www.moe.go.kr/boardCnts/listRenew.do?boardID=294&m=020402&page=1&searchType=S&searchStr=2027%ED%95%99%EB%85%84%EB%8F%84%20%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98%209%EC%9B%94%20%EB%AA%A8%EC%9D%98%ED%8F%89%EA%B0%80%20%EC%8B%A4%EC%8B%9C",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-25T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "입시·사교육",
+      "score": 60,
+      "snapshotDate": "2026-08-27"
+    },
+    {
+      "id": "5b85abe87568",
+      "title": "늘어나는 이주배경학생, '맞춤형 한국어 진단도구'로 공교육 적응 돕는다",
+      "url": "https://www.moe.go.kr/boardCnts/listRenew.do?boardID=294&m=020402&page=1&searchType=S&searchStr=%EB%8A%98%EC%96%B4%EB%82%98%EB%8A%94%20%EC%9D%B4%EC%A3%BC%EB%B0%B0%EA%B2%BD%ED%95%99%EC%83%9D%2C%20'%EB%A7%9E%EC%B6%A4%ED%98%95%20%ED%95%9C%EA%B5%AD%EC%96%B4%20%EC%A7%84%EB%8B%A8%EB%8F%84%EA%B5%AC'%EB%A1%9C%20%EA%B3%B5%EA%B5%90%EC%9C%A1%20%EC%A0%81%EC%9D%91%20%EB%8F%95%EB%8A%94%EB%8B%A4",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-25T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "유·초중등",
+      "score": 60,
+      "snapshotDate": "2026-08-27"
+    },
+    {
+      "id": "163bc08c6a58",
+      "title": "2027학년도 수시모집 대입 원서접수 미리 작성!",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107014&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-25T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "입시·사교육",
+      "score": 64,
       "snapshotDate": "2026-08-26"
     },
     {
@@ -335,21 +455,6 @@
       "category": "기타",
       "score": 43,
       "snapshotDate": "2026-08-26"
-    },
-    {
-      "id": "91d7e3ffaa57",
-      "title": "Inside South Korea’s chipmaking cram schools",
-      "url": "https://www.ft.com/content/0c9c66a6-339a-420e-9e73-178195382259?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "kind": "foreign",
-      "publishedAt": "2026-08-22T17:01:00.000Z",
-      "description": "Semiconductor cram schools are flourishing in Seoul as applications to South Korea’s two biggest chipmakers surge, fuelled by record earnings from the AI boom and eye-catching worker bonuses.",
-      "category": "AI·디지털",
-      "score": 31,
-      "originalTitle": "Inside South Korea’s chipmaking cram schools",
-      "titleKo": "한국의 칩 제조 크램 학교 내부",
-      "summaryKo": "반도체 상온 재활용 학교는 AI 붐과 눈길을 끄는 근로자 보너스로 인한 기록적인 수입에 힘입어 한국에서 가장 큰 두 칩 제조업체에 대한 적용이 급증함에 따라 서울에서 번성하고 있습니다.",
-      "snapshotDate": "2026-08-27"
     }
   ]
 }
