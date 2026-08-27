@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-27T13:19:05.736Z",
-  "generatedAtKST": "2026-08-27T22:19:03.281+09:00",
+  "generatedAt": "2026-08-27T13:21:59.953Z",
+  "generatedAtKST": "2026-08-27T22:21:37.442+09:00",
   "date": "2026-08-27",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
@@ -13,10 +13,10 @@
     "2026년 교육기본통계 조사 결과 발표 — 교육부"
   ],
   "stats": {
-    "total": 27,
+    "total": 25,
     "official": 14,
-    "domestic": 11,
-    "foreign": 2
+    "domestic": 10,
+    "foreign": 1
   },
   "items": [
     {
@@ -218,17 +218,6 @@
       "score": 51
     },
     {
-      "id": "8ad2ad0f3fc2",
-      "title": "경남교육청, 미국 AI·디지털 교육 연수 보고회…수업혁신 지원",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B2%BD%EB%82%A8%EA%B5%90%EC%9C%A1%EC%B2%AD-%EB%AF%B8%EA%B5%AD-ai-%EB%94%94%EC%A7%80%ED%84%B8-%EA%B5%90%EC%9C%A1-%EC%97%B0%EC%88%98-%EB%B3%B4%EA%B3%A0%ED%9A%8C-%EC%88%98%EC%97%85%ED%98%81%EC%8B%A0-%EC%A7%80%EC%9B%90/ar-AA2aXipz",
-      "source": "연합뉴스 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-08-26T01:28:26.000Z",
-      "description": "(창원=연합뉴스) 김동민 기자 = 경남도교육청은 26일 그랜드머큐어 창원에서 '2026년 디지털 기반 교육혁신 유공 교원 국외 연수 사후 보고회'를 열고 미국의 인공지능(AI)과 디지털 교육 우수 사례 및 현장 적용 방안을 논의했다. 도내 초·중등 교사와 교육 전문직 등 24명으로 구성된 연수단은 이달 5일부터 ...",
-      "category": "AI·디지털",
-      "score": 51
-    },
-    {
       "id": "d745d270f00d",
       "title": "경남교육청, 미국 국외 연수 성과 인공지능(AI)·디지털 교육 현장 확산",
       "url": "https://www.idomin.com/news/articleView.html?idxno=2013262",
@@ -303,24 +292,10 @@
       "publishedAt": "2026-08-26T13:16:00.000Z",
       "description": "S. Korea's first public hearing on merging three service academies turned heated as supporters and opponents clashed over military education reform.",
       "category": "기타",
-      "score": 41,
+      "score": 30,
       "originalTitle": "South Korea military academy merger plan draws heated opposition",
       "titleKo": "한국 사관학교 병합 계획은 열띤 반대를 이끌어 냅니다.",
       "summaryKo": "S. 한국 최초의 복무 아카데미 병합 공청회는 군사 교육 개혁에 대한 지지자와 반대자가 충돌하면서 열띤 반응을 보였다."
-    },
-    {
-      "id": "34244186a0c9",
-      "title": "Exclusive: Historians warn against politicizing history education",
-      "url": "https://www.msn.com/en-xl/news/other/exclusive-historians-warn-against-politicizing-history-education/ar-AA2aRjNr",
-      "source": "The Chosun Ilbo on MSN",
-      "kind": "foreign",
-      "publishedAt": "2026-08-25T00:40:15.000Z",
-      "description": "Seven historical and archaeological societies, including the Korean Historical Research Association, are set to issue a joint declaration opposing the government’s policy to expand the proportion of ...",
-      "category": "AI·디지털",
-      "score": 30,
-      "originalTitle": "Exclusive: Historians warn against politicizing history education",
-      "titleKo": "독점: 역사학자들이 역사 교육의 정치화를 경고하다",
-      "summaryKo": "한국역사연구회를 포함한 7개 역사 · 고고학회는 정부의 비중 확대 정책에 반대하는 공동선언문을 발표할..."
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -330,7 +305,7 @@
     "throughDate": "2026-08-27",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-08-25T15:00:00.000Z",
-    "windowEnd": "2026-08-27T13:19:05.736Z",
+    "windowEnd": "2026-08-27T13:21:59.953Z",
     "itemIds": [
       "c49b9d7b7078",
       "c09781f02639",
@@ -344,7 +319,6 @@
       "796498d222a1",
       "c1fe939d27e4",
       "31a2a62dd232",
-      "8ad2ad0f3fc2",
       "d745d270f00d",
       "f96db02b49af",
       "aa9dc7db9810",
@@ -353,13 +327,13 @@
       "5faf16185f42"
     ],
     "stats": {
-      "total": 19,
+      "total": 18,
       "official": 8,
-      "domestic": 10,
+      "domestic": 9,
       "foreign": 1
     },
     "headline": "오늘 아침 교육뉴스는 AI·디지털·고등교육·입시·사교육 이슈를 중심으로 형성됐습니다.",
-    "summary": "전일 00시부터 오늘 아침 갱신 시각까지 확인된 교육 관련 기사는 총 19건입니다. 교육부 공식 8건, 국내 언론 10건, 해외 언론 1건을 종합하면 인공지능(AI) 교과, 교원이 주도하여 교육자료부터 인정교과서까지 만든다 / 2026년 8월 대학정보공시 분석 결과 발표 / 2029학년도 대학입학전형기본사항 발표 등이 주요 흐름으로 확인됩니다.",
+    "summary": "전일 00시부터 오늘 아침 갱신 시각까지 확인된 교육 관련 기사는 총 18건입니다. 교육부 공식 8건, 국내 언론 9건, 해외 언론 1건을 종합하면 인공지능(AI) 교과, 교원이 주도하여 교육자료부터 인정교과서까지 만든다 / 2026년 8월 대학정보공시 분석 결과 발표 / 2029학년도 대학입학전형기본사항 발표 등이 주요 흐름으로 확인됩니다.",
     "issues": [
       {
         "title": "AI·디지털",

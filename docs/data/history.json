@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T13:19:13.047Z",
+  "generatedAt": "2026-08-27T13:30:24.134Z",
   "retentionDays": 30,
   "days": [
     "2026-08-27",
@@ -99,7 +99,7 @@
       "publishedAt": "2026-08-26T13:16:00.000Z",
       "description": "S. Korea's first public hearing on merging three service academies turned heated as supporters and opponents clashed over military education reform.",
       "category": "기타",
-      "score": 41,
+      "score": 30,
       "originalTitle": "South Korea military academy merger plan draws heated opposition",
       "titleKo": "한국 사관학교 병합 계획은 열띤 반대를 이끌어 냅니다.",
       "summaryKo": "S. 한국 최초의 복무 아카데미 병합 공청회는 군사 교육 개혁에 대한 지지자와 반대자가 충돌하면서 열띤 반응을 보였다.",
@@ -125,18 +125,6 @@
       "kind": "domestic",
       "publishedAt": "2026-08-26T03:22:20.000Z",
       "description": "[창원=뉴스핌] 남경문 기자 = 경남도교육청이 미국 인공지능(AI)·디지털 교육 현장을 둘러본 교원 연수단과 함께 연수 결과를 공유하고 도내 학교 적용 방안을 논의했다. 도교육청은 26일 '2026년 디지털 기반 교육혁신 유공교원 국외 연수 사후 보고회'를 열고 미국의 AI 및 디지털 교육 우수 사례를 중심으로 학생 ...",
-      "category": "AI·디지털",
-      "score": 51,
-      "snapshotDate": "2026-08-27"
-    },
-    {
-      "id": "8ad2ad0f3fc2",
-      "title": "경남교육청, 미국 AI·디지털 교육 연수 보고회…수업혁신 지원",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B2%BD%EB%82%A8%EA%B5%90%EC%9C%A1%EC%B2%AD-%EB%AF%B8%EA%B5%AD-ai-%EB%94%94%EC%A7%80%ED%84%B8-%EA%B5%90%EC%9C%A1-%EC%97%B0%EC%88%98-%EB%B3%B4%EA%B3%A0%ED%9A%8C-%EC%88%98%EC%97%85%ED%98%81%EC%8B%A0-%EC%A7%80%EC%9B%90/ar-AA2aXipz",
-      "source": "연합뉴스 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-08-26T01:28:26.000Z",
-      "description": "(창원=연합뉴스) 김동민 기자 = 경남도교육청은 26일 그랜드머큐어 창원에서 '2026년 디지털 기반 교육혁신 유공 교원 국외 연수 사후 보고회'를 열고 미국의 인공지능(AI)과 디지털 교육 우수 사례 및 현장 적용 방안을 논의했다. 도내 초·중등 교사와 교육 전문직 등 24명으로 구성된 연수단은 이달 5일부터 ...",
       "category": "AI·디지털",
       "score": 51,
       "snapshotDate": "2026-08-27"
@@ -296,21 +284,6 @@
       "category": "AI·디지털",
       "score": 47,
       "snapshotDate": "2026-08-26"
-    },
-    {
-      "id": "34244186a0c9",
-      "title": "Exclusive: Historians warn against politicizing history education",
-      "url": "https://www.msn.com/en-xl/news/other/exclusive-historians-warn-against-politicizing-history-education/ar-AA2aRjNr",
-      "source": "The Chosun Ilbo on MSN",
-      "kind": "foreign",
-      "publishedAt": "2026-08-25T00:40:15.000Z",
-      "description": "Seven historical and archaeological societies, including the Korean Historical Research Association, are set to issue a joint declaration opposing the government’s policy to expand the proportion of ...",
-      "category": "AI·디지털",
-      "score": 30,
-      "originalTitle": "Exclusive: Historians warn against politicizing history education",
-      "titleKo": "독점: 역사학자들이 역사 교육의 정치화를 경고하다",
-      "summaryKo": "한국역사연구회를 포함한 7개 역사 · 고고학회는 정부의 비중 확대 정책에 반대하는 공동선언문을 발표할...",
-      "snapshotDate": "2026-08-27"
     },
     {
       "id": "1f4f7eb9e631",
