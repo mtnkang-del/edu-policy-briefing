@@ -23,6 +23,15 @@ function statsOf(items){
   };
 }
 
+function titleList(items,max=3){
+  return items.slice(0,max).map(x=>clean(x.titleKo||x.title)).filter(Boolean);
+}
+function joinKo(list){
+  if(!list.length) return '';
+  if(list.length===1) return list[0];
+  return `${list.slice(0,-1).join(', ')}와 ${list.at(-1)}`;
+}
+
 function fallbackDigest(reportDate,dataDate,items,stats,windowStart,windowEnd,itemIds){
   const sorted=[...items].sort((a,b)=>(b.score||0)-(a.score||0)||new Date(b.publishedAt)-new Date(a.publishedAt));
   const counts=new Map();
@@ -39,8 +48,15 @@ function fallbackDigest(reportDate,dataDate,items,stats,windowStart,windowEnd,it
       sources:[...new Set(rows.map(x=>x.source).filter(Boolean))]
     };
   });
-  const topTitles=sorted.slice(0,3).map(x=>clean(x.titleKo||x.title)).filter(Boolean);
   const focus=chosen.slice(0,3).join('·')||'주요 교육정책';
+  const official=titleList(sorted.filter(x=>x.kind==='official'),3);
+  const domestic=titleList(sorted.filter(x=>x.kind==='domestic'),2);
+  const foreign=titleList(sorted.filter(x=>x.kind==='foreign'),1);
+  const detail=[];
+  if(official.length) detail.push(`교육부는 ${joinKo(official)} 등을 공식 발표했습니다.`);
+  if(domestic.length) detail.push(`국내 언론에서는 ${joinKo(domestic)} 등이 주요하게 다뤄졌습니다.`);
+  if(foreign.length) detail.push(`해외에서는 ${joinKo(foreign)} 관련 보도가 확인됐습니다.`);
+  detail.push(`전체적으로는 ${focus} 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.`);
   return {
     ai:false,
     date:reportDate,
@@ -52,7 +68,7 @@ function fallbackDigest(reportDate,dataDate,items,stats,windowStart,windowEnd,it
     stats,
     headline:sorted.length?`오늘 아침 교육뉴스는 ${focus} 이슈를 중심으로 형성됐습니다.`:'오늘 아침 브리핑 기준 확인된 교육뉴스가 없습니다.',
     summary:sorted.length
-      ? `전일 00시부터 오늘 아침 갱신 시각까지 확인된 교육 관련 기사는 총 ${stats.total}건입니다. 교육부 공식 ${stats.official}건, 국내 언론 ${stats.domestic}건, 해외 언론 ${stats.foreign}건을 종합하면 ${topTitles.join(' / ')} 등이 주요 흐름으로 확인됩니다.`
+      ? `브리핑 범위에서 교육 관련 기사 ${stats.total}건이 확인됐습니다. ${detail.join(' ')}`
       : '전일 00시부터 오늘 아침 갱신 시각까지 확인된 교육 관련 기사가 없습니다.',
     issues,
     watchpoints:issues.slice(0,3).map(x=>`${x.title}: ${x.why}`)
@@ -65,7 +81,7 @@ async function aiDigest(reportDate,dataDate,fallback,items,stats,windowStart,win
     const OpenAI=(await import('openai')).default;
     const client=new OpenAI({apiKey:process.env.OPENAI_API_KEY});
     const rows=items.slice(0,35).map((x,i)=>({i,title:x.title,titleKo:x.titleKo||'',source:x.source,kind:x.kind,category:x.category,description:x.description||'',summary:x.summary||x.summaryKo||''}));
-    const prompt=`너는 대한민국 교육부 정책 담당자를 위한 아침 브리핑 편집자다. 아래 뉴스는 ${reportDate} 00:00 KST부터 ${dataDate} 아침 갱신 시각까지 수집된 기사다. 이 목록만 근거로 같은 사건의 중복 보도를 하나의 이슈로 묶어 한국어 브리핑을 작성하라. 사실을 추가하거나 추측하지 마라. JSON만 출력한다. 형식은 {"headline":"아침 교육뉴스 전체를 한 문장으로 총평","summary":"전체 흐름을 3~4문장으로 요약","issues":[{"title":"이슈명","summary":"무슨 일이 있었는지 2문장 이내","why":"교육부가 왜 봐야 하는지 1문장","sources":["출처"]}],"watchpoints":["오늘 아침 확인할 점"]}. issues는 최대 5개, watchpoints는 최대 4개. 기사 목록: ${JSON.stringify(rows)}`;
+    const prompt=`너는 대한민국 교육부 정책 담당자를 위한 아침 브리핑 편집자다. 아래 뉴스는 ${reportDate} 00:00 KST부터 ${dataDate} 아침 갱신 시각까지 수집된 기사다. 이 목록만 근거로 같은 사건의 중복 보도를 하나의 이슈로 묶어 한국어 브리핑을 작성하라. 사실을 추가하거나 추측하지 마라. JSON만 출력한다. 형식은 {"headline":"아침 교육뉴스 전체를 한 문장으로 총평","summary":"전체 흐름을 3~4문장으로 구체적으로 요약","issues":[{"title":"이슈명","summary":"무슨 일이 있었는지 2문장 이내","why":"교육부가 왜 봐야 하는지 1문장","sources":["출처"]}],"watchpoints":["오늘 아침 확인할 점"]}. summary는 기사 수만 나열하지 말고 교육부가 발표한 구체적인 정책명·제도명·대상·시기·수치가 기사에 있으면 이를 포함해 무엇이 달라지는지 설명하라. 이어 국내 언론과 외신에서 어떤 쟁점이 부각됐는지도 구체적으로 적어라. 단, 기사에 없는 사실이나 해석은 추가하지 마라. issues는 최대 5개, watchpoints는 최대 4개. 기사 목록: ${JSON.stringify(rows)}`;
     const r=await client.responses.create({model:process.env.OPENAI_MODEL||'gpt-5-mini',input:prompt});
     const m=(r.output_text||'').match(/\{[\s\S]*\}/);
     if(!m) return fallback;
