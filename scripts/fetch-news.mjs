@@ -6,7 +6,7 @@ import * as cheerio from 'cheerio';
 
 const parser = new Parser({
   timeout: 15000,
-  headers: { 'User-Agent': 'Mozilla/5.0 EduPolicyBriefing/1.3' },
+  headers: { 'User-Agent': 'Mozilla/5.0 EduPolicyBriefing/1.4' },
   customFields: { item: [['News:Source', 'newsSource']] }
 });
 
@@ -57,9 +57,22 @@ function scoreItem(item) {
 }
 
 async function fetchText(url) {
-  const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0 EduPolicyBriefing/1.3' }, redirect: 'follow' });
-  if (!res.ok) throw new Error(`${res.status} ${url}`);
-  return await res.text();
+  let lastError;
+  for (let attempt = 1; attempt <= 2; attempt++) {
+    try {
+      const res = await fetch(url, {
+        headers: { 'User-Agent': 'Mozilla/5.0 EduPolicyBriefing/1.4' },
+        redirect: 'follow',
+        signal: AbortSignal.timeout(15000)
+      });
+      if (!res.ok) throw new Error(`${res.status} ${url}`);
+      return await res.text();
+    } catch (e) {
+      lastError = e;
+      if (attempt < 2) await new Promise(r => setTimeout(r, 1500));
+    }
+  }
+  throw lastError;
 }
 function boardSeq(raw='') {
   const m = raw.match(/boardSeq[^0-9]{0,20}(\d{5,})/i)
@@ -75,7 +88,7 @@ async function fetchMOE() {
   $('table tbody tr').each((_, tr) => {
     const row = $(tr), a = row.find('a').first(), title = clean(a.text());
     if (!title) return;
-    const seq = boardSeq([a.attr('onclick') || '', row.attr('onclick') || '', row.html() || ''].join(' '));
+    const seq = boardSeq([a.attr('onclick') || '', a.attr('href') || '', row.attr('onclick') || '', row.html() || ''].join(' '));
     const cells = row.find('td').map((__, td) => clean($(td).text())).get();
     const date = cells.find(v => /^20\d{2}-\d{2}-\d{2}$/.test(v)) || yyyyMmDd;
     const url = seq
@@ -83,7 +96,26 @@ async function fetchMOE() {
       : `${listUrl}&searchType=S&searchStr=${encodeURIComponent(title)}`;
     out.push({ id: hash(`moe:${seq || norm(title)}:${date}`), title, url, source:'교육부', kind:'official', publishedAt:`${date}T09:00:00+09:00`, description:'교육부 공식 보도자료', category:categoryFor(title) });
   });
+  if (!out.length) throw new Error('교육부 보도자료 목록에서 게시물을 찾지 못했습니다.');
   return out.slice(0, 30);
+}
+
+async function recentOfficialFallback(days=3) {
+  await fs.mkdir(ARCHIVE_DIR, { recursive:true });
+  const files = (await fs.readdir(ARCHIVE_DIR)).filter(x => /^\d{4}-\d{2}-\d{2}\.json$/.test(x)).sort().reverse();
+  const out = [];
+  const maxAge = days * 24 + 12;
+  for (const file of files.slice(0, days + 1)) {
+    try {
+      const data = JSON.parse(await fs.readFile(path.join(ARCHIVE_DIR, file), 'utf8'));
+      for (const item of data.items || []) {
+        if (item.kind === 'official' && ageHours(item.publishedAt) <= maxAge) out.push(item);
+      }
+    } catch (e) {
+      console.warn(`Official fallback archive read failed: ${file}: ${e.message}`);
+    }
+  }
+  return out;
 }
 
 function bingRssUrl(q, locale='ko-KR') {
@@ -186,7 +218,16 @@ async function pruneArchives(days=30) {
 
 await fs.mkdir(ARCHIVE_DIR, { recursive:true });
 const results = await Promise.allSettled([fetchMOE(), fetchBingNews(domesticQueries,'domestic'), fetchBingNews(foreignQueries,'foreign')]);
-let items = results.flatMap(r => r.status === 'fulfilled' ? r.value : []);
+const liveOfficial = results[0].status === 'fulfilled' ? results[0].value : [];
+const carriedOfficial = await recentOfficialFallback(3);
+if (results[0].status === 'rejected') console.warn(`MOE collection failed: ${results[0].reason?.message || results[0].reason}`);
+if (!liveOfficial.length && carriedOfficial.length) console.warn(`MOE live collection unavailable; carrying ${carriedOfficial.length} recent official releases from archive.`);
+let items = [
+  ...liveOfficial,
+  ...carriedOfficial,
+  ...(results[1].status === 'fulfilled' ? results[1].value : []),
+  ...(results[2].status === 'fulfilled' ? results[2].value : [])
+];
 items = dedupe(items).map(x => ({ ...x, score:scoreItem(x) })).sort((a,b) => b.score - a.score).slice(0, 80);
 const client = await getOpenAI();
 const translated = await translateForeign(items, client); items = translated.items;
@@ -202,4 +243,4 @@ const payload = {
 };
 await fs.writeFile(path.join(OUT_DIR,'news.json'), JSON.stringify(payload,null,2),'utf8');
 await fs.writeFile(path.join(ARCHIVE_DIR,`${yyyyMmDd}.json`), JSON.stringify(payload,null,2),'utf8');
-console.log(`Updated ${items.length} stories. translated=${translated.translated} removedArchives=${removedArchives}`);
+console.log(`Updated ${items.length} stories. officialLive=${liveOfficial.length} officialCarried=${carriedOfficial.length} translated=${translated.translated} removedArchives=${removedArchives}`);
