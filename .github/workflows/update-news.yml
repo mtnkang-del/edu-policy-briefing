@@ -2,13 +2,15 @@ name: Update education briefing
 
 on:
   schedule:
-    - cron: '30 21 * * *' # 매일 06:30 KST
+    - cron: '30 21 * * *' # 매일 06:30 KST (primary)
+    - cron: '30 22 * * *' # 매일 07:30 KST (backup)
   workflow_dispatch:
   push:
     branches: [main]
     paths:
       - 'scripts/**'
       - 'package.json'
+      - '.github/workflows/update-news.yml'
 
 permissions:
   contents: write
