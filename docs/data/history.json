@@ -1,12 +1,85 @@
 {
-  "generatedAt": "2026-08-28T04:27:52.801Z",
+  "generatedAt": "2026-08-28T22:00:00.610Z",
   "retentionDays": 30,
   "days": [
+    "2026-08-29",
     "2026-08-28",
     "2026-08-27",
     "2026-08-26"
   ],
   "items": [
+    {
+      "id": "e444c8d4c52d",
+      "title": "경기도평생교육진흥원, 문해교육에 디지털 일상 접목… 교육부 장관 표창",
+      "url": "https://www.lawissue.co.kr/view.php?ud=202608281610518327d94aa4ada6_12",
+      "source": "로이슈",
+      "kind": "domestic",
+      "publishedAt": "2026-08-28T14:39:00.000Z",
+      "description": "경기도 문해교육이 읽기와 쓰기를 넘어 생활 속 디지털 기기 활용까지 아우르는 방식으로 넓어지고 있다.경기도평생교육진흥원은 31개 시군의 문해교육 사례를 모은 전시 공간에서 키오스크·인공지능(AI) 체험을 운영하고, 성인문해교육과 디지털 역량 강화 공로로 교육부 장관 표창을 받았다.진흥원 ...",
+      "category": "AI·디지털",
+      "score": 57,
+      "snapshotDate": "2026-08-29"
+    },
+    {
+      "id": "2a1a3206293a",
+      "title": "하나은행, 교육부장관 표창 수상…금융문해교육 활성화",
+      "url": "https://www.fnnews.com/news/202608281351329779",
+      "source": "파이낸셜뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-08-28T07:36:00.000Z",
+      "description": "하나은행이 지난 27일 충북 '청주오스코'에서 열린 '2026년 문해교육 유공표창 시상식'에서 금융문해교육 활성화에 기여한 공로를 인정받아 교육부장관 표창을 수상했다.하나은행은 지난 2023년부터 교육부, 국가평생교육진흥원과 협력해 '디지털 금융문해교과서'와 교..",
+      "category": "AI·디지털",
+      "score": 53,
+      "snapshotDate": "2026-08-29"
+    },
+    {
+      "id": "a660b3b47d03",
+      "title": "최은옥 차관, 대학총장세미나 참석…고등교육 정책 방향 논의",
+      "url": "https://www.newspim.com/news/view/20260828000148",
+      "source": "뉴스핌",
+      "kind": "domestic",
+      "publishedAt": "2026-08-28T04:31:00.000Z",
+      "description": "[서울=뉴스핌] 황혜영 기자 = 최은옥 교육부 차관이 28일 제주에서 열리는 '2026년 한국대학교육협의회 하계 대학총장세미나'에 참석해 대학 총장들과 향후 고등교육 정책 방향을 논의한다.교육부에 따르면 최 차관은 이날 세미나에서 인구구조 변화와 인공지능(AI) 대전환 ...",
+      "category": "AI·디지털",
+      "score": 57,
+      "snapshotDate": "2026-08-29"
+    },
+    {
+      "id": "bef320715b36",
+      "title": "“시중은행 중 유일”… 하나은행, 금융문해교육 활성화 공로 ‘교육부장관 표창’ 수상",
+      "url": "https://www.dailysmart.co.kr/news/articleView.html?idxno=128827",
+      "source": "스마트경제",
+      "kind": "domestic",
+      "publishedAt": "2026-08-28T03:46:00.000Z",
+      "description": "하나은행은 지난 27일 충북 ‘청주오스코’에서 개최된 ‘2026년 문해교육 유공표창 시상식’에서 금융문해교육 활성화에 기여한 공로를 높이 인정받아 교육부장관 표창을 수상했다고 28일 밝혔다.",
+      "category": "지역·평생교육",
+      "score": 53,
+      "snapshotDate": "2026-08-29"
+    },
+    {
+      "id": "7d66719060e3",
+      "title": "최은옥 교육차관, 대교협 하계 총장세미나 참석…정책방향 논의",
+      "url": "https://www.yna.co.kr/view/AKR20260828041700530",
+      "source": "연합뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-08-28T02:41:00.000Z",
+      "description": "(세종=연합뉴스) 고상민 기자 = 최은옥 교육부 차관은 28일 오후 제주에서 열리는 '2026년 한국대학교육협의회(대교협) 하계 대학총장세미나'에 참석한다. 최 차관은 사회·환경 변화에 대비하는 '고등교육 정책방향'과 관련해 대학 총장들과 논의하는 시간을 갖는다. 앞서 교육부는 정책연구와 대학 현장과의 소통을 거쳐 '고등교육 정책방향'을 마련했다. 이번 세 ...",
+      "category": "고등교육",
+      "score": 53,
+      "snapshotDate": "2026-08-29"
+    },
+    {
+      "id": "c21f6777063c",
+      "title": "경기도평생교육진흥원, 평생교육 유공 표창 수상·문해교육 정책 홍보체험관 운영",
+      "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=788415",
+      "source": "일간투데이",
+      "kind": "domestic",
+      "publishedAt": "2026-08-28T01:39:00.000Z",
+      "description": "[일간투데이 허필숙 기자] 경기도평생교육진흥원은 27일과 28일 충북 청주 오스코 컨벤션센터에서 열린 ‘제1회 대한민국 문해교육 정책전시회’에 참가해 경기도 문해교육 정책과 성과를 알리는 홍보체험관을 운영했다.전시회는 교육부 주최, 국가평생교육원 주관으로 개최돼 전국 ...",
+      "category": "지역·평생교육",
+      "score": 53,
+      "snapshotDate": "2026-08-29"
+    },
     {
       "id": "ce22f0930daa",
       "title": "교육부, 'AI 교과서 개발역량 강화 워크숍' 개최",
@@ -29,7 +102,7 @@
       "description": "교육부 공식 보도자료",
       "category": "AI·디지털",
       "score": 68,
-      "snapshotDate": "2026-08-28"
+      "snapshotDate": "2026-08-29"
     },
     {
       "id": "c09781f02639",
@@ -41,7 +114,7 @@
       "description": "교육부 공식 보도자료",
       "category": "고등교육",
       "score": 64,
-      "snapshotDate": "2026-08-28"
+      "snapshotDate": "2026-08-29"
     },
     {
       "id": "5ac435d84d87",
@@ -53,7 +126,7 @@
       "description": "교육부 공식 보도자료",
       "category": "고등교육",
       "score": 64,
-      "snapshotDate": "2026-08-28"
+      "snapshotDate": "2026-08-29"
     },
     {
       "id": "7479eb90ce00",
@@ -65,7 +138,7 @@
       "description": "교육부 공식 보도자료",
       "category": "입시·사교육",
       "score": 60,
-      "snapshotDate": "2026-08-28"
+      "snapshotDate": "2026-08-29"
     },
     {
       "id": "c1fe939d27e4",
@@ -116,7 +189,7 @@
       "description": "[세종=뉴시스]용윤신 기자 = 성인문해교육 지원사업 20주년을 맞아 그동안의 성과를 돌아보고 인공지능(AI)·디지털 시대 문해교육의 방향을 모색하는 정책전시회가 열린다.교육부와 국가평생교육진흥원은 27일부터 28일까지 이틀간 청주 오스코(OSCO)에서 '대한민국 문해교육 정책전시회'를 개최한다고 26일 밝혔다.이번 행사는 성인문해교육 지원사업 추진 20주년 ...",
       "category": "AI·디지털",
       "score": 47,
-      "snapshotDate": "2026-08-27"
+      "snapshotDate": "2026-08-29"
     },
     {
       "id": "31a2a62dd232",
@@ -128,7 +201,7 @@
       "description": "[창원=뉴스핌] 남경문 기자 = 경남도교육청이 미국 인공지능(AI)·디지털 교육 현장을 둘러본 교원 연수단과 함께 연수 결과를 공유하고 도내 학교 적용 방안을 논의했다. 도교육청은 26일 '2026년 디지털 기반 교육혁신 유공교원 국외 연수 사후 보고회'를 열고 미국의 AI 및 디지털 교육 우수 사례를 중심으로 학생 ...",
       "category": "AI·디지털",
       "score": 51,
-      "snapshotDate": "2026-08-28"
+      "snapshotDate": "2026-08-29"
     },
     {
       "id": "8ad2ad0f3fc2",
@@ -140,7 +213,7 @@
       "description": "(창원=연합뉴스) 김동민 기자 = 경남도교육청은 26일 그랜드머큐어 창원에서 '2026년 디지털 기반 교육혁신 유공 교원 국외 연수 사후 보고회'를 열고 미국의 인공지능(AI)과 디지털 교육 우수 사례 및 현장 적용 방안을 논의했다. 도내 초·중등 교사와 교육 전문직 등 24명으로 구성된 연수단은 이달 5일부터 ...",
       "category": "AI·디지털",
       "score": 51,
-      "snapshotDate": "2026-08-28"
+      "snapshotDate": "2026-08-29"
     },
     {
       "id": "d745d270f00d",
@@ -152,7 +225,7 @@
       "description": "경남도교육청이 26일 창원시 성산구 그랜드머큐어 창원에서 ‘2026년 디지털 기반 교육혁신 유공교원 국외 연수 사후 보고회’를 열었다. 이날 보고회에서는 미국 인공지능 (AI)과 디지털 교육 우수 사례, 도내 현장 적용 방안을 논의했다.",
       "category": "AI·디지털",
       "score": 51,
-      "snapshotDate": "2026-08-28"
+      "snapshotDate": "2026-08-29"
     },
     {
       "id": "b39f63e90b4c",
@@ -164,7 +237,7 @@
       "description": "교육부 공식 보도자료",
       "category": "기타",
       "score": 64,
-      "snapshotDate": "2026-08-28"
+      "snapshotDate": "2026-08-29"
     },
     {
       "id": "5ea2d69d7531",
@@ -176,7 +249,7 @@
       "description": "교육부 공식 보도자료",
       "category": "AI·디지털",
       "score": 64,
-      "snapshotDate": "2026-08-28"
+      "snapshotDate": "2026-08-29"
     },
     {
       "id": "19e8165b5dae",
@@ -188,7 +261,7 @@
       "description": "교육부 공식 보도자료",
       "category": "기타",
       "score": 60,
-      "snapshotDate": "2026-08-28"
+      "snapshotDate": "2026-08-29"
     },
     {
       "id": "796498d222a1",
@@ -200,7 +273,7 @@
       "description": "교육부 공식 보도자료",
       "category": "유·초중등",
       "score": 60,
-      "snapshotDate": "2026-08-28"
+      "snapshotDate": "2026-08-29"
     },
     {
       "id": "aa9dc7db9810",
@@ -212,7 +285,7 @@
       "description": "교육부와 국가평생교육진흥원이 오는 27일부터 28일까지 이틀간 청주 오스코에서 ‘대한민국 문해교육 정책전시회’를 개최한다.이번 정책전시회에서는 성인문해교육 지원사업 20주년을 맞아 그간의 성인문해교육 정책성과를 공유하고, 인공지능(AI)·디지털 시대 ...",
       "category": "AI·디지털",
       "score": 47,
-      "snapshotDate": "2026-08-28"
+      "snapshotDate": "2026-08-29"
     },
     {
       "id": "556d726e0aa3",
@@ -311,18 +384,6 @@
       "snapshotDate": "2026-08-26"
     },
     {
-      "id": "1aea6474ff1f",
-      "title": "2027학년도 수시모집 대입 원서접수 미리 작성!",
-      "url": "https://www.moe.go.kr/boardCnts/listRenew.do?boardID=294&m=020402&page=1&searchType=S&searchStr=2027%ED%95%99%EB%85%84%EB%8F%84%20%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%20%EB%8C%80%EC%9E%85%20%EC%9B%90%EC%84%9C%EC%A0%91%EC%88%98%20%EB%AF%B8%EB%A6%AC%20%EC%9E%91%EC%84%B1!",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-08-25T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "입시·사교육",
-      "score": 54,
-      "snapshotDate": "2026-08-28"
-    },
-    {
       "id": "11def3b658e7",
       "title": "학교 역사교육 활성화 지원 거점, 서울대학교 역사교육지원연구센터 개소",
       "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107019&lev=0&m=020402",
@@ -332,7 +393,7 @@
       "description": "교육부 공식 보도자료",
       "category": "입시·사교육",
       "score": 50,
-      "snapshotDate": "2026-08-28"
+      "snapshotDate": "2026-08-29"
     },
     {
       "id": "9b182ca8ed8d",
@@ -344,6 +405,18 @@
       "description": "교육부 공식 보도자료",
       "category": "기타",
       "score": 50,
+      "snapshotDate": "2026-08-29"
+    },
+    {
+      "id": "1aea6474ff1f",
+      "title": "2027학년도 수시모집 대입 원서접수 미리 작성!",
+      "url": "https://www.moe.go.kr/boardCnts/listRenew.do?boardID=294&m=020402&page=1&searchType=S&searchStr=2027%ED%95%99%EB%85%84%EB%8F%84%20%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%20%EB%8C%80%EC%9E%85%20%EC%9B%90%EC%84%9C%EC%A0%91%EC%88%98%20%EB%AF%B8%EB%A6%AC%20%EC%9E%91%EC%84%B1!",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-25T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "입시·사교육",
+      "score": 54,
       "snapshotDate": "2026-08-28"
     },
     {
@@ -450,12 +523,12 @@
       "kind": "foreign",
       "publishedAt": "2026-08-22T17:01:00.000Z",
       "description": "Semiconductor cram schools are flourishing in Seoul as applications to South Korea’s two biggest chipmakers surge, fuelled by record earnings from the AI boom and eye-catching worker bonuses.",
-      "category": "AI·디지털",
-      "score": 31,
+      "category": "유·초중등",
+      "score": 30,
       "originalTitle": "Inside South Korea’s chipmaking cram schools",
       "titleKo": "한국의 칩 제조 크램 학교 내부",
       "summaryKo": "반도체 상온 재활용 학교는 AI 붐과 눈길을 끄는 근로자 보너스로 인한 기록적인 수입에 힘입어 한국에서 가장 큰 두 칩 제조업체에 대한 적용이 급증함에 따라 서울에서 번성하고 있습니다.",
-      "snapshotDate": "2026-08-28"
+      "snapshotDate": "2026-08-29"
     }
   ]
 }
