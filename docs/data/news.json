@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-28T21:51:36.695Z",
-  "generatedAtKST": "2026-08-29T06:51:34.731+09:00",
+  "generatedAt": "2026-08-28T22:01:14.634Z",
+  "generatedAtKST": "2026-08-29T07:01:12.892+09:00",
   "date": "2026-08-29",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
@@ -13,10 +13,10 @@
     "문해와 인공지능(AI)으로 연결하는 새로운 세상, ‘대한민국 문해교육 정책전시회’ 개최 — 교육부"
   ],
   "stats": {
-    "total": 22,
+    "total": 21,
     "official": 10,
-    "domestic": 11,
-    "foreign": 1
+    "domestic": 9,
+    "foreign": 2
   },
   "items": [
     {
@@ -152,17 +152,6 @@
       "score": 53
     },
     {
-      "id": "7d66719060e3",
-      "title": "최은옥 교육차관, 대교협 하계 총장세미나 참석…정책방향 논의",
-      "url": "https://www.yna.co.kr/view/AKR20260828041700530",
-      "source": "연합뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-08-28T02:41:00.000Z",
-      "description": "(세종=연합뉴스) 고상민 기자 = 최은옥 교육부 차관은 28일 오후 제주에서 열리는 '2026년 한국대학교육협의회(대교협) 하계 대학총장세미나'에 참석한다. 최 차관은 사회·환경 변화에 대비하는 '고등교육 정책방향'과 관련해 대학 총장들과 논의하는 시간을 갖는다. 앞서 교육부는 정책연구와 대학 현장과의 소통을 거쳐 '고등교육 정책방향'을 마련했다. 이번 세 ...",
-      "category": "고등교육",
-      "score": 53
-    },
-    {
       "id": "c21f6777063c",
       "title": "경기도평생교육진흥원, 평생교육 유공 표창 수상·문해교육 정책 홍보체험관 운영",
       "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=788415",
@@ -174,6 +163,17 @@
       "score": 53
     },
     {
+      "id": "e99f71104f04",
+      "title": "가천대, 대한민국 문해교육 정책전시회에 대학 유일 참가",
+      "url": "https://www.msn.com/ko-kr/news/national/%EA%B0%80%EC%B2%9C%EB%8C%80-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AC%B8%ED%95%B4%EA%B5%90%EC%9C%A1-%EC%A0%95%EC%B1%85%EC%A0%84%EC%8B%9C%ED%9A%8C%EC%97%90-%EB%8C%80%ED%95%99-%EC%9C%A0%EC%9D%BC-%EC%B0%B8%EA%B0%80/ar-AA2b5fOp",
+      "source": "국민일보 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-08-27T21:33:00.000Z",
+      "description": "가천대학교는 교육부와 국가평생교육진흥원이 주최한 ‘제1회 대한민국 문해교육 정책전시회’에 대학기관으로 유일하게 참가해 인공지능(AI)·디지털 기술과 문화예술을 접목한 문해교육 프로그램을 선보였다고 28일 밝혔다. 성인문해교육 지원사업 시행 20주년을 기념해 마련된 이번 전시회는 이날까지 이틀간 충북 청주 오스코(OSCO)에서 진행된다. 개막식에는 최교진 교 ...",
+      "category": "AI·디지털",
+      "score": 51
+    },
+    {
       "id": "31a2a62dd232",
       "title": "경남교육청, 미국 AI·디지털 교육 정책 연수 성과 공유",
       "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EB%82%A8%EA%B5%90%EC%9C%A1%EC%B2%AD-%EB%AF%B8%EA%B5%AD-ai-%EB%94%94%EC%A7%80%ED%84%B8-%EA%B5%90%EC%9C%A1-%EC%A0%95%EC%B1%85-%EC%97%B0%EC%88%98-%EC%84%B1%EA%B3%BC-%EA%B3%B5%EC%9C%A0/ar-AA2aWF56",
@@ -181,17 +181,6 @@
       "kind": "domestic",
       "publishedAt": "2026-08-26T03:22:20.000Z",
       "description": "[창원=뉴스핌] 남경문 기자 = 경남도교육청이 미국 인공지능(AI)·디지털 교육 현장을 둘러본 교원 연수단과 함께 연수 결과를 공유하고 도내 학교 적용 방안을 논의했다. 도교육청은 26일 '2026년 디지털 기반 교육혁신 유공교원 국외 연수 사후 보고회'를 열고 미국의 AI 및 디지털 교육 우수 사례를 중심으로 학생 ...",
-      "category": "AI·디지털",
-      "score": 51
-    },
-    {
-      "id": "8ad2ad0f3fc2",
-      "title": "경남교육청, 미국 AI·디지털 교육 연수 보고회…수업혁신 지원",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B2%BD%EB%82%A8%EA%B5%90%EC%9C%A1%EC%B2%AD-%EB%AF%B8%EA%B5%AD-ai-%EB%94%94%EC%A7%80%ED%84%B8-%EA%B5%90%EC%9C%A1-%EC%97%B0%EC%88%98-%EB%B3%B4%EA%B3%A0%ED%9A%8C-%EC%88%98%EC%97%85%ED%98%81%EC%8B%A0-%EC%A7%80%EC%9B%90/ar-AA2aXipz",
-      "source": "연합뉴스 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-08-26T01:28:26.000Z",
-      "description": "(창원=연합뉴스) 김동민 기자 = 경남도교육청은 26일 그랜드머큐어 창원에서 '2026년 디지털 기반 교육혁신 유공 교원 국외 연수 사후 보고회'를 열고 미국의 인공지능(AI)과 디지털 교육 우수 사례 및 현장 적용 방안을 논의했다. 도내 초·중등 교사와 교육 전문직 등 24명으로 구성된 연수단은 이달 5일부터 ...",
       "category": "AI·디지털",
       "score": 51
     },
@@ -229,17 +218,6 @@
       "score": 50
     },
     {
-      "id": "f96db02b49af",
-      "title": "AI시대 '문해교육' 방향은…27~28일 청주서 정책 전시회",
-      "url": "https://www.newsis.com/view/NISX20260826_0003762785",
-      "source": "뉴시스",
-      "kind": "domestic",
-      "publishedAt": "2026-08-26T05:00:00.000Z",
-      "description": "[세종=뉴시스]용윤신 기자 = 성인문해교육 지원사업 20주년을 맞아 그동안의 성과를 돌아보고 인공지능(AI)·디지털 시대 문해교육의 방향을 모색하는 정책전시회가 열린다.교육부와 국가평생교육진흥원은 27일부터 28일까지 이틀간 청주 오스코(OSCO)에서 '대한민국 문해교육 정책전시회'를 개최한다고 26일 밝혔다.이번 행사는 성인문해교육 지원사업 추진 20주년 ...",
-      "category": "AI·디지털",
-      "score": 47
-    },
-    {
       "id": "aa9dc7db9810",
       "title": "교육부, 성인문해교육 지원사업 20주년 기념 '대한민국 문해교육 정책전시회' 개최",
       "url": "https://www.msn.com/ko-kr/news/other/%EA%B5%90%EC%9C%A1%EB%B6%80-%EC%84%B1%EC%9D%B8%EB%AC%B8%ED%95%B4%EA%B5%90%EC%9C%A1-%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85-20%EC%A3%BC%EB%85%84-%EA%B8%B0%EB%85%90-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AC%B8%ED%95%B4%EA%B5%90%EC%9C%A1-%EC%A0%95%EC%B1%85%EC%A0%84%EC%8B%9C%ED%9A%8C-%EA%B0%9C%EC%B5%9C/ar-AA2aWNnP",
@@ -258,11 +236,25 @@
       "kind": "foreign",
       "publishedAt": "2026-08-22T17:01:00.000Z",
       "description": "Semiconductor cram schools are flourishing in Seoul as applications to South Korea’s two biggest chipmakers surge, fuelled by record earnings from the AI boom and eye-catching worker bonuses.",
-      "category": "유·초중등",
-      "score": 30,
+      "category": "AI·디지털",
+      "score": 31,
       "originalTitle": "Inside South Korea’s chipmaking cram schools",
       "titleKo": "한국의 칩 제조 크램 학교 내부",
       "summaryKo": "반도체 상온 재활용 학교는 AI 붐과 눈길을 끄는 근로자 보너스로 인한 기록적인 수입에 힘입어 한국에서 가장 큰 두 칩 제조업체에 대한 적용이 급증함에 따라 서울에서 번성하고 있습니다."
+    },
+    {
+      "id": "34244186a0c9",
+      "title": "Exclusive: Historians warn against politicizing history education",
+      "url": "https://www.msn.com/en-xl/news/other/exclusive-historians-warn-against-politicizing-history-education/ar-AA2aRjNr",
+      "source": "The Chosun Ilbo on MSN",
+      "kind": "foreign",
+      "publishedAt": "2026-08-25T00:40:15.000Z",
+      "description": "Seven historical and archaeological societies, including the Korean Historical Research Association, are set to issue a joint declaration opposing the government’s policy to expand the proportion of ...",
+      "category": "AI·디지털",
+      "score": 30,
+      "originalTitle": "Exclusive: Historians warn against politicizing history education",
+      "titleKo": "독점: 역사학자들이 역사 교육의 정치화를 경고하다",
+      "summaryKo": "한국역사연구회를 포함한 7개 역사 · 고고학회는 정부의 비중 확대 정책에 반대하는 공동선언문을 발표할..."
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -272,14 +264,14 @@
     "throughDate": "2026-08-29",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-08-27T15:00:00.000Z",
-    "windowEnd": "2026-08-28T21:51:36.695Z",
+    "windowEnd": "2026-08-28T22:01:14.634Z",
     "itemIds": [
       "e444c8d4c52d",
       "a660b3b47d03",
       "2a1a3206293a",
       "bef320715b36",
-      "7d66719060e3",
-      "c21f6777063c"
+      "c21f6777063c",
+      "e99f71104f04"
     ],
     "stats": {
       "total": 6,
@@ -287,8 +279,8 @@
       "domestic": 6,
       "foreign": 0
     },
-    "headline": "오늘 아침 교육뉴스는 AI·디지털·지역·평생교육·고등교육 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 6건이 확인됐습니다. 국내 언론에서는 경기도평생교육진흥원, 문해교육에 디지털 일상 접목… 교육부 장관 표창와 최은옥 차관, 대학총장세미나 참석…고등교육 정책 방향 논의 등이 주요하게 다뤄졌습니다. 전체적으로는 AI·디지털·지역·평생교육·고등교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "headline": "오늘 아침 교육뉴스는 AI·디지털·지역·평생교육 이슈를 중심으로 형성됐습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 6건이 확인됐습니다. 국내 언론에서는 경기도평생교육진흥원, 문해교육에 디지털 일상 접목… 교육부 장관 표창와 최은옥 차관, 대학총장세미나 참석…고등교육 정책 방향 논의 등이 주요하게 다뤄졌습니다. 전체적으로는 AI·디지털·지역·평생교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "AI·디지털",
@@ -308,20 +300,11 @@
           "스마트경제",
           "일간투데이"
         ]
-      },
-      {
-        "title": "고등교육",
-        "summary": "최은옥 교육차관, 대교협 하계 총장세미나 참석…정책방향 논의",
-        "why": "대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다.",
-        "sources": [
-          "연합뉴스"
-        ]
       }
     ],
     "watchpoints": [
       "AI·디지털: AI·디지털 전환 정책은 교육과정·교원역량·인프라와 연결되므로 실행 여건과 현장 적용성을 함께 봐야 합니다.",
-      "지역·평생교육: 지역 격차와 평생학습 접근성에 영향을 줄 수 있어 지역별 집행 여건을 점검할 필요가 있습니다.",
-      "고등교육: 대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다."
+      "지역·평생교육: 지역 격차와 평생학습 접근성에 영향을 줄 수 있어 지역별 집행 여건을 점검할 필요가 있습니다."
     ]
   }
 }
