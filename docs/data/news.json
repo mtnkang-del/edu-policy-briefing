@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-29T21:34:43.781Z",
-  "generatedAtKST": "2026-08-30T06:34:21.260+09:00",
+  "generatedAt": "2026-08-29T22:31:04.919Z",
+  "generatedAtKST": "2026-08-30T07:31:02.828+09:00",
   "date": "2026-08-30",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
@@ -10,12 +10,12 @@
     "2026년 8월 대학정보공시 분석 결과 발표 — 교육부",
     "2029학년도 대학입학전형기본사항 발표 — 교육부",
     "학교 역사교육 활성화를 위한 교육부-독립기념관 업무협약(MOU) 체결 — 교육부",
-    "경기도평생교육진흥원, 문해교육 성과 '교육부 장관 표창도 수상' — 한국강사신문"
+    "2026년 교육기본통계 조사 결과 발표 — 교육부"
   ],
   "stats": {
-    "total": 11,
-    "official": 4,
-    "domestic": 6,
+    "total": 18,
+    "official": 10,
+    "domestic": 7,
     "foreign": 1
   },
   "items": [
@@ -64,6 +64,28 @@
       "score": 60
     },
     {
+      "id": "b39f63e90b4c",
+      "title": "2026년 교육기본통계 조사 결과 발표",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107034&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-26T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "기타",
+      "score": 54
+    },
+    {
+      "id": "5ea2d69d7531",
+      "title": "문해와 인공지능(AI)으로 연결하는 새로운 세상, ‘대한민국 문해교육 정책전시회’ 개최",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107033&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-26T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "AI·디지털",
+      "score": 54
+    },
+    {
       "id": "fdae1c5e76ab",
       "title": "경기도평생교육진흥원, 문해교육 성과 '교육부 장관 표창도 수상'",
       "url": "https://www.lecturernews.com/news/articleView.html?idxno=209544",
@@ -75,6 +97,50 @@
       "score": 53
     },
     {
+      "id": "19e8165b5dae",
+      "title": "인문사회 ‘집단지성’으로 해법 찾는다",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107036&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-26T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "기타",
+      "score": 50
+    },
+    {
+      "id": "796498d222a1",
+      "title": "정부 초청 외국인 장학생 졸업 축하 행사 개최",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107035&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-26T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "유·초중등",
+      "score": 50
+    },
+    {
+      "id": "11def3b658e7",
+      "title": "학교 역사교육 활성화 지원 거점, 서울대학교 역사교육지원연구센터 개소",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107019&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-25T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "입시·사교육",
+      "score": 50
+    },
+    {
+      "id": "9b182ca8ed8d",
+      "title": "교육부.외교부.아태교육원, 제11회 세계시민교육 국제회의 개최",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107018&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-25T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "기타",
+      "score": 50
+    },
+    {
       "id": "a660b3b47d03",
       "title": "최은옥 차관, 대학총장세미나 참석…고등교육 정책 방향 논의",
       "url": "https://www.newspim.com/news/view/20260828000148",
@@ -82,6 +148,17 @@
       "kind": "domestic",
       "publishedAt": "2026-08-28T04:31:00.000Z",
       "description": "[서울=뉴스핌] 황혜영 기자 = 최은옥 교육부 차관이 28일 제주에서 열리는 '2026년 한국대학교육협의회 하계 대학총장세미나'에 참석해 대학 총장들과 향후 고등교육 정책 방향을 논의한다.교육부에 따르면 최 차관은 이날 세미나에서 인구구조 변화와 인공지능(AI) 대전환 ...",
+      "category": "AI·디지털",
+      "score": 47
+    },
+    {
+      "id": "7c083603e3f0",
+      "title": "가천대, '제1회 대한민국 문해교육 정책전시회'…대학 참가 유일",
+      "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EA%B3%A0%EB%93%B1-%EA%B5%90%EC%9C%A1/%EA%B0%80%EC%B2%9C%EB%8C%80-%EC%A0%9C1%ED%9A%8C-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AC%B8%ED%95%B4%EA%B5%90%EC%9C%A1-%EC%A0%95%EC%B1%85%EC%A0%84%EC%8B%9C%ED%9A%8C-%EB%8C%80%ED%95%99-%EC%B0%B8%EA%B0%80-%EC%9C%A0%EC%9D%BC/ar-AA2b5n9y",
+      "source": "디지털타임스 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-08-27T21:21:53.000Z",
+      "description": "AI활용 디지털 문해교육 선보여 각광 가천대학교(총장 이길여)가 교육부와 국가평생교육진흥원이 주최한 ‘제1회 대한민국 문해교육 정책전시회’에 대학기관으로는 유일하게 참가해 AI·디지털 기술과 문화예술을 접목한 문해교육 ...",
       "category": "AI·디지털",
       "score": 47
     },
@@ -151,7 +228,7 @@
     "throughDate": "2026-08-30",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-08-28T15:00:00.000Z",
-    "windowEnd": "2026-08-29T21:34:43.781Z",
+    "windowEnd": "2026-08-29T22:31:04.919Z",
     "itemIds": [
       "fdae1c5e76ab"
     ],

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T21:35:09.137Z",
+  "generatedAt": "2026-08-29T22:31:10.125Z",
   "retentionDays": 30,
   "days": [
     "2026-08-30",
@@ -103,6 +103,18 @@
       "description": "[일간투데이 허필숙 기자] 경기도평생교육진흥원은 27일과 28일 충북 청주 오스코 컨벤션센터에서 열린 ‘제1회 대한민국 문해교육 정책전시회’에 참가해 경기도 문해교육 정책과 성과를 알리는 홍보체험관을 운영했다.전시회는 교육부 주최, 국가평생교육원 주관으로 개최돼 전국 ...",
       "category": "지역·평생교육",
       "score": 43,
+      "snapshotDate": "2026-08-30"
+    },
+    {
+      "id": "7c083603e3f0",
+      "title": "가천대, '제1회 대한민국 문해교육 정책전시회'…대학 참가 유일",
+      "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EA%B3%A0%EB%93%B1-%EA%B5%90%EC%9C%A1/%EA%B0%80%EC%B2%9C%EB%8C%80-%EC%A0%9C1%ED%9A%8C-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AC%B8%ED%95%B4%EA%B5%90%EC%9C%A1-%EC%A0%95%EC%B1%85%EC%A0%84%EC%8B%9C%ED%9A%8C-%EB%8C%80%ED%95%99-%EC%B0%B8%EA%B0%80-%EC%9C%A0%EC%9D%BC/ar-AA2b5n9y",
+      "source": "디지털타임스 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-08-27T21:21:53.000Z",
+      "description": "AI활용 디지털 문해교육 선보여 각광 가천대학교(총장 이길여)가 교육부와 국가평생교육진흥원이 주최한 ‘제1회 대한민국 문해교육 정책전시회’에 대학기관으로는 유일하게 참가해 AI·디지털 기술과 문화예술을 접목한 문해교육 ...",
+      "category": "AI·디지털",
+      "score": 47,
       "snapshotDate": "2026-08-30"
     },
     {
@@ -261,8 +273,8 @@
       "publishedAt": "2026-08-26T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "기타",
-      "score": 64,
-      "snapshotDate": "2026-08-29"
+      "score": 54,
+      "snapshotDate": "2026-08-30"
     },
     {
       "id": "5ea2d69d7531",
@@ -273,8 +285,8 @@
       "publishedAt": "2026-08-26T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "AI·디지털",
-      "score": 64,
-      "snapshotDate": "2026-08-29"
+      "score": 54,
+      "snapshotDate": "2026-08-30"
     },
     {
       "id": "19e8165b5dae",
@@ -285,8 +297,8 @@
       "publishedAt": "2026-08-26T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "기타",
-      "score": 60,
-      "snapshotDate": "2026-08-29"
+      "score": 50,
+      "snapshotDate": "2026-08-30"
     },
     {
       "id": "796498d222a1",
@@ -297,8 +309,8 @@
       "publishedAt": "2026-08-26T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "유·초중등",
-      "score": 60,
-      "snapshotDate": "2026-08-29"
+      "score": 50,
+      "snapshotDate": "2026-08-30"
     },
     {
       "id": "aa9dc7db9810",
@@ -418,7 +430,7 @@
       "description": "교육부 공식 보도자료",
       "category": "입시·사교육",
       "score": 50,
-      "snapshotDate": "2026-08-29"
+      "snapshotDate": "2026-08-30"
     },
     {
       "id": "9b182ca8ed8d",
@@ -430,7 +442,7 @@
       "description": "교육부 공식 보도자료",
       "category": "기타",
       "score": 50,
-      "snapshotDate": "2026-08-29"
+      "snapshotDate": "2026-08-30"
     },
     {
       "id": "1aea6474ff1f",
