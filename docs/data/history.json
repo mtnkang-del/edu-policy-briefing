@@ -1,7 +1,8 @@
 {
-  "generatedAt": "2026-08-29T22:31:10.125Z",
+  "generatedAt": "2026-08-30T21:34:29.255Z",
   "retentionDays": 30,
   "days": [
+    "2026-08-31",
     "2026-08-30",
     "2026-08-29",
     "2026-08-28",
@@ -9,6 +10,18 @@
     "2026-08-26"
   ],
   "items": [
+    {
+      "id": "893ac2bdb582",
+      "title": "[지금 노려볼 외교시장은? 태국 ] AI 교육 전환 본격화…‘K-에듀테크’ 아세안 교두보 부상",
+      "url": "https://www.koreapost.co.kr/news/articleView.html?idxno=88566",
+      "source": "코리아포스트",
+      "kind": "domestic",
+      "publishedAt": "2026-08-30T02:37:00.000Z",
+      "description": "방콕무역관에 따르면 ZEP QUIZ는 정식 출시 전 베타서비스 기간에 태국 이용자 약 50만명과 누적 플레이 100만회를 기록했다. 태국어 지원뿐 아니라 전통 의상과 사원, 야시장 등 현지 문화를 콘텐츠에 반영한 점이 초기 이용자 확보에 도움이 된 것으로 분석됐다. 현지 시장에서는 SkillLane, OpenDurian, Globish, Conicle 등 ...",
+      "category": "AI·디지털",
+      "score": 57,
+      "snapshotDate": "2026-08-31"
+    },
     {
       "id": "fdae1c5e76ab",
       "title": "경기도평생교육진흥원, 문해교육 성과 '교육부 장관 표창도 수상'",
@@ -18,8 +31,8 @@
       "publishedAt": "2026-08-29T02:48:00.000Z",
       "description": "[한국강사신문 이미숙 기자] 경기도평생교육진흥원이 성인 문해교육과 디지털 문해 역량 강화에 기여한 성과를 인정받아 교육부 장관 표창을 받았다.경기도평생교육진흥원은 8월 27일부터 28일까지 충북 청주 오스코 컨벤션센터에서 열린 ‘제1회 대한민국 문해교육 정책전시회’에 참여해 경기도의 문해교육 정책과 주요 성과를 소개했다고 28일 밝혔다.교육부가 주최하고 국 ...",
       "category": "AI·디지털",
-      "score": 53,
-      "snapshotDate": "2026-08-30"
+      "score": 43,
+      "snapshotDate": "2026-08-31"
     },
     {
       "id": "e444c8d4c52d",
@@ -55,7 +68,19 @@
       "description": "하나은행이 지난 27일 충북 '청주오스코'에서 열린 '2026년 문해교육 유공표창 시상식'에서 금융문해교육 활성화에 기여한 공로를 인정받아 교육부장관 표창을 수상했다.하나은행은 지난 2023년부터 교육부, 국가평생교육진흥원과 협력해 '디지털 금융문해교과서'와 교..",
       "category": "AI·디지털",
       "score": 43,
-      "snapshotDate": "2026-08-30"
+      "snapshotDate": "2026-08-31"
+    },
+    {
+      "id": "de92c8533bd9",
+      "title": "하나은행, 금융문해교육 활성화 공로 ‘교육부장관 표창’",
+      "url": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=529133",
+      "source": "시사매거진",
+      "kind": "domestic",
+      "publishedAt": "2026-08-28T06:09:00.000Z",
+      "description": "[시사매거진 김정임 기자] 하나은행이 문해학습자를 대상으로 금융교육과 현장 체험 프로그램을 운영해 온 공로로 교육부장관 표창을 받았다.하나은행에 따르면, 27일 충북 청주오스코에서 열린 ‘2026년 문해교육 유공표창 시상식’에서 금융문해교육 활성화에 기여한 공로를 인정받아 교육부장관 표창을 수상했다고 28일 밝혔다.이번 표창은 국가평생교육진흥원과 협력해 문 ...",
+      "category": "지역·평생교육",
+      "score": 43,
+      "snapshotDate": "2026-08-31"
     },
     {
       "id": "a660b3b47d03",
@@ -67,7 +92,7 @@
       "description": "[서울=뉴스핌] 황혜영 기자 = 최은옥 교육부 차관이 28일 제주에서 열리는 '2026년 한국대학교육협의회 하계 대학총장세미나'에 참석해 대학 총장들과 향후 고등교육 정책 방향을 논의한다.교육부에 따르면 최 차관은 이날 세미나에서 인구구조 변화와 인공지능(AI) 대전환 ...",
       "category": "AI·디지털",
       "score": 47,
-      "snapshotDate": "2026-08-30"
+      "snapshotDate": "2026-08-31"
     },
     {
       "id": "bef320715b36",
@@ -79,7 +104,7 @@
       "description": "하나은행은 지난 27일 충북 ‘청주오스코’에서 개최된 ‘2026년 문해교육 유공표창 시상식’에서 금융문해교육 활성화에 기여한 공로를 높이 인정받아 교육부장관 표창을 수상했다고 28일 밝혔다.",
       "category": "지역·평생교육",
       "score": 43,
-      "snapshotDate": "2026-08-30"
+      "snapshotDate": "2026-08-31"
     },
     {
       "id": "7d66719060e3",
@@ -91,7 +116,7 @@
       "description": "(세종=연합뉴스) 고상민 기자 = 최은옥 교육부 차관은 28일 오후 제주에서 열리는 '2026년 한국대학교육협의회(대교협) 하계 대학총장세미나'에 참석한다. 최 차관은 사회·환경 변화에 대비하는 '고등교육 정책방향'과 관련해 대학 총장들과 논의하는 시간을 갖는다. 앞서 교육부는 정책연구와 대학 현장과의 소통을 거쳐 '고등교육 정책방향'을 마련했다. 이번 세 ...",
       "category": "고등교육",
       "score": 43,
-      "snapshotDate": "2026-08-30"
+      "snapshotDate": "2026-08-31"
     },
     {
       "id": "c21f6777063c",
@@ -103,7 +128,22 @@
       "description": "[일간투데이 허필숙 기자] 경기도평생교육진흥원은 27일과 28일 충북 청주 오스코 컨벤션센터에서 열린 ‘제1회 대한민국 문해교육 정책전시회’에 참가해 경기도 문해교육 정책과 성과를 알리는 홍보체험관을 운영했다.전시회는 교육부 주최, 국가평생교육원 주관으로 개최돼 전국 ...",
       "category": "지역·평생교육",
       "score": 43,
-      "snapshotDate": "2026-08-30"
+      "snapshotDate": "2026-08-31"
+    },
+    {
+      "id": "a39d820825d8",
+      "title": "Sungyeon Kwon Assumes Deputy Superintendent Role at Daegu Office of Education: \"Brings Extensive Educational Administration Experience\"",
+      "url": "https://www.asiae.co.kr/en/article/2026082815170645358",
+      "source": "Asia Economy",
+      "kind": "foreign",
+      "publishedAt": "2026-08-27T23:17:00.000Z",
+      "description": "The Daegu Metropolitan Office of Education announced that Sungyeon Kwon (54), a senior executive official in general service at the Ministry of Educat ...",
+      "category": "기타",
+      "score": 37,
+      "originalTitle": "Sungyeon Kwon Assumes Deputy Superintendent Role at Daegu Office of Education: \"Brings Extensive Educational Administration Experience\"",
+      "titleKo": "권성연 대구교육청 부교육감 취임: \"폭넓은 교육행정 경험 선사\"",
+      "summaryKo": "대구광역시교육청은 교육부 일반직 고위간부공무원인 권성연 (54)...",
+      "snapshotDate": "2026-08-31"
     },
     {
       "id": "7c083603e3f0",
@@ -138,8 +178,8 @@
       "publishedAt": "2026-08-27T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "AI·디지털",
-      "score": 68,
-      "snapshotDate": "2026-08-30"
+      "score": 58,
+      "snapshotDate": "2026-08-31"
     },
     {
       "id": "c09781f02639",
@@ -150,8 +190,8 @@
       "publishedAt": "2026-08-27T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "고등교육",
-      "score": 64,
-      "snapshotDate": "2026-08-30"
+      "score": 54,
+      "snapshotDate": "2026-08-31"
     },
     {
       "id": "5ac435d84d87",
@@ -162,8 +202,8 @@
       "publishedAt": "2026-08-27T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "고등교육",
-      "score": 64,
-      "snapshotDate": "2026-08-30"
+      "score": 54,
+      "snapshotDate": "2026-08-31"
     },
     {
       "id": "7479eb90ce00",
@@ -174,8 +214,8 @@
       "publishedAt": "2026-08-27T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "입시·사교육",
-      "score": 60,
-      "snapshotDate": "2026-08-30"
+      "score": 50,
+      "snapshotDate": "2026-08-31"
     },
     {
       "id": "c1fe939d27e4",
@@ -274,7 +314,7 @@
       "description": "교육부 공식 보도자료",
       "category": "기타",
       "score": 54,
-      "snapshotDate": "2026-08-30"
+      "snapshotDate": "2026-08-31"
     },
     {
       "id": "5ea2d69d7531",
@@ -286,7 +326,7 @@
       "description": "교육부 공식 보도자료",
       "category": "AI·디지털",
       "score": 54,
-      "snapshotDate": "2026-08-30"
+      "snapshotDate": "2026-08-31"
     },
     {
       "id": "19e8165b5dae",
@@ -298,7 +338,7 @@
       "description": "교육부 공식 보도자료",
       "category": "기타",
       "score": 50,
-      "snapshotDate": "2026-08-30"
+      "snapshotDate": "2026-08-31"
     },
     {
       "id": "796498d222a1",
@@ -310,7 +350,7 @@
       "description": "교육부 공식 보도자료",
       "category": "유·초중등",
       "score": 50,
-      "snapshotDate": "2026-08-30"
+      "snapshotDate": "2026-08-31"
     },
     {
       "id": "aa9dc7db9810",
@@ -430,7 +470,7 @@
       "description": "교육부 공식 보도자료",
       "category": "입시·사교육",
       "score": 50,
-      "snapshotDate": "2026-08-30"
+      "snapshotDate": "2026-08-31"
     },
     {
       "id": "9b182ca8ed8d",
@@ -442,7 +482,7 @@
       "description": "교육부 공식 보도자료",
       "category": "기타",
       "score": 50,
-      "snapshotDate": "2026-08-30"
+      "snapshotDate": "2026-08-31"
     },
     {
       "id": "1aea6474ff1f",
