@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30T21:34:24.020Z",
-  "generatedAtKST": "2026-08-31T06:34:22.012+09:00",
+  "generatedAt": "2026-08-30T22:31:15.857Z",
+  "generatedAtKST": "2026-08-31T07:31:14.104+09:00",
   "date": "2026-08-31",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
@@ -13,10 +13,10 @@
     "2026년 교육기본통계 조사 결과 발표 — 교육부"
   ],
   "stats": {
-    "total": 19,
+    "total": 18,
     "official": 10,
-    "domestic": 8,
-    "foreign": 1
+    "domestic": 6,
+    "foreign": 2
   },
   "items": [
     {
@@ -86,6 +86,17 @@
       "score": 54
     },
     {
+      "id": "ac341f3ee068",
+      "title": "전남인재평생교육진흥원, 평생교육 활성화 공로 교육부장관상 수상",
+      "url": "https://www.anewsa.com/detail.php?number=3193510",
+      "source": "아시아뉴스통신",
+      "kind": "domestic",
+      "publishedAt": "2026-08-30T08:04:00.000Z",
+      "description": "지난 27일 청주 오스코 컨벤션센터에서 열린 ‘2026 대한민국 문해교육 정책전시회’에서 전남인재평생교육진흥원 설립 이래 처음으로 교육부장관 표창을 수상하는 영예를 안았다./사진제공=전남인평원 [아시아뉴스통신=고정언 기자]전남인재평생교육진흥원(원장 직무대행 심영희 사무처장)은 지난 27..",
+      "category": "지역·평생교육",
+      "score": 53
+    },
+    {
       "id": "7479eb90ce00",
       "title": "학교 역사교육 활성화를 위한 교육부-독립기념관 업무협약(MOU) 체결",
       "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107050&lev=0&m=020402",
@@ -141,28 +152,6 @@
       "score": 50
     },
     {
-      "id": "a660b3b47d03",
-      "title": "최은옥 차관, 대학총장세미나 참석…고등교육 정책 방향 논의",
-      "url": "https://www.newspim.com/news/view/20260828000148",
-      "source": "뉴스핌",
-      "kind": "domestic",
-      "publishedAt": "2026-08-28T04:31:00.000Z",
-      "description": "[서울=뉴스핌] 황혜영 기자 = 최은옥 교육부 차관이 28일 제주에서 열리는 '2026년 한국대학교육협의회 하계 대학총장세미나'에 참석해 대학 총장들과 향후 고등교육 정책 방향을 논의한다.교육부에 따르면 최 차관은 이날 세미나에서 인구구조 변화와 인공지능(AI) 대전환 ...",
-      "category": "AI·디지털",
-      "score": 47
-    },
-    {
-      "id": "fdae1c5e76ab",
-      "title": "경기도평생교육진흥원, 문해교육 성과 '교육부 장관 표창도 수상'",
-      "url": "https://www.lecturernews.com/news/articleView.html?idxno=209544",
-      "source": "한국강사신문",
-      "kind": "domestic",
-      "publishedAt": "2026-08-29T02:48:00.000Z",
-      "description": "[한국강사신문 이미숙 기자] 경기도평생교육진흥원이 성인 문해교육과 디지털 문해 역량 강화에 기여한 성과를 인정받아 교육부 장관 표창을 받았다.경기도평생교육진흥원은 8월 27일부터 28일까지 충북 청주 오스코 컨벤션센터에서 열린 ‘제1회 대한민국 문해교육 정책전시회’에 참여해 경기도의 문해교육 정책과 주요 성과를 소개했다고 28일 밝혔다.교육부가 주최하고 국 ...",
-      "category": "AI·디지털",
-      "score": 43
-    },
-    {
       "id": "2a1a3206293a",
       "title": "하나은행, 교육부장관 표창 수상…금융문해교육 활성화",
       "url": "https://www.fnnews.com/news/202608281351329779",
@@ -196,17 +185,6 @@
       "score": 43
     },
     {
-      "id": "7d66719060e3",
-      "title": "최은옥 교육차관, 대교협 하계 총장세미나 참석…정책방향 논의",
-      "url": "https://www.yna.co.kr/view/AKR20260828041700530",
-      "source": "연합뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-08-28T02:41:00.000Z",
-      "description": "(세종=연합뉴스) 고상민 기자 = 최은옥 교육부 차관은 28일 오후 제주에서 열리는 '2026년 한국대학교육협의회(대교협) 하계 대학총장세미나'에 참석한다. 최 차관은 사회·환경 변화에 대비하는 '고등교육 정책방향'과 관련해 대학 총장들과 논의하는 시간을 갖는다. 앞서 교육부는 정책연구와 대학 현장과의 소통을 거쳐 '고등교육 정책방향'을 마련했다. 이번 세 ...",
-      "category": "고등교육",
-      "score": 43
-    },
-    {
       "id": "c21f6777063c",
       "title": "경기도평생교육진흥원, 평생교육 유공 표창 수상·문해교육 정책 홍보체험관 운영",
       "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=788415",
@@ -230,6 +208,20 @@
       "originalTitle": "Sungyeon Kwon Assumes Deputy Superintendent Role at Daegu Office of Education: \"Brings Extensive Educational Administration Experience\"",
       "titleKo": "권성연 대구교육청 부교육감 취임: \"폭넓은 교육행정 경험 선사\"",
       "summaryKo": "대구광역시교육청은 교육부 일반직 고위간부공무원인 권성연 (54)..."
+    },
+    {
+      "id": "5faf16185f42",
+      "title": "South Korea military academy merger plan draws heated opposition",
+      "url": "https://www.upi.com/Top_News/World-News/2026/08/26/military-academies-reform-merging-into-one/3151787789597/",
+      "source": "UPI",
+      "kind": "foreign",
+      "publishedAt": "2026-08-26T13:16:00.000Z",
+      "description": "S. Korea's first public hearing on merging three service academies turned heated as supporters and opponents clashed over military education reform.",
+      "category": "기타",
+      "score": 30,
+      "originalTitle": "South Korea military academy merger plan draws heated opposition",
+      "titleKo": "한국 사관학교 병합 계획은 열띤 반대를 이끌어 냅니다.",
+      "summaryKo": "S. 한국 최초의 복무 아카데미 병합 공청회는 군사 교육 개혁에 대한 지지자와 반대자가 충돌하면서 열띤 반응을 보였다."
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -239,18 +231,19 @@
     "throughDate": "2026-08-31",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-08-29T15:00:00.000Z",
-    "windowEnd": "2026-08-30T21:34:24.020Z",
+    "windowEnd": "2026-08-30T22:31:15.857Z",
     "itemIds": [
-      "893ac2bdb582"
+      "893ac2bdb582",
+      "ac341f3ee068"
     ],
     "stats": {
-      "total": 1,
+      "total": 2,
       "official": 0,
-      "domestic": 1,
+      "domestic": 2,
       "foreign": 0
     },
-    "headline": "오늘 아침 교육뉴스는 AI·디지털 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 1건이 확인됐습니다. 국내 언론에서는 [지금 노려볼 외교시장은? 태국 ] AI 교육 전환 본격화…‘K-에듀테크’ 아세안 교두보 부상 등이 주요하게 다뤄졌습니다. 전체적으로는 AI·디지털 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "headline": "오늘 아침 교육뉴스는 AI·디지털·지역·평생교육 이슈를 중심으로 형성됐습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 2건이 확인됐습니다. 국내 언론에서는 [지금 노려볼 외교시장은? 태국 ] AI 교육 전환 본격화…‘K-에듀테크’ 아세안 교두보 부상와 전남인재평생교육진흥원, 평생교육 활성화 공로 교육부장관상 수상 등이 주요하게 다뤄졌습니다. 전체적으로는 AI·디지털·지역·평생교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "AI·디지털",
@@ -259,10 +252,19 @@
         "sources": [
           "코리아포스트"
         ]
+      },
+      {
+        "title": "지역·평생교육",
+        "summary": "전남인재평생교육진흥원, 평생교육 활성화 공로 교육부장관상 수상",
+        "why": "지역 격차와 평생학습 접근성에 영향을 줄 수 있어 지역별 집행 여건을 점검할 필요가 있습니다.",
+        "sources": [
+          "아시아뉴스통신"
+        ]
       }
     ],
     "watchpoints": [
-      "AI·디지털: AI·디지털 전환 정책은 교육과정·교원역량·인프라와 연결되므로 실행 여건과 현장 적용성을 함께 봐야 합니다."
+      "AI·디지털: AI·디지털 전환 정책은 교육과정·교원역량·인프라와 연결되므로 실행 여건과 현장 적용성을 함께 봐야 합니다.",
+      "지역·평생교육: 지역 격차와 평생학습 접근성에 영향을 줄 수 있어 지역별 집행 여건을 점검할 필요가 있습니다."
     ]
   }
 }
