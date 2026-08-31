@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T21:34:53.143Z",
+  "generatedAt": "2026-08-31T22:31:24.459Z",
   "retentionDays": 30,
   "days": [
     "2026-09-01",
@@ -24,25 +24,13 @@
       "snapshotDate": "2026-09-01"
     },
     {
-      "id": "7da1c0c106e8",
-      "title": "경북여성정책개발원, 대학·복지기관과 '글로컬 AI 파트너' 구축",
-      "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EC%9D%BC%EB%B0%98/%EA%B2%BD%EB%B6%81%EC%97%AC%EC%84%B1%EC%A0%95%EC%B1%85%EA%B0%9C%EB%B0%9C%EC%9B%90-%EB%8C%80%ED%95%99-%EB%B3%B5%EC%A7%80%EA%B8%B0%EA%B4%80%EA%B3%BC-%EA%B8%80%EB%A1%9C%EC%BB%AC-ai-%ED%8C%8C%ED%8A%B8%EB%84%88-%EA%B5%AC%EC%B6%95/ar-AA2bgbZk",
-      "source": "매일신문 on MSN",
+      "id": "f3910f4488ff",
+      "title": "엔지니어링협회, 4본부 체제로 조직개편…디지털혁신본부 신설",
+      "url": "https://news.tf.co.kr/read/economy/2360096.htm",
+      "source": "더팩트",
       "kind": "domestic",
-      "publishedAt": "2026-08-31T10:28:00.000Z",
-      "description": "경북여성정책개발원이 국립경국대학교, 지역 복지기관과 손잡고 노인·장애인 등 디지털 취약계층의 인공지능(AI) 활용을 돕는 지역사회 안전망 구축에 나선다. 31일 경북여성정책개발원과 국립경국대학교, 지역 내 11개 복지기관이 '로컬 AI 퍼실리테이터 양 ...",
-      "category": "AI·디지털",
-      "score": 57,
-      "snapshotDate": "2026-09-01"
-    },
-    {
-      "id": "c0faf662a7aa",
-      "title": "고대구로병원 개방형실험실, AI 정책·ESG 활용전략 제시",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3011147",
-      "source": "의학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-08-31T09:00:00.000Z",
-      "description": "첫 번째 강연에 나선 고대구로병원 개방형실험실 운영기획실 박윤수 팀장 (전 국회 보건복지위원회 선임비서관)은 정부가 발표한 AI 기본의료 전략을 토대로 디지털헬스케어 시장 변화와 스타트업의 정책 활용 방안을 짚었다.",
+      "publishedAt": "2026-08-31T03:00:00.000Z",
+      "description": "[더팩트｜이중삼 기자] 한국엔지니어링협회가 정책·회원 서비스와 디지털 전환 기능을 강화하는 방향으로 조직을 전면 재편한다. 특히 엔지니어링산업의 AI·DX 전환을 전담하는 디지털혁신본부를 신설해 미래 성장 기반 마련에 나선다.",
       "category": "AI·디지털",
       "score": 61,
       "snapshotDate": "2026-09-01"
@@ -276,7 +264,7 @@
       "originalTitle": "Sungyeon Kwon Assumes Deputy Superintendent Role at Daegu Office of Education: \"Brings Extensive Educational Administration Experience\"",
       "titleKo": "권성연 대구교육청 부교육감 취임: \"폭넓은 교육행정 경험 선사\"",
       "summaryKo": "대구광역시교육청은 교육부 일반직 고위간부공무원인 권성연 (54)...",
-      "snapshotDate": "2026-08-31"
+      "snapshotDate": "2026-09-01"
     },
     {
       "id": "7c083603e3f0",
@@ -383,7 +371,7 @@
       "publishedAt": "2026-08-26T13:16:00.000Z",
       "description": "S. Korea's first public hearing on merging three service academies turned heated as supporters and opponents clashed over military education reform.",
       "category": "기타",
-      "score": 31,
+      "score": 30,
       "originalTitle": "South Korea military academy merger plan draws heated opposition",
       "titleKo": "한국 사관학교 병합 계획은 열띤 반대를 이끌어 냅니다.",
       "summaryKo": "S. 한국 최초의 복무 아카데미 병합 공청회는 군사 교육 개혁에 대한 지지자와 반대자가 충돌하면서 열띤 반응을 보였다.",

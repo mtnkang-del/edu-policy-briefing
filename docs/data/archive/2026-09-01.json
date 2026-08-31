@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T21:34:48.541Z",
-  "generatedAtKST": "2026-09-01T06:34:46.130+09:00",
+  "generatedAt": "2026-08-31T22:31:18.309Z",
+  "generatedAtKST": "2026-09-01T07:31:13.636+09:00",
   "date": "2026-09-01",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
@@ -8,15 +8,15 @@
   "briefing": [
     "교육부-한국항공우주산업 업무협약식 및 고졸 채용설명회 개최 — 교육부",
     "한국-싱가포르, 이공계(STEM) 교사 교류로 미래 인재 양성 협력 강화 — 교육부",
-    "고대구로병원 개방형실험실, AI 정책·ESG 활용전략 제시 — 의학신문",
+    "엔지니어링협회, 4본부 체제로 조직개편…디지털혁신본부 신설 — 더팩트",
     "인공지능(AI) 교과, 교원이 주도하여 교육자료부터 인정교과서까지 만든다 — 교육부",
-    "경북여성정책개발원, 대학·복지기관과 '글로컬 AI 파트너' 구축 — 매일신문 on MSN"
+    "2026년 8월 대학정보공시 분석 결과 발표 — 교육부"
   ],
   "stats": {
     "total": 20,
     "official": 10,
-    "domestic": 9,
-    "foreign": 1
+    "domestic": 8,
+    "foreign": 2
   },
   "items": [
     {
@@ -42,13 +42,13 @@
       "score": 70
     },
     {
-      "id": "c0faf662a7aa",
-      "title": "고대구로병원 개방형실험실, AI 정책·ESG 활용전략 제시",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3011147",
-      "source": "의학신문",
+      "id": "f3910f4488ff",
+      "title": "엔지니어링협회, 4본부 체제로 조직개편…디지털혁신본부 신설",
+      "url": "https://news.tf.co.kr/read/economy/2360096.htm",
+      "source": "더팩트",
       "kind": "domestic",
-      "publishedAt": "2026-08-31T09:00:00.000Z",
-      "description": "첫 번째 강연에 나선 고대구로병원 개방형실험실 운영기획실 박윤수 팀장 (전 국회 보건복지위원회 선임비서관)은 정부가 발표한 AI 기본의료 전략을 토대로 디지털헬스케어 시장 변화와 스타트업의 정책 활용 방안을 짚었다.",
+      "publishedAt": "2026-08-31T03:00:00.000Z",
+      "description": "[더팩트｜이중삼 기자] 한국엔지니어링협회가 정책·회원 서비스와 디지털 전환 기능을 강화하는 방향으로 조직을 전면 재편한다. 특히 엔지니어링산업의 AI·DX 전환을 전담하는 디지털혁신본부를 신설해 미래 성장 기반 마련에 나선다.",
       "category": "AI·디지털",
       "score": 61
     },
@@ -62,17 +62,6 @@
       "description": "교육부 공식 보도자료",
       "category": "AI·디지털",
       "score": 58
-    },
-    {
-      "id": "7da1c0c106e8",
-      "title": "경북여성정책개발원, 대학·복지기관과 '글로컬 AI 파트너' 구축",
-      "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EC%9D%BC%EB%B0%98/%EA%B2%BD%EB%B6%81%EC%97%AC%EC%84%B1%EC%A0%95%EC%B1%85%EA%B0%9C%EB%B0%9C%EC%9B%90-%EB%8C%80%ED%95%99-%EB%B3%B5%EC%A7%80%EA%B8%B0%EA%B4%80%EA%B3%BC-%EA%B8%80%EB%A1%9C%EC%BB%AC-ai-%ED%8C%8C%ED%8A%B8%EB%84%88-%EA%B5%AC%EC%B6%95/ar-AA2bgbZk",
-      "source": "매일신문 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-08-31T10:28:00.000Z",
-      "description": "경북여성정책개발원이 국립경국대학교, 지역 복지기관과 손잡고 노인·장애인 등 디지털 취약계층의 인공지능(AI) 활용을 돕는 지역사회 안전망 구축에 나선다. 31일 경북여성정책개발원과 국립경국대학교, 지역 내 11개 복지기관이 '로컬 AI 퍼실리테이터 양 ...",
-      "category": "AI·디지털",
-      "score": 57
     },
     {
       "id": "c09781f02639",
@@ -237,10 +226,24 @@
       "publishedAt": "2026-08-26T13:16:00.000Z",
       "description": "S. Korea's first public hearing on merging three service academies turned heated as supporters and opponents clashed over military education reform.",
       "category": "기타",
-      "score": 31,
+      "score": 30,
       "originalTitle": "South Korea military academy merger plan draws heated opposition",
       "titleKo": "한국 사관학교 병합 계획은 열띤 반대를 이끌어 냅니다.",
       "summaryKo": "S. 한국 최초의 복무 아카데미 병합 공청회는 군사 교육 개혁에 대한 지지자와 반대자가 충돌하면서 열띤 반응을 보였다."
+    },
+    {
+      "id": "a39d820825d8",
+      "title": "Sungyeon Kwon Assumes Deputy Superintendent Role at Daegu Office of Education: \"Brings Extensive Educational Administration Experience\"",
+      "url": "https://www.asiae.co.kr/en/article/2026082815170645358",
+      "source": "Asia Economy",
+      "kind": "foreign",
+      "publishedAt": "2026-08-27T23:17:00.000Z",
+      "description": "The Daegu Metropolitan Office of Education announced that Sungyeon Kwon (54), a senior executive official in general service at the Ministry of Educat ...",
+      "category": "기타",
+      "score": 27,
+      "originalTitle": "Sungyeon Kwon Assumes Deputy Superintendent Role at Daegu Office of Education: \"Brings Extensive Educational Administration Experience\"",
+      "titleKo": "권성연 대구교육청 부교육감 취임: \"폭넓은 교육행정 경험 선사\"",
+      "summaryKo": "대구광역시교육청은 교육부 일반직 고위간부공무원인 권성연 (54)..."
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -250,12 +253,11 @@
     "throughDate": "2026-09-01",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-08-30T15:00:00.000Z",
-    "windowEnd": "2026-08-31T21:34:48.541Z",
+    "windowEnd": "2026-08-31T22:31:18.309Z",
     "itemIds": [
       "7ccf4f29ef2d",
       "81cd38bd726f",
-      "c0faf662a7aa",
-      "7da1c0c106e8",
+      "f3910f4488ff",
       "f39e17eedc04",
       "8f6095a024b3",
       "2ca523c7bdbd",
@@ -265,22 +267,22 @@
       "6a1eaae77040"
     ],
     "stats": {
-      "total": 11,
+      "total": 10,
       "official": 2,
-      "domestic": 9,
+      "domestic": 8,
       "foreign": 0
     },
     "headline": "오늘 아침 교육뉴스는 AI·디지털·교원·조직·고등교육 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 11건이 확인됐습니다. 교육부는 교육부-한국항공우주산업 업무협약식 및 고졸 채용설명회 개최와 한국-싱가포르, 이공계(STEM) 교사 교류로 미래 인재 양성 협력 강화 등을 공식 발표했습니다. 국내 언론에서는 고대구로병원 개방형실험실, AI 정책·ESG 활용전략 제시와 경북여성정책개발원, 대학·복지기관과 '글로컬 AI 파트너' 구축 등이 주요하게 다뤄졌습니다. 전체적으로는 AI·디지털·교원·조직·고등교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 10건이 확인됐습니다. 교육부는 교육부-한국항공우주산업 업무협약식 및 고졸 채용설명회 개최와 한국-싱가포르, 이공계(STEM) 교사 교류로 미래 인재 양성 협력 강화 등을 공식 발표했습니다. 국내 언론에서는 엔지니어링협회, 4본부 체제로 조직개편…디지털혁신본부 신설와 한국맥도날드, 디지털 문해교육 현장 지원 성과 인정…권순빈 점장 교육부 장관상 등이 주요하게 다뤄졌습니다. 전체적으로는 AI·디지털·교원·조직·고등교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "AI·디지털",
-        "summary": "고대구로병원 개방형실험실, AI 정책·ESG 활용전략 제시 · 경북여성정책개발원, 대학·복지기관과 '글로컬 AI 파트너' 구축 · 한국맥도날드, 디지털 문해교육 현장 지원 성과 인정…권순빈 점장 교육부 장관상",
+        "summary": "엔지니어링협회, 4본부 체제로 조직개편…디지털혁신본부 신설 · 한국맥도날드, 디지털 문해교육 현장 지원 성과 인정…권순빈 점장 교육부 장관상 · 한국방송통신대학교, '문해교육 정책전시회'서 AI·문해교육 체험 제공",
         "why": "AI·디지털 전환 정책은 교육과정·교원역량·인프라와 연결되므로 실행 여건과 현장 적용성을 함께 봐야 합니다.",
         "sources": [
-          "의학신문",
-          "매일신문 on MSN",
-          "로이슈"
+          "더팩트",
+          "로이슈",
+          "아시아투데이 on MSN"
         ]
       },
       {
