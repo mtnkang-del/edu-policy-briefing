@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T22:31:21.219Z",
+  "generatedAt": "2026-08-31T12:18:35.251Z",
   "retentionDays": 30,
   "days": [
     "2026-08-31",
@@ -11,14 +11,74 @@
   ],
   "items": [
     {
-      "id": "ac341f3ee068",
-      "title": "전남인재평생교육진흥원, 평생교육 활성화 공로 교육부장관상 수상",
-      "url": "https://www.anewsa.com/detail.php?number=3193510",
-      "source": "아시아뉴스통신",
+      "id": "8f6095a024b3",
+      "title": "최은옥 교육부 차관, 한국대학교육협의회하계 총장세미나 참석",
+      "url": "https://www.koreasisailbo.com/2368448",
+      "source": "시사일보",
       "kind": "domestic",
-      "publishedAt": "2026-08-30T08:04:00.000Z",
-      "description": "지난 27일 청주 오스코 컨벤션센터에서 열린 ‘2026 대한민국 문해교육 정책전시회’에서 전남인재평생교육진흥원 설립 이래 처음으로 교육부장관 표창을 수상하는 영예를 안았다./사진제공=전남인평원 [아시아뉴스통신=고정언 기자]전남인재평생교육진흥원(원장 직무대행 심영희 사무처장)은 지난 27..",
+      "publishedAt": "2026-08-31T02:24:00.000Z",
+      "description": "[시사일보=박대석 기자] 최은옥 교육부 차관은 8월 28일, 제주에서 열리는 ‘2026년 한국대학교육협의회(회장 이기정, 한양대학교 총장) 하계 대학총장세미나’에 참석한다. 최은옥 차관은 향후 급변하는 사회・환경 변화에 대비하는 ‘고등교육 정책 방향(안)’에 대해 총장들과 논의하는 시간을 갖는다. 교육부는 정책연구와 대학 현장과의 소통 등을 거쳐 본 정책 ...",
+      "category": "고등교육",
+      "score": 53,
+      "snapshotDate": "2026-08-31"
+    },
+    {
+      "id": "e8dc75ff7c4b",
+      "title": "전남인재평생교육진흥원, 평생교육 활성화 공로 교육부장관상 수상",
+      "url": "https://www.newsprime.co.kr/news/article.html?no=745668",
+      "source": "프라임경제",
+      "kind": "domestic",
+      "publishedAt": "2026-08-31T02:10:00.000Z",
+      "description": "[프라임경제] 전남인재평생교육진흥원이 지난 27일 청주 오스코 컨벤션센터에서 열린 '2026 대한민국 문해교육 정책전시회'에서 평생교육 활성화 및 지역 주민의 학습 기회를 확대한 공로를 인정받아 설립 이래 처음으로 교육부장관 표창을 수상했다.​진흥원은 그동안 교육 접근성이 낮은 지역을 직접 찾아가는 문해교육을..",
       "category": "지역·평생교육",
+      "score": 53,
+      "snapshotDate": "2026-08-31"
+    },
+    {
+      "id": "7ccf4f29ef2d",
+      "title": "교육부-한국항공우주산업 업무협약식 및 고졸 채용설명회 개최",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107075&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-31T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "기타",
+      "score": 70,
+      "snapshotDate": "2026-08-31"
+    },
+    {
+      "id": "81cd38bd726f",
+      "title": "한국-싱가포르, 이공계(STEM) 교사 교류로 미래 인재 양성 협력 강화",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107074&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-31T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "교원·조직",
+      "score": 70,
+      "snapshotDate": "2026-08-31"
+    },
+    {
+      "id": "f39e17eedc04",
+      "title": "한국맥도날드, 디지털 문해교육 현장 지원 성과 인정…권순빈 점장 교육부 장관상",
+      "url": "https://www.lawissue.co.kr/view.php?ud=202608312027496387204ead0791_12",
+      "source": "로이슈",
+      "kind": "domestic",
+      "publishedAt": "2026-08-30T23:29:00.000Z",
+      "description": "한국맥도날드 창원시티세븐점 권순빈 점장이 디지털 문해교육 현장에서 시니어 교육을 지원한 공로를 인정받아 교육부 장관상을 받았다.한국맥도날드는 31일 지난 27일 충북 청주 오스코에서 열린 ‘제1회 대한민국 문해교육 정책전시회’의 문해교육 유공자 표창에서 권순빈 점장이 교육부 장관상을 수 ...",
+      "category": "AI·디지털",
+      "score": 53,
+      "snapshotDate": "2026-08-31"
+    },
+    {
+      "id": "6a1eaae77040",
+      "title": "교육부, 강원특별자치도교육청 부교육감으로 김태훈 대구광역시교육청 부교육감 임명",
+      "url": "http://jeongpil.com/2654109",
+      "source": "정필",
+      "kind": "domestic",
+      "publishedAt": "2026-08-30T17:00:00.000Z",
+      "description": "[정필=김정훈 교육전문기자 kspa@jeongpil.com] 교육부는 2026. 9. 1. 자 인사발령으로 강원특별자치도교육청 부교육감에 김태훈 현(現) 대구광역시교육청 부교육감을 임명했다. 이번에 부교육감으로 취임하는 김 부교육감은 강릉고등학교와 서울대학교 국민윤리교육과를 졸업했다. 1994년 제37회 행정고시에 합격해 공직에 입문했다. 2015년 일반직 ...",
+      "category": "교원·조직",
       "score": 53,
       "snapshotDate": "2026-08-31"
     },
@@ -28,10 +88,10 @@
       "url": "https://www.koreapost.co.kr/news/articleView.html?idxno=88566",
       "source": "코리아포스트",
       "kind": "domestic",
-      "publishedAt": "2026-08-30T02:37:00.000Z",
+      "publishedAt": "2026-08-30T00:00:00.000Z",
       "description": "방콕무역관에 따르면 ZEP QUIZ는 정식 출시 전 베타서비스 기간에 태국 이용자 약 50만명과 누적 플레이 100만회를 기록했다. 태국어 지원뿐 아니라 전통 의상과 사원, 야시장 등 현지 문화를 콘텐츠에 반영한 점이 초기 이용자 확보에 도움이 된 것으로 분석됐다. 현지 시장에서는 SkillLane, OpenDurian, Globish, Conicle 등 ...",
       "category": "AI·디지털",
-      "score": 57,
+      "score": 47,
       "snapshotDate": "2026-08-31"
     },
     {
@@ -43,8 +103,8 @@
       "publishedAt": "2026-08-29T02:48:00.000Z",
       "description": "[한국강사신문 이미숙 기자] 경기도평생교육진흥원이 성인 문해교육과 디지털 문해 역량 강화에 기여한 성과를 인정받아 교육부 장관 표창을 받았다.경기도평생교육진흥원은 8월 27일부터 28일까지 충북 청주 오스코 컨벤션센터에서 열린 ‘제1회 대한민국 문해교육 정책전시회’에 참여해 경기도의 문해교육 정책과 주요 성과를 소개했다고 28일 밝혔다.교육부가 주최하고 국 ...",
       "category": "AI·디지털",
-      "score": 53,
-      "snapshotDate": "2026-08-30"
+      "score": 43,
+      "snapshotDate": "2026-08-31"
     },
     {
       "id": "e444c8d4c52d",
@@ -80,19 +140,7 @@
       "description": "하나은행이 지난 27일 충북 '청주오스코'에서 열린 '2026년 문해교육 유공표창 시상식'에서 금융문해교육 활성화에 기여한 공로를 인정받아 교육부장관 표창을 수상했다.하나은행은 지난 2023년부터 교육부, 국가평생교육진흥원과 협력해 '디지털 금융문해교과서'와 교..",
       "category": "AI·디지털",
       "score": 43,
-      "snapshotDate": "2026-08-31"
-    },
-    {
-      "id": "de92c8533bd9",
-      "title": "하나은행, 금융문해교육 활성화 공로 ‘교육부장관 표창’",
-      "url": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=529133",
-      "source": "시사매거진",
-      "kind": "domestic",
-      "publishedAt": "2026-08-28T06:09:00.000Z",
-      "description": "[시사매거진 김정임 기자] 하나은행이 문해학습자를 대상으로 금융교육과 현장 체험 프로그램을 운영해 온 공로로 교육부장관 표창을 받았다.하나은행에 따르면, 27일 충북 청주오스코에서 열린 ‘2026년 문해교육 유공표창 시상식’에서 금융문해교육 활성화에 기여한 공로를 인정받아 교육부장관 표창을 수상했다고 28일 밝혔다.이번 표창은 국가평생교육진흥원과 협력해 문 ...",
-      "category": "지역·평생교육",
-      "score": 43,
-      "snapshotDate": "2026-08-31"
+      "snapshotDate": "2026-08-30"
     },
     {
       "id": "a660b3b47d03",
@@ -116,7 +164,7 @@
       "description": "하나은행은 지난 27일 충북 ‘청주오스코’에서 개최된 ‘2026년 문해교육 유공표창 시상식’에서 금융문해교육 활성화에 기여한 공로를 높이 인정받아 교육부장관 표창을 수상했다고 28일 밝혔다.",
       "category": "지역·평생교육",
       "score": 43,
-      "snapshotDate": "2026-08-31"
+      "snapshotDate": "2026-08-30"
     },
     {
       "id": "7d66719060e3",
@@ -140,7 +188,7 @@
       "description": "[일간투데이 허필숙 기자] 경기도평생교육진흥원은 27일과 28일 충북 청주 오스코 컨벤션센터에서 열린 ‘제1회 대한민국 문해교육 정책전시회’에 참가해 경기도 문해교육 정책과 성과를 알리는 홍보체험관을 운영했다.전시회는 교육부 주최, 국가평생교육원 주관으로 개최돼 전국 ...",
       "category": "지역·평생교육",
       "score": 43,
-      "snapshotDate": "2026-08-31"
+      "snapshotDate": "2026-08-30"
     },
     {
       "id": "a39d820825d8",
@@ -151,7 +199,7 @@
       "publishedAt": "2026-08-27T23:17:00.000Z",
       "description": "The Daegu Metropolitan Office of Education announced that Sungyeon Kwon (54), a senior executive official in general service at the Ministry of Educat ...",
       "category": "기타",
-      "score": 37,
+      "score": 27,
       "originalTitle": "Sungyeon Kwon Assumes Deputy Superintendent Role at Daegu Office of Education: \"Brings Extensive Educational Administration Experience\"",
       "titleKo": "권성연 대구교육청 부교육감 취임: \"폭넓은 교육행정 경험 선사\"",
       "summaryKo": "대구광역시교육청은 교육부 일반직 고위간부공무원인 권성연 (54)...",
@@ -262,7 +310,7 @@
       "publishedAt": "2026-08-26T13:16:00.000Z",
       "description": "S. Korea's first public hearing on merging three service academies turned heated as supporters and opponents clashed over military education reform.",
       "category": "기타",
-      "score": 30,
+      "score": 31,
       "originalTitle": "South Korea military academy merger plan draws heated opposition",
       "titleKo": "한국 사관학교 병합 계획은 열띤 반대를 이끌어 냅니다.",
       "summaryKo": "S. 한국 최초의 복무 아카데미 병합 공청회는 군사 교육 개혁에 대한 지지자와 반대자가 충돌하면서 열띤 반응을 보였다.",
@@ -482,7 +530,7 @@
       "description": "교육부 공식 보도자료",
       "category": "입시·사교육",
       "score": 50,
-      "snapshotDate": "2026-08-31"
+      "snapshotDate": "2026-08-30"
     },
     {
       "id": "9b182ca8ed8d",
@@ -494,7 +542,7 @@
       "description": "교육부 공식 보도자료",
       "category": "기타",
       "score": 50,
-      "snapshotDate": "2026-08-31"
+      "snapshotDate": "2026-08-30"
     },
     {
       "id": "1aea6474ff1f",
