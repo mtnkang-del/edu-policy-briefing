@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-01T21:37:27.491Z",
-  "generatedAtKST": "2026-09-02T06:37:22.869+09:00",
+  "generatedAt": "2026-09-01T22:32:54.811Z",
+  "generatedAtKST": "2026-09-02T07:32:52.568+09:00",
   "date": "2026-09-02",
   "aiSummaryEnabled": false,
-  "foreignTranslationEnabled": true,
+  "foreignTranslationEnabled": false,
   "retentionDays": 30,
   "briefing": [
     "지역 성장을 견인할 국가대표 거점국립대학 선정 결과 발표 — 교육부",
@@ -13,10 +13,10 @@
     "전국 디지털튜터 양성센터 교육생 모집 — 교육부"
   ],
   "stats": {
-    "total": 19,
+    "total": 18,
     "official": 10,
     "domestic": 8,
-    "foreign": 1
+    "foreign": 0
   },
   "items": [
     {
@@ -216,30 +216,15 @@
       "description": "[정필=김정훈 교육전문기자 kspa@jeongpil.com] 교육부는 2026. 9. 1. 자 인사발령으로 강원특별자치도교육청 부교육감에 김태훈 현(現) 대구광역시교육청 부교육감을 임명했다. 이번에 부교육감으로 취임하는 김 부교육감은 강릉고등학교와 서울대학교 국민윤리교육과를 졸업했다. 1994년 제37회 행정고시에 합격해 공직에 입문했다. 2015년 일반직 ...",
       "category": "교원·조직",
       "score": 43
-    },
-    {
-      "id": "a39d820825d8",
-      "title": "Sungyeon Kwon Assumes Deputy Superintendent Role at Daegu Office of Education: \"Brings Extensive Educational Administration Experience\"",
-      "url": "https://www.asiae.co.kr/en/article/2026082815170645358",
-      "source": "Asia Economy",
-      "kind": "foreign",
-      "publishedAt": "2026-08-27T23:17:00.000Z",
-      "description": "The Daegu Metropolitan Office of Education announced that Sungyeon Kwon (54), a senior executive official in general service at the Ministry of Educat ...",
-      "category": "기타",
-      "score": 27,
-      "originalTitle": "Sungyeon Kwon Assumes Deputy Superintendent Role at Daegu Office of Education: \"Brings Extensive Educational Administration Experience\"",
-      "titleKo": "권성연 대구교육청 부교육감 취임: \"폭넓은 교육행정 경험 선사\"",
-      "summaryKo": "대구광역시교육청은 교육부 일반직 고위간부공무원인 권성연 (54)..."
     }
   ],
-  "translationProvider": "MyMemory MT fallback",
   "dailyDigest": {
     "ai": false,
     "date": "2026-09-01",
     "throughDate": "2026-09-02",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-08-31T15:00:00.000Z",
-    "windowEnd": "2026-09-01T21:37:27.491Z",
+    "windowEnd": "2026-09-01T22:32:54.811Z",
     "itemIds": [
       "65f3fba71bf6",
       "3648ad6f9ab4",
