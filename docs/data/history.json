@@ -1,7 +1,8 @@
 {
-  "generatedAt": "2026-09-01T22:41:17.661Z",
+  "generatedAt": "2026-09-02T21:37:54.695Z",
   "retentionDays": 30,
   "days": [
+    "2026-09-03",
     "2026-09-02",
     "2026-09-01",
     "2026-08-31",
@@ -13,6 +14,30 @@
   ],
   "items": [
     {
+      "id": "19bd286ee157",
+      "title": "교실 밖 이공계 현장으로, 내 진로를 만나러 갑니다",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107098&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-09-02T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "기타",
+      "score": 70,
+      "snapshotDate": "2026-09-03"
+    },
+    {
+      "id": "f9d122cf0436",
+      "title": "2027학년도 대학수학능력시험 9월 모의평가 출제 방향",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107106&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-09-02T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "입시·사교육",
+      "score": 70,
+      "snapshotDate": "2026-09-03"
+    },
+    {
       "id": "3bfa63e55cc7",
       "title": "서울시약 정책 최고위과정 만족도 84%…\"지속 운영 필요\"",
       "url": "https://www.dailypharm.com/user/news/342036",
@@ -21,8 +46,8 @@
       "publishedAt": "2026-09-01T10:09:00.000Z",
       "description": "약사정책 최고위 과정 수강 회원 대다수가 높은 만족도와 자기 성장을 체감하며, 지속적인 운영과 확대가 필요하다고 평가한 것으로 나타났다. 서울특별시약사회(회장 김위학) 정책위원회(부회장 이병도·위원장 이준경·나영은)가 주관한 2026 약사정책 최고위 과정 수강 회원을 대상으로 평가를 실시한 결과 이같이 조사됐다. 설문 결과 수강 회원들은 최고위 과정을 통해 ...",
       "category": "기타",
-      "score": 53,
-      "snapshotDate": "2026-09-02"
+      "score": 43,
+      "snapshotDate": "2026-09-03"
     },
     {
       "id": "3c0f91c3c86f",
@@ -30,11 +55,11 @@
       "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=789131",
       "source": "일간투데이",
       "kind": "domestic",
-      "publishedAt": "2026-09-01T04:20:00.000Z",
+      "publishedAt": "2026-09-01T04:16:00.000Z",
       "description": "[일간투데이 노덕용 기자] 교육부는 1일 강원특별자치도교육청 부교육감에 김태훈 대구광역시교육청 부교육감을 임명했다.김태훈 신임 부교육감은 강릉고등학교와 서울대학교 국민윤리교육과를 졸업하고 1994년 제37회 행정고시에 합격해 공직을 시작했다.2015년 고위공무원으로 승 ...",
       "category": "교원·조직",
-      "score": 53,
-      "snapshotDate": "2026-09-02"
+      "score": 43,
+      "snapshotDate": "2026-09-03"
     },
     {
       "id": "65f3fba71bf6",
@@ -45,8 +70,8 @@
       "publishedAt": "2026-09-01T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "고등교육",
-      "score": 74,
-      "snapshotDate": "2026-09-02"
+      "score": 64,
+      "snapshotDate": "2026-09-03"
     },
     {
       "id": "3648ad6f9ab4",
@@ -57,8 +82,8 @@
       "publishedAt": "2026-09-01T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "재정·법령",
-      "score": 74,
-      "snapshotDate": "2026-09-02"
+      "score": 64,
+      "snapshotDate": "2026-09-03"
     },
     {
       "id": "cf114b859fda",
@@ -69,8 +94,8 @@
       "publishedAt": "2026-09-01T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "기타",
-      "score": 74,
-      "snapshotDate": "2026-09-02"
+      "score": 64,
+      "snapshotDate": "2026-09-03"
     },
     {
       "id": "fdb19824a6ad",
@@ -81,8 +106,8 @@
       "publishedAt": "2026-09-01T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "입시·사교육",
-      "score": 70,
-      "snapshotDate": "2026-09-02"
+      "score": 60,
+      "snapshotDate": "2026-09-03"
     },
     {
       "id": "7515cfd390b4",
@@ -93,8 +118,8 @@
       "publishedAt": "2026-09-01T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "AI·디지털",
-      "score": 70,
-      "snapshotDate": "2026-09-02"
+      "score": 60,
+      "snapshotDate": "2026-09-03"
     },
     {
       "id": "f39e17eedc04",
@@ -130,7 +155,7 @@
       "description": "[시사일보=박대석 기자] 최은옥 교육부 차관은 8월 28일, 제주에서 열리는 ‘2026년 한국대학교육협의회(회장 이기정, 한양대학교 총장) 하계 대학총장세미나’에 참석한다. 최은옥 차관은 향후 급변하는 사회・환경 변화에 대비하는 ‘고등교육 정책 방향(안)’에 대해 총장들과 논의하는 시간을 갖는다. 교육부는 정책연구와 대학 현장과의 소통 등을 거쳐 본 정책 ...",
       "category": "고등교육",
       "score": 43,
-      "snapshotDate": "2026-09-02"
+      "snapshotDate": "2026-09-03"
     },
     {
       "id": "e8dc75ff7c4b",
@@ -154,7 +179,7 @@
       "description": "교육부 공식 보도자료",
       "category": "기타",
       "score": 60,
-      "snapshotDate": "2026-09-02"
+      "snapshotDate": "2026-09-03"
     },
     {
       "id": "81cd38bd726f",
@@ -166,7 +191,7 @@
       "description": "교육부 공식 보도자료",
       "category": "교원·조직",
       "score": 60,
-      "snapshotDate": "2026-09-02"
+      "snapshotDate": "2026-09-03"
     },
     {
       "id": "2ca523c7bdbd",
@@ -349,7 +374,7 @@
       "originalTitle": "Sungyeon Kwon Assumes Deputy Superintendent Role at Daegu Office of Education: \"Brings Extensive Educational Administration Experience\"",
       "titleKo": "권성연 대구교육청 부교육감 취임: \"폭넓은 교육행정 경험 선사\"",
       "summaryKo": "대구광역시교육청은 교육부 일반직 고위간부공무원인 권성연 (54)...",
-      "snapshotDate": "2026-09-01"
+      "snapshotDate": "2026-09-03"
     },
     {
       "id": "7c083603e3f0",
@@ -376,6 +401,18 @@
       "snapshotDate": "2026-08-27"
     },
     {
+      "id": "7479eb90ce00",
+      "title": "학교 역사교육 활성화를 위한 교육부-독립기념관 업무협약(MOU) 체결",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107050&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-08-27T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "입시·사교육",
+      "score": 50,
+      "snapshotDate": "2026-09-03"
+    },
+    {
       "id": "c49b9d7b7078",
       "title": "인공지능(AI) 교과, 교원이 주도하여 교육자료부터 인정교과서까지 만든다",
       "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107049&lev=0&m=020402",
@@ -397,18 +434,6 @@
       "description": "교육부 공식 보도자료",
       "category": "고등교육",
       "score": 54,
-      "snapshotDate": "2026-09-02"
-    },
-    {
-      "id": "7479eb90ce00",
-      "title": "학교 역사교육 활성화를 위한 교육부-독립기념관 업무협약(MOU) 체결",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107050&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-08-27T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "입시·사교육",
-      "score": 50,
       "snapshotDate": "2026-09-02"
     },
     {
