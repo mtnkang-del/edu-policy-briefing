@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T21:37:54.695Z",
+  "generatedAt": "2026-09-02T22:35:12.864Z",
   "retentionDays": 30,
   "days": [
     "2026-09-03",
@@ -46,8 +46,8 @@
       "publishedAt": "2026-09-01T10:09:00.000Z",
       "description": "약사정책 최고위 과정 수강 회원 대다수가 높은 만족도와 자기 성장을 체감하며, 지속적인 운영과 확대가 필요하다고 평가한 것으로 나타났다. 서울특별시약사회(회장 김위학) 정책위원회(부회장 이병도·위원장 이준경·나영은)가 주관한 2026 약사정책 최고위 과정 수강 회원을 대상으로 평가를 실시한 결과 이같이 조사됐다. 설문 결과 수강 회원들은 최고위 과정을 통해 ...",
       "category": "기타",
-      "score": 43,
-      "snapshotDate": "2026-09-03"
+      "score": 53,
+      "snapshotDate": "2026-09-02"
     },
     {
       "id": "3c0f91c3c86f",
@@ -374,7 +374,7 @@
       "originalTitle": "Sungyeon Kwon Assumes Deputy Superintendent Role at Daegu Office of Education: \"Brings Extensive Educational Administration Experience\"",
       "titleKo": "권성연 대구교육청 부교육감 취임: \"폭넓은 교육행정 경험 선사\"",
       "summaryKo": "대구광역시교육청은 교육부 일반직 고위간부공무원인 권성연 (54)...",
-      "snapshotDate": "2026-09-03"
+      "snapshotDate": "2026-09-01"
     },
     {
       "id": "7c083603e3f0",
@@ -836,7 +836,7 @@
       "originalTitle": "Inside South Korea’s chipmaking cram schools",
       "titleKo": "한국의 칩 제조 크램 학교 내부",
       "summaryKo": "반도체 상온 재활용 학교는 AI 붐과 눈길을 끄는 근로자 보너스로 인한 기록적인 수입에 힘입어 한국에서 가장 큰 두 칩 제조업체에 대한 적용이 급증함에 따라 서울에서 번성하고 있습니다.",
-      "snapshotDate": "2026-08-30"
+      "snapshotDate": "2026-09-03"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-02T21:37:49.923Z",
-  "generatedAtKST": "2026-09-03T06:37:47.735+09:00",
+  "generatedAt": "2026-09-02T22:35:08.046Z",
+  "generatedAtKST": "2026-09-03T07:35:05.942+09:00",
   "date": "2026-09-03",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
@@ -13,9 +13,9 @@
     "[보도참고자료]2027년 교육부 청년 핵심 지원사업 발표 — 교육부"
   ],
   "stats": {
-    "total": 14,
+    "total": 13,
     "official": 10,
-    "domestic": 3,
+    "domestic": 2,
     "foreign": 1
   },
   "items": [
@@ -130,17 +130,6 @@
       "score": 50
     },
     {
-      "id": "3bfa63e55cc7",
-      "title": "서울시약 정책 최고위과정 만족도 84%…\"지속 운영 필요\"",
-      "url": "https://www.dailypharm.com/user/news/342036",
-      "source": "데일리팜",
-      "kind": "domestic",
-      "publishedAt": "2026-09-01T10:09:00.000Z",
-      "description": "약사정책 최고위 과정 수강 회원 대다수가 높은 만족도와 자기 성장을 체감하며, 지속적인 운영과 확대가 필요하다고 평가한 것으로 나타났다. 서울특별시약사회(회장 김위학) 정책위원회(부회장 이병도·위원장 이준경·나영은)가 주관한 2026 약사정책 최고위 과정 수강 회원을 대상으로 평가를 실시한 결과 이같이 조사됐다. 설문 결과 수강 회원들은 최고위 과정을 통해 ...",
-      "category": "기타",
-      "score": 43
-    },
-    {
       "id": "3c0f91c3c86f",
       "title": "교육부, 강원교육청 부교육감에 김태훈 대구 부교육감 임명",
       "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=789131",
@@ -163,18 +152,18 @@
       "score": 43
     },
     {
-      "id": "a39d820825d8",
-      "title": "Sungyeon Kwon Assumes Deputy Superintendent Role at Daegu Office of Education: \"Brings Extensive Educational Administration Experience\"",
-      "url": "https://www.asiae.co.kr/en/article/2026082815170645358",
-      "source": "Asia Economy",
+      "id": "91d7e3ffaa57",
+      "title": "Inside South Korea’s chipmaking cram schools",
+      "url": "https://www.ft.com/content/0c9c66a6-339a-420e-9e73-178195382259?syn-25a6b1a6=1",
+      "source": "Financial Times",
       "kind": "foreign",
-      "publishedAt": "2026-08-27T23:17:00.000Z",
-      "description": "The Daegu Metropolitan Office of Education announced that Sungyeon Kwon (54), a senior executive official in general service at the Ministry of Educat ...",
-      "category": "기타",
-      "score": 27,
-      "originalTitle": "Sungyeon Kwon Assumes Deputy Superintendent Role at Daegu Office of Education: \"Brings Extensive Educational Administration Experience\"",
-      "titleKo": "권성연 대구교육청 부교육감 취임: \"폭넓은 교육행정 경험 선사\"",
-      "summaryKo": "대구광역시교육청은 교육부 일반직 고위간부공무원인 권성연 (54)..."
+      "publishedAt": "2026-08-22T17:01:00.000Z",
+      "description": "Semiconductor cram schools are flourishing in Seoul as applications to South Korea’s two biggest chipmakers surge, fuelled by record earnings from the AI boom and eye-catching worker bonuses.",
+      "category": "유·초중등",
+      "score": 30,
+      "originalTitle": "Inside South Korea’s chipmaking cram schools",
+      "titleKo": "한국의 칩 제조 크램 학교 내부",
+      "summaryKo": "반도체 상온 재활용 학교는 AI 붐과 눈길을 끄는 근로자 보너스로 인한 기록적인 수입에 힘입어 한국에서 가장 큰 두 칩 제조업체에 대한 적용이 급증함에 따라 서울에서 번성하고 있습니다."
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -184,7 +173,7 @@
     "throughDate": "2026-09-03",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-09-01T15:00:00.000Z",
-    "windowEnd": "2026-09-02T21:37:49.923Z",
+    "windowEnd": "2026-09-02T22:35:08.046Z",
     "itemIds": [
       "19bd286ee157",
       "f9d122cf0436"
