@@ -1,7 +1,8 @@
 {
-  "generatedAt": "2026-09-02T22:35:12.864Z",
+  "generatedAt": "2026-09-03T21:36:46.993Z",
   "retentionDays": 30,
   "days": [
+    "2026-09-04",
     "2026-09-03",
     "2026-09-02",
     "2026-09-01",
@@ -14,6 +15,66 @@
   ],
   "items": [
     {
+      "id": "fd22514e5b92",
+      "title": "[단독] 교육부 위원회 절반, 지난해 대면회의 '0'…9개는 4년째 개점휴업",
+      "url": "https://www.msn.com/ko-kr/news/national/%EB%8B%A8%EB%8F%85-%EA%B5%90%EC%9C%A1%EB%B6%80-%EC%9C%84%EC%9B%90%ED%9A%8C-%EC%A0%88%EB%B0%98-%EC%A7%80%EB%82%9C%ED%95%B4-%EB%8C%80%EB%A9%B4%ED%9A%8C%EC%9D%98-0-9%EA%B0%9C%EB%8A%94-4%EB%85%84%EC%A7%B8-%EA%B0%9C%EC%A0%90%ED%9C%B4%EC%97%85/ar-AA2bvRnt",
+      "source": "뉴스1 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-09-03T14:04:00.000Z",
+      "description": "위원회 34개 중 16개 대면회의 전무…6개 위원 구성도 못 해지방대·학교안전 등 핵심 정책 맡은 위원회도 유명무실 (서울=뉴스1) 조수빈 기자 = 교육부 소속 위원회 절반 가까이가 지난해 대면회의를 단 한 차례도 열지 않은 것으로 나타났다. 2023년 이후 올해 8월까지 한 번도 대면회의를 열지 않은 위원회도 9곳에 ...",
+      "category": "유·초중등",
+      "score": 53,
+      "snapshotDate": "2026-09-04"
+    },
+    {
+      "id": "7637d4bd68fa",
+      "title": "천재교과서, 세계은행 'EdTech Expo' 참가",
+      "url": "https://www.fnnews.com/news/202609030946221489",
+      "source": "파이낸셜뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-03T02:46:00.000Z",
+      "description": "(서울=뉴스1) 한민아 수습기자 = 천재교과서는 세계은행(World Bank)이 주관하는 '글로벌 에듀테크 정책 아카데미'에 참가해 국내 공교육 현장에서 축적한 AI 디지털 교육 기술과 교육 혁신 사례를 소개했다고 3일 밝혔다.이번 행사는 'AI와 교육·스킬의 미래: 정책에..",
+      "category": "AI·디지털",
+      "score": 57,
+      "snapshotDate": "2026-09-04"
+    },
+    {
+      "id": "075d8f7a8f0d",
+      "title": "2026년 산학협력 우수기업 50개 선정",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107117&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-09-03T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "기타",
+      "score": 70,
+      "snapshotDate": "2026-09-04"
+    },
+    {
+      "id": "9ae3b773a010",
+      "title": "교실 밖 배움을 알차게, 현장체험학습 우수사례 공유",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107116&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-09-03T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "기타",
+      "score": 70,
+      "snapshotDate": "2026-09-04"
+    },
+    {
+      "id": "ccadcd8b044f",
+      "title": "천재교과서, 서울 'EdTech Expo'서 AI 교육 혁신 사례 선보여",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%B2%9C%EC%9E%AC%EA%B5%90%EA%B3%BC%EC%84%9C-%EC%84%9C%EC%9A%B8-edtech-expo%EC%84%9C-ai-%EA%B5%90%EC%9C%A1-%ED%98%81%EC%8B%A0-%EC%82%AC%EB%A1%80-%EC%84%A0%EB%B3%B4%EC%97%AC/ar-AA2bsfCj",
+      "source": "한스경제 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-09-02T18:59:32.000Z",
+      "description": "| 서울=한스경제 김종효 기자 | 천재교과서는 8월 31일부터 9월 4일까지 서울 글래드 호텔 여의도에서 열린 세계은행 주관 '글로벌 에듀테크 정책 아카데미'에 참가해 AI 디지털 교육자료와 혁신 사례를 소개했다고 3일 밝혔다.이번 행사는 'AI와 교육·스킬의 미래: 정책에서 대규모 실행까지'를 주제로 진행됐다. 21개국 교육부, ICT부, 재무부 정책 입 ...",
+      "category": "AI·디지털",
+      "score": 47,
+      "snapshotDate": "2026-09-04"
+    },
+    {
       "id": "19bd286ee157",
       "title": "교실 밖 이공계 현장으로, 내 진로를 만나러 갑니다",
       "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107098&lev=0&m=020402",
@@ -22,8 +83,8 @@
       "publishedAt": "2026-09-02T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "기타",
-      "score": 70,
-      "snapshotDate": "2026-09-03"
+      "score": 60,
+      "snapshotDate": "2026-09-04"
     },
     {
       "id": "f9d122cf0436",
@@ -34,8 +95,8 @@
       "publishedAt": "2026-09-02T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "입시·사교육",
-      "score": 70,
-      "snapshotDate": "2026-09-03"
+      "score": 60,
+      "snapshotDate": "2026-09-04"
     },
     {
       "id": "3bfa63e55cc7",
@@ -59,7 +120,7 @@
       "description": "[일간투데이 노덕용 기자] 교육부는 1일 강원특별자치도교육청 부교육감에 김태훈 대구광역시교육청 부교육감을 임명했다.김태훈 신임 부교육감은 강릉고등학교와 서울대학교 국민윤리교육과를 졸업하고 1994년 제37회 행정고시에 합격해 공직을 시작했다.2015년 고위공무원으로 승 ...",
       "category": "교원·조직",
       "score": 43,
-      "snapshotDate": "2026-09-03"
+      "snapshotDate": "2026-09-04"
     },
     {
       "id": "65f3fba71bf6",
@@ -71,7 +132,7 @@
       "description": "교육부 공식 보도자료",
       "category": "고등교육",
       "score": 64,
-      "snapshotDate": "2026-09-03"
+      "snapshotDate": "2026-09-04"
     },
     {
       "id": "3648ad6f9ab4",
@@ -83,7 +144,7 @@
       "description": "교육부 공식 보도자료",
       "category": "재정·법령",
       "score": 64,
-      "snapshotDate": "2026-09-03"
+      "snapshotDate": "2026-09-04"
     },
     {
       "id": "cf114b859fda",
@@ -95,7 +156,7 @@
       "description": "교육부 공식 보도자료",
       "category": "기타",
       "score": 64,
-      "snapshotDate": "2026-09-03"
+      "snapshotDate": "2026-09-04"
     },
     {
       "id": "fdb19824a6ad",
@@ -107,7 +168,7 @@
       "description": "교육부 공식 보도자료",
       "category": "입시·사교육",
       "score": 60,
-      "snapshotDate": "2026-09-03"
+      "snapshotDate": "2026-09-04"
     },
     {
       "id": "7515cfd390b4",
@@ -119,7 +180,7 @@
       "description": "교육부 공식 보도자료",
       "category": "AI·디지털",
       "score": 60,
-      "snapshotDate": "2026-09-03"
+      "snapshotDate": "2026-09-04"
     },
     {
       "id": "f39e17eedc04",
@@ -178,8 +239,8 @@
       "publishedAt": "2026-08-31T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "기타",
-      "score": 60,
-      "snapshotDate": "2026-09-03"
+      "score": 50,
+      "snapshotDate": "2026-09-04"
     },
     {
       "id": "81cd38bd726f",
@@ -370,11 +431,11 @@
       "publishedAt": "2026-08-27T23:17:00.000Z",
       "description": "The Daegu Metropolitan Office of Education announced that Sungyeon Kwon (54), a senior executive official in general service at the Ministry of Educat ...",
       "category": "기타",
-      "score": 27,
+      "score": 30,
       "originalTitle": "Sungyeon Kwon Assumes Deputy Superintendent Role at Daegu Office of Education: \"Brings Extensive Educational Administration Experience\"",
       "titleKo": "권성연 대구교육청 부교육감 취임: \"폭넓은 교육행정 경험 선사\"",
       "summaryKo": "대구광역시교육청은 교육부 일반직 고위간부공무원인 권성연 (54)...",
-      "snapshotDate": "2026-09-01"
+      "snapshotDate": "2026-09-04"
     },
     {
       "id": "7c083603e3f0",
