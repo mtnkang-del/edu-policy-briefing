@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T21:36:46.993Z",
+  "generatedAt": "2026-09-03T22:39:28.385Z",
   "retentionDays": 30,
   "days": [
     "2026-09-04",
@@ -15,9 +15,9 @@
   ],
   "items": [
     {
-      "id": "fd22514e5b92",
+      "id": "9614206fbfe8",
       "title": "[단독] 교육부 위원회 절반, 지난해 대면회의 '0'…9개는 4년째 개점휴업",
-      "url": "https://www.msn.com/ko-kr/news/national/%EB%8B%A8%EB%8F%85-%EA%B5%90%EC%9C%A1%EB%B6%80-%EC%9C%84%EC%9B%90%ED%9A%8C-%EC%A0%88%EB%B0%98-%EC%A7%80%EB%82%9C%ED%95%B4-%EB%8C%80%EB%A9%B4%ED%9A%8C%EC%9D%98-0-9%EA%B0%9C%EB%8A%94-4%EB%85%84%EC%A7%B8-%EA%B0%9C%EC%A0%90%ED%9C%B4%EC%97%85/ar-AA2bvRnt",
+      "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EC%A4%91%EB%93%B1-%EA%B5%90%EC%9C%A1/%EB%8B%A8%EB%8F%85-%EA%B5%90%EC%9C%A1%EB%B6%80-%EC%9C%84%EC%9B%90%ED%9A%8C-%EC%A0%88%EB%B0%98-%EC%A7%80%EB%82%9C%ED%95%B4-%EB%8C%80%EB%A9%B4%ED%9A%8C%EC%9D%98-0-9%EA%B0%9C%EB%8A%94-4%EB%85%84%EC%A7%B8-%EA%B0%9C%EC%A0%90%ED%9C%B4%EC%97%85/ar-AA2bvRnt",
       "source": "뉴스1 on MSN",
       "kind": "domestic",
       "publishedAt": "2026-09-03T14:04:00.000Z",
@@ -27,15 +27,15 @@
       "snapshotDate": "2026-09-04"
     },
     {
-      "id": "7637d4bd68fa",
-      "title": "천재교과서, 세계은행 'EdTech Expo' 참가",
-      "url": "https://www.fnnews.com/news/202609030946221489",
-      "source": "파이낸셜뉴스",
+      "id": "a23b5e5241ff",
+      "title": "뉴욕시, 초·중학생 생성형 AI 교실에서 1년간 전면 금지",
+      "url": "https://www.insight.co.kr/news/571713",
+      "source": "인사이트",
       "kind": "domestic",
-      "publishedAt": "2026-09-03T02:46:00.000Z",
-      "description": "(서울=뉴스1) 한민아 수습기자 = 천재교과서는 세계은행(World Bank)이 주관하는 '글로벌 에듀테크 정책 아카데미'에 참가해 국내 공교육 현장에서 축적한 AI 디지털 교육 기술과 교육 혁신 사례를 소개했다고 3일 밝혔다.이번 행사는 'AI와 교육·스킬의 미래: 정책에..",
+      "publishedAt": "2026-09-03T06:32:00.000Z",
+      "description": "미국 최대 공립학교 시스템을 운영하는 뉴욕시가 유아부터 중학생까지 생성형 인공지능 접근을 전면 차단하는 파격 조치에 나선다. 학생들의 화면 노출 시간도 대폭 축소된다. 2일(현지시간) 조란 맘다니 뉴욕시장과 카마르 사무엘스 뉴욕시 교육감은 교실 내 AI 및 디지털 기기 사용 규제 방침을 발표했다. 이 정책은 오는 10일 시작되는 2026∼2027학년도부터 ...",
       "category": "AI·디지털",
-      "score": 57,
+      "score": 61,
       "snapshotDate": "2026-09-04"
     },
     {
@@ -63,9 +63,9 @@
       "snapshotDate": "2026-09-04"
     },
     {
-      "id": "ccadcd8b044f",
+      "id": "ac79e4261139",
       "title": "천재교과서, 서울 'EdTech Expo'서 AI 교육 혁신 사례 선보여",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%B2%9C%EC%9E%AC%EA%B5%90%EA%B3%BC%EC%84%9C-%EC%84%9C%EC%9A%B8-edtech-expo%EC%84%9C-ai-%EA%B5%90%EC%9C%A1-%ED%98%81%EC%8B%A0-%EC%82%AC%EB%A1%80-%EC%84%A0%EB%B3%B4%EC%97%AC/ar-AA2bsfCj",
+      "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EC%98%A8%EB%9D%BC%EC%9D%B8-%EA%B5%90%EC%9C%A1/%EC%B2%9C%EC%9E%AC%EA%B5%90%EA%B3%BC%EC%84%9C-%EC%84%9C%EC%9A%B8-edtech-expo-%EC%84%9C-ai-%EA%B5%90%EC%9C%A1-%ED%98%81%EC%8B%A0-%EC%82%AC%EB%A1%80-%EC%84%A0%EB%B3%B4%EC%97%AC/ar-AA2bsfCj",
       "source": "한스경제 on MSN",
       "kind": "domestic",
       "publishedAt": "2026-09-02T18:59:32.000Z",
@@ -107,8 +107,8 @@
       "publishedAt": "2026-09-01T10:09:00.000Z",
       "description": "약사정책 최고위 과정 수강 회원 대다수가 높은 만족도와 자기 성장을 체감하며, 지속적인 운영과 확대가 필요하다고 평가한 것으로 나타났다. 서울특별시약사회(회장 김위학) 정책위원회(부회장 이병도·위원장 이준경·나영은)가 주관한 2026 약사정책 최고위 과정 수강 회원을 대상으로 평가를 실시한 결과 이같이 조사됐다. 설문 결과 수강 회원들은 최고위 과정을 통해 ...",
       "category": "기타",
-      "score": 53,
-      "snapshotDate": "2026-09-02"
+      "score": 43,
+      "snapshotDate": "2026-09-04"
     },
     {
       "id": "3c0f91c3c86f",
