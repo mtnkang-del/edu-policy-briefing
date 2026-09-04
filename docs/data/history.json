@@ -1,7 +1,8 @@
 {
-  "generatedAt": "2026-09-03T22:39:28.385Z",
+  "generatedAt": "2026-09-04T22:32:10.083Z",
   "retentionDays": 30,
   "days": [
+    "2026-09-05",
     "2026-09-04",
     "2026-09-03",
     "2026-09-02",
@@ -47,8 +48,8 @@
       "publishedAt": "2026-09-03T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "기타",
-      "score": 70,
-      "snapshotDate": "2026-09-04"
+      "score": 60,
+      "snapshotDate": "2026-09-05"
     },
     {
       "id": "9ae3b773a010",
@@ -59,8 +60,8 @@
       "publishedAt": "2026-09-03T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "기타",
-      "score": 70,
-      "snapshotDate": "2026-09-04"
+      "score": 60,
+      "snapshotDate": "2026-09-05"
     },
     {
       "id": "ac79e4261139",
@@ -84,7 +85,7 @@
       "description": "교육부 공식 보도자료",
       "category": "기타",
       "score": 60,
-      "snapshotDate": "2026-09-04"
+      "snapshotDate": "2026-09-05"
     },
     {
       "id": "f9d122cf0436",
@@ -96,7 +97,7 @@
       "description": "교육부 공식 보도자료",
       "category": "입시·사교육",
       "score": 60,
-      "snapshotDate": "2026-09-04"
+      "snapshotDate": "2026-09-05"
     },
     {
       "id": "3bfa63e55cc7",
@@ -131,8 +132,8 @@
       "publishedAt": "2026-09-01T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "고등교육",
-      "score": 64,
-      "snapshotDate": "2026-09-04"
+      "score": 54,
+      "snapshotDate": "2026-09-05"
     },
     {
       "id": "3648ad6f9ab4",
@@ -143,8 +144,8 @@
       "publishedAt": "2026-09-01T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "재정·법령",
-      "score": 64,
-      "snapshotDate": "2026-09-04"
+      "score": 54,
+      "snapshotDate": "2026-09-05"
     },
     {
       "id": "cf114b859fda",
@@ -155,8 +156,8 @@
       "publishedAt": "2026-09-01T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "기타",
-      "score": 64,
-      "snapshotDate": "2026-09-04"
+      "score": 54,
+      "snapshotDate": "2026-09-05"
     },
     {
       "id": "fdb19824a6ad",
@@ -167,8 +168,8 @@
       "publishedAt": "2026-09-01T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "입시·사교육",
-      "score": 60,
-      "snapshotDate": "2026-09-04"
+      "score": 50,
+      "snapshotDate": "2026-09-05"
     },
     {
       "id": "7515cfd390b4",
@@ -179,8 +180,8 @@
       "publishedAt": "2026-09-01T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "AI·디지털",
-      "score": 60,
-      "snapshotDate": "2026-09-04"
+      "score": 50,
+      "snapshotDate": "2026-09-05"
     },
     {
       "id": "f39e17eedc04",
@@ -240,7 +241,7 @@
       "description": "교육부 공식 보도자료",
       "category": "기타",
       "score": 50,
-      "snapshotDate": "2026-09-04"
+      "snapshotDate": "2026-09-05"
     },
     {
       "id": "81cd38bd726f",
