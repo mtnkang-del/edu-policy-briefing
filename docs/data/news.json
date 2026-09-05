@@ -1,32 +1,32 @@
 {
-  "generatedAt": "2026-09-05T21:35:00.997Z",
-  "generatedAtKST": "2026-09-06T06:34:58.964+09:00",
+  "generatedAt": "2026-09-05T22:31:54.714Z",
+  "generatedAtKST": "2026-09-06T07:31:32.183+09:00",
   "date": "2026-09-06",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
-    "officialLive": 10,
-    "domesticBing": 7,
-    "domesticGoogle": 175,
-    "foreignBing": 5,
-    "foreignGoogle": 206,
-    "carried": 64,
-    "rawUnique": 351,
-    "policyRejected": 278,
-    "policyKept": 73
+    "officialLive": 0,
+    "domesticBing": 4,
+    "domesticGoogle": 176,
+    "foreignBing": 4,
+    "foreignGoogle": 200,
+    "carried": 129,
+    "rawUnique": 339,
+    "policyRejected": 270,
+    "policyKept": 69
   },
   "briefing": [
     "2026년 산학협력 우수기업 50개 선정 — 교육부",
     "교실 밖 배움을 알차게, 현장체험학습 우수사례 공유 — 교육부",
-    "지역 성장을 견인할 국가대표 거점국립대학 선정 결과 발표 — 교육부",
-    "2027년도 교육부 예산안 117.6조 원 편성 — 교육부",
-    "[보도참고자료]2027년 교육부 청년 핵심 지원사업 발표 — 교육부"
+    "초등 1·2학년 3시 하교 논란…정부 “돌봄·사교육 해소” 교원 “본질 외면” — 더퍼블릭",
+    "교실 밖 이공계 현장으로, 내 진로를 만나러 갑니다 — 교육부",
+    "2027학년도 대학수학능력시험 9월 모의평가 출제 방향 — 교육부"
   ],
   "stats": {
-    "total": 75,
-    "official": 10,
-    "domestic": 61,
+    "total": 71,
+    "official": 4,
+    "domestic": 63,
     "foreign": 4
   },
   "items": [
@@ -53,42 +53,6 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 105
-    },
-    {
-      "id": "65f3fba71bf6",
-      "title": "지역 성장을 견인할 국가대표 거점국립대학 선정 결과 발표",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107095&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-09-01T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "고등교육",
-      "policyRelevance": 100,
-      "score": 99
-    },
-    {
-      "id": "3648ad6f9ab4",
-      "title": "2027년도 교육부 예산안 117.6조 원 편성",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107087&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-09-01T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "재정·법령",
-      "policyRelevance": 100,
-      "score": 99
-    },
-    {
-      "id": "cf114b859fda",
-      "title": "[보도참고자료]2027년 교육부 청년 핵심 지원사업 발표",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107091&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-09-01T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "기타",
-      "policyRelevance": 100,
-      "score": 99
     },
     {
       "id": "3e708cf0fbd8",
@@ -128,40 +92,16 @@
       "score": 95
     },
     {
-      "id": "fdb19824a6ad",
-      "title": "정부초청 외국인 대학원 장학생, 한국에서 새로운 출발",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107089&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-09-01T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "입시·사교육",
-      "policyRelevance": 100,
-      "score": 95
-    },
-    {
-      "id": "7515cfd390b4",
-      "title": "전국 디지털튜터 양성센터 교육생 모집",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107088&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-09-01T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
+      "id": "a23b5e5241ff",
+      "title": "뉴욕시, 초·중학생 생성형 AI 교실에서 1년간 전면 금지",
+      "url": "https://www.insight.co.kr/news/571713",
+      "source": "인사이트",
+      "kind": "domestic",
+      "publishedAt": "2026-09-03T06:32:00.000Z",
+      "description": "미국 최대 공립학교 시스템을 운영하는 뉴욕시가 유아부터 중학생까지 생성형 인공지능 접근을 전면 차단하는 파격 조치에 나선다. 학생들의 화면 노출 시간도 대폭 축소된다. 2일(현지시간) 조란 맘다니 뉴욕시장과 카마르 사무엘스 뉴욕시 교육감은 교실 내 AI 및 디지털 기기 사용 규제 방침을 발표했다. 이 정책은 오는 10일 시작되는 2026∼2027학년도부터 ...",
       "category": "AI·디지털",
-      "policyRelevance": 100,
-      "score": 95
-    },
-    {
-      "id": "7ccf4f29ef2d",
-      "title": "교육부-한국항공우주산업 업무협약식 및 고졸 채용설명회 개최",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107075&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-08-31T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "기타",
-      "policyRelevance": 100,
-      "score": 95
+      "score": 90,
+      "policyRelevance": 87
     },
     {
       "id": "0ad6ce7962a9",
@@ -281,6 +221,19 @@
       "score": 79
     },
     {
+      "id": "d7d404cfb8f1",
+      "title": "내 고민 해결해줄 교육부 청년 지원정책",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZMWRHLUZacEcxTXF6dGJaclg0UklFNDF2azZkVDlXaHJaSUNyZ3pIQ1dtdXlKU3dHTE9KVXZ3UTA0WlRZdjE0OGZWZHFONGp4NmQzM3g2N3FjQnNnQUtsZUNSUGFUb1d5ektERA?oc=5",
+      "source": "korea.kr",
+      "kind": "domestic",
+      "publishedAt": "2026-09-04T00:45:00.000Z",
+      "description": "내 고민 해결해줄 교육부 청년 지원정책 korea.kr",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 81,
+      "score": 79
+    },
+    {
       "id": "fb61a2fb471e",
       "title": "[Pocus 심층 분석 기획] AI 리터러시 국가진단 도입, 챗봇과 대화 잘하는 아이의 무서운 착시",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1sbk44WEFNanU3TDg3TU0zYWl5dFM5RThObFY1aG93bEp6SzNxY01TckZaQ2VMNlZveThOTEF6YTM3MHM?oc=5",
@@ -359,32 +312,6 @@
       "score": 72
     },
     {
-      "id": "fecc703d2aad",
-      "title": "내 고민 해결해줄 교육부 청년 지원정책",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZMWRHLUZacEcxTXF6dGJaclg0UklFNDF2azZkVDlXaHJaSUNyZ3pIQ1dtdXlKU3dHTE9KVXZ3UTA0WlRZdjE0OGZWZHFONGp4NmQzM3g2N3FjQnNnQUtsZUNSUGFUb1d5ektERA?oc=5",
-      "source": "대한민국 정책브리핑",
-      "kind": "domestic",
-      "publishedAt": "2026-09-04T00:45:00.000Z",
-      "description": "내 고민 해결해줄 교육부 청년 지원정책 대한민국 정책브리핑",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 72
-    },
-    {
-      "id": "a88e23bf9b47",
-      "title": "[설명자료] 지방 국립대학은 국가가 설립한 지역의 핵심 고등교육 기관으로서 우수한 교육 여건을 갖추고 있습니다",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fUUxPM0ZoTEt4OEZqUV9FRmNwQk56UkxvLTRBMENxWEh0anRNbHk2WUFId1BWb2UtWWE3alhEUkFSTlRfdE1uZDRFbUd2SEFpNEk0NHVSNTRkbm5zMlNpdWs4TWZmcDMtU2REQndQZw?oc=5",
-      "source": "대한민국 정책브리핑",
-      "kind": "domestic",
-      "publishedAt": "2026-09-05T05:48:45.000Z",
-      "description": "[설명자료] 지방 국립대학은 국가가 설립한 지역의 핵심 고등교육 기관으로서 우수한 교육 여건을 갖추고 있습니다 대한민국 정책브리핑",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 71
-    },
-    {
       "id": "beba4c15080c",
       "title": "Telangana government to introduce new \"education policy\": CM Revanth Reddy",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY2NXR1FEbDd2ZU1oeDdEMjItRzdiTENaeGxoQlIxUFBLMUg0VnVWNGlodVdpNWdESDk2MDRYN25qcERCbmZSRmx1dWp3eUg5UTAwNnJtTERBR3A5bXluZW01MzlTWTVtZ2t4ZUVYdG5NY1dqUnp2SHhETXNDYkRNQkNtYXZHZC0xNTI0UHpWbjlJSXdIQUhYQkJtbzNtRjdDUXlVM1JrMXE2U1I1QlczaEVhT2tBV1It?oc=5",
@@ -399,6 +326,19 @@
       "originalTitle": "Telangana government to introduce new \"education policy\": CM Revanth Reddy",
       "titleKo": "텔랑가나 정부, 새로운 \"교육 정책\" 도입: CM Revanth Reddy",
       "summaryKo": "텔랑가나 정부, 새로운 \"교육 정책\" 도입: CM Revanth Reddy Big News Network.com"
+    },
+    {
+      "id": "bc4ab4ceb695",
+      "title": "대구시의회 “지방교육재정교부금 일방적 개편 반대”…정부·국회에 전면 재검토 촉구",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NTGJJckZ5dnJQX0J1cGEwQnNWRUtqNUtPUFpqcTZHbEdiUWxQWmlycVpUa3RRNEFfVXJvcjZkUHJza1lCTlVWb29LUzRkdFR2X2VEQUVib1ljb01fTS1pcmRxeGpxbjhlbFh3?oc=5",
+      "source": "웹플러스뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-02T05:50:00.000Z",
+      "description": "대구시의회 “지방교육재정교부금 일방적 개편 반대”…정부·국회에 전면 재검토 촉구 웹플러스뉴스",
+      "category": "재정·법령",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 70
     },
     {
       "id": "5ab5abde487e",
@@ -473,6 +413,19 @@
       "kind": "domestic",
       "publishedAt": "2026-09-04T07:19:00.000Z",
       "description": "충북교육청, 초등 핵심교원 대상 '질문 중심 수업·평가' 전문성 강화 연수 진행 브레이크뉴스",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 67
+    },
+    {
+      "id": "e145626a9dab",
+      "title": "인천교육청, AI로 교사 행정업무 줄인다:내외신문",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40WGY1ZEt2blF3Uk9jR3pURlFDSk1JdE5iUlQ4eXdHeTBWMWJCYVBhb2c4YmkwQWdSMkpHamx3cnNVdV9WSDkzNzFycGhucFMtSUtJbdIBZEFVX3lxTE9WQjBhT3BOdWcwek02ejllY1VFamhMYkpWODFlRzVPb0lsMk9ySlB1MENKS3pyUUsxTEFXbGtRTEFhMUtvZ3ZqSms2TUpHckxrM24xVEVQS1l1eHNkYkdtREY2TzY?oc=5",
+      "source": "naewaynews.com",
+      "kind": "domestic",
+      "publishedAt": "2026-09-03T12:04:00.000Z",
+      "description": "인천교육청, AI로 교사 행정업무 줄인다:내외신문 naewaynews.com",
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 45,
@@ -739,6 +692,19 @@
       "score": 61
     },
     {
+      "id": "1a361db372c2",
+      "title": "전국 9개 지거국 경쟁률·합격선 최근 5년 새 최고… 국립대 지원 정책 ‘변수’",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0b2VocUNnU3dSd2RiV2JwZTFiRmZOTnM0NW10dkp4Znh4ZXo1bjQ4dHZHQlNSbExHSGdZd25FYm10QVNVNl85azlYZkd5UzN5Q1d4cVpyZGxFdWxnSjd1Zy0ydkJnQQ?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-09-03T06:58:38.000Z",
+      "description": "전국 9개 지거국 경쟁률·합격선 최근 5년 새 최고… 국립대 지원 정책 ‘변수’ 한국대학신문",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 61
+    },
+    {
       "id": "1e194fadb056",
       "title": "지역의사선발 첫 수시모집 시작… 7일부터 31개 대학서 실시",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03V0tkdzFXNFk0djlWemdNQU9tblllbEdNUFpxaDFfaVhRYlpYUWNPRGU1MU9WSXl5bTliMldSSXl2NTg0YlhjZEVNbEV3RnBLVnNsdHY5bGFFSThZUzZGb213azVRUQ?oc=5",
@@ -819,10 +785,10 @@
     {
       "id": "dc12f7378a28",
       "title": "Korea's birthrate could have been 28% higher without private education competition",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOXA0X3I2RUNFYzREWEdDTHBMSEtHczB3WERQTHBYbFFBenJ6Wm5acGtPRlhuYXM1TTE4bXJZbTBsWFpZYTBSaHhfOHZDdkRwX0dmV1pZS3VRbDA5Wm9YMFhSZ0RkbjBGaGdEVG9Zd19YanBKd0NCaE9USm1wZTY1QU5nQU82LWROZVAyM3p3MmlkdUNIWGhfTU1Jckc1WXpoeU9WczU3SlBmeXltMFpwMEFyMUh0eWpMM2tGZmlCZFY2S1B3SUh5X1NNTDl3QdIBzgFBVV95cUxNOXA0X3I2RUNFYzREWEdDTHBMSEtHczB3WERQTHBYbFFBenJ6Wm5acGtPRlhuYXM1TTE4bXJZbTBsWFpZYTBSaHhfOHZDdkRwX0dmV1pZS3VRbDA5Wm9YMFhSZ0RkbjBGaGdEVG9Zd19YanBKd0NCaE9USm1wZTY1QU5nQU82LWROZVAyM3p3MmlkdUNIWGhfTU1Jckc1WXpoeU9WczU3SlBmeXltMFpwMEFyMUh0eWpMM2tGZmlCZFY2S1B3SUh5X1NNTDl3QQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWjRuMXFZVExaRzdnMzlSVzllUThZa0xBQ1NrSHF6c0V2aW5jTW9ONlZsM3hoNUFXSkZKUTN2TXZxR041TEQ3c0RkTXhlYUEySHVRbjZmelhnTVVtUThCUEI0eUpEWVBzaGNoRXlJU2V5YmpQR0ZnM2FlcU1FWThHTE5FVC1kRl9nN2JFMG00TVdwTzRBZDAySk1idXpLMXFCXzhUaFYtZHVZejlVdFlXQ1hsTldMZ28yTVlwVjlZLTV6ZXNYc0RiQ9IBzgFBVV95cUxNOXA0X3I2RUNFYzREWEdDTHBMSEtHczB3WERQTHBYbFFBenJ6Wm5acGtPRlhuYXM1TTE4bXJZbTBsWFpZYTBSaHhfOHZDdkRwX0dmV1pZS3VRbDA5Wm9YMFhSZ0RkbjBGaGdEVG9Zd19YanBKd0NCaE9USm1wZTY1QU5nQU82LWROZVAyM3p3MmlkdUNIWGhfTU1Jckc1WXpoeU9WczU3SlBmeXltMFpwMEFyMUh0eWpMM2tGZmlCZFY2S1B3SUh5X1NNTDl3QQ?oc=5",
       "source": "The Korea Times",
       "kind": "foreign",
-      "publishedAt": "2026-09-03T07:57:00.000Z",
+      "publishedAt": "2026-09-03T07:57:02.000Z",
       "description": "Korea's birthrate could have been 28% higher without private education competition The Korea Times",
       "category": "기타",
       "feedProvider": "google",
@@ -841,19 +807,6 @@
       "publishedAt": "2026-09-02T11:12:01.000Z",
       "description": "주요 교육 정책들이 9월부터 시행됩니다. Vietnam.vn",
       "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 42,
-      "score": 56
-    },
-    {
-      "id": "dad1c47f09cf",
-      "title": "'학교를 지역 성장거점으로 전환'…제2차 교육시설 기본계획 발표 - 키워드 뉴스 | 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCNUlVczNXbGwxMWlVU05nOHpfZG5CNE5oNlJkWG1EVnh3dnhDZVlZc3F3NEJWb1VLTVB1RWdCVnZkLXRFNTF4WVlScXVEYjY4anF2bVhpT21fbHFubjdRYnJFM3dlY2hTYVdQZlhWQzFadw?oc=5",
-      "source": "대한민국 정책브리핑",
-      "kind": "domestic",
-      "publishedAt": "2026-09-01T22:07:50.000Z",
-      "description": "'학교를 지역 성장거점으로 전환'…제2차 교육시설 기본계획 발표 - 키워드 뉴스 | 뉴스 대한민국 정책브리핑",
-      "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 42,
       "score": 56
@@ -911,13 +864,13 @@
       "score": 53
     },
     {
-      "id": "fe1833f827d0",
+      "id": "cef990502f1e",
       "title": "사교육 경쟁이 출산율 28% 깎아...일본의 30년 침체, 동아시아 확대될 수도 - 머니투데이",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jdjNydEN4ak1tcXNJWXpka3psSmNLaWxBamptdTRIMGI4TktaZnpYTE0wZVprNUlPVWhJdGtSQ01YSUw3ekZkR3RRbGNwWDE4Smh4LTkxWU5wRDliS3kySFN0Ul9telVjeWVF0gFwQVVfeXFMTjNhZFJLbE50U0loTlJjZHdrTUhfVlRkOFphNVFIRlpqVUt4RUt2ajZsbDFzcDBvTF94QUhacFVlbFVhR1ctTTZjLUJKRTN0NkJuN2t4RWh2NXNfVkdma25zMzczWnVRVDh1UV9SWUs1cw?oc=5",
-      "source": "mt.co.kr",
+      "source": "머니투데이",
       "kind": "domestic",
       "publishedAt": "2026-09-02T01:40:13.000Z",
-      "description": "사교육 경쟁이 출산율 28% 깎아...일본의 30년 침체, 동아시아 확대될 수도 - 머니투데이 mt.co.kr",
+      "description": "사교육 경쟁이 출산율 28% 깎아...일본의 30년 침체, 동아시아 확대될 수도 - 머니투데이 머니투데이",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 42,
@@ -976,18 +929,18 @@
       "score": 51
     },
     {
-      "id": "34244186a0c9",
-      "title": "Exclusive: Historians warn against politicizing history education",
-      "url": "https://www.msn.com/en-xl/news/other/exclusive-historians-warn-against-politicizing-history-education/ar-AA2aRjNr",
-      "source": "The Chosun Ilbo on MSN",
+      "id": "a39d820825d8",
+      "title": "Sungyeon Kwon Assumes Deputy Superintendent Role at Daegu Office of Education: \"Brings Extensive Educational Administration Experience\"",
+      "url": "https://www.asiae.co.kr/en/article/2026082815170645358",
+      "source": "Asia Economy",
       "kind": "foreign",
-      "publishedAt": "2026-08-25T00:40:15.000Z",
-      "description": "Seven historical and archaeological societies, including the Korean Historical Research Association, are set to issue a joint declaration opposing the government’s policy to expand the proportion of ...",
-      "category": "AI·디지털",
+      "publishedAt": "2026-08-27T23:17:00.000Z",
+      "description": "The Daegu Metropolitan Office of Education announced that Sungyeon Kwon (54), a senior executive official in general service at the Ministry of Educat ...",
+      "category": "기타",
       "score": 30,
-      "originalTitle": "Exclusive: Historians warn against politicizing history education",
-      "titleKo": "독점: 역사학자들이 역사 교육의 정치화를 경고하다",
-      "summaryKo": "한국역사연구회를 포함한 7개 역사 · 고고학회는 정부의 비중 확대 정책에 반대하는 공동선언문을 발표할..."
+      "originalTitle": "Sungyeon Kwon Assumes Deputy Superintendent Role at Daegu Office of Education: \"Brings Extensive Educational Administration Experience\"",
+      "titleKo": "권성연 대구교육청 부교육감 취임: \"폭넓은 교육행정 경험 선사\"",
+      "summaryKo": "대구광역시교육청은 교육부 일반직 고위간부공무원인 권성연 (54)..."
     },
     {
       "id": "174927f605d7",
@@ -1011,24 +964,23 @@
     "throughDate": "2026-09-06",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-09-04T15:00:00.000Z",
-    "windowEnd": "2026-09-05T21:35:00.997Z",
+    "windowEnd": "2026-09-05T22:31:54.714Z",
     "itemIds": [
       "3e708cf0fbd8",
       "3868e034ae73",
       "fb61a2fb471e",
       "d030e322e8da",
-      "a88e23bf9b47",
       "beba4c15080c",
       "f8f2be7a3a12"
     ],
     "stats": {
-      "total": 7,
+      "total": 6,
       "official": 0,
-      "domestic": 6,
+      "domestic": 5,
       "foreign": 1
     },
     "headline": "오늘 아침 교육뉴스는 AI·디지털·입시·사교육·유·초중등 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 7건이 확인됐습니다. 국내 언론에서는 초등 1·2학년 3시 하교 논란…정부 “돌봄·사교육 해소” 교원 “본질 외면”와 한국교원대학교, AI 시대 교육대전환 정책 해커톤 5-6일 개최 등이 주요하게 다뤄졌습니다. 해외에서는 텔랑가나 정부, 새로운 \"교육 정책\" 도입: CM Revanth Reddy 관련 보도가 확인됐습니다. 전체적으로는 AI·디지털·입시·사교육·유·초중등 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 6건이 확인됐습니다. 국내 언론에서는 초등 1·2학년 3시 하교 논란…정부 “돌봄·사교육 해소” 교원 “본질 외면”와 한국교원대학교, AI 시대 교육대전환 정책 해커톤 5-6일 개최 등이 주요하게 다뤄졌습니다. 해외에서는 텔랑가나 정부, 새로운 \"교육 정책\" 도입: CM Revanth Reddy 관련 보도가 확인됐습니다. 전체적으로는 AI·디지털·입시·사교육·유·초중등 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "AI·디지털",
@@ -1056,11 +1008,11 @@
         ]
       },
       {
-        "title": "고등교육",
-        "summary": "[설명자료] 지방 국립대학은 국가가 설립한 지역의 핵심 고등교육 기관으로서 우수한 교육 여건을 갖추고 있습니다",
-        "why": "대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다.",
+        "title": "교원·조직",
+        "summary": "학자금 대출 지연·AI 금지·교사 과부하… 2026년 미국 교육 위기의 공통 원인",
+        "why": "교원 업무·교권·인사와 직접 연결될 수 있어 현장 반응과 제도 운영상 쟁점을 살펴볼 필요가 있습니다.",
         "sources": [
-          "대한민국 정책브리핑"
+          "한국공공정책신문"
         ]
       }
     ],

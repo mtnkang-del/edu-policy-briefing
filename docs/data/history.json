@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T21:35:09.353Z",
+  "generatedAt": "2026-09-05T22:32:22.825Z",
   "retentionDays": 30,
   "days": [
     "2026-09-06",
@@ -48,20 +48,6 @@
       "snapshotDate": "2026-09-06"
     },
     {
-      "id": "a88e23bf9b47",
-      "title": "[설명자료] 지방 국립대학은 국가가 설립한 지역의 핵심 고등교육 기관으로서 우수한 교육 여건을 갖추고 있습니다",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fUUxPM0ZoTEt4OEZqUV9FRmNwQk56UkxvLTRBMENxWEh0anRNbHk2WUFId1BWb2UtWWE3alhEUkFSTlRfdE1uZDRFbUd2SEFpNEk0NHVSNTRkbm5zMlNpdWs4TWZmcDMtU2REQndQZw?oc=5",
-      "source": "대한민국 정책브리핑",
-      "kind": "domestic",
-      "publishedAt": "2026-09-05T05:48:45.000Z",
-      "description": "[설명자료] 지방 국립대학은 국가가 설립한 지역의 핵심 고등교육 기관으로서 우수한 교육 여건을 갖추고 있습니다 대한민국 정책브리핑",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 71,
-      "snapshotDate": "2026-09-06"
-    },
-    {
       "id": "d030e322e8da",
       "title": "황민선 교육부 장관: 새 학년에는 성과 경쟁을 버리고 학생 개개인의 발전에 집중합시다.",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX3V1elo4MXd5VExSaFNiT3gzUGFjQTFxQ3hfdldSenk3aDFXX21vQWVNenVqeXFtQ1FlZVNiOHZZREZqcWF1bWg5Qmt4a3d2cm9wN25QM0I3WVprbXZLQkxqR0N2UDJ1Z1JmVTBEbUlkdWw4eFN0WTJqTUVaVUZzQmo5UmZNY2JycXJsUTZjUkc3ZXY5QUgyaGVGZlhscFJDeEo4RmdNSU5uOVgzQ1Q2LW5WbE9fNm5GME1mbkg4SWRDcVZZWHc?oc=5",
@@ -102,6 +88,20 @@
       "policyRelevance": 42,
       "score": 76,
       "snapshotDate": "2026-09-06"
+    },
+    {
+      "id": "a88e23bf9b47",
+      "title": "[설명자료] 지방 국립대학은 국가가 설립한 지역의 핵심 고등교육 기관으로서 우수한 교육 여건을 갖추고 있습니다",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fUUxPM0ZoTEt4OEZqUV9FRmNwQk56UkxvLTRBMENxWEh0anRNbHk2WUFId1BWb2UtWWE3alhEUkFSTlRfdE1uZDRFbUd2SEFpNEk0NHVSNTRkbm5zMlNpdWs4TWZmcDMtU2REQndQZw?oc=5",
+      "source": "대한민국 정책브리핑",
+      "kind": "domestic",
+      "publishedAt": "2026-09-04T19:26:16.000Z",
+      "description": "[설명자료] 지방 국립대학은 국가가 설립한 지역의 핵심 고등교육 기관으로서 우수한 교육 여건을 갖추고 있습니다 대한민국 정책브리핑",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 71,
+      "snapshotDate": "2026-09-05"
     },
     {
       "id": "f8f2be7a3a12",
@@ -328,17 +328,17 @@
       "snapshotDate": "2026-09-06"
     },
     {
-      "id": "fecc703d2aad",
+      "id": "d7d404cfb8f1",
       "title": "내 고민 해결해줄 교육부 청년 지원정책",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZMWRHLUZacEcxTXF6dGJaclg0UklFNDF2azZkVDlXaHJaSUNyZ3pIQ1dtdXlKU3dHTE9KVXZ3UTA0WlRZdjE0OGZWZHFONGp4NmQzM3g2N3FjQnNnQUtsZUNSUGFUb1d5ektERA?oc=5",
-      "source": "대한민국 정책브리핑",
+      "source": "korea.kr",
       "kind": "domestic",
       "publishedAt": "2026-09-04T00:45:00.000Z",
-      "description": "내 고민 해결해줄 교육부 청년 지원정책 대한민국 정책브리핑",
+      "description": "내 고민 해결해줄 교육부 청년 지원정책 korea.kr",
       "category": "기타",
       "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 72,
+      "policyRelevance": 81,
+      "score": 79,
       "snapshotDate": "2026-09-06"
     },
     {
@@ -438,6 +438,20 @@
       "snapshotDate": "2026-09-04"
     },
     {
+      "id": "e145626a9dab",
+      "title": "인천교육청, AI로 교사 행정업무 줄인다:내외신문",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40WGY1ZEt2blF3Uk9jR3pURlFDSk1JdE5iUlQ4eXdHeTBWMWJCYVBhb2c4YmkwQWdSMkpHamx3cnNVdV9WSDkzNzFycGhucFMtSUtJbdIBZEFVX3lxTE9WQjBhT3BOdWcwek02ejllY1VFamhMYkpWODFlRzVPb0lsMk9ySlB1MENKS3pyUUsxTEFXbGtRTEFhMUtvZ3ZqSms2TUpHckxrM24xVEVQS1l1eHNkYkdtREY2TzY?oc=5",
+      "source": "naewaynews.com",
+      "kind": "domestic",
+      "publishedAt": "2026-09-03T12:04:00.000Z",
+      "description": "인천교육청, AI로 교사 행정업무 줄인다:내외신문 naewaynews.com",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 67,
+      "snapshotDate": "2026-09-06"
+    },
+    {
       "id": "dd9cbb98517b",
       "title": "AI 시대 교육격차 막는다…초록우산, 국제교육 협력 ‘외연 확대’",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52T3hWNWJaQlpaWHhwankxYUcybkR5UlU4ZWVzSHF3RG9iMXdiUEhuSkxmT2FKLU1IemV4M2d3Qm1zQldRZGNTUTVZTjhpMUc1aWtDOUFTQjJBM3p4Qjk5R0w4elZGWlFJ?oc=5",
@@ -510,10 +524,10 @@
     {
       "id": "dc12f7378a28",
       "title": "Korea's birthrate could have been 28% higher without private education competition",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOXA0X3I2RUNFYzREWEdDTHBMSEtHczB3WERQTHBYbFFBenJ6Wm5acGtPRlhuYXM1TTE4bXJZbTBsWFpZYTBSaHhfOHZDdkRwX0dmV1pZS3VRbDA5Wm9YMFhSZ0RkbjBGaGdEVG9Zd19YanBKd0NCaE9USm1wZTY1QU5nQU82LWROZVAyM3p3MmlkdUNIWGhfTU1Jckc1WXpoeU9WczU3SlBmeXltMFpwMEFyMUh0eWpMM2tGZmlCZFY2S1B3SUh5X1NNTDl3QdIBzgFBVV95cUxNOXA0X3I2RUNFYzREWEdDTHBMSEtHczB3WERQTHBYbFFBenJ6Wm5acGtPRlhuYXM1TTE4bXJZbTBsWFpZYTBSaHhfOHZDdkRwX0dmV1pZS3VRbDA5Wm9YMFhSZ0RkbjBGaGdEVG9Zd19YanBKd0NCaE9USm1wZTY1QU5nQU82LWROZVAyM3p3MmlkdUNIWGhfTU1Jckc1WXpoeU9WczU3SlBmeXltMFpwMEFyMUh0eWpMM2tGZmlCZFY2S1B3SUh5X1NNTDl3QQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWjRuMXFZVExaRzdnMzlSVzllUThZa0xBQ1NrSHF6c0V2aW5jTW9ONlZsM3hoNUFXSkZKUTN2TXZxR041TEQ3c0RkTXhlYUEySHVRbjZmelhnTVVtUThCUEI0eUpEWVBzaGNoRXlJU2V5YmpQR0ZnM2FlcU1FWThHTE5FVC1kRl9nN2JFMG00TVdwTzRBZDAySk1idXpLMXFCXzhUaFYtZHVZejlVdFlXQ1hsTldMZ28yTVlwVjlZLTV6ZXNYc0RiQ9IBzgFBVV95cUxNOXA0X3I2RUNFYzREWEdDTHBMSEtHczB3WERQTHBYbFFBenJ6Wm5acGtPRlhuYXM1TTE4bXJZbTBsWFpZYTBSaHhfOHZDdkRwX0dmV1pZS3VRbDA5Wm9YMFhSZ0RkbjBGaGdEVG9Zd19YanBKd0NCaE9USm1wZTY1QU5nQU82LWROZVAyM3p3MmlkdUNIWGhfTU1Jckc1WXpoeU9WczU3SlBmeXltMFpwMEFyMUh0eWpMM2tGZmlCZFY2S1B3SUh5X1NNTDl3QQ?oc=5",
       "source": "The Korea Times",
       "kind": "foreign",
-      "publishedAt": "2026-09-03T07:57:00.000Z",
+      "publishedAt": "2026-09-03T07:57:02.000Z",
       "description": "Korea's birthrate could have been 28% higher without private education competition The Korea Times",
       "category": "기타",
       "feedProvider": "google",
@@ -581,6 +595,20 @@
       "snapshotDate": "2026-09-06"
     },
     {
+      "id": "1a361db372c2",
+      "title": "전국 9개 지거국 경쟁률·합격선 최근 5년 새 최고… 국립대 지원 정책 ‘변수’",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0b2VocUNnU3dSd2RiV2JwZTFiRmZOTnM0NW10dkp4Znh4ZXo1bjQ4dHZHQlNSbExHSGdZd25FYm10QVNVNl85azlYZkd5UzN5Q1d4cVpyZGxFdWxnSjd1Zy0ydkJnQQ?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-09-03T06:58:38.000Z",
+      "description": "전국 9개 지거국 경쟁률·합격선 최근 5년 새 최고… 국립대 지원 정책 ‘변수’ 한국대학신문",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 61,
+      "snapshotDate": "2026-09-06"
+    },
+    {
       "id": "6d476afe6e79",
       "title": "대구시교육청. 교원 AI·디지털 역량 인증제 시행",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lcWc5bldVS0pFVElWQ2M1cEJILVRyMWt4WGhPcFdMeDA5OWZiZTVPWEJLRE4xWHZvRVhFQ21DNlJaM0tqb2VpRnRORWtQNDBWQ1VlQmd0UERMR3RWT0t1MmZpaFQ5UQ?oc=5",
@@ -633,7 +661,7 @@
       "category": "AI·디지털",
       "score": 90,
       "policyRelevance": 87,
-      "snapshotDate": "2026-09-05"
+      "snapshotDate": "2026-09-06"
     },
     {
       "id": "dd67a7256d49",
@@ -912,6 +940,20 @@
       "snapshotDate": "2026-09-06"
     },
     {
+      "id": "bc4ab4ceb695",
+      "title": "대구시의회 “지방교육재정교부금 일방적 개편 반대”…정부·국회에 전면 재검토 촉구",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NTGJJckZ5dnJQX0J1cGEwQnNWRUtqNUtPUFpqcTZHbEdiUWxQWmlycVpUa3RRNEFfVXJvcjZkUHJza1lCTlVWb29LUzRkdFR2X2VEQUVib1ljb01fTS1pcmRxeGpxbjhlbFh3?oc=5",
+      "source": "웹플러스뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-02T05:50:00.000Z",
+      "description": "대구시의회 “지방교육재정교부금 일방적 개편 반대”…정부·국회에 전면 재검토 촉구 웹플러스뉴스",
+      "category": "재정·법령",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 70,
+      "snapshotDate": "2026-09-06"
+    },
+    {
       "id": "020e05dd5eca",
       "title": "[칼럼] 지방 국립대 등록금 무상화의 함정",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pc2M1cjdIa2lnQzRfejcxZjlFMHJ5TkctcFNRYTNXNGNEQVVMN3VJaDNnQ3R1VXI1bTd6aXlyNjl3Qk42YmhIREZyYjdMRWdFeDJyS1plUjVpS3FPbVpzYWJNeEY1XzhUaHc?oc=5",
@@ -940,6 +982,20 @@
       "snapshotDate": "2026-09-06"
     },
     {
+      "id": "cef990502f1e",
+      "title": "사교육 경쟁이 출산율 28% 깎아...일본의 30년 침체, 동아시아 확대될 수도 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jdjNydEN4ak1tcXNJWXpka3psSmNLaWxBamptdTRIMGI4TktaZnpYTE0wZVprNUlPVWhJdGtSQ01YSUw3ekZkR3RRbGNwWDE4Smh4LTkxWU5wRDliS3kySFN0Ul9telVjeWVF0gFwQVVfeXFMTjNhZFJLbE50U0loTlJjZHdrTUhfVlRkOFphNVFIRlpqVUt4RUt2ajZsbDFzcDBvTF94QUhacFVlbFVhR1ctTTZjLUJKRTN0NkJuN2t4RWh2NXNfVkdma25zMzczWnVRVDh1UV9SWUs1cw?oc=5",
+      "source": "머니투데이",
+      "kind": "domestic",
+      "publishedAt": "2026-09-02T01:40:13.000Z",
+      "description": "사교육 경쟁이 출산율 28% 깎아...일본의 30년 침체, 동아시아 확대될 수도 - 머니투데이 머니투데이",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 42,
+      "score": 52,
+      "snapshotDate": "2026-09-06"
+    },
+    {
       "id": "fe1833f827d0",
       "title": "사교육 경쟁이 출산율 28% 깎아...일본의 30년 침체, 동아시아 확대될 수도 - 머니투데이",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jdjNydEN4ak1tcXNJWXpka3psSmNLaWxBamptdTRIMGI4TktaZnpYTE0wZVprNUlPVWhJdGtSQ01YSUw3ekZkR3RRbGNwWDE4Smh4LTkxWU5wRDliS3kySFN0Ul9telVjeWVF0gFwQVVfeXFMTjNhZFJLbE50U0loTlJjZHdrTUhfVlRkOFphNVFIRlpqVUt4RUt2ajZsbDFzcDBvTF94QUhacFVlbFVhR1ctTTZjLUJKRTN0NkJuN2t4RWh2NXNfVkdma25zMzczWnVRVDh1UV9SWUs1cw?oc=5",
@@ -951,7 +1007,7 @@
       "feedProvider": "google",
       "policyRelevance": 42,
       "score": 52,
-      "snapshotDate": "2026-09-06"
+      "snapshotDate": "2026-09-05"
     },
     {
       "id": "4a626390d498",
@@ -1047,7 +1103,7 @@
       "feedProvider": "google",
       "policyRelevance": 42,
       "score": 56,
-      "snapshotDate": "2026-09-06"
+      "snapshotDate": "2026-09-05"
     },
     {
       "id": "949b4a034aaa",
@@ -1278,9 +1334,8 @@
       "publishedAt": "2026-09-01T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "고등교육",
-      "policyRelevance": 100,
-      "score": 99,
-      "snapshotDate": "2026-09-06"
+      "score": 64,
+      "snapshotDate": "2026-09-04"
     },
     {
       "id": "3648ad6f9ab4",
@@ -1291,9 +1346,8 @@
       "publishedAt": "2026-09-01T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "재정·법령",
-      "policyRelevance": 100,
-      "score": 99,
-      "snapshotDate": "2026-09-06"
+      "score": 64,
+      "snapshotDate": "2026-09-04"
     },
     {
       "id": "cf114b859fda",
@@ -1304,9 +1358,8 @@
       "publishedAt": "2026-09-01T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "기타",
-      "policyRelevance": 100,
-      "score": 99,
-      "snapshotDate": "2026-09-06"
+      "score": 64,
+      "snapshotDate": "2026-09-04"
     },
     {
       "id": "fdb19824a6ad",
@@ -1317,9 +1370,8 @@
       "publishedAt": "2026-09-01T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "입시·사교육",
-      "policyRelevance": 100,
-      "score": 95,
-      "snapshotDate": "2026-09-06"
+      "score": 60,
+      "snapshotDate": "2026-09-04"
     },
     {
       "id": "7515cfd390b4",
@@ -1330,9 +1382,8 @@
       "publishedAt": "2026-09-01T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "AI·디지털",
-      "policyRelevance": 100,
-      "score": 95,
-      "snapshotDate": "2026-09-06"
+      "score": 60,
+      "snapshotDate": "2026-09-04"
     },
     {
       "id": "f39e17eedc04",
@@ -1391,9 +1442,8 @@
       "publishedAt": "2026-08-31T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "기타",
-      "policyRelevance": 100,
-      "score": 95,
-      "snapshotDate": "2026-09-06"
+      "score": 50,
+      "snapshotDate": "2026-09-04"
     },
     {
       "id": "81cd38bd726f",
@@ -1588,7 +1638,7 @@
       "originalTitle": "Sungyeon Kwon Assumes Deputy Superintendent Role at Daegu Office of Education: \"Brings Extensive Educational Administration Experience\"",
       "titleKo": "권성연 대구교육청 부교육감 취임: \"폭넓은 교육행정 경험 선사\"",
       "summaryKo": "대구광역시교육청은 교육부 일반직 고위간부공무원인 권성연 (54)...",
-      "snapshotDate": "2026-09-04"
+      "snapshotDate": "2026-09-06"
     },
     {
       "id": "7c083603e3f0",
@@ -1904,21 +1954,6 @@
       "category": "AI·디지털",
       "score": 47,
       "snapshotDate": "2026-08-26"
-    },
-    {
-      "id": "34244186a0c9",
-      "title": "Exclusive: Historians warn against politicizing history education",
-      "url": "https://www.msn.com/en-xl/news/other/exclusive-historians-warn-against-politicizing-history-education/ar-AA2aRjNr",
-      "source": "The Chosun Ilbo on MSN",
-      "kind": "foreign",
-      "publishedAt": "2026-08-25T00:40:15.000Z",
-      "description": "Seven historical and archaeological societies, including the Korean Historical Research Association, are set to issue a joint declaration opposing the government’s policy to expand the proportion of ...",
-      "category": "AI·디지털",
-      "score": 30,
-      "originalTitle": "Exclusive: Historians warn against politicizing history education",
-      "titleKo": "독점: 역사학자들이 역사 교육의 정치화를 경고하다",
-      "summaryKo": "한국역사연구회를 포함한 7개 역사 · 고고학회는 정부의 비중 확대 정책에 반대하는 공동선언문을 발표할...",
-      "snapshotDate": "2026-09-06"
     },
     {
       "id": "11def3b658e7",
