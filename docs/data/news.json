@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-09-04T22:32:04.956Z",
-  "generatedAtKST": "2026-09-05T07:32:01.132+09:00",
+  "generatedAt": "2026-09-05T04:05:51.361Z",
+  "generatedAtKST": "2026-09-05T13:05:48.638+09:00",
   "date": "2026-09-05",
   "aiSummaryEnabled": false,
-  "foreignTranslationEnabled": false,
+  "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "briefing": [
     "2026년 산학협력 우수기업 50개 선정 — 교육부",
     "교실 밖 배움을 알차게, 현장체험학습 우수사례 공유 — 교육부",
-    "교실 밖 이공계 현장으로, 내 진로를 만나러 갑니다 — 교육부",
-    "2027학년도 대학수학능력시험 9월 모의평가 출제 방향 — 교육부",
-    "지역 성장을 견인할 국가대표 거점국립대학 선정 결과 발표 — 교육부"
+    "지역 성장을 견인할 국가대표 거점국립대학 선정 결과 발표 — 교육부",
+    "2027년도 교육부 예산안 117.6조 원 편성 — 교육부",
+    "[보도참고자료]2027년 교육부 청년 핵심 지원사업 발표 — 교육부"
   ],
   "stats": {
-    "total": 10,
+    "total": 13,
     "official": 10,
-    "domestic": 0,
-    "foreign": 0
+    "domestic": 1,
+    "foreign": 2
   },
   "items": [
     {
@@ -39,28 +39,6 @@
       "publishedAt": "2026-09-03T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "기타",
-      "score": 60
-    },
-    {
-      "id": "19bd286ee157",
-      "title": "교실 밖 이공계 현장으로, 내 진로를 만나러 갑니다",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107098&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-09-02T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "기타",
-      "score": 60
-    },
-    {
-      "id": "f9d122cf0436",
-      "title": "2027학년도 대학수학능력시험 9월 모의평가 출제 방향",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107106&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-09-02T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "입시·사교육",
       "score": 60
     },
     {
@@ -97,6 +75,28 @@
       "score": 54
     },
     {
+      "id": "19bd286ee157",
+      "title": "교실 밖 이공계 현장으로, 내 진로를 만나러 갑니다",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107098&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-09-02T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "기타",
+      "score": 50
+    },
+    {
+      "id": "f9d122cf0436",
+      "title": "2027학년도 대학수학능력시험 9월 모의평가 출제 방향",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107106&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-09-02T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "입시·사교육",
+      "score": 50
+    },
+    {
       "id": "fdb19824a6ad",
       "title": "정부초청 외국인 대학원 장학생, 한국에서 새로운 출발",
       "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107089&lev=0&m=020402",
@@ -128,15 +128,55 @@
       "description": "교육부 공식 보도자료",
       "category": "기타",
       "score": 50
+    },
+    {
+      "id": "ccadcd8b044f",
+      "title": "천재교과서, 서울 'EdTech Expo'서 AI 교육 혁신 사례 선보여",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%B2%9C%EC%9E%AC%EA%B5%90%EA%B3%BC%EC%84%9C-%EC%84%9C%EC%9A%B8-edtech-expo%EC%84%9C-ai-%EA%B5%90%EC%9C%A1-%ED%98%81%EC%8B%A0-%EC%82%AC%EB%A1%80-%EC%84%A0%EB%B3%B4%EC%97%AC/ar-AA2bsfCj",
+      "source": "한스경제 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-09-02T18:59:32.000Z",
+      "description": "| 서울=한스경제 김종효 기자 | 천재교과서는 8월 31일부터 9월 4일까지 서울 글래드 호텔 여의도에서 열린 세계은행 주관 '글로벌 에듀테크 정책 아카데미'에 참가해 AI 디지털 교육자료와 혁신 사례를 소개했다고 3일 밝혔다.이번 행사는 'AI와 교육·스킬의 미래: 정책에서 대규모 실행까지'를 주제로 진행됐다. 21개국 교육부, ICT부, 재무부 정책 입 ...",
+      "category": "AI·디지털",
+      "score": 47
+    },
+    {
+      "id": "91d7e3ffaa57",
+      "title": "Inside South Korea’s chipmaking cram schools",
+      "url": "https://www.ft.com/content/0c9c66a6-339a-420e-9e73-178195382259?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "kind": "foreign",
+      "publishedAt": "2026-08-22T17:01:00.000Z",
+      "description": "Semiconductor cram schools are flourishing in Seoul as applications to South Korea’s two biggest chipmakers surge, fuelled by record earnings from the AI boom and eye-catching worker bonuses.",
+      "category": "유·초중등",
+      "score": 30,
+      "originalTitle": "Inside South Korea’s chipmaking cram schools",
+      "titleKo": "한국의 칩 제조 크램 학교 내부",
+      "summaryKo": "반도체 상온 재활용 학교는 AI 붐과 눈길을 끄는 근로자 보너스로 인한 기록적인 수입에 힘입어 한국에서 가장 큰 두 칩 제조업체에 대한 적용이 급증함에 따라 서울에서 번성하고 있습니다."
+    },
+    {
+      "id": "174927f605d7",
+      "title": "Korea broadens use of universities’ own language tests",
+      "url": "https://thepienews.com/korea-lets-universities-set-own-language-tests-in-latest-internationalisation-push/",
+      "source": "The PIE News",
+      "kind": "foreign",
+      "publishedAt": "2026-08-07T02:01:00.000Z",
+      "description": "South Korea is recognising universities’ own Korean language assessments alongside official proficiency tests under criteria in effect from this year, with the Ministry of Education clarifying that ...",
+      "category": "기타",
+      "score": 30,
+      "originalTitle": "Korea broadens use of universities’ own language tests",
+      "titleKo": "한국, 대학 자체 언어 시험 사용 확대",
+      "summaryKo": "한국은 올해부터 시행되는 기준에 따라 공식 능력 시험과 함께 대학 자체 한국어 평가를 인정하고 있으며, 교육부는..."
     }
   ],
+  "translationProvider": "MyMemory MT fallback",
   "dailyDigest": {
     "ai": false,
     "date": "2026-09-04",
     "throughDate": "2026-09-05",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-09-03T15:00:00.000Z",
-    "windowEnd": "2026-09-04T22:32:04.956Z",
+    "windowEnd": "2026-09-05T04:05:51.361Z",
     "itemIds": [],
     "stats": {
       "total": 0,

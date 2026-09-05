@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T22:32:10.083Z",
+  "generatedAt": "2026-09-05T04:05:57.794Z",
   "retentionDays": 30,
   "days": [
     "2026-09-05",
@@ -64,6 +64,18 @@
       "snapshotDate": "2026-09-05"
     },
     {
+      "id": "ccadcd8b044f",
+      "title": "천재교과서, 서울 'EdTech Expo'서 AI 교육 혁신 사례 선보여",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%B2%9C%EC%9E%AC%EA%B5%90%EA%B3%BC%EC%84%9C-%EC%84%9C%EC%9A%B8-edtech-expo%EC%84%9C-ai-%EA%B5%90%EC%9C%A1-%ED%98%81%EC%8B%A0-%EC%82%AC%EB%A1%80-%EC%84%A0%EB%B3%B4%EC%97%AC/ar-AA2bsfCj",
+      "source": "한스경제 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-09-02T18:59:32.000Z",
+      "description": "| 서울=한스경제 김종효 기자 | 천재교과서는 8월 31일부터 9월 4일까지 서울 글래드 호텔 여의도에서 열린 세계은행 주관 '글로벌 에듀테크 정책 아카데미'에 참가해 AI 디지털 교육자료와 혁신 사례를 소개했다고 3일 밝혔다.이번 행사는 'AI와 교육·스킬의 미래: 정책에서 대규모 실행까지'를 주제로 진행됐다. 21개국 교육부, ICT부, 재무부 정책 입 ...",
+      "category": "AI·디지털",
+      "score": 47,
+      "snapshotDate": "2026-09-05"
+    },
+    {
       "id": "ac79e4261139",
       "title": "천재교과서, 서울 'EdTech Expo'서 AI 교육 혁신 사례 선보여",
       "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EC%98%A8%EB%9D%BC%EC%9D%B8-%EA%B5%90%EC%9C%A1/%EC%B2%9C%EC%9E%AC%EA%B5%90%EA%B3%BC%EC%84%9C-%EC%84%9C%EC%9A%B8-edtech-expo-%EC%84%9C-ai-%EA%B5%90%EC%9C%A1-%ED%98%81%EC%8B%A0-%EC%82%AC%EB%A1%80-%EC%84%A0%EB%B3%B4%EC%97%AC/ar-AA2bsfCj",
@@ -84,7 +96,7 @@
       "publishedAt": "2026-09-02T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "기타",
-      "score": 60,
+      "score": 50,
       "snapshotDate": "2026-09-05"
     },
     {
@@ -96,7 +108,7 @@
       "publishedAt": "2026-09-02T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "입시·사교육",
-      "score": 60,
+      "score": 50,
       "snapshotDate": "2026-09-05"
     },
     {
@@ -898,7 +910,22 @@
       "originalTitle": "Inside South Korea’s chipmaking cram schools",
       "titleKo": "한국의 칩 제조 크램 학교 내부",
       "summaryKo": "반도체 상온 재활용 학교는 AI 붐과 눈길을 끄는 근로자 보너스로 인한 기록적인 수입에 힘입어 한국에서 가장 큰 두 칩 제조업체에 대한 적용이 급증함에 따라 서울에서 번성하고 있습니다.",
-      "snapshotDate": "2026-09-03"
+      "snapshotDate": "2026-09-05"
+    },
+    {
+      "id": "174927f605d7",
+      "title": "Korea broadens use of universities’ own language tests",
+      "url": "https://thepienews.com/korea-lets-universities-set-own-language-tests-in-latest-internationalisation-push/",
+      "source": "The PIE News",
+      "kind": "foreign",
+      "publishedAt": "2026-08-07T02:01:00.000Z",
+      "description": "South Korea is recognising universities’ own Korean language assessments alongside official proficiency tests under criteria in effect from this year, with the Ministry of Education clarifying that ...",
+      "category": "기타",
+      "score": 30,
+      "originalTitle": "Korea broadens use of universities’ own language tests",
+      "titleKo": "한국, 대학 자체 언어 시험 사용 확대",
+      "summaryKo": "한국은 올해부터 시행되는 기준에 따라 공식 능력 시험과 함께 대학 자체 한국어 평가를 인정하고 있으며, 교육부는...",
+      "snapshotDate": "2026-09-05"
     }
   ]
 }
