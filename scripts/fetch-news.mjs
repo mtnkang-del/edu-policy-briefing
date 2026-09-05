@@ -6,7 +6,7 @@ import * as cheerio from 'cheerio';
 
 const parser = new Parser({
   timeout: 15000,
-  headers: { 'User-Agent': 'Mozilla/5.0 EduPolicyBriefing/1.4' },
+  headers: { 'User-Agent': 'Mozilla/5.0 EduPolicyBriefing/1.5' },
   customFields: { item: [['News:Source', 'newsSource']] }
 });
 
@@ -19,13 +19,18 @@ const yyyyMmDd = kst.toISOString().slice(0, 10);
 
 const domesticQueries = [
   '교육부 교육정책',
-  '교육 정책 학교 교원 대학 수능 사교육',
-  'AI 디지털 교육 정책'
+  '대학 교육부 대입 수능',
+  '초중고 교원 교육청',
+  '사교육 교육격차',
+  'AI 디지털 교육',
+  '고등교육 대학 정책',
+  '교육재정 교육법'
 ];
 const foreignQueries = [
   'South Korea education policy',
   'Korea Ministry of Education university school policy',
-  'South Korea teachers students university admissions'
+  'South Korea teachers students university admissions',
+  'South Korea AI education policy'
 ];
 
 const categoryRules = [
@@ -61,7 +66,7 @@ async function fetchText(url) {
   for (let attempt = 1; attempt <= 2; attempt++) {
     try {
       const res = await fetch(url, {
-        headers: { 'User-Agent': 'Mozilla/5.0 EduPolicyBriefing/1.4' },
+        headers: { 'User-Agent': 'Mozilla/5.0 EduPolicyBriefing/1.5' },
         redirect: 'follow',
         signal: AbortSignal.timeout(15000)
       });
@@ -100,19 +105,19 @@ async function fetchMOE() {
   return out.slice(0, 30);
 }
 
-async function recentOfficialFallback(days=3) {
+async function recentArchiveFallback(days=7) {
   await fs.mkdir(ARCHIVE_DIR, { recursive:true });
   const files = (await fs.readdir(ARCHIVE_DIR)).filter(x => /^\d{4}-\d{2}-\d{2}\.json$/.test(x)).sort().reverse();
   const out = [];
-  const maxAge = days * 24 + 12;
-  for (const file of files.slice(0, days + 1)) {
+  for (const file of files.slice(0, Math.min(days + 2, 12))) {
     try {
       const data = JSON.parse(await fs.readFile(path.join(ARCHIVE_DIR, file), 'utf8'));
       for (const item of data.items || []) {
-        if (item.kind === 'official' && ageHours(item.publishedAt) <= maxAge) out.push(item);
+        const maxAge = item.kind === 'foreign' ? 24 * 8 : item.kind === 'official' ? 24 * 4 : 24 * 4;
+        if (ageHours(item.publishedAt) <= maxAge) out.push(item);
       }
     } catch (e) {
-      console.warn(`Official fallback archive read failed: ${file}: ${e.message}`);
+      console.warn(`Archive fallback read failed: ${file}: ${e.message}`);
     }
   }
   return out;
@@ -120,6 +125,11 @@ async function recentOfficialFallback(days=3) {
 
 function bingRssUrl(q, locale='ko-KR') {
   return `https://www.bing.com/news/search?q=${encodeURIComponent(q)}&format=rss&setlang=${encodeURIComponent(locale)}`;
+}
+function googleRssUrl(q, locale='ko-KR', maxDays=3) {
+  const query = `${q} when:${maxDays}d`;
+  if (locale === 'en-US') return `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=en-US&gl=US&ceid=US:en`;
+  return `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=ko&gl=KR&ceid=KR:ko`;
 }
 function directPublisherUrl(link='') {
   try {
@@ -131,22 +141,46 @@ function directPublisherUrl(link='') {
     return u.href;
   } catch { return link; }
 }
-async function fetchBingNews(queries, kind) {
-  const out = [], maxAge = kind === 'foreign' ? 24 * 7 : 24 * 3;
+function itemFromFeed(x, kind, provider) {
+  let title = clean(x.title || '');
+  let source = clean(x.newsSource || x.creator || '');
+  if (!source && title.includes(' - ')) source = clean(title.split(' - ').pop());
+  if (source && title.endsWith(` - ${source}`)) title = title.slice(0, -(` - ${source}`.length));
+  const rawDate = x.isoDate || x.pubDate || x.published || x.updated;
+  const date = rawDate ? new Date(rawDate) : new Date();
+  if (!title || !x.link || Number.isNaN(date.getTime())) return null;
+  const maxAge = kind === 'foreign' ? 24 * 8 : 24 * 4;
+  if (ageHours(date) > maxAge) return null;
+  const url = provider === 'bing' ? directPublisherUrl(x.link) : x.link;
+  const description = clean(x.contentSnippet || x.content || x.summary || x.description || '').slice(0, 500);
+  return {
+    id: hash(`${kind}:${norm(title)}:${source || provider}`),
+    title,
+    url,
+    source: source || (provider === 'google' ? 'Google News' : '언론'),
+    kind,
+    publishedAt: date.toISOString(),
+    description,
+    category: categoryFor(`${title} ${description}`),
+    feedProvider: provider
+  };
+}
+async function fetchRssNews(queries, kind, provider) {
+  const out = [];
+  const locale = kind === 'foreign' ? 'en-US' : 'ko-KR';
   for (const q of queries) {
     try {
-      const feed = await parser.parseURL(bingRssUrl(q, kind === 'foreign' ? 'en-US' : 'ko-KR'));
+      const url = provider === 'google'
+        ? googleRssUrl(q, locale, kind === 'foreign' ? 8 : 4)
+        : bingRssUrl(q, locale);
+      const feed = await parser.parseURL(url);
       for (const x of feed.items || []) {
-        let title = clean(x.title || '');
-        const source = clean(x.newsSource || x.creator || (title.includes(' - ') ? title.split(' - ').pop() : '') || '언론');
-        if (source && title.endsWith(` - ${source}`)) title = title.slice(0, -(` - ${source}`.length));
-        const publishedAt = new Date(x.isoDate || x.pubDate || Date.now()).toISOString();
-        if (!title || !x.link || ageHours(publishedAt) > maxAge) continue;
-        const url = directPublisherUrl(x.link);
-        const description = clean(x.contentSnippet || x.content || x.summary || '').slice(0, 500);
-        out.push({ id:hash(`${kind}:${url}`), title, url, source, kind, publishedAt, description, category:categoryFor(`${title} ${description}`) });
+        const item = itemFromFeed(x, kind, provider);
+        if (item) out.push(item);
       }
-    } catch (e) { console.warn(`Bing RSS failed: ${q}: ${e.message}`); }
+    } catch (e) {
+      console.warn(`${provider} RSS failed: ${q}: ${e.message}`);
+    }
   }
   return out;
 }
@@ -217,18 +251,31 @@ async function pruneArchives(days=30) {
 }
 
 await fs.mkdir(ARCHIVE_DIR, { recursive:true });
-const results = await Promise.allSettled([fetchMOE(), fetchBingNews(domesticQueries,'domestic'), fetchBingNews(foreignQueries,'foreign')]);
+const results = await Promise.allSettled([
+  fetchMOE(),
+  fetchRssNews(domesticQueries,'domestic','bing'),
+  fetchRssNews(domesticQueries,'domestic','google'),
+  fetchRssNews(foreignQueries,'foreign','bing'),
+  fetchRssNews(foreignQueries,'foreign','google')
+]);
 const liveOfficial = results[0].status === 'fulfilled' ? results[0].value : [];
-const carriedOfficial = await recentOfficialFallback(3);
+const carried = await recentArchiveFallback(7);
 if (results[0].status === 'rejected') console.warn(`MOE collection failed: ${results[0].reason?.message || results[0].reason}`);
-if (!liveOfficial.length && carriedOfficial.length) console.warn(`MOE live collection unavailable; carrying ${carriedOfficial.length} recent official releases from archive.`);
+const bingDomestic = results[1].status === 'fulfilled' ? results[1].value : [];
+const googleDomestic = results[2].status === 'fulfilled' ? results[2].value : [];
+const bingForeign = results[3].status === 'fulfilled' ? results[3].value : [];
+const googleForeign = results[4].status === 'fulfilled' ? results[4].value : [];
+if (!bingDomestic.length) console.warn('Bing domestic feed returned 0 items; relying on Google/archive fallback.');
+if (!googleDomestic.length) console.warn('Google domestic feed returned 0 items; relying on Bing/archive fallback.');
 let items = [
   ...liveOfficial,
-  ...carriedOfficial,
-  ...(results[1].status === 'fulfilled' ? results[1].value : []),
-  ...(results[2].status === 'fulfilled' ? results[2].value : [])
+  ...bingDomestic,
+  ...googleDomestic,
+  ...bingForeign,
+  ...googleForeign,
+  ...carried
 ];
-items = dedupe(items).map(x => ({ ...x, score:scoreItem(x) })).sort((a,b) => b.score - a.score).slice(0, 80);
+items = dedupe(items).map(x => ({ ...x, score:scoreItem(x) })).sort((a,b) => b.score - a.score).slice(0, 120);
 const client = await getOpenAI();
 const translated = await translateForeign(items, client); items = translated.items;
 const briefed = await policyBrief(items, client); items = briefed.items;
@@ -237,10 +284,18 @@ const removedArchives = await pruneArchives(30);
 const payload = {
   generatedAt:new Date().toISOString(), generatedAtKST:kst.toISOString().replace('Z','+09:00'), date:yyyyMmDd,
   aiSummaryEnabled:briefed.ai, foreignTranslationEnabled:translated.translated, retentionDays:30,
+  collectionHealth:{
+    officialLive:liveOfficial.length,
+    domesticBing:bingDomestic.length,
+    domesticGoogle:googleDomestic.length,
+    foreignBing:bingForeign.length,
+    foreignGoogle:googleForeign.length,
+    carried:carried.length
+  },
   briefing:briefed.briefing || fallbackBriefing(items),
   stats:{ total:items.length, official:items.filter(x=>x.kind==='official').length, domestic:items.filter(x=>x.kind==='domestic').length, foreign:items.filter(x=>x.kind==='foreign').length },
   items
 };
 await fs.writeFile(path.join(OUT_DIR,'news.json'), JSON.stringify(payload,null,2),'utf8');
 await fs.writeFile(path.join(ARCHIVE_DIR,`${yyyyMmDd}.json`), JSON.stringify(payload,null,2),'utf8');
-console.log(`Updated ${items.length} stories. officialLive=${liveOfficial.length} officialCarried=${carriedOfficial.length} translated=${translated.translated} removedArchives=${removedArchives}`);
+console.log(`Updated ${items.length} stories. official=${liveOfficial.length} domestic(B/G)=${bingDomestic.length}/${googleDomestic.length} foreign(B/G)=${bingForeign.length}/${googleForeign.length} carried=${carried.length} translated=${translated.translated} removedArchives=${removedArchives}`);
