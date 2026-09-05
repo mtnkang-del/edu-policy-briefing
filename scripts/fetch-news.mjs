@@ -6,7 +6,7 @@ import * as cheerio from 'cheerio';
 
 const parser = new Parser({
   timeout: 15000,
-  headers: { 'User-Agent': 'Mozilla/5.0 EduPolicyBriefing/1.5' },
+  headers: { 'User-Agent': 'Mozilla/5.0 EduPolicyBriefing/1.6' },
   customFields: { item: [['News:Source', 'newsSource']] }
 });
 
@@ -22,7 +22,7 @@ const domesticQueries = [
   '대학 교육부 대입 수능',
   '초중고 교원 교육청',
   '사교육 교육격차',
-  'AI 디지털 교육',
+  'AI 디지털 교육 정책',
   '고등교육 대학 정책',
   '교육재정 교육법'
 ];
@@ -30,7 +30,8 @@ const foreignQueries = [
   'South Korea education policy',
   'Korea Ministry of Education university school policy',
   'South Korea teachers students university admissions',
-  'South Korea AI education policy'
+  'South Korea AI education policy',
+  'education reform ministry curriculum teachers school funding'
 ];
 
 const categoryRules = [
@@ -46,19 +47,79 @@ const categoryRules = [
 const clean = (s='') => String(s).replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
 const norm = (s='') => clean(s).toLowerCase().replace(/\[[^\]]+\]/g, '').replace(/[^0-9a-z가-힣]+/g, ' ').trim();
 const hash = (s='') => crypto.createHash('sha1').update(s).digest('hex').slice(0, 12);
+const hasAny = (text, words) => words.some(w => text.includes(w));
+
 function categoryFor(text='') {
   const t = ` ${String(text).toLowerCase()} `;
   for (const [cat, words] of categoryRules) if (words.some(w => t.includes(w.toLowerCase()))) return cat;
   return '기타';
 }
 function ageHours(date) { return Math.max(0, (Date.now() - new Date(date).getTime()) / 36e5); }
+
+function policyRelevance(item) {
+  if (item.kind === 'official') return 100;
+
+  const t = ` ${clean(`${item.title} ${item.description}`).toLowerCase()} `;
+  let score = 0;
+
+  const coreActorsKo = ['교육부','교육청','교육감','국가교육위원회','국회','정부','대통령실','한국교육과정평가원','대교협','전문대교협','교원단체','교총','전교조'];
+  const corePolicyKo = ['교육정책','정책','제도','개편','개정','법안','법률','시행령','예산','교부금','교육재정','지원예산','교육과정','수능','대학수학능력시험','대입','입학전형','수시','정시','사교육','교육격차','교권','교원정책','교원수급','학령인구','늘봄','돌봄','학교폭력','등록금','장학금','대학지원','구조개혁','거점국립대','지역대학','교육복지','AI 교과서','AI교과서','디지털교과서'];
+  const schoolSystemKo = ['초등학교','중학교','고등학교','학교 현장','공교육','대학','국립대','전문대','교사','교원','학생','학부모'];
+  const policyActionsKo = ['발표','추진','시행','도입','확대','축소','폐지','선정 결과','기본계획','종합대책','지원방안','개선방안','논란','반발','협의','공청회'];
+
+  const coreActorsEn = ['ministry of education','education ministry','government','parliament','education office','superintendent','national education'];
+  const corePolicyEn = ['education policy','education reform','curriculum','school funding','education budget','admissions policy','university admissions','teacher policy','teacher shortage','tuition policy','education law','private education','school reform'];
+  const koreaEn = ['south korea','korea','korean'];
+
+  if (hasAny(t, coreActorsKo)) score += 35;
+  if (hasAny(t, corePolicyKo)) score += 30;
+  if (hasAny(t, schoolSystemKo)) score += 10;
+  if (hasAny(t, policyActionsKo)) score += 12;
+
+  if (hasAny(t, coreActorsEn)) score += 25;
+  if (hasAny(t, corePolicyEn)) score += 28;
+  if (hasAny(t, koreaEn)) score += 16;
+
+  const strongNoise = [
+    '전 직원 대상','임직원 대상','사내교육','직원 교육','직원 대상','실무교육 실시',
+    '주민 대상 스마트폰','스마트폰 활용 교육','시민 대상 교육','고령층 주민 대상',
+    '취미 강좌','원데이클래스','체험 프로그램','교육생 모집','수강생 모집'
+  ];
+  const softNoise = [
+    '업무협약 체결','mou 체결','연수 실시','특강 개최','캠프 운영','박람회 참가',
+    '성과공유회','교육 운영','사업 4년 연속 선정','홍보대사','봉사활동'
+  ];
+  if (hasAny(t, strongNoise)) score -= 55;
+  if (hasAny(t, softNoise)) score -= 22;
+
+  // 대학·기관의 단순 행사/홍보는 정책 신호가 함께 있을 때만 남긴다.
+  if ((t.includes('대학') || t.includes('대학교')) && hasAny(t, ['행사','축제','체험','캠프','설명회','협약','선정'])) score -= 10;
+
+  // 외신은 한국 직접 관련 또는 국가 단위 제도 변화가 있어야 한다.
+  if (item.kind === 'foreign') {
+    const koreaRelated = hasAny(t, koreaEn);
+    const systemic = hasAny(t, [...coreActorsEn, ...corePolicyEn]);
+    if (!koreaRelated && !systemic) score -= 40;
+  }
+
+  return score;
+}
+
 function scoreItem(item) {
   let score = item.kind === 'official' ? 45 : item.kind === 'foreign' ? 22 : 28;
   const age = ageHours(item.publishedAt);
   if (age <= 24) score += 25; else if (age <= 72) score += 15; else if (age <= 168) score += 5;
   const t = `${item.title} ${item.description}`.toLowerCase();
   for (const k of ['개편','발표','시행','법안','예산','수능','대입','교부금','교원','ai','university','education reform','budget','admissions']) if (t.includes(k)) score += 4;
+  score += Math.round(policyRelevance(item) * 0.45);
   return score;
+}
+
+function keepPolicyItem(item) {
+  if (item.kind === 'official') return true;
+  const relevance = policyRelevance(item);
+  const threshold = item.kind === 'foreign' ? 42 : 38;
+  return relevance >= threshold;
 }
 
 async function fetchText(url) {
@@ -66,7 +127,7 @@ async function fetchText(url) {
   for (let attempt = 1; attempt <= 2; attempt++) {
     try {
       const res = await fetch(url, {
-        headers: { 'User-Agent': 'Mozilla/5.0 EduPolicyBriefing/1.5' },
+        headers: { 'User-Agent': 'Mozilla/5.0 EduPolicyBriefing/1.6' },
         redirect: 'follow',
         signal: AbortSignal.timeout(15000)
       });
@@ -206,7 +267,7 @@ async function translateForeign(items, client) {
   if (!foreign.length) return { items, translated:false };
   try {
     const input = foreign.map((x,i) => ({ i, title:x.title, description:x.description, source:x.source }));
-    const prompt = `다음은 한국 교육정책과 관련된 해외 언론 기사다. 각 기사의 제목을 자연스러운 한국어로 번역하고, 제공된 제목/설명만 근거로 한국어 1~2문장 요약을 작성하라. 고유명사와 수치는 보존하고 추측하지 마라. JSON만 출력: {"items":[{"i":0,"titleKo":"...","summaryKo":"..."}]}.\n${JSON.stringify(input)}`;
+    const prompt = `다음은 교육정책 담당자를 위한 해외 언론 기사다. 각 기사의 제목을 자연스러운 한국어로 번역하고, 제공된 제목/설명만 근거로 한국어 1~2문장 요약을 작성하라. 고유명사와 수치는 보존하고 추측하지 마라. JSON만 출력: {"items":[{"i":0,"titleKo":"...","summaryKo":"..."}]}.\n${JSON.stringify(input)}`;
     const r = await client.responses.create({ model: process.env.OPENAI_MODEL || 'gpt-5-mini', input: prompt });
     const m = (r.output_text || '').match(/\{[\s\S]*\}/); if (!m) throw new Error('translation JSON missing');
     const parsed = JSON.parse(m[0]);
@@ -223,8 +284,8 @@ async function translateForeign(items, client) {
 async function policyBrief(items, client) {
   if (!client || !items.length) return { items, briefing:null, ai:false };
   try {
-    const candidates = items.slice(0, 24).map((x,i) => ({ i, title:x.titleKo || x.title, source:x.source, kind:x.kind, category:x.category, description:x.summaryKo || x.description }));
-    const prompt = `너는 대한민국 교육부 정책 담당자를 위한 뉴스 브리핑 편집자다. 아래 정보만 근거로 분석하라. JSON만 출력: {"briefing":["핵심 1", "핵심 2", "핵심 3", "핵심 4", "핵심 5"],"items":[{"i":0,"summary":"한국어 2문장 이내","implication":"교육정책 관점 시사점 1문장","importance":1}]}. 외신도 한국어로 작성하고 한국 정책과 직접 관련성이 낮으면 중요도를 낮춰라.\n${JSON.stringify(candidates)}`;
+    const candidates = items.slice(0, 30).map((x,i) => ({ i, title:x.titleKo || x.title, source:x.source, kind:x.kind, category:x.category, description:x.summaryKo || x.description, policyRelevance:x.policyRelevance }));
+    const prompt = `너는 대한민국 교육부 정책 담당자를 위한 뉴스 브리핑 편집자다. 아래 정보만 근거로 분석하라. 교육정책의 변화, 집행, 이해관계자 반응, 재정·법령, 학생·학부모·교원 영향이 큰 내용을 우선하라. 단순 행사·홍보·사내교육은 제외하라. JSON만 출력: {"briefing":["핵심 1", "핵심 2", "핵심 3", "핵심 4", "핵심 5"],"items":[{"i":0,"summary":"한국어 2문장 이내","implication":"교육정책 관점 시사점 1문장","importance":1}]}. 외신도 한국어로 작성하고 한국 정책과 직접 관련성이 낮으면 중요도를 낮춰라.\n${JSON.stringify(candidates)}`;
     const r = await client.responses.create({ model: process.env.OPENAI_MODEL || 'gpt-5-mini', input: prompt });
     const m = (r.output_text || '').match(/\{[\s\S]*\}/); if (!m) throw new Error('brief JSON missing');
     const p = JSON.parse(m[0]);
@@ -267,15 +328,22 @@ const bingForeign = results[3].status === 'fulfilled' ? results[3].value : [];
 const googleForeign = results[4].status === 'fulfilled' ? results[4].value : [];
 if (!bingDomestic.length) console.warn('Bing domestic feed returned 0 items; relying on Google/archive fallback.');
 if (!googleDomestic.length) console.warn('Google domestic feed returned 0 items; relying on Bing/archive fallback.');
-let items = [
+
+const rawItems = dedupe([
   ...liveOfficial,
   ...bingDomestic,
   ...googleDomestic,
   ...bingForeign,
   ...googleForeign,
   ...carried
-];
-items = dedupe(items).map(x => ({ ...x, score:scoreItem(x) })).sort((a,b) => b.score - a.score).slice(0, 120);
+]);
+const rejectedCount = rawItems.filter(x => !keepPolicyItem(x)).length;
+let items = rawItems
+  .filter(keepPolicyItem)
+  .map(x => ({ ...x, policyRelevance:policyRelevance(x), score:scoreItem(x) }))
+  .sort((a,b) => b.score - a.score)
+  .slice(0, 80);
+
 const client = await getOpenAI();
 const translated = await translateForeign(items, client); items = translated.items;
 const briefed = await policyBrief(items, client); items = briefed.items;
@@ -290,7 +358,10 @@ const payload = {
     domesticGoogle:googleDomestic.length,
     foreignBing:bingForeign.length,
     foreignGoogle:googleForeign.length,
-    carried:carried.length
+    carried:carried.length,
+    rawUnique:rawItems.length,
+    policyRejected:rejectedCount,
+    policyKept:items.length
   },
   briefing:briefed.briefing || fallbackBriefing(items),
   stats:{ total:items.length, official:items.filter(x=>x.kind==='official').length, domestic:items.filter(x=>x.kind==='domestic').length, foreign:items.filter(x=>x.kind==='foreign').length },
@@ -298,4 +369,4 @@ const payload = {
 };
 await fs.writeFile(path.join(OUT_DIR,'news.json'), JSON.stringify(payload,null,2),'utf8');
 await fs.writeFile(path.join(ARCHIVE_DIR,`${yyyyMmDd}.json`), JSON.stringify(payload,null,2),'utf8');
-console.log(`Updated ${items.length} stories. official=${liveOfficial.length} domestic(B/G)=${bingDomestic.length}/${googleDomestic.length} foreign(B/G)=${bingForeign.length}/${googleForeign.length} carried=${carried.length} translated=${translated.translated} removedArchives=${removedArchives}`);
+console.log(`Updated ${items.length} policy-relevant stories from ${rawItems.length} unique candidates (rejected=${rejectedCount}). official=${liveOfficial.length} domestic(B/G)=${bingDomestic.length}/${googleDomestic.length} foreign(B/G)=${bingForeign.length}/${googleForeign.length} carried=${carried.length} translated=${translated.translated} removedArchives=${removedArchives}`);
