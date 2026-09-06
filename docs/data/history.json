@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T21:44:06.406Z",
+  "generatedAt": "2026-09-06T22:40:38.259Z",
   "retentionDays": 30,
   "days": [
     "2026-09-07",
@@ -144,6 +144,45 @@
       "snapshotDate": "2026-09-07"
     },
     {
+      "id": "4f0f370812fa",
+      "title": "교육부, 2027학년도 대입전형 기간에 맞춰 입시비리 집중신고 기간 운영",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107136&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-09-06T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "입시·사교육",
+      "policyRelevance": 100,
+      "score": 119,
+      "snapshotDate": "2026-09-07"
+    },
+    {
+      "id": "7962b0ce578d",
+      "title": "데이터로 읽는 우리 교육 제13호 발간 - 학교복합시설, 더 넓게 더 가까이",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107138&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-09-06T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "유·초중등",
+      "policyRelevance": 100,
+      "score": 115,
+      "snapshotDate": "2026-09-07"
+    },
+    {
+      "id": "7f43d168c591",
+      "title": "1분 숏폼 영상에 담는 ‘똑똑’한 수학교실, ‘똑똑! 수학탐험대’ 숏폼 공모전 개최",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107137&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-09-06T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "유·초중등",
+      "policyRelevance": 100,
+      "score": 115,
+      "snapshotDate": "2026-09-07"
+    },
+    {
       "id": "5878866c9562",
       "title": "교육부, 대입 입시비리 집중신고 기간 운영…허위 등록·면접 담합 등 조사",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13QnhWZFVDN3JyeUMxeWtmVHpMSnBydGp6UndJVVc1b3ZtVkJ4aF96dmxrMzNoeWhoUHlPVjktS0xvYjJwYjRYVTJYNVNQOGhtcnhSWTRrczFQQXBn?oc=5",
@@ -217,13 +256,13 @@
       "snapshotDate": "2026-09-07"
     },
     {
-      "id": "d030e322e8da",
+      "id": "69936bf02ac5",
       "title": "황민선 교육부 장관: 새 학년에는 성과 경쟁을 버리고 학생 개개인의 발전에 집중합시다.",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX3V1elo4MXd5VExSaFNiT3gzUGFjQTFxQ3hfdldSenk3aDFXX21vQWVNenVqeXFtQ1FlZVNiOHZZREZqcWF1bWg5Qmt4a3d2cm9wN25QM0I3WVprbXZLQkxqR0N2UDJ1Z1JmVTBEbUlkdWw4eFN0WTJqTUVaVUZzQmo5UmZNY2JycXJsUTZjUkc3ZXY5QUgyaGVGZlhscFJDeEo4RmdNSU5uOVgzQ1Q2LW5WbE9fNm5GME1mbkg4SWRDcVZZWHc?oc=5",
-      "source": "Vietnam.vn",
+      "source": "vietnam.vn",
       "kind": "domestic",
       "publishedAt": "2026-09-05T00:32:16.000Z",
-      "description": "황민선 교육부 장관: 새 학년에는 성과 경쟁을 버리고 학생 개개인의 발전에 집중합시다. Vietnam.vn",
+      "description": "황민선 교육부 장관: 새 학년에는 성과 경쟁을 버리고 학생 개개인의 발전에 집중합시다. vietnam.vn",
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 45,
@@ -259,13 +298,13 @@
       "snapshotDate": "2026-09-07"
     },
     {
-      "id": "f3e20902514e",
+      "id": "1b0eec507dec",
       "title": "박정현 의원 , 국회 토론회 ‘ 탄소중립기본법의 녹색산업 육성체계와 AI 기후테크 인재정책 과제 ’ 개최",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sVUc5T1dTdy1oZzVxdGwwc1hWS21PbV9pZV90SnNXT1lPeFlLSUFxNmJSRklNcHUtVGRCQ0doY0ktZDA3TnRhNnA5ZjYxLV84LW9NSlhKQWZDclYyWDg4Z3RXeklzd1U?oc=5",
-      "source": "c1news.kr",
+      "source": "씨원뉴스",
       "kind": "domestic",
       "publishedAt": "2026-09-04T19:26:58.000Z",
-      "description": "박정현 의원 , 국회 토론회 ‘ 탄소중립기본법의 녹색산업 육성체계와 AI 기후테크 인재정책 과제 ’ 개최 c1news.kr",
+      "description": "박정현 의원 , 국회 토론회 ‘ 탄소중립기본법의 녹색산업 육성체계와 AI 기후테크 인재정책 과제 ’ 개최 씨원뉴스",
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 65,
@@ -343,20 +382,6 @@
       "snapshotDate": "2026-09-07"
     },
     {
-      "id": "2567a097be7d",
-      "title": "전장연, “내년 예산, 장애인 권리보장 아닌 차별예산”…국회 투쟁 예고",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMR3BIaW9tLWNkbEk4TnJlSllINnpQYUNGcTlYekRINEN2OU84Y053Wnh1eWFlR0ltV1BVS0JvVkdOSGgwWUJ6N0RONFdLaVQyODdWU3Z1TzVyZ0xROEVJbVhod3N6SjVh?oc=5",
-      "source": "beminor.com",
-      "kind": "domestic",
-      "publishedAt": "2026-09-04T10:05:34.000Z",
-      "description": "전장연, “내년 예산, 장애인 권리보장 아닌 차별예산”…국회 투쟁 예고 beminor.com",
-      "category": "재정·법령",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 76,
-      "snapshotDate": "2026-09-07"
-    },
-    {
       "id": "13208cfe6598",
       "title": "전장연, “내년 예산, 장애인 권리보장 아닌 차별예산”…국회 투쟁 예고",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMR3BIaW9tLWNkbEk4TnJlSllINnpQYUNGcTlYekRINEN2OU84Y053Wnh1eWFlR0ltV1BVS0JvVkdOSGgwWUJ6N0RONFdLaVQyODdWU3Z1TzVyZ0xROEVJbVhod3N6SjVh?oc=5",
@@ -368,7 +393,7 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 76,
-      "snapshotDate": "2026-09-06"
+      "snapshotDate": "2026-09-07"
     },
     {
       "id": "c784cc3dbb90",
@@ -469,23 +494,9 @@
       "snapshotDate": "2026-09-07"
     },
     {
-      "id": "22064fa47deb",
-      "title": "충북교육청, 초등 핵심교원 대상 '질문 중심 수업·평가' 전문성 강화 연수 진행",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9YTHd2YzlCQkJxWXJJUWRvVUc3eENmNVp3RnZKamlBY0MxdnRGNUdHMnJyaEVtVENJalBoVmlZYmZjbEJZUlN6Qw?oc=5",
-      "source": "breaknews.com",
-      "kind": "domestic",
-      "publishedAt": "2026-09-04T07:19:00.000Z",
-      "description": "충북교육청, 초등 핵심교원 대상 '질문 중심 수업·평가' 전문성 강화 연수 진행 breaknews.com",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 67,
-      "snapshotDate": "2026-09-07"
-    },
-    {
       "id": "5956bce5edc6",
       "title": "충북교육청, 초등 핵심교원 대상 '질문 중심 수업·평가' 전문성 강화 연수 진행",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9nUTM3WVhvZmRRaHF6NWtzNUJHd2hNMEdfOG0yZllPZkRmTHJBMDE0V200WTZxN29Nam44VmdUSWtKQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9YTHd2YzlCQkJxWXJJUWRvVUc3eENmNVp3RnZKamlBY0MxdnRGNUdHMnJyaEVtVENJalBoVmlZYmZjbEJZUlN6Qw?oc=5",
       "source": "브레이크뉴스",
       "kind": "domestic",
       "publishedAt": "2026-09-04T07:19:00.000Z",
@@ -494,7 +505,7 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 67,
-      "snapshotDate": "2026-09-06"
+      "snapshotDate": "2026-09-07"
     },
     {
       "id": "2ac82530710d",
@@ -611,20 +622,6 @@
     {
       "id": "0b16db6214be",
       "title": "사교육 경쟁 사라지면 아이 더 낳을까? 학원비와 출산율의 뜻밖의 관계 / 머그인사이트 / 비디오머그",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%82%AC%EA%B5%90%EC%9C%A1-%EA%B2%BD%EC%9F%81-%EC%82%AC%EB%9D%BC%EC%A7%80%EB%A9%B4-%EC%95%84%EC%9D%B4-%EB%8D%94-%EB%82%B3%EC%9D%84%EA%B9%8C-%ED%95%99%EC%9B%90%EB%B9%84%EC%99%80-%EC%B6%9C%EC%82%B0%EC%9C%A8%EC%9D%98-%EB%9C%BB%EB%B0%96%EC%9D%98-%EA%B4%80%EA%B3%84-%EB%A8%B8%EA%B7%B8%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B9%84%EB%94%94%EC%98%A4%EB%A8%B8%EA%B7%B8/vi-AA2bya8F",
-      "source": "SBS 뉴스 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-09-04T02:00:15.000Z",
-      "description": "아이 한 명에게 들어가는 교육비가 줄면 사람들은 아이를 더 낳을까요?국제 공동연구에서는, 남보다 뒤처지지 않으려는 교육 경쟁이 없다고 가정하면,한 세대 여성의 평균 자녀 수가 30% 가까이 늘어나는 것으로 추정했습니다.그렇다면 학원비만 줄이면 저출생 문제가 해결될까요?사교육 경쟁을 멈추기 어려운 이유부터 대학·일자리 격차,출산 뒤 여성의 경력 손실까지, 아 ...",
-      "category": "입시·사교육",
-      "feedProvider": "bing",
-      "policyRelevance": 40,
-      "score": 61,
-      "snapshotDate": "2026-09-07"
-    },
-    {
-      "id": "0b16db6214be",
-      "title": "사교육 경쟁 사라지면 아이 더 낳을까? 학원비와 출산율의 뜻밖의 관계 / 머그인사이트 / 비디오머그",
       "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%82%AC%EA%B5%90%EC%9C%A1-%EA%B2%BD%EC%9F%81-%EC%82%AC%EB%9D%BC%EC%A7%80%EB%A9%B4-%EC%95%84%EC%9D%B4-%EB%8D%94-%EB%82%B3%EC%9D%84%EA%B9%8C-%ED%95%99%EC%9B%90%EB%B9%84%EC%99%80-%EC%B6%9C%EC%82%B0%EC%9C%A8%EC%9D%98-%EB%9C%BB%EB%B0%96%EC%9D%98-%EA%B4%80%EA%B3%84-%EB%A8%B8%EA%B7%B8%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B9%84%EB%94%94%EC%98%A4%EB%A8%B8%EA%B7%B8/vi-AA2bya8F",
       "source": "SBS 뉴스 on MSN",
       "kind": "domestic",
@@ -634,7 +631,7 @@
       "feedProvider": "bing",
       "policyRelevance": 40,
       "score": 61,
-      "snapshotDate": "2026-09-06"
+      "snapshotDate": "2026-09-07"
     },
     {
       "id": "fecc703d2aad",
@@ -695,7 +692,7 @@
     {
       "id": "0ad6ce7962a9",
       "title": "수능 AI안경 사용시, 응시자격 최소 2년 박탈될 듯 [김현정의 고수다]",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%88%98%EB%8A%A5-ai%EC%95%88%EA%B2%BD-%EC%82%AC%EC%9A%A9%EC%8B%9C-%EC%9D%91%EC%8B%9C%EC%9E%90%EA%B2%A9-%EC%B5%9C%EC%86%8C-2%EB%85%84-%EB%B0%95%ED%83%88%EB%90%A0-%EB%93%AF-%EA%B9%80%ED%98%84%EC%A0%95%EC%9D%98-%EA%B3%A0%EC%88%98%EB%8B%A4/ar-AA2bwKr4",
+      "url": "https://www.msn.com/ko-kr/news/national/%EC%88%98%EB%8A%A5-ai%EC%95%88%EA%B2%BD-%EC%82%AC%EC%9A%A9%EC%8B%9C-%EC%9D%91%EC%8B%9C%EC%9E%90%EA%B2%A9-%EC%B5%9C%EC%86%8C-2%EB%85%84-%EB%B0%95%ED%83%88%EB%90%A0-%EB%93%AF-%EA%B9%80%ED%98%84%EC%A0%95%EC%9D%98-%EA%B3%A0%EC%88%98%EB%8B%A4/ar-AA2bwKr4",
       "source": "노컷뉴스 on MSN",
       "kind": "domestic",
       "publishedAt": "2026-09-04T00:00:00.000Z",
@@ -705,6 +702,20 @@
       "policyRelevance": 65,
       "score": 84,
       "snapshotDate": "2026-09-07"
+    },
+    {
+      "id": "0ad6ce7962a9",
+      "title": "수능 AI안경 사용시, 응시자격 최소 2년 박탈될 듯 [김현정의 고수다]",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%88%98%EB%8A%A5-ai%EC%95%88%EA%B2%BD-%EC%82%AC%EC%9A%A9%EC%8B%9C-%EC%9D%91%EC%8B%9C%EC%9E%90%EA%B2%A9-%EC%B5%9C%EC%86%8C-2%EB%85%84-%EB%B0%95%ED%83%88%EB%90%A0-%EB%93%AF-%EA%B9%80%ED%98%84%EC%A0%95%EC%9D%98-%EA%B3%A0%EC%88%98%EB%8B%A4/ar-AA2bwKr4",
+      "source": "노컷뉴스 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-09-04T00:00:00.000Z",
+      "description": "■ 공개 채널: CBS ■ 진행: 김현정 PD ■ 출연: 교육부 신진용 대입정책과장 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 65,
+      "score": 84,
+      "snapshotDate": "2026-09-06"
     },
     {
       "id": "1ebc8024cf01",
@@ -817,13 +828,13 @@
       "snapshotDate": "2026-09-06"
     },
     {
-      "id": "7195d939d1a1",
+      "id": "fd3854c8324a",
       "title": "대학 등록금 인상이 가계에 부담을 줄 것이라는 우려에 대해 교육훈련부는 어떤 입장을 보이고 있습니까?",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeE5KSnZVQS02M0EyRnlUMExfV2lmLUNaY01haEdiUEkyZW5EMFc3WWNhb0h6OUNCOGhfTGd5b2hFRldLay1mN19YaEpkRGM0MWNVMEkwNWFZVFczRjg1cDNITkV6ckliWjFySTlac203WUJxN25rRXpwTDZhRTlfUTVsY0tOMF8zZW5aaDVNZXpxcXppMHUxcUhEdGVWeTA?oc=5",
-      "source": "Vietnam.vn",
+      "source": "vietnam.vn",
       "kind": "domestic",
       "publishedAt": "2026-09-03T09:36:16.000Z",
-      "description": "대학 등록금 인상이 가계에 부담을 줄 것이라는 우려에 대해 교육훈련부는 어떤 입장을 보이고 있습니까? Vietnam.vn",
+      "description": "대학 등록금 인상이 가계에 부담을 줄 것이라는 우려에 대해 교육훈련부는 어떤 입장을 보이고 있습니까? vietnam.vn",
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -869,11 +880,11 @@
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 44,
-      "score": 47,
+      "score": 57,
       "originalTitle": "Korea's birthrate could have been 28% higher without private education competition",
       "titleKo": "사교육 경쟁 없이 한국의 출산율은 28% 더 높을 수 있었다.",
       "summaryKo": "한국의 출산율은 사교육 경쟁 없이 28% 더 높을 수 있었다. 코리아 타임즈",
-      "snapshotDate": "2026-09-07"
+      "snapshotDate": "2026-09-06"
     },
     {
       "id": "7adacc0599f1",
@@ -1113,13 +1124,13 @@
       "snapshotDate": "2026-09-07"
     },
     {
-      "id": "9309cd1c4fea",
+      "id": "050d77b2b78b",
       "title": "초등 저학년 3시 하교, 돌봄문제 아닌 '교원 수급' 문제가 핵심?",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzU0VlVzY3cFkyZUZ4Tjk1ZWd6WjEzTE9sQXlBY3NrZzBvVXNGSlU2Wk5KLXVaQjd4VWx1dGhSV1lSTUhhWHhZTF9rQ04tdlFUM2xIaUFudllrbWtFUGVGd3hTdkNzaFE3Wmtn0gFvQVVfeXFMT0RiVFg0TWJ6UlpQTUI2ekt2T0ItdWR1bnM4c293STBnNVNIYzk2ZTc2RHl2R1FqRUZ0WldzWHotU0RUTmt5QW5OTHJDd3g1Ujk2UGV3MnRsQ0xMRWduVFd2ZzN1OWh5aDN1NVRDdUY0?oc=5",
-      "source": "educhang.co.kr",
+      "source": "교육언론[창]",
       "kind": "domestic",
       "publishedAt": "2026-09-03T04:43:31.000Z",
-      "description": "초등 저학년 3시 하교, 돌봄문제 아닌 '교원 수급' 문제가 핵심? educhang.co.kr",
+      "description": "초등 저학년 3시 하교, 돌봄문제 아닌 '교원 수급' 문제가 핵심? 교육언론[창]",
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -1151,8 +1162,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 51,
-      "snapshotDate": "2026-09-07"
+      "score": 61,
+      "snapshotDate": "2026-09-06"
     },
     {
       "id": "871a26672190",
@@ -1179,8 +1190,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 51,
-      "snapshotDate": "2026-09-07"
+      "score": 61,
+      "snapshotDate": "2026-09-06"
     },
     {
       "id": "075d8f7a8f0d",
@@ -1455,7 +1466,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-09-06"
+      "snapshotDate": "2026-09-07"
     },
     {
       "id": "f9d122cf0436",
@@ -1468,7 +1479,7 @@
       "category": "입시·사교육",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-09-06"
+      "snapshotDate": "2026-09-07"
     },
     {
       "id": "dad1c47f09cf",
@@ -1693,20 +1704,20 @@
       "snapshotDate": "2026-09-05"
     },
     {
-      "id": "26fd29a1227f",
+      "id": "be8a3119fd40",
       "title": "Korea Education Budget Rises 10.6% to 117.6 Trillion Won",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN0JxN1ludVpmQkxuRzN5UXZCdHVMUjFLOC1KNzlfaFBOVC1MTWRNM3A3RW45VGRldnpHWWZJNDNjS1M4ZTZUdlFxSzdnUnJXY29tQXlQbTlNcy1yRWJQRXQtSkg1dkZERU5xYmRqbXg2NWl2RnBZTjd5eEFDOXVOdlJvS0pQT255aENFd1RaakJjbnZCTzZXN1l2MkhfeXNV?oc=5",
-      "source": "en.sedaily.com",
+      "source": "Seoul Economic Daily",
       "kind": "foreign",
       "publishedAt": "2026-09-01T04:34:21.000Z",
-      "description": "Korea Education Budget Rises 10.6% to 117.6 Trillion Won en.sedaily.com",
+      "description": "Korea Education Budget Rises 10.6% to 117.6 Trillion Won Seoul Economic Daily",
       "category": "재정·법령",
       "feedProvider": "google",
       "policyRelevance": 44,
       "score": 55,
       "originalTitle": "Korea Education Budget Rises 10.6% to 117.6 Trillion Won",
       "titleKo": "한국 교육예산 117.6조원으로 10.6% 증가",
-      "summaryKo": "한국 교육 예산, 10.6% 상승한 117.6조원 ko.sedaily.com",
+      "summaryKo": "한국 교육예산 117조 6천억원으로 10.6% 증가 서울경제신문",
       "snapshotDate": "2026-09-07"
     },
     {
@@ -1730,8 +1741,9 @@
       "publishedAt": "2026-09-01T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "고등교육",
-      "score": 64,
-      "snapshotDate": "2026-09-04"
+      "policyRelevance": 100,
+      "score": 99,
+      "snapshotDate": "2026-09-07"
     },
     {
       "id": "3648ad6f9ab4",
@@ -1742,8 +1754,22 @@
       "publishedAt": "2026-09-01T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "재정·법령",
-      "score": 64,
-      "snapshotDate": "2026-09-04"
+      "policyRelevance": 100,
+      "score": 99,
+      "snapshotDate": "2026-09-07"
+    },
+    {
+      "id": "fdb19824a6ad",
+      "title": "정부초청 외국인 대학원 장학생, 한국에서 새로운 출발",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107089&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-09-01T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "입시·사교육",
+      "policyRelevance": 100,
+      "score": 95,
+      "snapshotDate": "2026-09-07"
     },
     {
       "id": "cf114b859fda",
@@ -1755,18 +1781,6 @@
       "description": "교육부 공식 보도자료",
       "category": "기타",
       "score": 64,
-      "snapshotDate": "2026-09-04"
-    },
-    {
-      "id": "fdb19824a6ad",
-      "title": "정부초청 외국인 대학원 장학생, 한국에서 새로운 출발",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107089&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-09-01T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "입시·사교육",
-      "score": 60,
       "snapshotDate": "2026-09-04"
     },
     {
@@ -2352,21 +2366,6 @@
       "snapshotDate": "2026-08-26"
     },
     {
-      "id": "34244186a0c9",
-      "title": "Exclusive: Historians warn against politicizing history education",
-      "url": "https://www.msn.com/en-xl/news/other/exclusive-historians-warn-against-politicizing-history-education/ar-AA2aRjNr",
-      "source": "The Chosun Ilbo on MSN",
-      "kind": "foreign",
-      "publishedAt": "2026-08-25T00:40:15.000Z",
-      "description": "Seven historical and archaeological societies, including the Korean Historical Research Association, are set to issue a joint declaration opposing the government’s policy to expand the proportion of ...",
-      "category": "AI·디지털",
-      "score": 30,
-      "originalTitle": "Exclusive: Historians warn against politicizing history education",
-      "titleKo": "독점: 역사학자들이 역사 교육의 정치화를 경고하다",
-      "summaryKo": "한국역사연구회를 포함한 7개 역사 · 고고학회는 정부의 비중 확대 정책에 반대하는 공동선언문을 발표할...",
-      "snapshotDate": "2026-09-07"
-    },
-    {
       "id": "11def3b658e7",
       "title": "학교 역사교육 활성화 지원 거점, 서울대학교 역사교육지원연구센터 개소",
       "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107019&lev=0&m=020402",
@@ -2511,7 +2510,7 @@
       "originalTitle": "Inside South Korea’s chipmaking cram schools",
       "titleKo": "한국의 칩 제조 크램 학교 내부",
       "summaryKo": "반도체 상온 재활용 학교는 AI 붐과 눈길을 끄는 근로자 보너스로 인한 기록적인 수입에 힘입어 한국에서 가장 큰 두 칩 제조업체에 대한 적용이 급증함에 따라 서울에서 번성하고 있습니다.",
-      "snapshotDate": "2026-09-07"
+      "snapshotDate": "2026-09-03"
     },
     {
       "id": "174927f605d7",
