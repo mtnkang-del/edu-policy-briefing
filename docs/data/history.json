@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T21:40:24.316Z",
+  "generatedAt": "2026-09-07T22:43:10.418Z",
   "retentionDays": 30,
   "days": [
     "2026-09-08",
@@ -369,13 +369,13 @@
       "snapshotDate": "2026-09-08"
     },
     {
-      "id": "9feb1ded57b4",
+      "id": "100fd4409663",
       "title": "2027년 교육부 전문대 지원예산(안) 설명회 개최",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjU1NFbE5kTnhjc3VFa2hsVzd4X3JlSzJiLUp6eE15NlRtTXB5TElvalZPMDlPYjBDa29sLTgwWFVWNVNwdUlUOU5US2RQR2YzY0NKQ3FCbUhiVmFRbENR?oc=5",
-      "source": "hangyo.com",
+      "source": "한국교육신문",
       "kind": "domestic",
       "publishedAt": "2026-09-06T22:44:27.000Z",
-      "description": "2027년 교육부 전문대 지원예산(안) 설명회 개최 hangyo.com",
+      "description": "2027년 교육부 전문대 지원예산(안) 설명회 개최 한국교육신문",
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 75,
@@ -467,17 +467,17 @@
       "snapshotDate": "2026-09-08"
     },
     {
-      "id": "474501675353",
+      "id": "e16af7230b2b",
       "title": "내 고민 해결해줄 교육부 청년 지원정책 - 정책뉴스 | 뉴스",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZMWRHLUZacEcxTXF6dGJaclg0UklFNDF2azZkVDlXaHJaSUNyZ3pIQ1dtdXlKU3dHTE9KVXZ3UTA0WlRZdjE0OGZWZHFONGp4NmQzM3g2N3FjQnNnQUtsZUNSUGFUb1d5ektERA?oc=5",
-      "source": "korea.kr",
+      "source": "대한민국 정책브리핑",
       "kind": "domestic",
       "publishedAt": "2026-09-06T05:22:00.000Z",
-      "description": "내 고민 해결해줄 교육부 청년 지원정책 - 정책뉴스 | 뉴스 korea.kr",
+      "description": "내 고민 해결해줄 교육부 청년 지원정책 - 정책뉴스 | 뉴스 대한민국 정책브리핑",
       "category": "기타",
       "feedProvider": "google",
-      "policyRelevance": 81,
-      "score": 79,
+      "policyRelevance": 65,
+      "score": 72,
       "snapshotDate": "2026-09-08"
     },
     {
@@ -644,7 +644,7 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 61,
-      "snapshotDate": "2026-09-07"
+      "snapshotDate": "2026-09-08"
     },
     {
       "id": "d030e322e8da",
@@ -913,13 +913,13 @@
       "snapshotDate": "2026-09-08"
     },
     {
-      "id": "9309cd1c4fea",
+      "id": "050d77b2b78b",
       "title": "초등 저학년 3시 하교, 돌봄문제 아닌 '교원 수급' 문제가 핵심?",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzU0VlVzY3cFkyZUZ4Tjk1ZWd6WjEzTE9sQXlBY3NrZzBvVXNGSlU2Wk5KLXVaQjd4VWx1dGhSV1lSTUhhWHhZTF9rQ04tdlFUM2xIaUFudllrbWtFUGVGd3hTdkNzaFE3Wmtn0gFvQVVfeXFMT0RiVFg0TWJ6UlpQTUI2ekt2T0ItdWR1bnM4c293STBnNVNIYzk2ZTc2RHl2R1FqRUZ0WldzWHotU0RUTmt5QW5OTHJDd3g1Ujk2UGV3MnRsQ0xMRWduVFd2ZzN1OWh5aDN1NVRDdUY0?oc=5",
-      "source": "educhang.co.kr",
+      "source": "교육언론[창]",
       "kind": "domestic",
       "publishedAt": "2026-09-04T07:00:00.000Z",
-      "description": "초등 저학년 3시 하교, 돌봄문제 아닌 '교원 수급' 문제가 핵심? educhang.co.kr",
+      "description": "초등 저학년 3시 하교, 돌봄문제 아닌 '교원 수급' 문제가 핵심? 교육언론[창]",
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -1053,13 +1053,13 @@
       "snapshotDate": "2026-09-08"
     },
     {
-      "id": "cc34287c3b5e",
+      "id": "9be0a3301d00",
       "title": "대전시교육청, 2027학년도 고등학교 입학전형 설명회 개최",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhMnM1QU1LOEt0TThFYUZ5S0EzZk9KY2t0VVpsOVpFVVFiM2dKc2RoSEdhcEY5ejhSM0o4c0JxY0E3TmFTeDFIRzZtZkVFdG5MR0FpdUVIaHRRX0pF?oc=5",
-      "source": "누리일보",
+      "source": "nuriilbo.com",
       "kind": "domestic",
       "publishedAt": "2026-09-04T00:50:10.000Z",
-      "description": "대전시교육청, 2027학년도 고등학교 입학전형 설명회 개최 누리일보",
+      "description": "대전시교육청, 2027학년도 고등학교 입학전형 설명회 개최 nuriilbo.com",
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 75,
@@ -1552,20 +1552,6 @@
       "feedProvider": "bing",
       "policyRelevance": 57,
       "score": 63,
-      "snapshotDate": "2026-09-07"
-    },
-    {
-      "id": "050d77b2b78b",
-      "title": "초등 저학년 3시 하교, 돌봄문제 아닌 '교원 수급' 문제가 핵심?",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzU0VlVzY3cFkyZUZ4Tjk1ZWd6WjEzTE9sQXlBY3NrZzBvVXNGSlU2Wk5KLXVaQjd4VWx1dGhSV1lSTUhhWHhZTF9rQ04tdlFUM2xIaUFudllrbWtFUGVGd3hTdkNzaFE3Wmtn0gFvQVVfeXFMT0RiVFg0TWJ6UlpQTUI2ekt2T0ItdWR1bnM4c293STBnNVNIYzk2ZTc2RHl2R1FqRUZ0WldzWHotU0RUTmt5QW5OTHJDd3g1Ujk2UGV3MnRsQ0xMRWduVFd2ZzN1OWh5aDN1NVRDdUY0?oc=5",
-      "source": "교육언론[창]",
-      "kind": "domestic",
-      "publishedAt": "2026-09-03T04:43:31.000Z",
-      "description": "초등 저학년 3시 하교, 돌봄문제 아닌 '교원 수급' 문제가 핵심? 교육언론[창]",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 55,
       "snapshotDate": "2026-09-07"
     },
     {

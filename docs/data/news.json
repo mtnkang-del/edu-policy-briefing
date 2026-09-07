@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-07T21:38:56.441Z",
-  "generatedAtKST": "2026-09-08T06:38:33.903+09:00",
+  "generatedAt": "2026-09-07T22:33:43.908Z",
+  "generatedAtKST": "2026-09-08T07:33:21.376+09:00",
   "date": "2026-09-08",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": false,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 0,
-    "domesticBing": 5,
-    "domesticGoogle": 169,
-    "foreignBing": 4,
-    "foreignGoogle": 211,
-    "carried": 94,
-    "rawUnique": 360,
-    "policyRejected": 283,
-    "policyKept": 77
+    "domesticBing": 7,
+    "domesticGoogle": 168,
+    "foreignBing": 3,
+    "foreignGoogle": 214,
+    "carried": 171,
+    "rawUnique": 363,
+    "policyRejected": 285,
+    "policyKept": 78
   },
   "briefing": [
     "교육부, 2027학년도 대입전형 기간에 맞춰 입시비리 집중신고 기간 운영 — 교육부",
@@ -24,9 +24,9 @@
     "교육부, 교부금 개편 논란에 “내년 10.1% 증가” — 스페셜경제"
   ],
   "stats": {
-    "total": 78,
+    "total": 79,
     "official": 3,
-    "domestic": 71,
+    "domestic": 72,
     "foreign": 4
   },
   "items": [
@@ -119,13 +119,13 @@
       "score": 92
     },
     {
-      "id": "9feb1ded57b4",
+      "id": "100fd4409663",
       "title": "2027년 교육부 전문대 지원예산(안) 설명회 개최",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjU1NFbE5kTnhjc3VFa2hsVzd4X3JlSzJiLUp6eE15NlRtTXB5TElvalZPMDlPYjBDa29sLTgwWFVWNVNwdUlUOU5US2RQR2YzY0NKQ3FCbUhiVmFRbENR?oc=5",
-      "source": "hangyo.com",
+      "source": "한국교육신문",
       "kind": "domestic",
       "publishedAt": "2026-09-06T22:44:27.000Z",
-      "description": "2027년 교육부 전문대 지원예산(안) 설명회 개최 hangyo.com",
+      "description": "2027년 교육부 전문대 지원예산(안) 설명회 개최 한국교육신문",
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 75,
@@ -275,19 +275,6 @@
       "score": 79
     },
     {
-      "id": "474501675353",
-      "title": "내 고민 해결해줄 교육부 청년 지원정책 - 정책뉴스 | 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZMWRHLUZacEcxTXF6dGJaclg0UklFNDF2azZkVDlXaHJaSUNyZ3pIQ1dtdXlKU3dHTE9KVXZ3UTA0WlRZdjE0OGZWZHFONGp4NmQzM3g2N3FjQnNnQUtsZUNSUGFUb1d5ektERA?oc=5",
-      "source": "korea.kr",
-      "kind": "domestic",
-      "publishedAt": "2026-09-06T05:22:00.000Z",
-      "description": "내 고민 해결해줄 교육부 청년 지원정책 - 정책뉴스 | 뉴스 korea.kr",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 81,
-      "score": 79
-    },
-    {
       "id": "2d4f825bd535",
       "title": "[심층] 대구교육청, 교원 'AI·디지털 역량 인증제(TAD)' 전면 도입···실전 수업 활용에 초점",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLaFlrUGNMcmU1bUlFWXZFR3MtUXZTTzdnaTR6MFlzcldlVW5WWUlBNi1TVHVERF9fZEhFYkNTbGNJY3dqN1oyVzlubUY?oc=5",
@@ -426,6 +413,19 @@
       "publishedAt": "2026-09-06T21:00:00.000Z",
       "description": "[인터뷰] 이병도 충남교육감 “교권 바로 세워 아이들 배움 지키고 교육격차 줄이겠다” 천지일보",
       "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 72
+    },
+    {
+      "id": "e16af7230b2b",
+      "title": "내 고민 해결해줄 교육부 청년 지원정책 - 정책뉴스 | 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZMWRHLUZacEcxTXF6dGJaclg0UklFNDF2azZkVDlXaHJaSUNyZ3pIQ1dtdXlKU3dHTE9KVXZ3UTA0WlRZdjE0OGZWZHFONGp4NmQzM3g2N3FjQnNnQUtsZUNSUGFUb1d5ektERA?oc=5",
+      "source": "대한민국 정책브리핑",
+      "kind": "domestic",
+      "publishedAt": "2026-09-06T05:22:00.000Z",
+      "description": "내 고민 해결해줄 교육부 청년 지원정책 - 정책뉴스 | 뉴스 대한민국 정책브리핑",
+      "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 72
@@ -600,13 +600,13 @@
       "score": 67
     },
     {
-      "id": "cc34287c3b5e",
+      "id": "9be0a3301d00",
       "title": "대전시교육청, 2027학년도 고등학교 입학전형 설명회 개최",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhMnM1QU1LOEt0TThFYUZ5S0EzZk9KY2t0VVpsOVpFVVFiM2dKc2RoSEdhcEY5ejhSM0o4c0JxY0E3TmFTeDFIRzZtZkVFdG5MR0FpdUVIaHRRX0pF?oc=5",
-      "source": "누리일보",
+      "source": "nuriilbo.com",
       "kind": "domestic",
       "publishedAt": "2026-09-04T00:50:10.000Z",
-      "description": "대전시교육청, 2027학년도 고등학교 입학전형 설명회 개최 누리일보",
+      "description": "대전시교육청, 2027학년도 고등학교 입학전형 설명회 개최 nuriilbo.com",
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 75,
@@ -743,6 +743,19 @@
       "score": 62
     },
     {
+      "id": "a88e23bf9b47",
+      "title": "[설명자료] 지방 국립대학은 국가가 설립한 지역의 핵심 고등교육 기관으로서 우수한 교육 여건을 갖추고 있습니다",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fUUxPM0ZoTEt4OEZqUV9FRmNwQk56UkxvLTRBMENxWEh0anRNbHk2WUFId1BWb2UtWWE3alhEUkFSTlRfdE1uZDRFbUd2SEFpNEk0NHVSNTRkbm5zMlNpdWs4TWZmcDMtU2REQndQZw?oc=5",
+      "source": "대한민국 정책브리핑",
+      "kind": "domestic",
+      "publishedAt": "2026-09-05T05:48:45.000Z",
+      "description": "[설명자료] 지방 국립대학은 국가가 설립한 지역의 핵심 고등교육 기관으로서 우수한 교육 여건을 갖추고 있습니다 대한민국 정책브리핑",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 61
+    },
+    {
       "id": "beba4c15080c",
       "title": "Telangana government to introduce new \"education policy\": CM Revanth Reddy",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY2NXR1FEbDd2ZU1oeDdEMjItRzdiTENaeGxoQlIxUFBLMUg0VnVWNGlodVdpNWdESDk2MDRYN25qcERCbmZSRmx1dWp3eUg5UTAwNnJtTERBR3A5bXluZW01MzlTWTVtZ2t4ZUVYdG5NY1dqUnp2SHhETXNDYkRNQkNtYXZHZC0xNTI0UHpWbjlJSXdIQUhYQkJtbzNtRjdDUXlVM1JrMXE2U1I1QlczaEVhT2tBV1It?oc=5",
@@ -874,13 +887,13 @@
       "score": 55
     },
     {
-      "id": "9309cd1c4fea",
+      "id": "050d77b2b78b",
       "title": "초등 저학년 3시 하교, 돌봄문제 아닌 '교원 수급' 문제가 핵심?",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzU0VlVzY3cFkyZUZ4Tjk1ZWd6WjEzTE9sQXlBY3NrZzBvVXNGSlU2Wk5KLXVaQjd4VWx1dGhSV1lSTUhhWHhZTF9rQ04tdlFUM2xIaUFudllrbWtFUGVGd3hTdkNzaFE3Wmtn0gFvQVVfeXFMT0RiVFg0TWJ6UlpQTUI2ekt2T0ItdWR1bnM4c293STBnNVNIYzk2ZTc2RHl2R1FqRUZ0WldzWHotU0RUTmt5QW5OTHJDd3g1Ujk2UGV3MnRsQ0xMRWduVFd2ZzN1OWh5aDN1NVRDdUY0?oc=5",
-      "source": "educhang.co.kr",
+      "source": "교육언론[창]",
       "kind": "domestic",
       "publishedAt": "2026-09-04T07:00:00.000Z",
-      "description": "초등 저학년 3시 하교, 돌봄문제 아닌 '교원 수급' 문제가 핵심? educhang.co.kr",
+      "description": "초등 저학년 3시 하교, 돌봄문제 아닌 '교원 수급' 문제가 핵심? 교육언론[창]",
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -1051,13 +1064,13 @@
     "throughDate": "2026-09-08",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-09-06T15:00:00.000Z",
-    "windowEnd": "2026-09-07T21:38:56.441Z",
+    "windowEnd": "2026-09-07T22:33:43.908Z",
     "itemIds": [
       "538307ef4faf",
       "91857efa8536",
       "da745380c2e5",
       "21d95b4ca5cc",
-      "9feb1ded57b4",
+      "100fd4409663",
       "814145c2ae0c",
       "9b5718c89179",
       "6b90a2100224",
@@ -1096,7 +1109,7 @@
         "why": "대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다.",
         "sources": [
           "한국대학신문",
-          "hangyo.com",
+          "한국교육신문",
           "뉴시스"
         ]
       },
