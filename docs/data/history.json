@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T21:37:50.380Z",
+  "generatedAt": "2026-09-08T22:34:18.866Z",
   "retentionDays": 30,
   "days": [
     "2026-09-09",
@@ -19,6 +19,21 @@
     "2026-08-26"
   ],
   "items": [
+    {
+      "id": "b9fca9099529",
+      "title": "South Korea: Systemic Gender, Age Discrimination at Work",
+      "url": "https://www.hrw.org/news/2026/09/08/south-korea-systemic-gender-age-discrimination-at-work",
+      "source": "Human Rights Watch",
+      "kind": "foreign",
+      "publishedAt": "2026-09-08T15:00:00.000Z",
+      "description": "Women in South Korea face systemic gender discrimination at every stage of their working lives, Human Rights Watch said in a report released today. These adverse impacts accumulate as women get older, ...",
+      "category": "기타",
+      "score": 30,
+      "originalTitle": "South Korea: Systemic Gender, Age Discrimination at Work",
+      "titleKo": "한국: 전신 성차별, 직장 내 연령차별",
+      "summaryKo": "휴먼라이츠워치는 오늘 발표한 보고서에서 한국의 여성들은 직장 생활의 모든 단계에서 조직적인 성차별에 직면해 있다고 밝혔습니다. 이러한 부작용은 여성이 나이가 들면서 축적됩니다.",
+      "snapshotDate": "2026-09-09"
+    },
     {
       "id": "98829f5fed98",
       "title": "'지방교육재정교부금' 산식 발생차액, \"미래투자 vs 대학현실 문제 절반씩 배정해야\"",
@@ -314,6 +329,71 @@
       "snapshotDate": "2026-09-09"
     },
     {
+      "id": "2ff93e7c1536",
+      "title": "경제협력개발기구(OECD), 국제 학업성취도 평가(PISA) 2025 결과 발표",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107148&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-09-08T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "기타",
+      "policyRelevance": 100,
+      "score": 119,
+      "snapshotDate": "2026-09-09"
+    },
+    {
+      "id": "c9fe6c9a193d",
+      "title": "세계적 석학의 지혜와 통찰을 ‘케이무크 × EBS 위대한 수업’에서 만난다",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107149&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-09-08T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "기타",
+      "policyRelevance": 100,
+      "score": 115,
+      "snapshotDate": "2026-09-09"
+    },
+    {
+      "id": "b35d3f94c9c5",
+      "title": "2027학년도 대학수학능력시험 응시원서 접수 결과",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107152&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-09-08T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "입시·사교육",
+      "policyRelevance": 100,
+      "score": 115,
+      "snapshotDate": "2026-09-09"
+    },
+    {
+      "id": "212d07a7cf23",
+      "title": "유학생 30만 시대, 외국인 유학생 정책 ‘질적 전환’ 본격화",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107151&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-09-08T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "유·초중등",
+      "policyRelevance": 100,
+      "score": 115,
+      "snapshotDate": "2026-09-09"
+    },
+    {
+      "id": "b19ed9630b47",
+      "title": "지방정부-대학-기업 손잡고 인재 기른다, 지역 주도 지역인재 양성 가속",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107150&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-09-08T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "고등교육",
+      "policyRelevance": 100,
+      "score": 115,
+      "snapshotDate": "2026-09-09"
+    },
+    {
       "id": "5888275c6716",
       "title": "코딧 글로벌정책실증연구원, ‘AI 시대 디지털 창작 역량 함양을 위한 초·중·고 교육 환경 정책 과제’ 이슈페이퍼 발간",
       "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%BD%94%EB%94%A7-%EA%B8%80%EB%A1%9C%EB%B2%8C%EC%A0%95%EC%B1%85%EC%8B%A4%EC%A6%9D%EC%97%B0%EA%B5%AC%EC%9B%90-ai-%EC%8B%9C%EB%8C%80-%EB%94%94%EC%A7%80%ED%84%B8-%EC%B0%BD%EC%9E%91-%EC%97%AD%EB%9F%89-%ED%95%A8%EC%96%91%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%B4%88-%EC%A4%91-%EA%B3%A0-%EA%B5%90%EC%9C%A1-%ED%99%98%EA%B2%BD-%EC%A0%95%EC%B1%85-%EA%B3%BC%EC%A0%9C-%EC%9D%B4%EC%8A%88%ED%8E%98%EC%9D%B4%ED%8D%BC-%EB%B0%9C%EA%B0%84/ar-AA2bMgBV",
@@ -384,20 +464,6 @@
       "snapshotDate": "2026-09-09"
     },
     {
-      "id": "8c79a533d419",
-      "title": "‘국립대 등록금 0원’, 올해 수시모집 판도 바꿀까",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaWDAzdkNGNDllVnFyUjhIMjFaUThlWmRtNmJ4UUNFMWFoclQ3MmhIUzJtZl9EdldhSXpEQ0VWRVE5VGw4RjlHTW9BY1RPU3BBczJJT3J3dEdDdFpObjZ4dUUyS282Wmd3WkZySzQzMDZWdzQz?oc=5",
-      "source": "busan.com",
-      "kind": "domestic",
-      "publishedAt": "2026-09-07T09:23:24.000Z",
-      "description": "‘국립대 등록금 0원’, 올해 수시모집 판도 바꿀까 busan.com",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 61,
-      "snapshotDate": "2026-09-09"
-    },
-    {
       "id": "33f48739016b",
       "title": "‘국립대 등록금 0원’, 올해 수시모집 판도 바꿀까",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaWDAzdkNGNDllVnFyUjhIMjFaUThlWmRtNmJ4UUNFMWFoclQ3MmhIUzJtZl9EdldhSXpEQ0VWRVE5VGw4RjlHTW9BY1RPU3BBczJJT3J3dEdDdFpObjZ4dUUyS282Wmd3WkZySzQzMDZWdzQz?oc=5",
@@ -408,8 +474,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 71,
-      "snapshotDate": "2026-09-08"
+      "score": 61,
+      "snapshotDate": "2026-09-09"
     },
     {
       "id": "f0a48c5f4c77",
@@ -482,20 +548,6 @@
       "snapshotDate": "2026-09-09"
     },
     {
-      "id": "07ae4c7e7cac",
-      "title": "교부금 개편에 '필수경비' 공방…교육부 \"충당 가능\" vs 교육감협 \"못해\"",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQRUotSl9QUEFWNHJvSldoSFBmS1lxOU1IdGFVZVA5bC05d1NoU3pQLTk4U09LMUVWVHVpclR1MFJsTHUwanFUX05NSUxEemItaV9WQ2pqMUl0NXBz?oc=5",
-      "source": "newspim.com",
-      "kind": "domestic",
-      "publishedAt": "2026-09-07T07:00:00.000Z",
-      "description": "교부금 개편에 '필수경비' 공방…교육부 \"충당 가능\" vs 교육감협 \"못해\" newspim.com",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 80,
-      "snapshotDate": "2026-09-09"
-    },
-    {
       "id": "814145c2ae0c",
       "title": "교부금 개편에 '필수경비' 공방…교육부 \"충당 가능\" vs 교육감협 \"못해\"",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQRUotSl9QUEFWNHJvSldoSFBmS1lxOU1IdGFVZVA5bC05d1NoU3pQLTk4U09LMUVWVHVpclR1MFJsTHUwanFUX05NSUxEemItaV9WQ2pqMUl0NXBz?oc=5",
@@ -506,8 +558,8 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 90,
-      "snapshotDate": "2026-09-08"
+      "score": 80,
+      "snapshotDate": "2026-09-09"
     },
     {
       "id": "bfa1d4becff3",
@@ -566,6 +618,20 @@
       "snapshotDate": "2026-09-09"
     },
     {
+      "id": "ec076e0c2e88",
+      "title": "'PD수첩' AI 시대, 기로에 선 수능…논·서술형 도입이 공교육 살릴까",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MTzdwNW9DRC1ERTB1VndtalYwYllWaHdqS2JWU0dtUmstWUpPeVZodXRtTGNLTEhadFpUc1c4YnMydFk3S1d0clRmTU01eWRDMjBZQ2k3eWJubC1kcWI5Vw?oc=5",
+      "source": "enews.imbc.com",
+      "kind": "domestic",
+      "publishedAt": "2026-09-07T05:15:00.000Z",
+      "description": "'PD수첩' AI 시대, 기로에 선 수능…논·서술형 도입이 공교육 살릴까 enews.imbc.com",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 52,
+      "score": 74,
+      "snapshotDate": "2026-09-09"
+    },
+    {
       "id": "616c82af500e",
       "title": "'PD수첩' AI 시대, 기로에 선 수능…논·서술형 도입이 공교육 살릴까",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MTzdwNW9DRC1ERTB1VndtalYwYllWaHdqS2JWU0dtUmstWUpPeVZodXRtTGNLTEhadFpUc1c4YnMydFk3S1d0clRmTU01eWRDMjBZQ2k3eWJubC1kcWI5Vw?oc=5",
@@ -576,8 +642,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 52,
-      "score": 74,
-      "snapshotDate": "2026-09-09"
+      "score": 84,
+      "snapshotDate": "2026-09-08"
     },
     {
       "id": "6121f2299b87",
@@ -664,20 +730,6 @@
       "snapshotDate": "2026-09-09"
     },
     {
-      "id": "7b61e966946f",
-      "title": "부산교육청, 돌봄부터 AI·급식까지 교육현장 혁신",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAySTJmRWFoazNudjcxSVpqaXZfY0hIWENwY2tBbjU0QmpPOEh2SC1OX2M4R2FXdWt3OHF4U1p1ZF81THRDNEtWaDZlTXo0STJ6SVFhRVpIYU5SVlk2SENNSnBQTGNoZEZ5Rk9OM1hVZEVuZw?oc=5",
-      "source": "industrynews.co.kr",
-      "kind": "domestic",
-      "publishedAt": "2026-09-07T00:56:37.000Z",
-      "description": "부산교육청, 돌봄부터 AI·급식까지 교육현장 혁신 industrynews.co.kr",
-      "category": "AI·디지털",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 76,
-      "snapshotDate": "2026-09-09"
-    },
-    {
       "id": "aba703fb2868",
       "title": "부산교육청, 돌봄부터 AI·급식까지 교육현장 혁신",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAySTJmRWFoazNudjcxSVpqaXZfY0hIWENwY2tBbjU0QmpPOEh2SC1OX2M4R2FXdWt3OHF4U1p1ZF81THRDNEtWaDZlTXo0STJ6SVFhRVpIYU5SVlk2SENNSnBQTGNoZEZ5Rk9OM1hVZEVuZw?oc=5",
@@ -688,8 +740,8 @@
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 86,
-      "snapshotDate": "2026-09-08"
+      "score": 76,
+      "snapshotDate": "2026-09-09"
     },
     {
       "id": "91857efa8536",
@@ -734,6 +786,19 @@
       "snapshotDate": "2026-09-09"
     },
     {
+      "id": "a505c50050f7",
+      "title": "[보도참고자료] 인공지능(AI).디지털과 함께 여는 ‘2026 전국 장애학생 e페스티벌’ 개최",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107145&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-09-07T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "AI·디지털",
+      "policyRelevance": 100,
+      "score": 109,
+      "snapshotDate": "2026-09-09"
+    },
+    {
       "id": "100fd4409663",
       "title": "2027년 교육부 전문대 지원예산(안) 설명회 개최",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjU1NFbE5kTnhjc3VFa2hsVzd4X3JlSzJiLUp6eE15NlRtTXB5TElvalZPMDlPYjBDa29sLTgwWFVWNVNwdUlUOU5US2RQR2YzY0NKQ3FCbUhiVmFRbENR?oc=5",
@@ -745,6 +810,20 @@
       "feedProvider": "google",
       "policyRelevance": 75,
       "score": 81,
+      "snapshotDate": "2026-09-09"
+    },
+    {
+      "id": "930790238ce5",
+      "title": "교부금 개편 놓고 교육계-정부 정면충돌…쟁점은 '교육재정 안정성'",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B5%90%EB%B6%80%EA%B8%88-%EA%B0%9C%ED%8E%B8-%EB%86%93%EA%B3%A0-%EA%B5%90%EC%9C%A1%EA%B3%84-%EC%A0%95%EB%B6%80-%EC%A0%95%EB%A9%B4%EC%B6%A9%EB%8F%8C-%EC%9F%81%EC%A0%90%EC%9D%80-%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95-%EC%95%88%EC%A0%95%EC%84%B1/ar-AA2bHjoL",
+      "source": "쿠키뉴스 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-09-06T21:16:20.000Z",
+      "description": "정부가 내국세 연동제 폐지를 골자로 한 지방교육재정교부금 개편안을 국회에 제출하면서 교육계와 정부 간 갈등이 본격적인 국회 논의 단계로 옮겨가고 있다. 교육계는 개편안 부결을 요구하며 무기한 천막농성에 들어갔고, 교육부는 제도 개편 이후에도 지방교육재정이 안정적으로 증가할 것이라며 반박에 나섰다. 한국교원단체총연합회와 교사노동조합연맹, 전국교직원노동조합, ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 87,
+      "score": 94,
       "snapshotDate": "2026-09-09"
     },
     {
@@ -941,13 +1020,13 @@
       "snapshotDate": "2026-09-09"
     },
     {
-      "id": "9296957cf742",
+      "id": "5878866c9562",
       "title": "교육부, 대입 입시비리 집중신고 기간 운영…허위 등록·면접 담합 등 조사",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13QnhWZFVDN3JyeUMxeWtmVHpMSnBydGp6UndJVVc1b3ZtVkJ4aF96dmxrMzNoeWhoUHlPVjktS0xvYjJwYjRYVTJYNVNQOGhtcnhSWTRrczFQQXBn?oc=5",
-      "source": "newspim.com",
+      "source": "뉴스핌",
       "kind": "domestic",
       "publishedAt": "2026-09-06T00:00:00.000Z",
-      "description": "교육부, 대입 입시비리 집중신고 기간 운영…허위 등록·면접 담합 등 조사 newspim.com",
+      "description": "교육부, 대입 입시비리 집중신고 기간 운영…허위 등록·면접 담합 등 조사 뉴스핌",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
@@ -967,20 +1046,6 @@
       "policyRelevance": 45,
       "score": 67,
       "snapshotDate": "2026-09-09"
-    },
-    {
-      "id": "5878866c9562",
-      "title": "교육부, 대입 입시비리 집중신고 기간 운영…허위 등록·면접 담합 등 조사",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13QnhWZFVDN3JyeUMxeWtmVHpMSnBydGp6UndJVVc1b3ZtVkJ4aF96dmxrMzNoeWhoUHlPVjktS0xvYjJwYjRYVTJYNVNQOGhtcnhSWTRrczFQQXBn?oc=5",
-      "source": "뉴스핌",
-      "kind": "domestic",
-      "publishedAt": "2026-09-06T00:00:00.000Z",
-      "description": "교육부, 대입 입시비리 집중신고 기간 운영…허위 등록·면접 담합 등 조사 뉴스핌",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 76,
-      "snapshotDate": "2026-09-08"
     },
     {
       "id": "3868e034ae73",
