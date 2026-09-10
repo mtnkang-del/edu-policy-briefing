@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-10T21:37:14.923Z",
-  "generatedAtKST": "2026-09-11T06:37:12.380+09:00",
+  "generatedAt": "2026-09-10T22:33:30.087Z",
+  "generatedAtKST": "2026-09-11T07:33:24.090+09:00",
   "date": "2026-09-11",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 9,
-    "domesticGoogle": 168,
-    "foreignBing": 4,
-    "foreignGoogle": 216,
-    "carried": 157,
-    "rawUnique": 383,
-    "policyRejected": 294,
+    "domesticBing": 10,
+    "domesticGoogle": 172,
+    "foreignBing": 3,
+    "foreignGoogle": 170,
+    "carried": 237,
+    "rawUnique": 340,
+    "policyRejected": 250,
     "policyKept": 80
   },
   "briefing": [
@@ -203,13 +203,13 @@
       "score": 95
     },
     {
-      "id": "52db8ead69d4",
+      "id": "de47c211460e",
       "title": "'장애학생 등 교육권 보장' 13대 정책 제안‥청와대 “이달 내 교육부와 협의”",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qUTVVTGNsVkZ1TFY1UTVrWFl6VVlvRUZqSzdXbllXbUthVmNZeHRwQm5rOHczb0lIM3Q4OTd4NTNNMjN1d015dE41bThCVjlVTWRZYTdBbkdoVUYzZEVINjc0Vl9ydmxfOW02cEpB0gFyQVVfeXFMTXJsdFh3ZXpsOFhZcWctRE84Y0ZWNnZWS1NhbGNjT195RFQ0b0otUjQtclFrSF9mb3hDb25NRjFkM3JIYlhydTF4N0ZVU3FvVGNwQnhUNnRrLS1ETFkyWUNWeEdFNFo4NHNFcHpIYlQ5cW9R?oc=5",
-      "source": "에이블뉴스",
+      "source": "ablenews.co.kr",
       "kind": "domestic",
       "publishedAt": "2026-09-10T08:44:00.000Z",
-      "description": "'장애학생 등 교육권 보장' 13대 정책 제안‥청와대 “이달 내 교육부와 협의” 에이블뉴스",
+      "description": "'장애학생 등 교육권 보장' 13대 정책 제안‥청와대 “이달 내 교육부와 협의” ablenews.co.kr",
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 87,
@@ -275,6 +275,19 @@
       "kind": "domestic",
       "publishedAt": "2026-09-08T23:49:19.000Z",
       "description": "[파이낸셜뉴스] 1971년 제도 도입 이후 55년간 유지돼 온 지방교육재정교부금 체계 개편을 둘러싸고 교육계의 반발이 커지는 가운데, 시·도교육감 대표단이 국회를 찾아 정부 개정안에 대한 철저한 검증과 재검토를 촉구했다. 학령인구 감소만을 반영해 법정 교부금 산식을 손질할 경우, 미래 교육 투자 위축과 교육재정의 실질적 감소가 나타날 수 있다는 우려에서다.",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
+      "score": 86
+    },
+    {
+      "id": "2a2bc7cba358",
+      "title": "인천교육재정 줄어드나…도성훈, 지방교육교부금 개편 '제동'",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%9D%B8%EC%B2%9C%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95-%EC%A4%84%EC%96%B4%EB%93%9C%EB%82%98-%EB%8F%84%EC%84%B1%ED%9B%88-%EC%A7%80%EB%B0%A9%EA%B5%90%EC%9C%A1%EA%B5%90%EB%B6%80%EA%B8%88-%EA%B0%9C%ED%8E%B8-%EC%A0%9C%EB%8F%99/ar-AA2bQEmn",
+      "source": "데일리안 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-09-08T19:31:00.000Z",
+      "description": "인천시교육청이 정부의 지방교육재정교부금 개편안에 대해 사실상 반대 입장을 내놓으며 안정적인 교육재정 확보를 촉구했다.도성훈 인천시교육감은 최근 허종식 더불어민주당 인천시당위원장과 만나 지방교육재정의 현황과 주요 현안을 공유하고, 정부가 추진하는 교부금 제도 개편에 대한 우려를 전달했다고 9일 밝혔다.논란의 핵심은 정부가 54년간 유지돼 온 ‘내국세 연동제’ ...",
       "category": "교원·조직",
       "feedProvider": "bing",
       "policyRelevance": 77,
@@ -372,6 +385,19 @@
       "score": 77
     },
     {
+      "id": "65df4884e7bb",
+      "title": "충북 교원단체들, 청소년단체 승진가산점 부활 추진 반발",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56YTQ3QzFwSkF4WndEY0Z1X1Noa0w0S1ZCUmozVmV0SEROdVNQbThBcGN0Z2VkUTVKYlhYdHpHNzFPWTdvTXhEcUlockVJLUtBLUkyZGJLakFrWnZjMmRmc2RnWUM3dWtLZ2ZaTWhOaEM?oc=5",
+      "source": "ccdailynews.com",
+      "kind": "domestic",
+      "publishedAt": "2026-09-08T08:00:36.000Z",
+      "description": "충북 교원단체들, 청소년단체 승진가산점 부활 추진 반발 ccdailynews.com",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 57,
+      "score": 77
+    },
+    {
       "id": "6caf0dc3c404",
       "title": "'유학생 30만' 달성한 교육부…'많이 유치'→'잘 키우기' 정책 전환",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lai1VWE43XzVjckNSbFJhbk9mX0xickdzdF9xZF9tR1l4WnMxLVk3QXAzeW5icDg1d1RLbmY1WHY2ZDJPZW9PLUpreTlBVjlDbXRJ?oc=5",
@@ -398,13 +424,13 @@
       "score": 76
     },
     {
-      "id": "44a54d1bd488",
+      "id": "819ef0ec1d3a",
       "title": "[AI 정부정책] “AI 대전환, 한국과 아프리카가 함께 도약할 때”…한 총리, 디지털 동반자 전략 제시",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90Slh3em83NEN1WFVUUUdlTDZWb19xVTlnRlZkcmMtT3lrc05McHhxRy1zZERtYVRTZ0VfQm5aY1BTRmYwVkdxVHVaQkQtczZKWE93Y25vRGlqcVNFTWRScnpIbGhXdzNuYUI00gFvQVVfeXFMT3NpQkNWVUpRbHBQbGdCdDVaS3pBWWNkd1BMZW9CZEV4ek85TzdFbGxMR3IyNmRUbTgxcWJLZUZzVnAyeUNScFBLT3pIRmRuaFFLWnBUN3hxMVdqU1JWT2VPWVg3T1JQcHFiSDFLSUlZ?oc=5",
-      "source": "aifnlife.co.kr",
+      "source": "AI라이프경제",
       "kind": "domestic",
       "publishedAt": "2026-09-09T01:35:54.000Z",
-      "description": "[AI 정부정책] “AI 대전환, 한국과 아프리카가 함께 도약할 때”…한 총리, 디지털 동반자 전략 제시 aifnlife.co.kr",
+      "description": "[AI 정부정책] “AI 대전환, 한국과 아프리카가 함께 도약할 때”…한 총리, 디지털 동반자 전략 제시 AI라이프경제",
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 65,
@@ -486,19 +512,6 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 73
-    },
-    {
-      "id": "96a601ca1cb5",
-      "title": "충북 교원단체들, 청소년단체 승진가산점 부활 추진 반발",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56YTQ3QzFwSkF4WndEY0Z1X1Noa0w0S1ZCUmozVmV0SEROdVNQbThBcGN0Z2VkUTVKYlhYdHpHNzFPWTdvTXhEcUlockVJLUtBLUkyZGJLakFrWnZjMmRmc2RnWUM3dWtLZ2ZaTWhOaEM?oc=5",
-      "source": "충청일보",
-      "kind": "domestic",
-      "publishedAt": "2026-09-08T08:00:36.000Z",
-      "description": "충북 교원단체들, 청소년단체 승진가산점 부활 추진 반발 충청일보",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 57,
       "score": 73
     },
     {
@@ -801,13 +814,13 @@
       "score": 65
     },
     {
-      "id": "ec076e0c2e88",
+      "id": "616c82af500e",
       "title": "'PD수첩' AI 시대, 기로에 선 수능…논·서술형 도입이 공교육 살릴까",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MTzdwNW9DRC1ERTB1VndtalYwYllWaHdqS2JWU0dtUmstWUpPeVZodXRtTGNLTEhadFpUc1c4YnMydFk3S1d0clRmTU01eWRDMjBZQ2k3eWJubC1kcWI5Vw?oc=5",
-      "source": "enews.imbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BRjgtZ3ZIUUhEdFNlY3RMSnVIYmYtRjVxTk1BbDVhVGRzSlNsT2RTQTZXWTFCbXFtdjdRbVREZ3hGVEUzUE1GLXFXWU9tcTA?oc=5",
+      "source": "iMBC 연예",
       "kind": "domestic",
       "publishedAt": "2026-09-07T05:15:00.000Z",
-      "description": "'PD수첩' AI 시대, 기로에 선 수능…논·서술형 도입이 공교육 살릴까 enews.imbc.com",
+      "description": "'PD수첩' AI 시대, 기로에 선 수능…논·서술형 도입이 공교육 살릴까 iMBC 연예",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 52,
@@ -1049,19 +1062,6 @@
       "feedProvider": "google",
       "policyRelevance": 47,
       "score": 54
-    },
-    {
-      "id": "f0a48c5f4c77",
-      "title": "전남광주통합특별시, 국립의대 신설 후보대학 교육부에 이미 추천",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TMU1KT0lING1jakxDSzlocDdOZGloUUZXTDFsT1QzRmdOS2IxTVd0aU83TEtid2tkdWtROVhnT2twTGdja3Q1V1YtbXM4RlBDeEI5eG9lQTI2NnQyVVJJcHdNY28tXzB2OEpsRQ?oc=5",
-      "source": "호남타임즈",
-      "kind": "domestic",
-      "publishedAt": "2026-09-07T09:15:38.000Z",
-      "description": "전남광주통합특별시, 국립의대 신설 후보대학 교육부에 이미 추천 호남타임즈",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 53
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -1071,14 +1071,14 @@
     "throughDate": "2026-09-11",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-09-09T15:00:00.000Z",
-    "windowEnd": "2026-09-10T21:37:14.923Z",
+    "windowEnd": "2026-09-10T22:33:30.087Z",
     "itemIds": [
       "b84948b6baaa",
       "bd1f15e8a53d",
       "77c1d5c17e92",
       "18154a4067cd",
       "1d0b679cac54",
-      "52db8ead69d4",
+      "de47c211460e",
       "e888ae946c24",
       "7532483c4f79",
       "64ba83b96750",
@@ -1113,7 +1113,7 @@
         "why": "학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
         "sources": [
           "공뉴스",
-          "에이블뉴스"
+          "ablenews.co.kr"
         ]
       },
       {
