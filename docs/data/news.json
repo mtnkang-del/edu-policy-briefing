@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-12T21:36:51.389Z",
-  "generatedAtKST": "2026-09-13T06:36:28.852+09:00",
+  "generatedAt": "2026-09-12T22:32:33.729Z",
+  "generatedAtKST": "2026-09-13T07:32:11.191+09:00",
   "date": "2026-09-13",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 0,
-    "domesticBing": 6,
+    "domesticBing": 7,
     "domesticGoogle": 132,
-    "foreignBing": 1,
-    "foreignGoogle": 210,
-    "carried": 103,
-    "rawUnique": 315,
+    "foreignBing": 0,
+    "foreignGoogle": 211,
+    "carried": 164,
+    "rawUnique": 317,
     "policyRejected": 254,
-    "policyKept": 61
+    "policyKept": 63
   },
   "briefing": [
     "우즈베키스탄 한국어교육 지역 거점 마련하고 지역 한국어교사 양성한다 — 교육부",
@@ -24,9 +24,9 @@
     "부산대, 기획예산처와 대학 총장협의회 고등교육 투자 확대 논의 — 인더뉴스 on MSN"
   ],
   "stats": {
-    "total": 61,
+    "total": 63,
     "official": 4,
-    "domestic": 55,
+    "domestic": 57,
     "foreign": 2
   },
   "items": [
@@ -131,13 +131,13 @@
       "score": 90
     },
     {
-      "id": "c3d7e1778658",
+      "id": "60bd71547056",
       "title": "‘장애학생 특수학교 방문치과진료 제도화’ 국회토론회 연다",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5RGktb0pQX2REZUh0ZU9wS2JXVHk3amhDdWVZeFRwVGFiUWM2bm5xOG9yVnF0dGhmWUZqUjBxS1VxdXhzM3RpMFFKS09EQkVZTFBwd1pPMVdwaWhDWjh1NE83TGRWNGc0?oc=5",
-      "source": "dttoday.com",
+      "source": "덴탈투데이",
       "kind": "domestic",
       "publishedAt": "2026-09-11T23:34:10.000Z",
-      "description": "‘장애학생 특수학교 방문치과진료 제도화’ 국회토론회 연다 dttoday.com",
+      "description": "‘장애학생 특수학교 방문치과진료 제도화’ 국회토론회 연다 덴탈투데이",
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 75,
@@ -181,19 +181,6 @@
       "feedProvider": "google",
       "policyRelevance": 75,
       "score": 85
-    },
-    {
-      "id": "bf1ac9d8f61f",
-      "title": "경북교육청, 국회 방문해 지방교육재정교부금 개편 반대",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0ZlYyOWswZFlmTzFRNmN1VjFpTnhKX3Z4VEt2Y0dPcUdNQi03V1d5T1RpQzdjWU1YamNiZ25NWHczNjkyVjBXU3RDNWZpc2RhbEZiSVl4UElwMl9jQVkyamdObmhwZkRCX09LYWczSkx2eGlmR2hV0gF3QVVfeXFMUDRmVjI5azBkWWZPMVE2Y3VWMWlOeEpfdnhUS3ZjR09xR01CLTdXV3lPVGlDN2NZTVhqY2Jnbk1YdzM2OTJWMFdTdEM1ZmlzZGFsRmJJWXhQSXAyX2NBWTJqZ05uaHBmREJfT0thZzNKTHZ4aWZHaFU?oc=5",
-      "source": "straightnews.co.kr",
-      "kind": "domestic",
-      "publishedAt": "2026-09-10T13:13:45.000Z",
-      "description": "경북교육청, 국회 방문해 지방교육재정교부금 개편 반대 straightnews.co.kr",
-      "category": "재정·법령",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 84
     },
     {
       "id": "3b9a7c07c90e",
@@ -300,6 +287,19 @@
       "score": 80
     },
     {
+      "id": "7532483c4f79",
+      "title": "경북교육청, 국회 방문해 지방교육재정교부금 개편 반대",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0ZlYyOWswZFlmTzFRNmN1VjFpTnhKX3Z4VEt2Y0dPcUdNQi03V1d5T1RpQzdjWU1YamNiZ25NWHczNjkyVjBXU3RDNWZpc2RhbEZiSVl4UElwMl9jQVkyamdObmhwZkRCX09LYWczSkx2eGlmR2hV0gF3QVVfeXFMUDRmVjI5azBkWWZPMVE2Y3VWMWlOeEpfdnhUS3ZjR09xR01CLTdXV3lPVGlDN2NZTVhqY2Jnbk1YdzM2OTJWMFdTdEM1ZmlzZGFsRmJJWXhQSXAyX2NBWTJqZ05uaHBmREJfT0thZzNKTHZ4aWZHaFU?oc=5",
+      "source": "스트레이트뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-10T13:13:45.000Z",
+      "description": "경북교육청, 국회 방문해 지방교육재정교부금 개편 반대 스트레이트뉴스",
+      "category": "재정·법령",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 80
+    },
+    {
       "id": "64ba83b96750",
       "title": "경북교육청, 지방교육재정교부금 개편 반대 입장 국회에 전달",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PTU5NdUNzZWZabmZNbHBmOEJWelFwdE9XYUstU2gxaTg4Mjk0cFEtUnlDNGl1eFpacmhKeVV0dldZWkY3NFh2T0t6aTNBWjhYUURDaUg3bkF4R3VGcUlYam9vTFFYdjBrMGhlMlZFd0lDdw?oc=5",
@@ -326,6 +326,19 @@
       "score": 80
     },
     {
+      "id": "03bb88b09d7c",
+      "title": "전국 국·공립대 교수 단체, ‘교부금 개편·고등교육 예산 증액’ 정부에 예산 집행 효율화 촉구",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFRUdwUllyZmZURW5peU5TTkdudVJJUFlBLTBQVTFQSV9kSDlUMHR5SDR5RURMUWIzdklMRHkyamxzYXY5Q3pCdnc2S3NGNTRfcDNKdS1jNVJVdlNfY3YzU0oyTGVwUQ?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-09-09T03:00:00.000Z",
+      "description": "전국 국·공립대 교수 단체, ‘교부금 개편·고등교육 예산 증액’ 정부에 예산 집행 효율화 촉구 한국대학신문",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 75,
+      "score": 79
+    },
+    {
       "id": "4aa55a85e452",
       "title": "임종식 경북교육감, ‘교육재정 축소 반대’ 국회 건의",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zUnp4MEh4TFZKVFROQlROYW9Da2F4N1JqNlk3OGVqMEs5akZQZmo4dU5BcFh6bUZSODRNLWhyNW5mMHFkYjNDbVFhZFdlMUl4TkFvZnNGZld5djhsYTJMRXJ4RkxHQ2dEeXFUYWtRdw?oc=5",
@@ -339,13 +352,13 @@
       "score": 78
     },
     {
-      "id": "95f2217e0cb6",
+      "id": "c12efb44a83e",
       "title": "최교진 취임 1년…'서울대 10개' 닻 올렸지만 교부금 갈등·SNS 논란 숙제",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WWVBPbTFLa2VsR3FldmJkM0xHUzdiS3RYeUZUa1NwWFcxV29tTjVuaGNVWHQzR1o2TXpveXB4cl85RTgtVkI0Sjg2Y1E1VVFIWHpLbjU4YjZGaV9E?oc=5",
-      "source": "뉴스핌",
+      "source": "vod.newspim.com",
       "kind": "domestic",
       "publishedAt": "2026-09-11T23:30:31.000Z",
-      "description": "최교진 취임 1년…'서울대 10개' 닻 올렸지만 교부금 갈등·SNS 논란 숙제 뉴스핌",
+      "description": "최교진 취임 1년…'서울대 10개' 닻 올렸지만 교부금 갈등·SNS 논란 숙제 vod.newspim.com",
       "category": "재정·법령",
       "feedProvider": "google",
       "policyRelevance": 42,
@@ -378,17 +391,17 @@
       "score": 74
     },
     {
-      "id": "50cb5e95ae5c",
-      "title": "전국 국·공립대 교수 단체, ‘교부금 개편·고등교육 예산 증액’ 정부에 예산 집행 효율화 촉구",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFRUdwUllyZmZURW5peU5TTkdudVJJUFlBLTBQVTFQSV9kSDlUMHR5SDR5RURMUWIzdklMRHkyamxzYXY5Q3pCdnc2S3NGNTRfcDNKdS1jNVJVdlNfY3YzU0oyTGVwUQ?oc=5",
-      "source": "news.unn.net",
+      "id": "a298a7994eba",
+      "title": "경상국립대, 내년 신입생 수시모집 경쟁율 8.09대 1",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tcGJaam1RVkhNQU5CbzMtblV1OFI3UGVqSDRHbUZvUlg5NGtXTjBqcWVza25uUUFPWGRHcFFxdTl3a3JGM2t2eE5FNGZMVFVVMTBjR1ZqYlRzbVNGLWFONdIBeEFVX3lxTE1IdHRZYlZLYmxzYXg3RXBoNWlrVmYtbE9HTFpmV2tDcDY3VnhXODJOUmNNUHhrdllQdThDcXkxYU9KUUkwbnZkYjItSm9JLVJwb0diQWhxMWFZWFh1VVFvLURFTThFRzNlLXI3T3NwWko2X2NtdkJoLQ?oc=5",
+      "source": "뉴시스",
       "kind": "domestic",
-      "publishedAt": "2026-09-09T03:00:00.000Z",
-      "description": "전국 국·공립대 교수 단체, ‘교부금 개편·고등교육 예산 증액’ 정부에 예산 집행 효율화 촉구 news.unn.net",
-      "category": "재정·법령",
+      "publishedAt": "2026-09-12T22:13:17.000Z",
+      "description": "경상국립대, 내년 신입생 수시모집 경쟁율 8.09대 1 뉴시스",
+      "category": "입시·사교육",
       "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 74
+      "policyRelevance": 40,
+      "score": 71
     },
     {
       "id": "e4cff37a3f3d",
@@ -398,6 +411,19 @@
       "kind": "domestic",
       "publishedAt": "2026-09-12T06:33:46.000Z",
       "description": "경상국립대 2027학년도 수시 경쟁률 '8.09대 1'...3729명 모집에 3만 156명 지원 gukjenews.com",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 71
+    },
+    {
+      "id": "08f5d2890156",
+      "title": "한국기술교육대학교, 2027학년도 수시 경쟁률 13.20대 1",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44bHVUX3hKTkJGUkdsbkN0cm5yYXFjdHFwaUxXMlE5MHBmV3lmSk5rMzE2T09iWEx0N3B5RFZqSkd3T3dvaTNBdWtNdDRNSTloWkpmbmtHM2lqWWRQalVPV3dvUkFBWmtST0xPNA?oc=5",
+      "source": "백제뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-12T00:37:57.000Z",
+      "description": "한국기술교육대학교, 2027학년도 수시 경쟁률 13.20대 1 백제뉴스",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -534,13 +560,13 @@
       "score": 66
     },
     {
-      "id": "88b4c0fc2b57",
+      "id": "0e5708f2f79b",
       "title": "‘취임 1년’ 최교진 장관… 교사노조연맹 “정책 추진력·존재감 부족”",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GVWt4MVpSdzVIbWc0cVJ6elZYbTR3ZW9NWEpTaVhHdUU4eXlVQURQSXJkWmYyazhqa3FMSHRZMWY4OXhDakt5eEMzdHFQbjJFVU5IQW5WbWRDSUdWMGZLOER2OWU1dw?oc=5",
-      "source": "news.unn.net",
+      "source": "한국대학신문",
       "kind": "domestic",
       "publishedAt": "2026-09-11T00:17:08.000Z",
-      "description": "‘취임 1년’ 최교진 장관… 교사노조연맹 “정책 추진력·존재감 부족” news.unn.net",
+      "description": "‘취임 1년’ 최교진 장관… 교사노조연맹 “정책 추진력·존재감 부족” 한국대학신문",
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 52,
@@ -573,13 +599,13 @@
       "score": 66
     },
     {
-      "id": "0ba3ca700e9b",
+      "id": "f17beb9f8b25",
       "title": "[2027학년도 수능 원서접수] 55만1864명 지원…졸업생 늘고 재학생 감소",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9lS1JoR0RrY2VyQUNPRWdXdnhWVUl5RVpKdkdxdmtVOG90YkdQUHU2dF9aQ2lpWlhzTm1QVmYxS1RpZWp4RlI0WVZaeHI?oc=5",
-      "source": "edumorning.com",
+      "source": "에듀모닝",
       "kind": "domestic",
       "publishedAt": "2026-09-09T22:54:15.000Z",
-      "description": "[2027학년도 수능 원서접수] 55만1864명 지원…졸업생 늘고 재학생 감소 edumorning.com",
+      "description": "[2027학년도 수능 원서접수] 55만1864명 지원…졸업생 늘고 재학생 감소 에듀모닝",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -625,13 +651,13 @@
       "score": 63
     },
     {
-      "id": "e135ec737d1f",
+      "id": "f4a12d0e0351",
       "title": "교육부 가이드북 ‘성소수자’ 삭제… 교사 96.7% “부적절”",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kTGxGb3RxOTJLd1g4eUJZWENNV3l0d2RzSGxmM0Y3Tjg1NlpEMDZSQXExalpZc2xWUDdkbktnTUhzVi1hanJRRGRfeHpHbkl6YzJBV01COHJFNl84Z016UHhXTDVvdw?oc=5",
-      "source": "news.unn.net",
+      "source": "한국대학신문",
       "kind": "domestic",
       "publishedAt": "2026-09-10T05:14:32.000Z",
-      "description": "교육부 가이드북 ‘성소수자’ 삭제… 교사 96.7% “부적절” news.unn.net",
+      "description": "교육부 가이드북 ‘성소수자’ 삭제… 교사 96.7% “부적절” 한국대학신문",
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 45,
@@ -664,6 +690,19 @@
       "score": 61
     },
     {
+      "id": "02deabf6696d",
+      "title": "‘학교안전법 시행령’ 일부개정령안 국무회의 통과",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fcmoybzE5R1BZQ2J4U0VLQlQ2cEtDUGFCQ05IYkdHVHdXRkt4QWJOb1Q5M0JhbDV2UnpjaldEeW10NFZlNDJNTl9CRXo3VWJfdUp3ZlBxeTNNZHVreUJCSWJjY2V1UQ?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-09-09T07:00:00.000Z",
+      "description": "‘학교안전법 시행령’ 일부개정령안 국무회의 통과 한국대학신문",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 52,
+      "score": 60
+    },
+    {
       "id": "e9722b666840",
       "title": "경북교육청, 교원인사 담당자 전문성 높여 공정한 인사행정 강화",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wUWEtWUwxVnl6d3RXbHVtUXhQU1J6Q21EQjRlVDhVTTlPY2RNWFlGUlJmMFQyR2NKM0ZuQVN4NW45c3FxTGhxTzZrN1ZxYjJfUVNleURoTnRjR0c4?oc=5",
@@ -675,19 +714,6 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 57
-    },
-    {
-      "id": "37432b386384",
-      "title": "‘학교안전법 시행령’ 일부개정령안 국무회의 통과",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fcmoybzE5R1BZQ2J4U0VLQlQ2cEtDUGFCQ05IYkdHVHdXRkt4QWJOb1Q5M0JhbDV2UnpjaldEeW10NFZlNDJNTl9CRXo3VWJfdUp3ZlBxeTNNZHVreUJCSWJjY2V1UQ?oc=5",
-      "source": "news.unn.net",
-      "kind": "domestic",
-      "publishedAt": "2026-09-09T07:00:00.000Z",
-      "description": "‘학교안전법 시행령’ 일부개정령안 국무회의 통과 news.unn.net",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 42,
-      "score": 56
     },
     {
       "id": "bad838145b7b",
@@ -833,32 +859,34 @@
     "throughDate": "2026-09-13",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-09-11T15:00:00.000Z",
-    "windowEnd": "2026-09-12T21:36:51.389Z",
+    "windowEnd": "2026-09-12T22:32:33.729Z",
     "itemIds": [
-      "c3d7e1778658",
+      "60bd71547056",
       "b421827b83fa",
       "3b9a7c07c90e",
       "f98867b7fee2",
-      "95f2217e0cb6",
-      "e4cff37a3f3d"
+      "c12efb44a83e",
+      "a298a7994eba",
+      "e4cff37a3f3d",
+      "08f5d2890156"
     ],
     "stats": {
-      "total": 6,
+      "total": 8,
       "official": 0,
-      "domestic": 6,
+      "domestic": 8,
       "foreign": 0
     },
     "headline": "오늘 아침 교육뉴스는 입시·사교육·유·초중등·AI·디지털 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 6건이 확인됐습니다. 국내 언론에서는 ‘장애학생 특수학교 방문치과진료 제도화’ 국회토론회 연다와 대입 원서 접수 장애에 교육부 \"13일 신속 구제 방안 마련\" 등이 주요하게 다뤄졌습니다. 전체적으로는 입시·사교육·유·초중등·AI·디지털 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 8건이 확인됐습니다. 국내 언론에서는 ‘장애학생 특수학교 방문치과진료 제도화’ 국회토론회 연다와 대입 원서 접수 장애에 교육부 \"13일 신속 구제 방안 마련\" 등이 주요하게 다뤄졌습니다. 전체적으로는 입시·사교육·유·초중등·AI·디지털 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "입시·사교육",
-        "summary": "대입 원서 접수 장애에 교육부 \"13일 신속 구제 방안 마련\" · 수시 원서접수 먹통 파장…교육부 \"수험생 구제절차 13일 안내\"(종합) · 경상국립대 2027학년도 수시 경쟁률 '8.09대 1'...3729명 모집에 3만 156명 지원",
+        "summary": "대입 원서 접수 장애에 교육부 \"13일 신속 구제 방안 마련\" · 수시 원서접수 먹통 파장…교육부 \"수험생 구제절차 13일 안내\"(종합) · 경상국립대, 내년 신입생 수시모집 경쟁율 8.09대 1",
         "why": "대입·수능·사교육 이슈는 학생·학부모 체감도가 높고 후속 안내와 현장 반응 점검이 중요합니다.",
         "sources": [
           "네이트",
           "뉴스1",
-          "gukjenews.com"
+          "뉴시스"
         ]
       },
       {
@@ -866,7 +894,7 @@
         "summary": "‘장애학생 특수학교 방문치과진료 제도화’ 국회토론회 연다",
         "why": "학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
         "sources": [
-          "dttoday.com"
+          "덴탈투데이"
         ]
       },
       {
@@ -882,7 +910,7 @@
         "summary": "최교진 취임 1년…'서울대 10개' 닻 올렸지만 교부금 갈등·SNS 논란 숙제",
         "why": "예산·법령 변화는 정책 집행의 직접 근거가 되므로 세부 기준과 시행 일정 확인이 중요합니다.",
         "sources": [
-          "뉴스핌"
+          "vod.newspim.com"
         ]
       }
     ],

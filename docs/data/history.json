@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T21:37:17.661Z",
+  "generatedAt": "2026-09-12T22:32:59.907Z",
   "retentionDays": 30,
   "days": [
     "2026-09-13",
@@ -23,6 +23,20 @@
     "2026-08-26"
   ],
   "items": [
+    {
+      "id": "a298a7994eba",
+      "title": "경상국립대, 내년 신입생 수시모집 경쟁율 8.09대 1",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tcGJaam1RVkhNQU5CbzMtblV1OFI3UGVqSDRHbUZvUlg5NGtXTjBqcWVza25uUUFPWGRHcFFxdTl3a3JGM2t2eE5FNGZMVFVVMTBjR1ZqYlRzbVNGLWFONdIBeEFVX3lxTE1IdHRZYlZLYmxzYXg3RXBoNWlrVmYtbE9HTFpmV2tDcDY3VnhXODJOUmNNUHhrdllQdThDcXkxYU9KUUkwbnZkYjItSm9JLVJwb0diQWhxMWFZWFh1VVFvLURFTThFRzNlLXI3T3NwWko2X2NtdkJoLQ?oc=5",
+      "source": "뉴시스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-12T22:13:17.000Z",
+      "description": "경상국립대, 내년 신입생 수시모집 경쟁율 8.09대 1 뉴시스",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 71,
+      "snapshotDate": "2026-09-13"
+    },
     {
       "id": "3b9a7c07c90e",
       "title": "수시 원서접수 먹통 파장…교육부 \"수험생 구제절차 13일 안내\"(종합)",
@@ -80,13 +94,27 @@
       "snapshotDate": "2026-09-13"
     },
     {
-      "id": "c3d7e1778658",
+      "id": "08f5d2890156",
+      "title": "한국기술교육대학교, 2027학년도 수시 경쟁률 13.20대 1",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44bHVUX3hKTkJGUkdsbkN0cm5yYXFjdHFwaUxXMlE5MHBmV3lmSk5rMzE2T09iWEx0N3B5RFZqSkd3T3dvaTNBdWtNdDRNSTloWkpmbmtHM2lqWWRQalVPV3dvUkFBWmtST0xPNA?oc=5",
+      "source": "백제뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-12T00:37:57.000Z",
+      "description": "한국기술교육대학교, 2027학년도 수시 경쟁률 13.20대 1 백제뉴스",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 71,
+      "snapshotDate": "2026-09-13"
+    },
+    {
+      "id": "60bd71547056",
       "title": "‘장애학생 특수학교 방문치과진료 제도화’ 국회토론회 연다",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5RGktb0pQX2REZUh0ZU9wS2JXVHk3amhDdWVZeFRwVGFiUWM2bm5xOG9yVnF0dGhmWUZqUjBxS1VxdXhzM3RpMFFKS09EQkVZTFBwd1pPMVdwaWhDWjh1NE83TGRWNGc0?oc=5",
-      "source": "dttoday.com",
+      "source": "덴탈투데이",
       "kind": "domestic",
       "publishedAt": "2026-09-11T23:34:10.000Z",
-      "description": "‘장애학생 특수학교 방문치과진료 제도화’ 국회토론회 연다 dttoday.com",
+      "description": "‘장애학생 특수학교 방문치과진료 제도화’ 국회토론회 연다 덴탈투데이",
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 75,
@@ -94,18 +122,32 @@
       "snapshotDate": "2026-09-13"
     },
     {
-      "id": "95f2217e0cb6",
+      "id": "c12efb44a83e",
       "title": "최교진 취임 1년…'서울대 10개' 닻 올렸지만 교부금 갈등·SNS 논란 숙제",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WWVBPbTFLa2VsR3FldmJkM0xHUzdiS3RYeUZUa1NwWFcxV29tTjVuaGNVWHQzR1o2TXpveXB4cl85RTgtVkI0Sjg2Y1E1VVFIWHpLbjU4YjZGaV9E?oc=5",
-      "source": "뉴스핌",
+      "source": "vod.newspim.com",
       "kind": "domestic",
       "publishedAt": "2026-09-11T23:30:31.000Z",
-      "description": "최교진 취임 1년…'서울대 10개' 닻 올렸지만 교부금 갈등·SNS 논란 숙제 뉴스핌",
+      "description": "최교진 취임 1년…'서울대 10개' 닻 올렸지만 교부금 갈등·SNS 논란 숙제 vod.newspim.com",
       "category": "재정·법령",
       "feedProvider": "google",
       "policyRelevance": 42,
       "score": 76,
       "snapshotDate": "2026-09-13"
+    },
+    {
+      "id": "95f2217e0cb6",
+      "title": "최교진 취임 1년…'서울대 10개' 닻 올렸지만 교부금 갈등·SNS 논란 숙제",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QSXV3VmZZUV9OOFlDZ052T0JsWktWYnFWbkR1d3dmRHlNTTVIdDFxaWZSSi1Ra3kwVDZoUlFrS0pXZC12aDl5d2hYeWhTQlpLa3BzS0NMcXFUMmRr?oc=5",
+      "source": "뉴스핌",
+      "kind": "domestic",
+      "publishedAt": "2026-09-11T21:00:00.000Z",
+      "description": "최교진 취임 1년…'서울대 10개' 닻 올렸지만 교부금 갈등·SNS 논란 숙제 뉴스핌",
+      "category": "재정·법령",
+      "feedProvider": "google",
+      "policyRelevance": 42,
+      "score": 76,
+      "snapshotDate": "2026-09-12"
     },
     {
       "id": "0199985e69b9",
@@ -304,20 +346,6 @@
       "snapshotDate": "2026-09-13"
     },
     {
-      "id": "88b4c0fc2b57",
-      "title": "‘취임 1년’ 최교진 장관… 교사노조연맹 “정책 추진력·존재감 부족”",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GVWt4MVpSdzVIbWc0cVJ6elZYbTR3ZW9NWEpTaVhHdUU4eXlVQURQSXJkWmYyazhqa3FMSHRZMWY4OXhDakt5eEMzdHFQbjJFVU5IQW5WbWRDSUdWMGZLOER2OWU1dw?oc=5",
-      "source": "news.unn.net",
-      "kind": "domestic",
-      "publishedAt": "2026-09-11T00:17:08.000Z",
-      "description": "‘취임 1년’ 최교진 장관… 교사노조연맹 “정책 추진력·존재감 부족” news.unn.net",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 52,
-      "score": 66,
-      "snapshotDate": "2026-09-13"
-    },
-    {
       "id": "0e5708f2f79b",
       "title": "‘취임 1년’ 최교진 장관… 교사노조연맹 “정책 추진력·존재감 부족”",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GVWt4MVpSdzVIbWc0cVJ6elZYbTR3ZW9NWEpTaVhHdUU4eXlVQURQSXJkWmYyazhqa3FMSHRZMWY4OXhDakt5eEMzdHFQbjJFVU5IQW5WbWRDSUdWMGZLOER2OWU1dw?oc=5",
@@ -328,8 +356,8 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 52,
-      "score": 76,
-      "snapshotDate": "2026-09-12"
+      "score": 66,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "651b6f96a56b",
@@ -374,20 +402,6 @@
       "snapshotDate": "2026-09-13"
     },
     {
-      "id": "bf1ac9d8f61f",
-      "title": "경북교육청, 국회 방문해 지방교육재정교부금 개편 반대",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0ZlYyOWswZFlmTzFRNmN1VjFpTnhKX3Z4VEt2Y0dPcUdNQi03V1d5T1RpQzdjWU1YamNiZ25NWHczNjkyVjBXU3RDNWZpc2RhbEZiSVl4UElwMl9jQVkyamdObmhwZkRCX09LYWczSkx2eGlmR2hV0gF3QVVfeXFMUDRmVjI5azBkWWZPMVE2Y3VWMWlOeEpfdnhUS3ZjR09xR01CLTdXV3lPVGlDN2NZTVhqY2Jnbk1YdzM2OTJWMFdTdEM1ZmlzZGFsRmJJWXhQSXAyX2NBWTJqZ05uaHBmREJfT0thZzNKTHZ4aWZHaFU?oc=5",
-      "source": "straightnews.co.kr",
-      "kind": "domestic",
-      "publishedAt": "2026-09-10T13:13:45.000Z",
-      "description": "경북교육청, 국회 방문해 지방교육재정교부금 개편 반대 straightnews.co.kr",
-      "category": "재정·법령",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 84,
-      "snapshotDate": "2026-09-13"
-    },
-    {
       "id": "7532483c4f79",
       "title": "경북교육청, 국회 방문해 지방교육재정교부금 개편 반대",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0ZlYyOWswZFlmTzFRNmN1VjFpTnhKX3Z4VEt2Y0dPcUdNQi03V1d5T1RpQzdjWU1YamNiZ25NWHczNjkyVjBXU3RDNWZpc2RhbEZiSVl4UElwMl9jQVkyamdObmhwZkRCX09LYWczSkx2eGlmR2hV0gF3QVVfeXFMUDRmVjI5azBkWWZPMVE2Y3VWMWlOeEpfdnhUS3ZjR09xR01CLTdXV3lPVGlDN2NZTVhqY2Jnbk1YdzM2OTJWMFdTdEM1ZmlzZGFsRmJJWXhQSXAyX2NBWTJqZ05uaHBmREJfT0thZzNKTHZ4aWZHaFU?oc=5",
@@ -399,7 +413,7 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 80,
-      "snapshotDate": "2026-09-12"
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "13bc5e91f388",
@@ -542,20 +556,6 @@
       "snapshotDate": "2026-09-13"
     },
     {
-      "id": "e135ec737d1f",
-      "title": "교육부 가이드북 ‘성소수자’ 삭제… 교사 96.7% “부적절”",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kTGxGb3RxOTJLd1g4eUJZWENNV3l0d2RzSGxmM0Y3Tjg1NlpEMDZSQXExalpZc2xWUDdkbktnTUhzVi1hanJRRGRfeHpHbkl6YzJBV01COHJFNl84Z016UHhXTDVvdw?oc=5",
-      "source": "news.unn.net",
-      "kind": "domestic",
-      "publishedAt": "2026-09-10T05:14:32.000Z",
-      "description": "교육부 가이드북 ‘성소수자’ 삭제… 교사 96.7% “부적절” news.unn.net",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 63,
-      "snapshotDate": "2026-09-13"
-    },
-    {
       "id": "f4a12d0e0351",
       "title": "교육부 가이드북 ‘성소수자’ 삭제… 교사 96.7% “부적절”",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kTGxGb3RxOTJLd1g4eUJZWENNV3l0d2RzSGxmM0Y3Tjg1NlpEMDZSQXExalpZc2xWUDdkbktnTUhzVi1hanJRRGRfeHpHbkl6YzJBV01COHJFNl84Z016UHhXTDVvdw?oc=5",
@@ -567,7 +567,7 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 63,
-      "snapshotDate": "2026-09-12"
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "77c1d5c17e92",
@@ -625,20 +625,6 @@
       "snapshotDate": "2026-09-13"
     },
     {
-      "id": "0ba3ca700e9b",
-      "title": "[2027학년도 수능 원서접수] 55만1864명 지원…졸업생 늘고 재학생 감소",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9lS1JoR0RrY2VyQUNPRWdXdnhWVUl5RVpKdkdxdmtVOG90YkdQUHU2dF9aQ2lpWlhzTm1QVmYxS1RpZWp4RlI0WVZaeHI?oc=5",
-      "source": "edumorning.com",
-      "kind": "domestic",
-      "publishedAt": "2026-09-09T22:54:15.000Z",
-      "description": "[2027학년도 수능 원서접수] 55만1864명 지원…졸업생 늘고 재학생 감소 edumorning.com",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 65,
-      "snapshotDate": "2026-09-13"
-    },
-    {
       "id": "f17beb9f8b25",
       "title": "[2027학년도 수능 원서접수] 55만1864명 지원…졸업생 늘고 재학생 감소",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9lS1JoR0RrY2VyQUNPRWdXdnhWVUl5RVpKdkdxdmtVOG90YkdQUHU2dF9aQ2lpWlhzTm1QVmYxS1RpZWp4RlI0WVZaeHI?oc=5",
@@ -650,7 +636,7 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 65,
-      "snapshotDate": "2026-09-12"
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "7be61e93d6bd",
@@ -709,20 +695,6 @@
       "snapshotDate": "2026-09-13"
     },
     {
-      "id": "37432b386384",
-      "title": "‘학교안전법 시행령’ 일부개정령안 국무회의 통과",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fcmoybzE5R1BZQ2J4U0VLQlQ2cEtDUGFCQ05IYkdHVHdXRkt4QWJOb1Q5M0JhbDV2UnpjaldEeW10NFZlNDJNTl9CRXo3VWJfdUp3ZlBxeTNNZHVreUJCSWJjY2V1UQ?oc=5",
-      "source": "news.unn.net",
-      "kind": "domestic",
-      "publishedAt": "2026-09-09T07:00:00.000Z",
-      "description": "‘학교안전법 시행령’ 일부개정령안 국무회의 통과 news.unn.net",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 42,
-      "score": 56,
-      "snapshotDate": "2026-09-13"
-    },
-    {
       "id": "02deabf6696d",
       "title": "‘학교안전법 시행령’ 일부개정령안 국무회의 통과",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fcmoybzE5R1BZQ2J4U0VLQlQ2cEtDUGFCQ05IYkdHVHdXRkt4QWJOb1Q5M0JhbDV2UnpjaldEeW10NFZlNDJNTl9CRXo3VWJfdUp3ZlBxeTNNZHVreUJCSWJjY2V1UQ?oc=5",
@@ -733,8 +705,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 52,
-      "score": 70,
-      "snapshotDate": "2026-09-12"
+      "score": 60,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "e9722b666840",
@@ -855,20 +827,6 @@
       "snapshotDate": "2026-09-11"
     },
     {
-      "id": "50cb5e95ae5c",
-      "title": "전국 국·공립대 교수 단체, ‘교부금 개편·고등교육 예산 증액’ 정부에 예산 집행 효율화 촉구",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFRUdwUllyZmZURW5peU5TTkdudVJJUFlBLTBQVTFQSV9kSDlUMHR5SDR5RURMUWIzdklMRHkyamxzYXY5Q3pCdnc2S3NGNTRfcDNKdS1jNVJVdlNfY3YzU0oyTGVwUQ?oc=5",
-      "source": "news.unn.net",
-      "kind": "domestic",
-      "publishedAt": "2026-09-09T03:00:00.000Z",
-      "description": "전국 국·공립대 교수 단체, ‘교부금 개편·고등교육 예산 증액’ 정부에 예산 집행 효율화 촉구 news.unn.net",
-      "category": "재정·법령",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 74,
-      "snapshotDate": "2026-09-13"
-    },
-    {
       "id": "03bb88b09d7c",
       "title": "전국 국·공립대 교수 단체, ‘교부금 개편·고등교육 예산 증액’ 정부에 예산 집행 효율화 촉구",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFRUdwUllyZmZURW5peU5TTkdudVJJUFlBLTBQVTFQSV9kSDlUMHR5SDR5RURMUWIzdklMRHkyamxzYXY5Q3pCdnc2S3NGNTRfcDNKdS1jNVJVdlNfY3YzU0oyTGVwUQ?oc=5",
@@ -879,8 +837,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 75,
-      "score": 89,
-      "snapshotDate": "2026-09-12"
+      "score": 79,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "cc9a59adb741",
