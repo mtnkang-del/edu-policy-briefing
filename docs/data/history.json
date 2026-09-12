@@ -1,7 +1,8 @@
 {
-  "generatedAt": "2026-09-11T22:41:50.013Z",
+  "generatedAt": "2026-09-12T21:37:17.661Z",
   "retentionDays": 30,
   "days": [
+    "2026-09-13",
     "2026-09-12",
     "2026-09-11",
     "2026-09-10",
@@ -23,18 +24,102 @@
   ],
   "items": [
     {
+      "id": "3b9a7c07c90e",
+      "title": "수시 원서접수 먹통 파장…교육부 \"수험생 구제절차 13일 안내\"(종합)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2T1ZiWkZGS1BCdklHV2phUGRFMzJkeDU0RFhIVEVmSzRjbk1ONl9EZGx3c09DdjJMd1J5MnNkQm1hYm0ya21TRTVVaW9RNlNKd2RxNC00aVFFU3d6MXVJ0gFfQVVfeXFMUHZPVmJaRkZLUEJ2SUdXamFQZEUzMmR4NTREWEhURWZLNGNuTU42X0RkbHdzT0N2Mkx3Unkyc2RCbWFibTJrbVNFNVVpb1E2U0p3ZHE0LTRpUUVTd3oxdUk?oc=5",
+      "source": "뉴스1",
+      "kind": "domestic",
+      "publishedAt": "2026-09-12T14:33:21.000Z",
+      "description": "수시 원서접수 먹통 파장…교육부 \"수험생 구제절차 13일 안내\"(종합) 뉴스1",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 82,
+      "snapshotDate": "2026-09-13"
+    },
+    {
+      "id": "b421827b83fa",
+      "title": "대입 원서 접수 장애에 교육부 \"13일 신속 구제 방안 마련\"",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mNUpFY1FwODZhUHFVdjNsNzdGVTN4UjdCR2ZUd2gzenJTbXJUcHVZMlBEY1pVOEhtbDVrOHE0djJYT084S0EzWDZ5UmVVVW9veC1v?oc=5",
+      "source": "네이트",
+      "kind": "domestic",
+      "publishedAt": "2026-09-12T14:30:00.000Z",
+      "description": "대입 원서 접수 장애에 교육부 \"13일 신속 구제 방안 마련\" 네이트",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 86,
+      "snapshotDate": "2026-09-13"
+    },
+    {
+      "id": "e4cff37a3f3d",
+      "title": "경상국립대 2027학년도 수시 경쟁률 '8.09대 1'...3729명 모집에 3만 156명 지원",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tLVBDS3NDc0k5SFAyRU5CZmRlUlN2RHVocWV4QXVnY2V5bVNTOHR3TVdMazRUVzFmWmludDNpYjJ3QWFIQm1WdDR4aW1WV2pKcFVrRFFwVlF3SG1XN2NzSE5yRXJPOWdYSnI3dVd3?oc=5",
+      "source": "gukjenews.com",
+      "kind": "domestic",
+      "publishedAt": "2026-09-12T06:33:46.000Z",
+      "description": "경상국립대 2027학년도 수시 경쟁률 '8.09대 1'...3729명 모집에 3만 156명 지원 gukjenews.com",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 71,
+      "snapshotDate": "2026-09-13"
+    },
+    {
+      "id": "f98867b7fee2",
+      "title": "몽골, 유네스코 포럼에서 AI 교육 정책 발표 : 한인동포신문(몽골)",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MTXlkai05NnRaRjBBdkc5UFcwWmJjTFUyV0tXdXJaTXdvYzhYU3NGQmhaQUg4NUtGeURfdzdCTjJJam8wNUFuX2ZDNUh4S0tvN05EOG1yeXpfZw?oc=5",
+      "source": "뉴스케이",
+      "kind": "domestic",
+      "publishedAt": "2026-09-12T03:59:45.000Z",
+      "description": "몽골, 유네스코 포럼에서 AI 교육 정책 발표 : 한인동포신문(몽골) 뉴스케이",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 42,
+      "score": 80,
+      "snapshotDate": "2026-09-13"
+    },
+    {
+      "id": "c3d7e1778658",
+      "title": "‘장애학생 특수학교 방문치과진료 제도화’ 국회토론회 연다",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5RGktb0pQX2REZUh0ZU9wS2JXVHk3amhDdWVZeFRwVGFiUWM2bm5xOG9yVnF0dGhmWUZqUjBxS1VxdXhzM3RpMFFKS09EQkVZTFBwd1pPMVdwaWhDWjh1NE83TGRWNGc0?oc=5",
+      "source": "dttoday.com",
+      "kind": "domestic",
+      "publishedAt": "2026-09-11T23:34:10.000Z",
+      "description": "‘장애학생 특수학교 방문치과진료 제도화’ 국회토론회 연다 dttoday.com",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 75,
+      "score": 87,
+      "snapshotDate": "2026-09-13"
+    },
+    {
       "id": "95f2217e0cb6",
       "title": "최교진 취임 1년…'서울대 10개' 닻 올렸지만 교부금 갈등·SNS 논란 숙제",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QSXV3VmZZUV9OOFlDZ052T0JsWktWYnFWbkR1d3dmRHlNTTVIdDFxaWZSSi1Ra3kwVDZoUlFrS0pXZC12aDl5d2hYeWhTQlpLa3BzS0NMcXFUMmRr?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WWVBPbTFLa2VsR3FldmJkM0xHUzdiS3RYeUZUa1NwWFcxV29tTjVuaGNVWHQzR1o2TXpveXB4cl85RTgtVkI0Sjg2Y1E1VVFIWHpLbjU4YjZGaV9E?oc=5",
       "source": "뉴스핌",
       "kind": "domestic",
-      "publishedAt": "2026-09-11T21:00:00.000Z",
+      "publishedAt": "2026-09-11T23:30:31.000Z",
       "description": "최교진 취임 1년…'서울대 10개' 닻 올렸지만 교부금 갈등·SNS 논란 숙제 뉴스핌",
       "category": "재정·법령",
       "feedProvider": "google",
       "policyRelevance": 42,
       "score": 76,
-      "snapshotDate": "2026-09-12"
+      "snapshotDate": "2026-09-13"
+    },
+    {
+      "id": "0199985e69b9",
+      "title": "사립대, 등록금 수입 2.3배 교육비로 투자…국·공립대와 1인당 교육비 격차 4년 새 2.4배 커져",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Edzd1cGYxTE5La1VINW1lTFBrcGZoeFdtN3NQSU03MWlvcXAzNmdJVGRoMHVYMVJFRWc5WUJrc0ZsUS1ZbTVNZU1Gb09iaWcwRk94TTlnWEtlR2RGWXZ2Sjd4amFraTZXdnZ3ag?oc=5",
+      "source": "대학지성 In&Out",
+      "kind": "domestic",
+      "publishedAt": "2026-09-11T09:27:34.000Z",
+      "description": "사립대, 등록금 수입 2.3배 교육비로 투자…국·공립대와 1인당 교육비 격차 4년 새 2.4배 커져 대학지성 In&Out",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 61,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "f39fda69fb62",
@@ -47,8 +132,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 52,
-      "score": 80,
-      "snapshotDate": "2026-09-12"
+      "score": 70,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "ac21effc49b2",
@@ -61,8 +146,8 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 75,
-      "score": 91,
-      "snapshotDate": "2026-09-12"
+      "score": 81,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "2c8868b145be",
@@ -75,8 +160,8 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 77,
-      "snapshotDate": "2026-09-12"
+      "score": 67,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "ae2d63f2a606",
@@ -89,8 +174,22 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 47,
-      "score": 74,
-      "snapshotDate": "2026-09-12"
+      "score": 64,
+      "snapshotDate": "2026-09-13"
+    },
+    {
+      "id": "6a6dd28aa3dd",
+      "title": "[위클리오늘] 강원도교육청, ‘지능형 과학실 활용 핵심교원 워크숍’ 개최",
+      "url": "https://www.weeklytoday.com/news/articleView.html?idxno=794161",
+      "source": "위클리오늘",
+      "kind": "domestic",
+      "publishedAt": "2026-09-11T06:31:00.000Z",
+      "description": "[강원 위클리오늘=박종국 기자] 강원도교육청은 시민의 일상과 맞닿은 다양한 정책과 사업을 추진하고 있다. 오늘 발표된 주요 소식을 한데 모았다. 강원도교육청, ‘지능형 과학실 활용 핵심교원 워크숍’ 개최강원특별자치도교육청(교육감 강삼영)은 9월 11일(금)부터 12일(토)까지 1박 2일간 강릉 세인트존스호텔에서 도내 초중고 교원 및 교육전문직원 60여 명을 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 87,
+      "score": 90,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "ae32c34c5460",
@@ -103,8 +202,8 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 73,
-      "snapshotDate": "2026-09-12"
+      "score": 63,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "7fa22f730fed",
@@ -117,8 +216,8 @@
       "category": "교원·조직",
       "feedProvider": "bing",
       "policyRelevance": 77,
-      "score": 96,
-      "snapshotDate": "2026-09-12"
+      "score": 86,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "e45414139856",
@@ -131,8 +230,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 77,
-      "score": 92,
-      "snapshotDate": "2026-09-12"
+      "score": 82,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "46dce756edc6",
@@ -159,8 +258,8 @@
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 81,
-      "snapshotDate": "2026-09-12"
+      "score": 71,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "050cb437bcd0",
@@ -173,8 +272,22 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 73,
-      "snapshotDate": "2026-09-12"
+      "score": 63,
+      "snapshotDate": "2026-09-13"
+    },
+    {
+      "id": "bc3a4f83bd85",
+      "title": "[김대성 칼럼] 국교위 3시 하교, 회의도 안 한 정책 왜 발표했나",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90NkR3N0s4dEJ1dWJPQ0hFMVA2MHExOXB6NUV6a1ByZlRlX0Q1Z3RsTmxKV2ZXYnk2MDdBdWFDTjAyeEExeVBTTlMtSGVPMHZ6Z1FEbk81akNJNjl3QnNtRHlKZ2QxX3kz?oc=5",
+      "source": "에듀프레스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-11T00:45:17.000Z",
+      "description": "[김대성 칼럼] 국교위 3시 하교, 회의도 안 한 정책 왜 발표했나 에듀프레스",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 42,
+      "score": 66,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "2fab9a1616f7",
@@ -187,8 +300,22 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 77,
-      "snapshotDate": "2026-09-12"
+      "score": 67,
+      "snapshotDate": "2026-09-13"
+    },
+    {
+      "id": "88b4c0fc2b57",
+      "title": "‘취임 1년’ 최교진 장관… 교사노조연맹 “정책 추진력·존재감 부족”",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GVWt4MVpSdzVIbWc0cVJ6elZYbTR3ZW9NWEpTaVhHdUU4eXlVQURQSXJkWmYyazhqa3FMSHRZMWY4OXhDakt5eEMzdHFQbjJFVU5IQW5WbWRDSUdWMGZLOER2OWU1dw?oc=5",
+      "source": "news.unn.net",
+      "kind": "domestic",
+      "publishedAt": "2026-09-11T00:17:08.000Z",
+      "description": "‘취임 1년’ 최교진 장관… 교사노조연맹 “정책 추진력·존재감 부족” news.unn.net",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 52,
+      "score": 66,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "0e5708f2f79b",
@@ -205,6 +332,20 @@
       "snapshotDate": "2026-09-12"
     },
     {
+      "id": "651b6f96a56b",
+      "title": "부산대, 기획예산처와 대학 총장협의회 고등교육 투자 확대 논의",
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%B6%80%EC%82%B0%EB%8C%80-%EA%B8%B0%ED%9A%8D%EC%98%88%EC%82%B0%EC%B2%98%EC%99%80-%EB%8C%80%ED%95%99-%EC%B4%9D%EC%9E%A5%ED%98%91%EC%9D%98%ED%9A%8C-%EA%B3%A0%EB%93%B1%EA%B5%90%EC%9C%A1-%ED%88%AC%EC%9E%90-%ED%99%95%EB%8C%80-%EB%85%BC%EC%9D%98/ar-AA2c0nOk",
+      "source": "인더뉴스 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-09-10T23:32:28.000Z",
+      "description": "부산대학교는 지난 10일 오후 교내 인문관 인문마루에서 박홍근 기획예산처 장관과 전국국·공립대학교총장협의회, 한국사립대학총장협의회, 한국전문대학교육협의회 회장단이 참석한 가운데 고등교육 투자 확대를 위한 현장간담회를 개최했다고 11일 밝혔습니다. 이번 간담회는 정부가 추진하는 지방교육재정교부금 개편과 ‘미래대응기금’ 신설 방안을 대학 현장과 공유하고, 각 ...",
+      "category": "고등교육",
+      "feedProvider": "bing",
+      "policyRelevance": 87,
+      "score": 94,
+      "snapshotDate": "2026-09-13"
+    },
+    {
       "id": "290f018e7a56",
       "title": "경북교육청, 지방교육재정교부금 개편 반대...국회에 교육 현장 목소리 전달",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBBdy1JRG9sT0FiQjd2NFpqbFBFcDFrMUdHNWZYSG9wZWRCRFAyczF5ak54S1QwU0liS2Z6aDlpY2pBQUo3?oc=5",
@@ -216,7 +357,7 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 80,
-      "snapshotDate": "2026-09-12"
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "e888ae946c24",
@@ -230,7 +371,21 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 80,
-      "snapshotDate": "2026-09-12"
+      "snapshotDate": "2026-09-13"
+    },
+    {
+      "id": "bf1ac9d8f61f",
+      "title": "경북교육청, 국회 방문해 지방교육재정교부금 개편 반대",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0ZlYyOWswZFlmTzFRNmN1VjFpTnhKX3Z4VEt2Y0dPcUdNQi03V1d5T1RpQzdjWU1YamNiZ25NWHczNjkyVjBXU3RDNWZpc2RhbEZiSVl4UElwMl9jQVkyamdObmhwZkRCX09LYWczSkx2eGlmR2hV0gF3QVVfeXFMUDRmVjI5azBkWWZPMVE2Y3VWMWlOeEpfdnhUS3ZjR09xR01CLTdXV3lPVGlDN2NZTVhqY2Jnbk1YdzM2OTJWMFdTdEM1ZmlzZGFsRmJJWXhQSXAyX2NBWTJqZ05uaHBmREJfT0thZzNKTHZ4aWZHaFU?oc=5",
+      "source": "straightnews.co.kr",
+      "kind": "domestic",
+      "publishedAt": "2026-09-10T13:13:45.000Z",
+      "description": "경북교육청, 국회 방문해 지방교육재정교부금 개편 반대 straightnews.co.kr",
+      "category": "재정·법령",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 84,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "7532483c4f79",
@@ -258,7 +413,7 @@
       "feedProvider": "bing",
       "policyRelevance": 45,
       "score": 67,
-      "snapshotDate": "2026-09-12"
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "64ba83b96750",
@@ -272,7 +427,7 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 80,
-      "snapshotDate": "2026-09-12"
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "18154a4067cd",
@@ -286,7 +441,7 @@
       "feedProvider": "google",
       "policyRelevance": 75,
       "score": 85,
-      "snapshotDate": "2026-09-12"
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "8d24a9c7f58a",
@@ -300,7 +455,7 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 61,
-      "snapshotDate": "2026-09-12"
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "de47c211460e",
@@ -314,7 +469,7 @@
       "feedProvider": "google",
       "policyRelevance": 87,
       "score": 82,
-      "snapshotDate": "2026-09-12"
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "4aa55a85e452",
@@ -328,7 +483,35 @@
       "feedProvider": "google",
       "policyRelevance": 77,
       "score": 78,
-      "snapshotDate": "2026-09-12"
+      "snapshotDate": "2026-09-13"
+    },
+    {
+      "id": "0e673c11fc00",
+      "title": "AI 손에 쥔 아동·청소년…정부, 이용자 보호체계 강화",
+      "url": "https://zdnet.co.kr/view/?no=20260910134042",
+      "source": "지디넷코리아",
+      "kind": "domestic",
+      "publishedAt": "2026-09-10T06:57:00.000Z",
+      "description": "정부가 인공지능(AI) 활용 확대와 함께 부작용을 줄이기 위한 안전장치 마련에 나선다. AI가 일상과 교육 현장으로 빠르게 확산하면서 이용자를 보호할 제도도 함께 갖추겠다는 취지다.10일 서울 여의도 국회에서 열린 '생성 AI 시대 시민의 정신건강과 AI 리터러시 정책 ...",
+      "category": "AI·디지털",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
+      "score": 82,
+      "snapshotDate": "2026-09-13"
+    },
+    {
+      "id": "cd2583d908a7",
+      "title": "대전시교육청, DX교육데이터협회와 맞손…\"AI로 학생 맞춤형 교육 구현할 것\" - 보도자료 | 기사",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKQmszOF9sWFE4U3BsVnJhSXBGMUU1YkhDX3lOTVZDZnd4Wm9fbEo4Z1dQdmZSTVUxY21SNnNoMG1scUhES3NFMHQwdndhYnBjQkkzM1BxcmNhamJxZU1V?oc=5",
+      "source": "더팩트",
+      "kind": "domestic",
+      "publishedAt": "2026-09-10T06:11:18.000Z",
+      "description": "대전시교육청, DX교육데이터협회와 맞손…\"AI로 학생 맞춤형 교육 구현할 것\" - 보도자료 | 기사 더팩트",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 67,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "bd1f15e8a53d",
@@ -342,7 +525,7 @@
       "feedProvider": "bing",
       "policyRelevance": 77,
       "score": 90,
-      "snapshotDate": "2026-09-12"
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "036daecaaabb",
@@ -356,7 +539,21 @@
       "feedProvider": "google",
       "policyRelevance": 42,
       "score": 66,
-      "snapshotDate": "2026-09-12"
+      "snapshotDate": "2026-09-13"
+    },
+    {
+      "id": "e135ec737d1f",
+      "title": "교육부 가이드북 ‘성소수자’ 삭제… 교사 96.7% “부적절”",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kTGxGb3RxOTJLd1g4eUJZWENNV3l0d2RzSGxmM0Y3Tjg1NlpEMDZSQXExalpZc2xWUDdkbktnTUhzVi1hanJRRGRfeHpHbkl6YzJBV01COHJFNl84Z016UHhXTDVvdw?oc=5",
+      "source": "news.unn.net",
+      "kind": "domestic",
+      "publishedAt": "2026-09-10T05:14:32.000Z",
+      "description": "교육부 가이드북 ‘성소수자’ 삭제… 교사 96.7% “부적절” news.unn.net",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 63,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "f4a12d0e0351",
@@ -384,7 +581,7 @@
       "feedProvider": "google",
       "policyRelevance": 87,
       "score": 90,
-      "snapshotDate": "2026-09-12"
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "1d0b679cac54",
@@ -411,7 +608,7 @@
       "category": "교원·조직",
       "policyRelevance": 100,
       "score": 105,
-      "snapshotDate": "2026-09-12"
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "2baa17daa94b",
@@ -425,7 +622,21 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 80,
-      "snapshotDate": "2026-09-12"
+      "snapshotDate": "2026-09-13"
+    },
+    {
+      "id": "0ba3ca700e9b",
+      "title": "[2027학년도 수능 원서접수] 55만1864명 지원…졸업생 늘고 재학생 감소",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9lS1JoR0RrY2VyQUNPRWdXdnhWVUl5RVpKdkdxdmtVOG90YkdQUHU2dF9aQ2lpWlhzTm1QVmYxS1RpZWp4RlI0WVZaeHI?oc=5",
+      "source": "edumorning.com",
+      "kind": "domestic",
+      "publishedAt": "2026-09-09T22:54:15.000Z",
+      "description": "[2027학년도 수능 원서접수] 55만1864명 지원…졸업생 늘고 재학생 감소 edumorning.com",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 65,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "f17beb9f8b25",
@@ -452,8 +663,8 @@
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 47,
-      "score": 64,
-      "snapshotDate": "2026-09-12"
+      "score": 54,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "539277d26bbb",
@@ -466,8 +677,8 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 91,
-      "score": 84,
-      "snapshotDate": "2026-09-12"
+      "score": 74,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "bad838145b7b",
@@ -480,8 +691,8 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 65,
-      "snapshotDate": "2026-09-12"
+      "score": 55,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "5652746763eb",
@@ -494,8 +705,22 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 61,
-      "snapshotDate": "2026-09-12"
+      "score": 51,
+      "snapshotDate": "2026-09-13"
+    },
+    {
+      "id": "37432b386384",
+      "title": "‘학교안전법 시행령’ 일부개정령안 국무회의 통과",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fcmoybzE5R1BZQ2J4U0VLQlQ2cEtDUGFCQ05IYkdHVHdXRkt4QWJOb1Q5M0JhbDV2UnpjaldEeW10NFZlNDJNTl9CRXo3VWJfdUp3ZlBxeTNNZHVreUJCSWJjY2V1UQ?oc=5",
+      "source": "news.unn.net",
+      "kind": "domestic",
+      "publishedAt": "2026-09-09T07:00:00.000Z",
+      "description": "‘학교안전법 시행령’ 일부개정령안 국무회의 통과 news.unn.net",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 42,
+      "score": 56,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "02deabf6696d",
@@ -522,8 +747,8 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 67,
-      "snapshotDate": "2026-09-12"
+      "score": 57,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "4a59daa5ae7f",
@@ -536,8 +761,8 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 65,
-      "snapshotDate": "2026-09-12"
+      "score": 55,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "210812cc77fd",
@@ -550,8 +775,22 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 75,
-      "score": 77,
-      "snapshotDate": "2026-09-12"
+      "score": 67,
+      "snapshotDate": "2026-09-13"
+    },
+    {
+      "id": "f64142ae2197",
+      "title": "코리아넷뉴스 - 교육부, 외국인 유학생 정책 '질적 전환' 본격화",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNREhNeGg4TWlpQ20xMEVjX3IxcERlNDVhRFQ3VFJVR2ZnRDBmXy1VaXAxbE5wTXR6M2ZaWlNIMndfbFFaaUNTYjdlLXpxTzF0QnhwTVlYNzhPVjZhTExabTh0Z19FbjlEOGdZWXNNbHpDTTFxUTV4VkYwdTZMUVZvaVR2Q3VqOTVNUGFIZnFDenI0WUw4OUVhOWpOdl8wcU0xZmNRd3hKejBnSVBOa0tIVWh2NGx3bEI3bVpFQmRuaTlIdFJFN0FMbzJrSjBOTDhyVllnNWxSUWhHZHc2MDdybWZNY2Z6YTlQa2M3ZDV6LUFTelVuX3c?oc=5",
+      "source": "문화체육관광부 한국문화원",
+      "kind": "domestic",
+      "publishedAt": "2026-09-09T04:38:31.000Z",
+      "description": "코리아넷뉴스 - 교육부, 외국인 유학생 정책 '질적 전환' 본격화 문화체육관광부 한국문화원",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 75,
+      "score": 67,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "096b22ee7eb2",
@@ -568,20 +807,6 @@
       "snapshotDate": "2026-09-12"
     },
     {
-      "id": "f64142ae2197",
-      "title": "코리아넷뉴스 - 교육부, 외국인 유학생 정책 '질적 전환' 본격화",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNREhNeGg4TWlpQ20xMEVjX3IxcERlNDVhRFQ3VFJVR2ZnRDBmXy1VaXAxbE5wTXR6M2ZaWlNIMndfbFFaaUNTYjdlLXpxTzF0QnhwTVlYNzhPVjZhTExabTh0Z19FbjlEOGdZWXNNbHpDTTFxUTV4VkYwdTZMUVZvaVR2Q3VqOTVNUGFIZnFDenI0WUw4OUVhOWpOdl8wcU0xZmNRd3hKejBnSVBOa0tIVWh2NGx3bEI3bVpFQmRuaTlIdFJFN0FMbzJrSjBOTDhyVllnNWxSUWhHZHc2MDdybWZNY2Z6YTlQa2M3ZDV6LUFTelVuX3c?oc=5",
-      "source": "문화체육관광부 한국문화원",
-      "kind": "domestic",
-      "publishedAt": "2026-09-09T04:38:31.000Z",
-      "description": "코리아넷뉴스 - 교육부, 외국인 유학생 정책 '질적 전환' 본격화 문화체육관광부 한국문화원",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 75,
-      "score": 77,
-      "snapshotDate": "2026-09-11"
-    },
-    {
       "id": "c721be2750e0",
       "title": "고등교육 구조를 개편하고, 3~5개의 엘리트 대학을 육성한다.",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVDgxMG12WVJhNmRPOXJJUGQyRWZWU29oejFtMkl6bGVJR0hqcFZ0XzU2OGcyaEJzTmF3X0R6cloyeEsyVllLaXFiejZaSHN4dFRJZi1MRXU4WlF6Q2t6OUNKaXIxUFM4cTFkSlBnRVVkWU52dkU2U0FpNTJ2dDc4TnFyQlhWa2JFZnJYZGtnaFk3UEh1dnc?oc=5",
@@ -592,8 +817,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 65,
-      "snapshotDate": "2026-09-12"
+      "score": 55,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "4bda4ea065a9",
@@ -606,11 +831,11 @@
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 53,
-      "score": 61,
+      "score": 51,
       "originalTitle": "Teaching resources to support the updated New Zealand curriculum",
       "titleKo": "업데이트된 뉴질랜드 커리큘럼을 지원하기 위한 교육 자료",
       "summaryKo": "업데이트된 뉴질랜드 교육 과정 지원을 위한 교육 자료 뉴질랜드 교육부",
-      "snapshotDate": "2026-09-12"
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "53dc5f1c0e78",
@@ -628,6 +853,20 @@
       "titleKo": "업데이트된 뉴질랜드 커리큘럼을 지원하기 위한 교육 자료",
       "summaryKo": "업데이트된 뉴질랜드 교육 커리큘럼을 지원하기 위한 교육 자료 뉴질랜드 교육부",
       "snapshotDate": "2026-09-11"
+    },
+    {
+      "id": "50cb5e95ae5c",
+      "title": "전국 국·공립대 교수 단체, ‘교부금 개편·고등교육 예산 증액’ 정부에 예산 집행 효율화 촉구",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFRUdwUllyZmZURW5peU5TTkdudVJJUFlBLTBQVTFQSV9kSDlUMHR5SDR5RURMUWIzdklMRHkyamxzYXY5Q3pCdnc2S3NGNTRfcDNKdS1jNVJVdlNfY3YzU0oyTGVwUQ?oc=5",
+      "source": "news.unn.net",
+      "kind": "domestic",
+      "publishedAt": "2026-09-09T03:00:00.000Z",
+      "description": "전국 국·공립대 교수 단체, ‘교부금 개편·고등교육 예산 증액’ 정부에 예산 집행 효율화 촉구 news.unn.net",
+      "category": "재정·법령",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 74,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "03bb88b09d7c",
@@ -654,8 +893,8 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 63,
-      "snapshotDate": "2026-09-12"
+      "score": 53,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "58be212379fa",
@@ -668,8 +907,8 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 63,
-      "snapshotDate": "2026-09-12"
+      "score": 53,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "819ef0ec1d3a",
@@ -682,8 +921,8 @@
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 76,
-      "snapshotDate": "2026-09-12"
+      "score": 66,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "200d072ec3b4",
@@ -696,8 +935,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 63,
-      "snapshotDate": "2026-09-12"
+      "score": 53,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "34d3b77f7bda",
@@ -709,8 +948,8 @@
       "description": "교육부 공식 보도자료",
       "category": "유·초중등",
       "policyRelevance": 100,
-      "score": 109,
-      "snapshotDate": "2026-09-12"
+      "score": 99,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "6879ac2610bf",
@@ -722,8 +961,8 @@
       "description": "교육부 공식 보도자료",
       "category": "기타",
       "policyRelevance": 100,
-      "score": 105,
-      "snapshotDate": "2026-09-12"
+      "score": 95,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "724b56abd8f3",
@@ -735,8 +974,8 @@
       "description": "교육부 공식 보도자료",
       "category": "교원·조직",
       "policyRelevance": 100,
-      "score": 105,
-      "snapshotDate": "2026-09-12"
+      "score": 95,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "0c96efd48fbc",
@@ -749,8 +988,8 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 75,
-      "score": 77,
-      "snapshotDate": "2026-09-12"
+      "score": 67,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "f36aebe970a9",
@@ -763,8 +1002,8 @@
       "category": "교원·조직",
       "feedProvider": "bing",
       "policyRelevance": 77,
-      "score": 86,
-      "snapshotDate": "2026-09-12"
+      "score": 76,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "889b52eb558f",
@@ -2039,11 +2278,11 @@
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 53,
-      "score": 51,
+      "score": 46,
       "originalTitle": "Telangana government to introduce new \"education policy\": CM Revanth Reddy",
       "titleKo": "텔랑가나 정부, 새로운 \"교육 정책\" 도입: CM Revanth Reddy",
       "summaryKo": "텔랑가나 정부, 새로운 \"교육 정책\" 도입: CM Revanth Reddy Big News Network.com",
-      "snapshotDate": "2026-09-12"
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "a88e23bf9b47",
