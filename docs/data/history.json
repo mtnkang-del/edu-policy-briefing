@@ -1,7 +1,8 @@
 {
-  "generatedAt": "2026-09-12T22:32:59.907Z",
+  "generatedAt": "2026-09-13T21:37:18.831Z",
   "retentionDays": 30,
   "days": [
+    "2026-09-14",
     "2026-09-13",
     "2026-09-12",
     "2026-09-11",
@@ -24,6 +25,173 @@
   ],
   "items": [
     {
+      "id": "7e98c326d514",
+      "title": "'수시 접수 먹통' 원서접수 미완료 최대 1200여명...14일부터 구제",
+      "url": "https://www.fnnews.com/news/202609131956200031",
+      "source": "파이낸셜뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-13T12:59:00.000Z",
+      "description": "대입 수시모집 원서접수 시스템 '먹통' 사태로 원서접수를 완료하지 못한 수험생이 최대 1200여명에 이르는 것으로 추정됐다.교육부는 13일 대입 수시모집 원서접수 시스템 '먹통' 사태와 관련해 \"수시 원서접수 261만여 건 중 시스템 장애로 접수를 완료하지 못한 학..",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 65,
+      "score": 86,
+      "snapshotDate": "2026-09-14"
+    },
+    {
+      "id": "bd10d375d902",
+      "title": "'2027년 대입 수시' 원서 접수 ‘먹통’ 사태… 교육부·대교협 ‘뒷북 구제책’ 형평성·책임론 도마",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5dmlXVGcxZUhQZjRDb0hsakdUWEF6emRGbmVLSUp4dGxqUUNWWHJweUZSanhLVWhTR3JPMUVOcDN2cFozMHZGT004bl9SQUc2WHJ2YW9HNHlTVDNWekYwdFZ3T0JYSVk?oc=5",
+      "source": "교수신문",
+      "kind": "domestic",
+      "publishedAt": "2026-09-13T12:14:45.000Z",
+      "description": "'2027년 대입 수시' 원서 접수 ‘먹통’ 사태… 교육부·대교협 ‘뒷북 구제책’ 형평성·책임론 도마 교수신문",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 86,
+      "snapshotDate": "2026-09-14"
+    },
+    {
+      "id": "7af34bc323e4",
+      "title": "‘서버 먹통’에 수시 미접수 최대 1200여 명…형평성 논란 속 구제 신청 접수",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NUFl5MUpxbWR6OXNoYmlmRUpYTms5VW1rMnhuZ0RrU2VKRFNJZFliZmVTajk3NkQ0STVLeFl3al9KbmlpMEduUk9UVkxLdVBob0N3bVZERDBmT1E3VGltZTNuUFVtejNLWHRNWURSelVCcVltdHfSAWZBVV95cUxNblByT2h4UW5YUHpMYTJ2STZDak9NUmUtMkVlVUpvREpXY0VLYWllZG11bzBtdlNMSFpqc0pYRWtVRWdzaVVKZE1zc25KY1l0dlhwMEtWcDhHZ2pHY0xrWmZVT1Q2Tmc?oc=5",
+      "source": "동아일보",
+      "kind": "domestic",
+      "publishedAt": "2026-09-13T11:59:00.000Z",
+      "description": "‘서버 먹통’에 수시 미접수 최대 1200여 명…형평성 논란 속 구제 신청 접수 동아일보",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 42,
+      "score": 72,
+      "snapshotDate": "2026-09-14"
+    },
+    {
+      "id": "464b3f12eb47",
+      "title": "경상국립대, 2027학년도 신입생 수시모집 평균 경쟁률 8.09대 1",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XdV8yTGlMOWluZ2VqVzZGUEJ2YWYySl9WakdwTm03enE0NjhRcmpTMFVRd2d2ODRKWHlITkFOMmpScDFkQTRmRDdwc2RGaVdfaV9raDczbURyN1Z1YWF6dnJweld0VDM5SWhXSlRR?oc=5",
+      "source": "케이에스피뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-13T09:51:00.000Z",
+      "description": "경상국립대, 2027학년도 신입생 수시모집 평균 경쟁률 8.09대 1 케이에스피뉴스",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 71,
+      "snapshotDate": "2026-09-14"
+    },
+    {
+      "id": "6c682bb8121e",
+      "title": "수험생, 거점국립대·실리주의 선택했다 [2027학년도 수시모집 분석]",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nVTBYUWdfUk9ZS0R1c0lZRVA4Q21NTEYzZFlHenc1NXExTjhHYW04bzJneXhGSFE4R2prM3I4NnZQVEd5V0tXbXJNVF91Sml3cnFidWxRdXNGYjZqbTl3ZGF1elpQSGhpYTdQanQ5SGwzQ0c4?oc=5",
+      "source": "부산일보",
+      "kind": "domestic",
+      "publishedAt": "2026-09-13T09:16:36.000Z",
+      "description": "수험생, 거점국립대·실리주의 선택했다 [2027학년도 수시모집 분석] 부산일보",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 71,
+      "snapshotDate": "2026-09-14"
+    },
+    {
+      "id": "b67f156f27b1",
+      "title": "[이재희 칼럼] 서·논술형 평가에 대한 반대와 우려를 반드시 극복해야",
+      "url": "https://www.ajunews.com/view/20260912183925419",
+      "source": "아주경제",
+      "kind": "domestic",
+      "publishedAt": "2026-09-13T09:01:00.000Z",
+      "description": "2023년 12월 말 국가교육위원회(국교위)가 ‘2028 대학입시제도 개편안’을 최종 의결했고, 교육부는 이를 반영하여 2028 대학입시제도를 확정 발표했다. 이 개편된 대입제도의 핵심 내용은 수능 심화수학 제외와 내신 5등급제이다. 그리고 지난 8월 초순 대통령에 대한 교육부 업무보고와 국회 교육위원회에서 보고한 국교위 중장기 국가교육발전계획에서 2033 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 87,
+      "score": 108,
+      "snapshotDate": "2026-09-14"
+    },
+    {
+      "id": "4ff2745a9086",
+      "title": "[월요논단] 국립대 등록금 무료정책, 지방시대의 서막(序幕)",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kVXhTWWI2Qk9ZQXpSUkNXVURBVmhhRGxCR2NLaFRuSGtPWWxzdTZWRlgtRGNHajVmdHAtXzduR2JLSDRkRzRSd3N3UWxrRkU?oc=5",
+      "source": "v.daum.net",
+      "kind": "domestic",
+      "publishedAt": "2026-09-13T07:54:56.000Z",
+      "description": "[월요논단] 국립대 등록금 무료정책, 지방시대의 서막(序幕) v.daum.net",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 71,
+      "snapshotDate": "2026-09-14"
+    },
+    {
+      "id": "451c9841d158",
+      "title": "경상국립대 2027학년도 신입생 수시모집 평균 경쟁률 8.09대1",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0cWdhUS1YQnd6bUVob0ZjM3dsdGh0Q3JSTDJlSnZ3Uk5rUWtsT1l6U1dfUmdpcGN0QW9wT2xBMl9ydF9DOFZLeE50dTVVQkdSV0plT2hrcEgtOUVzVVEteWdnNVJiMV9k?oc=5",
+      "source": "경남도민신문",
+      "kind": "domestic",
+      "publishedAt": "2026-09-13T06:54:35.000Z",
+      "description": "경상국립대 2027학년도 신입생 수시모집 평균 경쟁률 8.09대1 경남도민신문",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 71,
+      "snapshotDate": "2026-09-14"
+    },
+    {
+      "id": "b9843876baa5",
+      "title": "수시 원서접수 '먹통' 후폭풍…교육부, 오늘 구제 절차 발표",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPOTU3OEFlXy1DNEhQZUdyckN3WFM5dmdEd0lsSHFIRk1ocHpUTlhXcnZjYzJjRDduMTJmLVpRT0dmNnctcHZWYV9VZmZEN1ZEX3lWQUhqM01xN2tTT3VhQ1phNmRtSjFIN0xBUm1VYW91eHJYY0NYLWF2LWd5a05JZ3Zud1AtYUd0QmNDZ09KQXJEcEFDeThQdU9IU0RiRWtnSGdYTkt3VmZwc3huODNCQlVKdWl6MVZiYlZaOTZ5M3pRTVh1ZTQ0ODAxOENZd0ZNVEZncktlVDF2UXlrYzVjTUkyMkNNN2ZRRGxvSE5MckMyQ0ZzSXRYU2tsWWUwQ01MRXNiOHRQWldxck9VN2hMM1Y4MnRoS2dmOXBvSWNURi1mUk0?oc=5",
+      "source": "데일리안",
+      "kind": "domestic",
+      "publishedAt": "2026-09-13T05:26:00.000Z",
+      "description": "수시 원서접수 '먹통' 후폭풍…교육부, 오늘 구제 절차 발표 데일리안",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 77,
+      "score": 92,
+      "snapshotDate": "2026-09-14"
+    },
+    {
+      "id": "bfc114aeca6a",
+      "title": "강원특별자치도교육청, 지능형 과학실 활용 핵심교원 역량 강화",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061462",
+      "source": "신아일보",
+      "kind": "domestic",
+      "publishedAt": "2026-09-13T04:36:00.000Z",
+      "description": "도교육청은 지난 11일부터 12일까지 1박 2일간 강릉 세인트존스호텔에서 도내 초중고 교원과 교육전문직원 60여 명을 대상으로 ‘2026 지능형 과학실 활용 핵심교원 워크숍’을 개최했다.",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 45,
+      "score": 77,
+      "snapshotDate": "2026-09-14"
+    },
+    {
+      "id": "d7dff8fdfff5",
+      "title": "“우리 아이 미래 경쟁력” 영유아 보호자가 묻고, 인지과학이 답하다!",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107198&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-09-13T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "유·초중등",
+      "policyRelevance": 100,
+      "score": 115,
+      "snapshotDate": "2026-09-14"
+    },
+    {
+      "id": "64f128373ba9",
+      "title": "교육부, 14일 수도권 영유아 사교육 학부모 이야기 마당 개최",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wcDN2MDRfQTl0WnVKWmJKNThpZVZRS0QwMUVQNnpYeXhfS1hGMkRrSVFRU0VQWnp3Q1JpRWU4Q2tzOVAwMUVQWGw1THFYcU04WnZoUmhvT25mUmFVM1B1bEJwT3hzMlFN?oc=5",
+      "source": "2news.co.kr",
+      "kind": "domestic",
+      "publishedAt": "2026-09-13T00:00:00.000Z",
+      "description": "교육부, 14일 수도권 영유아 사교육 학부모 이야기 마당 개최 2news.co.kr",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 75,
+      "score": 87,
+      "snapshotDate": "2026-09-14"
+    },
+    {
       "id": "a298a7994eba",
       "title": "경상국립대, 내년 신입생 수시모집 경쟁율 8.09대 1",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tcGJaam1RVkhNQU5CbzMtblV1OFI3UGVqSDRHbUZvUlg5NGtXTjBqcWVza25uUUFPWGRHcFFxdTl3a3JGM2t2eE5FNGZMVFVVMTBjR1ZqYlRzbVNGLWFONdIBeEFVX3lxTE1IdHRZYlZLYmxzYXg3RXBoNWlrVmYtbE9HTFpmV2tDcDY3VnhXODJOUmNNUHhrdllQdThDcXkxYU9KUUkwbnZkYjItSm9JLVJwb0diQWhxMWFZWFh1VVFvLURFTThFRzNlLXI3T3NwWko2X2NtdkJoLQ?oc=5",
@@ -35,7 +203,7 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 71,
-      "snapshotDate": "2026-09-13"
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "3b9a7c07c90e",
@@ -48,8 +216,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 82,
-      "snapshotDate": "2026-09-13"
+      "score": 72,
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "b421827b83fa",
@@ -62,8 +230,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 86,
-      "snapshotDate": "2026-09-13"
+      "score": 76,
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "e4cff37a3f3d",
@@ -76,8 +244,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 71,
-      "snapshotDate": "2026-09-13"
+      "score": 61,
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "f98867b7fee2",
@@ -90,8 +258,8 @@
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 42,
-      "score": 80,
-      "snapshotDate": "2026-09-13"
+      "score": 70,
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "08f5d2890156",
@@ -104,8 +272,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 71,
-      "snapshotDate": "2026-09-13"
+      "score": 61,
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "60bd71547056",
@@ -118,8 +286,22 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 75,
-      "score": 87,
-      "snapshotDate": "2026-09-13"
+      "score": 77,
+      "snapshotDate": "2026-09-14"
+    },
+    {
+      "id": "95f2217e0cb6",
+      "title": "최교진 취임 1년…'서울대 10개' 닻 올렸지만 교부금 갈등·SNS 논란 숙제",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WWVBPbTFLa2VsR3FldmJkM0xHUzdiS3RYeUZUa1NwWFcxV29tTjVuaGNVWHQzR1o2TXpveXB4cl85RTgtVkI0Sjg2Y1E1VVFIWHpLbjU4YjZGaV9E?oc=5",
+      "source": "뉴스핌",
+      "kind": "domestic",
+      "publishedAt": "2026-09-11T23:30:31.000Z",
+      "description": "최교진 취임 1년…'서울대 10개' 닻 올렸지만 교부금 갈등·SNS 논란 숙제 뉴스핌",
+      "category": "재정·법령",
+      "feedProvider": "google",
+      "policyRelevance": 42,
+      "score": 66,
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "c12efb44a83e",
@@ -136,18 +318,18 @@
       "snapshotDate": "2026-09-13"
     },
     {
-      "id": "95f2217e0cb6",
-      "title": "최교진 취임 1년…'서울대 10개' 닻 올렸지만 교부금 갈등·SNS 논란 숙제",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QSXV3VmZZUV9OOFlDZ052T0JsWktWYnFWbkR1d3dmRHlNTTVIdDFxaWZSSi1Ra3kwVDZoUlFrS0pXZC12aDl5d2hYeWhTQlpLa3BzS0NMcXFUMmRr?oc=5",
-      "source": "뉴스핌",
+      "id": "4a3f3e1df860",
+      "title": "대입 수시모집 원서접수 막판 '먹통'…마감 대학 1시간 연장",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPSjZHQWE2NEZXYUVGaFFNUWU1TDFJQXhGS1hvOFZOeThsTjFicm9menB2UmZQYnVqVEE0U00xX0N3N0RrTnhTT2JpRXBoN2JfUUJhejNzZk9zMHl2MTJwNDdVV2VIRkdaY1J5MQ?oc=5",
+      "source": "네이트",
       "kind": "domestic",
-      "publishedAt": "2026-09-11T21:00:00.000Z",
-      "description": "최교진 취임 1년…'서울대 10개' 닻 올렸지만 교부금 갈등·SNS 논란 숙제 뉴스핌",
-      "category": "재정·법령",
+      "publishedAt": "2026-09-11T10:16:00.000Z",
+      "description": "대입 수시모집 원서접수 막판 '먹통'…마감 대학 1시간 연장 네이트",
+      "category": "입시·사교육",
       "feedProvider": "google",
-      "policyRelevance": 42,
-      "score": 76,
-      "snapshotDate": "2026-09-12"
+      "policyRelevance": 40,
+      "score": 65,
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "0199985e69b9",
@@ -161,7 +343,7 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 61,
-      "snapshotDate": "2026-09-13"
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "f39fda69fb62",
@@ -175,7 +357,7 @@
       "feedProvider": "google",
       "policyRelevance": 52,
       "score": 70,
-      "snapshotDate": "2026-09-13"
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "ac21effc49b2",
@@ -189,7 +371,7 @@
       "feedProvider": "google",
       "policyRelevance": 75,
       "score": 81,
-      "snapshotDate": "2026-09-13"
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "2c8868b145be",
@@ -203,7 +385,7 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 67,
-      "snapshotDate": "2026-09-13"
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "ae2d63f2a606",
@@ -217,7 +399,7 @@
       "feedProvider": "google",
       "policyRelevance": 47,
       "score": 64,
-      "snapshotDate": "2026-09-13"
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "6a6dd28aa3dd",
@@ -231,7 +413,7 @@
       "feedProvider": "bing",
       "policyRelevance": 87,
       "score": 90,
-      "snapshotDate": "2026-09-13"
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "ae32c34c5460",
@@ -245,7 +427,7 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 63,
-      "snapshotDate": "2026-09-13"
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "7fa22f730fed",
@@ -259,7 +441,21 @@
       "feedProvider": "bing",
       "policyRelevance": 77,
       "score": 86,
-      "snapshotDate": "2026-09-13"
+      "snapshotDate": "2026-09-14"
+    },
+    {
+      "id": "9d14f8a4ec90",
+      "title": "“존재감 부족했다” 최교진 1년, 교권·교부금 정조준한 교사노조 [세상&]",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HZUhsV0lobGhIRWk0ZjZ5bVh3dm82b1VBNE44R0VYb2xnYktmd0tPNVJ2S2d6bmV4dF9mdHBkek1TMW1YWWpxUDFmekZQRmJReWU4Mw?oc=5",
+      "source": "v.daum.net",
+      "kind": "domestic",
+      "publishedAt": "2026-09-11T06:01:00.000Z",
+      "description": "“존재감 부족했다” 최교진 1년, 교권·교부금 정조준한 교사노조 [세상&] v.daum.net",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 65,
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "e45414139856",
@@ -273,7 +469,7 @@
       "feedProvider": "google",
       "policyRelevance": 77,
       "score": 82,
-      "snapshotDate": "2026-09-13"
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "46dce756edc6",
@@ -301,7 +497,7 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 71,
-      "snapshotDate": "2026-09-13"
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "050cb437bcd0",
@@ -315,7 +511,7 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 63,
-      "snapshotDate": "2026-09-13"
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "bc3a4f83bd85",
@@ -329,7 +525,7 @@
       "feedProvider": "google",
       "policyRelevance": 42,
       "score": 66,
-      "snapshotDate": "2026-09-13"
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "2fab9a1616f7",
@@ -343,7 +539,7 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 67,
-      "snapshotDate": "2026-09-13"
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "0e5708f2f79b",
@@ -357,7 +553,7 @@
       "feedProvider": "google",
       "policyRelevance": 52,
       "score": 66,
-      "snapshotDate": "2026-09-13"
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "651b6f96a56b",
@@ -371,7 +567,7 @@
       "feedProvider": "bing",
       "policyRelevance": 87,
       "score": 94,
-      "snapshotDate": "2026-09-13"
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "290f018e7a56",
@@ -384,8 +580,8 @@
       "category": "재정·법령",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 80,
-      "snapshotDate": "2026-09-13"
+      "score": 70,
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "e888ae946c24",
@@ -398,8 +594,8 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 80,
-      "snapshotDate": "2026-09-13"
+      "score": 70,
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "7532483c4f79",
@@ -412,8 +608,8 @@
       "category": "재정·법령",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 80,
-      "snapshotDate": "2026-09-13"
+      "score": 70,
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "13bc5e91f388",
@@ -426,8 +622,8 @@
       "category": "AI·디지털",
       "feedProvider": "bing",
       "policyRelevance": 45,
-      "score": 67,
-      "snapshotDate": "2026-09-13"
+      "score": 57,
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "64ba83b96750",
@@ -440,8 +636,8 @@
       "category": "재정·법령",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 80,
-      "snapshotDate": "2026-09-13"
+      "score": 70,
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "18154a4067cd",
@@ -454,8 +650,8 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 75,
-      "score": 85,
-      "snapshotDate": "2026-09-13"
+      "score": 75,
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "8d24a9c7f58a",
@@ -468,8 +664,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 61,
-      "snapshotDate": "2026-09-13"
+      "score": 51,
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "de47c211460e",
@@ -482,8 +678,8 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 87,
-      "score": 82,
-      "snapshotDate": "2026-09-13"
+      "score": 72,
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "4aa55a85e452",
@@ -496,8 +692,22 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 77,
-      "score": 78,
-      "snapshotDate": "2026-09-13"
+      "score": 68,
+      "snapshotDate": "2026-09-14"
+    },
+    {
+      "id": "c94a32e60986",
+      "title": "‘부실 대학 외국인 유학생 유치’ 2029년부터 제한...교육부 “K교육 국제적 위상 강화”",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBYVhqWWhrSU96ZVhxcnE3VHRyR1gyWVRDRXJLSEV3VW11aXVKR3VHeWtsNUlPSmN3T21rSmx6SVhzb0NQTnpRUjRqeFM5Q2djTV9jUmVwcjBFTno0ZlB2MHVhSWI5Mkp1VFN5LVoxRUlkQUnSAXNBVV95cUxQQWFYalloa0lPemVYcXJxN1R0ckdYMllUQ0VyS0hFd1VtdWl1Skd1R3lrbDVJT0pjd09ta0pseklYc29DUE56UVI0anhTOUNnY01fY1JlcHIwRU56NGZQdjB1YUliOTJKdVRTeS1aMUVJZEFJ?oc=5",
+      "source": "대전투데이",
+      "kind": "domestic",
+      "publishedAt": "2026-09-10T07:11:24.000Z",
+      "description": "‘부실 대학 외국인 유학생 유치’ 2029년부터 제한...교육부 “K교육 국제적 위상 강화” 대전투데이",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 53,
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "0e673c11fc00",
@@ -510,8 +720,8 @@
       "category": "AI·디지털",
       "feedProvider": "bing",
       "policyRelevance": 77,
-      "score": 82,
-      "snapshotDate": "2026-09-13"
+      "score": 72,
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "cd2583d908a7",
@@ -524,8 +734,8 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 67,
-      "snapshotDate": "2026-09-13"
+      "score": 57,
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "bd1f15e8a53d",
@@ -538,13 +748,13 @@
       "category": "교원·조직",
       "feedProvider": "bing",
       "policyRelevance": 77,
-      "score": 90,
-      "snapshotDate": "2026-09-13"
+      "score": 80,
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "036daecaaabb",
       "title": "글로벌 AI 에듀테크 정책 아카데미…\"AI, 기회 크지만 도입 근거 갖춰야\" - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94bkQxVzFlQU1tWDVVbGpPS2FGV3JpRUN4UnhZcEtmWWM5VF9OS1ZsME1fdzc3VktDZUtsSFAyZWd6ZmpfQ0hzLURyZ2NZd2cwNUlmclE0WW9WclFRZng5UEM0a1duN1M2NzlVSWhB0gFuQVVfeXFMT3huRDFXMWVBTW1YNVVsak9LYUZXcmlFQ3hSeFlwS2ZZYzlUX05LVmwwTV93NzdWS0NlS2xIUDJlZ3pmal9DSHMtRHJnY1l3ZzA1SWZyUTRZb1ZyUVFmeDlQQzRrV243UzY3OVVJaEE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IcWMzOGhYcnF5OFJheFl4Yl9OdERHNTRSY21iUmItZUF4QS1STDVKcUdMbG1WSDFDYVpfTS1KcVB4VXhva0tYOW96M1VUS1BiazJ6d19JaDJGS292OUQ2eHVDQzhkT25FZkdaYTZfbXBhUGExa0HSAXtBVV95cUxNc3JOX0RTTHBFNFVpb3p3Z3A2UlFMT3JYb0swZDFLNlFRbkN0Umk1bXk2YzZkWVF3NGtVOGdqMTd5Q3lpMWpHZ0FWdHE5OGdUbmxXRExLZ2NwOU5rX2xnbmdDWHhLUi1scFBucHppV0dqX3VFOTZyN0haQTg?oc=5",
       "source": "머니투데이",
       "kind": "domestic",
       "publishedAt": "2026-09-10T05:21:26.000Z",
@@ -552,8 +762,8 @@
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 42,
-      "score": 66,
-      "snapshotDate": "2026-09-13"
+      "score": 56,
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "f4a12d0e0351",
@@ -566,8 +776,22 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 63,
-      "snapshotDate": "2026-09-13"
+      "score": 53,
+      "snapshotDate": "2026-09-14"
+    },
+    {
+      "id": "553f77b6e760",
+      "title": "양주시·경기도교육청 등, '교육혁신선도지역' 도전…행정 경계 허물고 교육격차 해소 나선다",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Vc3RkSnVHOXpDak51UmF0YllnN0VJR3B6cTdFRy1LR2t0aU5MU1o2QXhWNXNtckVTUGt3a2hKa0pBYnl3VGVlYzVNaHZsSHFRSW9v?oc=5",
+      "source": "네이트",
+      "kind": "domestic",
+      "publishedAt": "2026-09-10T03:31:16.000Z",
+      "description": "양주시·경기도교육청 등, '교육혁신선도지역' 도전…행정 경계 허물고 교육격차 해소 나선다 네이트",
+      "category": "지역·평생교육",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 62,
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "77c1d5c17e92",
@@ -580,8 +804,8 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 87,
-      "score": 90,
-      "snapshotDate": "2026-09-13"
+      "score": 80,
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "1d0b679cac54",
@@ -607,8 +831,8 @@
       "description": "교육부 공식 보도자료",
       "category": "교원·조직",
       "policyRelevance": 100,
-      "score": 105,
-      "snapshotDate": "2026-09-13"
+      "score": 95,
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "2baa17daa94b",
@@ -621,8 +845,8 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 80,
-      "snapshotDate": "2026-09-13"
+      "score": 70,
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "f17beb9f8b25",
@@ -635,8 +859,23 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 65,
-      "snapshotDate": "2026-09-13"
+      "score": 55,
+      "snapshotDate": "2026-09-14"
+    },
+    {
+      "id": "07b1221cadf2",
+      "title": "Foreign students and trainees surpass 500,000 in South Korea",
+      "url": "https://www.msn.com/en-xl/education-and-learning/higher-education/foreign-students-and-trainees-surpass-500-000-in-south-korea/ar-AA2bVd47",
+      "source": "The Chosun Ilbo on MSN",
+      "kind": "foreign",
+      "publishedAt": "2026-09-09T18:37:50.000Z",
+      "description": "The number of foreign students and trainees visiting South Korea for study or training purposes exceeded 500,000 people for the first time last year. This surge has been attributed to the global ...",
+      "category": "AI·디지털",
+      "score": 30,
+      "originalTitle": "Foreign students and trainees surpass 500,000 in South Korea",
+      "titleKo": "외국인 학생과 연수생, 한국에서 50만 명 돌파",
+      "summaryKo": "유학이나 연수를 목적으로 한국을 방문한 외국인 유학생과 연수생 수가 지난해 처음으로 50만 명을 넘어섰다. 이 탄력요금제는 전 세계...",
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "7be61e93d6bd",
@@ -807,7 +1046,7 @@
       "originalTitle": "Teaching resources to support the updated New Zealand curriculum",
       "titleKo": "업데이트된 뉴질랜드 커리큘럼을 지원하기 위한 교육 자료",
       "summaryKo": "업데이트된 뉴질랜드 교육 과정 지원을 위한 교육 자료 뉴질랜드 교육부",
-      "snapshotDate": "2026-09-13"
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "53dc5f1c0e78",
@@ -907,7 +1146,7 @@
       "category": "유·초중등",
       "policyRelevance": 100,
       "score": 99,
-      "snapshotDate": "2026-09-13"
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "6879ac2610bf",
@@ -920,7 +1159,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-09-13"
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "724b56abd8f3",
@@ -933,7 +1172,7 @@
       "category": "교원·조직",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-09-13"
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "0c96efd48fbc",
@@ -1409,7 +1648,20 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 99,
-      "snapshotDate": "2026-09-12"
+      "snapshotDate": "2026-09-14"
+    },
+    {
+      "id": "49c8afe59f38",
+      "title": "학교안전법 시행령 일부개정령안 국무회의 통과",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107153&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-09-08T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "유·초중등",
+      "policyRelevance": 100,
+      "score": 99,
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "c9fe6c9a193d",
@@ -1422,7 +1674,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-09-12"
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "b35d3f94c9c5",
@@ -1435,7 +1687,7 @@
       "category": "입시·사교육",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-09-12"
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "212d07a7cf23",
@@ -1448,7 +1700,7 @@
       "category": "유·초중등",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-09-12"
+      "snapshotDate": "2026-09-14"
     },
     {
       "id": "b19ed9630b47",
