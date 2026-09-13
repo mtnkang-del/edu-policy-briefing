@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T21:37:18.831Z",
+  "generatedAt": "2026-09-13T22:35:12.727Z",
   "retentionDays": 30,
   "days": [
     "2026-09-14",
@@ -25,6 +25,20 @@
   ],
   "items": [
     {
+      "id": "d3f73f56af64",
+      "title": "[칼럼] 정부, 사립대 홀대…‘대학도 의무 교육하자’",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPcGxxeDFYRGllVklKMGo4cDB5QXZ0VmpmdVQzNlpaX2lrNzllVGN0bHVUd1ZmUUhQUklDeHZWa1VfckNoa2FEa2RhQTUta1FWbVhJMG8wOEpOSFlHcC05V1ZYdG53TjZoMHA5b3E2UUw?oc=5",
+      "source": "코리아리포트",
+      "kind": "domestic",
+      "publishedAt": "2026-09-13T21:47:13.000Z",
+      "description": "[칼럼] 정부, 사립대 홀대…‘대학도 의무 교육하자’ 코리아리포트",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 73,
+      "snapshotDate": "2026-09-14"
+    },
+    {
       "id": "7e98c326d514",
       "title": "'수시 접수 먹통' 원서접수 미완료 최대 1200여명...14일부터 구제",
       "url": "https://www.fnnews.com/news/202609131956200031",
@@ -39,13 +53,13 @@
       "snapshotDate": "2026-09-14"
     },
     {
-      "id": "bd10d375d902",
+      "id": "771dd51aab5d",
       "title": "'2027년 대입 수시' 원서 접수 ‘먹통’ 사태… 교육부·대교협 ‘뒷북 구제책’ 형평성·책임론 도마",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5dmlXVGcxZUhQZjRDb0hsakdUWEF6emRGbmVLSUp4dGxqUUNWWHJweUZSanhLVWhTR3JPMUVOcDN2cFozMHZGT004bl9SQUc2WHJ2YW9HNHlTVDNWekYwdFZ3T0JYSVk?oc=5",
-      "source": "교수신문",
+      "source": "kyosu.net",
       "kind": "domestic",
       "publishedAt": "2026-09-13T12:14:45.000Z",
-      "description": "'2027년 대입 수시' 원서 접수 ‘먹통’ 사태… 교육부·대교협 ‘뒷북 구제책’ 형평성·책임론 도마 교수신문",
+      "description": "'2027년 대입 수시' 원서 접수 ‘먹통’ 사태… 교육부·대교협 ‘뒷북 구제책’ 형평성·책임론 도마 kyosu.net",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
@@ -67,13 +81,13 @@
       "snapshotDate": "2026-09-14"
     },
     {
-      "id": "464b3f12eb47",
+      "id": "4fcdebc9d67f",
       "title": "경상국립대, 2027학년도 신입생 수시모집 평균 경쟁률 8.09대 1",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XdV8yTGlMOWluZ2VqVzZGUEJ2YWYySl9WakdwTm03enE0NjhRcmpTMFVRd2d2ODRKWHlITkFOMmpScDFkQTRmRDdwc2RGaVdfaV9raDczbURyN1Z1YWF6dnJweld0VDM5SWhXSlRR?oc=5",
-      "source": "케이에스피뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBKOHNEYkdlTkgtM0ZPMkRwNXZDNEs1ejZCd3VEUG5sTjlNNlk3OWhpTmFiUVRhT252SV9ldlY1QVFUWjZla2NVRWxn?oc=5",
+      "source": "mediatoday.asia",
       "kind": "domestic",
       "publishedAt": "2026-09-13T09:51:00.000Z",
-      "description": "경상국립대, 2027학년도 신입생 수시모집 평균 경쟁률 8.09대 1 케이에스피뉴스",
+      "description": "경상국립대, 2027학년도 신입생 수시모집 평균 경쟁률 8.09대 1 mediatoday.asia",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -92,20 +106,6 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 71,
-      "snapshotDate": "2026-09-14"
-    },
-    {
-      "id": "b67f156f27b1",
-      "title": "[이재희 칼럼] 서·논술형 평가에 대한 반대와 우려를 반드시 극복해야",
-      "url": "https://www.ajunews.com/view/20260912183925419",
-      "source": "아주경제",
-      "kind": "domestic",
-      "publishedAt": "2026-09-13T09:01:00.000Z",
-      "description": "2023년 12월 말 국가교육위원회(국교위)가 ‘2028 대학입시제도 개편안’을 최종 의결했고, 교육부는 이를 반영하여 2028 대학입시제도를 확정 발표했다. 이 개편된 대입제도의 핵심 내용은 수능 심화수학 제외와 내신 5등급제이다. 그리고 지난 8월 초순 대통령에 대한 교육부 업무보고와 국회 교육위원회에서 보고한 국교위 중장기 국가교육발전계획에서 2033 ...",
-      "category": "입시·사교육",
-      "feedProvider": "bing",
-      "policyRelevance": 87,
-      "score": 108,
       "snapshotDate": "2026-09-14"
     },
     {
@@ -202,7 +202,7 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 71,
+      "score": 61,
       "snapshotDate": "2026-09-14"
     },
     {
@@ -724,6 +724,20 @@
       "snapshotDate": "2026-09-14"
     },
     {
+      "id": "295072188ee3",
+      "title": "대전시교육청, DX교육데이터협회와 맞손…\"AI로 학생 맞춤형 교육 구현할 것\" - 보도자료 | 기사",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKQmszOF9sWFE4U3BsVnJhSXBGMUU1YkhDX3lOTVZDZnd4Wm9fbEo4Z1dQdmZSTVUxY21SNnNoMG1scUhES3NFMHQwdndhYnBjQkkzM1BxcmNhamJxZU1V?oc=5",
+      "source": "news.tf.co.kr",
+      "kind": "domestic",
+      "publishedAt": "2026-09-10T06:11:18.000Z",
+      "description": "대전시교육청, DX교육데이터협회와 맞손…\"AI로 학생 맞춤형 교육 구현할 것\" - 보도자료 | 기사 news.tf.co.kr",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 57,
+      "snapshotDate": "2026-09-14"
+    },
+    {
       "id": "cd2583d908a7",
       "title": "대전시교육청, DX교육데이터협회와 맞손…\"AI로 학생 맞춤형 교육 구현할 것\" - 보도자료 | 기사",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKQmszOF9sWFE4U3BsVnJhSXBGMUU1YkhDX3lOTVZDZnd4Wm9fbEo4Z1dQdmZSTVUxY21SNnNoMG1scUhES3NFMHQwdndhYnBjQkkzM1BxcmNhamJxZU1V?oc=5",
@@ -734,8 +748,8 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 57,
-      "snapshotDate": "2026-09-14"
+      "score": 67,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "bd1f15e8a53d",
@@ -849,6 +863,20 @@
       "snapshotDate": "2026-09-14"
     },
     {
+      "id": "0ba3ca700e9b",
+      "title": "[2027학년도 수능 원서접수] 55만1864명 지원…졸업생 늘고 재학생 감소",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9lS1JoR0RrY2VyQUNPRWdXdnhWVUl5RVpKdkdxdmtVOG90YkdQUHU2dF9aQ2lpWlhzTm1QVmYxS1RpZWp4RlI0WVZaeHI?oc=5",
+      "source": "edumorning.com",
+      "kind": "domestic",
+      "publishedAt": "2026-09-09T22:54:15.000Z",
+      "description": "[2027학년도 수능 원서접수] 55만1864명 지원…졸업생 늘고 재학생 감소 edumorning.com",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 55,
+      "snapshotDate": "2026-09-14"
+    },
+    {
       "id": "f17beb9f8b25",
       "title": "[2027학년도 수능 원서접수] 55만1864명 지원…졸업생 늘고 재학생 감소",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9lS1JoR0RrY2VyQUNPRWdXdnhWVUl5RVpKdkdxdmtVOG90YkdQUHU2dF9aQ2lpWlhzTm1QVmYxS1RpZWp4RlI0WVZaeHI?oc=5",
@@ -859,8 +887,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 55,
-      "snapshotDate": "2026-09-14"
+      "score": 65,
+      "snapshotDate": "2026-09-13"
     },
     {
       "id": "07b1221cadf2",

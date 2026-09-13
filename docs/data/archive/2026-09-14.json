@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-13T21:37:12.055Z",
-  "generatedAtKST": "2026-09-14T06:37:09.206+09:00",
+  "generatedAt": "2026-09-13T22:35:06.016Z",
+  "generatedAtKST": "2026-09-14T07:35:03.419+09:00",
   "date": "2026-09-14",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
@@ -8,20 +8,20 @@
   "collectionHealth": {
     "officialLive": 10,
     "domesticBing": 7,
-    "domesticGoogle": 138,
-    "foreignBing": 0,
+    "domesticGoogle": 133,
+    "foreignBing": 3,
     "foreignGoogle": 212,
-    "carried": 89,
+    "carried": 148,
     "rawUnique": 340,
     "policyRejected": 274,
     "policyKept": 66
   },
   "briefing": [
     "“우리 아이 미래 경쟁력” 영유아 보호자가 묻고, 인지과학이 답하다! — 교육부",
-    "[이재희 칼럼] 서·논술형 평가에 대한 반대와 우려를 반드시 극복해야 — 아주경제",
     "2026년 1차 학교폭력 실태조사 결과 발표 — 교육부",
     "경제협력개발기구(OECD), 국제 학업성취도 평가(PISA) 2025 결과 발표 — 교육부",
-    "학교안전법 시행령 일부개정령안 국무회의 통과 — 교육부"
+    "학교안전법 시행령 일부개정령안 국무회의 통과 — 교육부",
+    "우즈베키스탄 한국어교육 지역 거점 마련하고 지역 한국어교사 양성한다 — 교육부"
   ],
   "stats": {
     "total": 67,
@@ -41,19 +41,6 @@
       "category": "유·초중등",
       "policyRelevance": 100,
       "score": 115
-    },
-    {
-      "id": "b67f156f27b1",
-      "title": "[이재희 칼럼] 서·논술형 평가에 대한 반대와 우려를 반드시 극복해야",
-      "url": "https://www.ajunews.com/view/20260912183925419",
-      "source": "아주경제",
-      "kind": "domestic",
-      "publishedAt": "2026-09-13T09:01:00.000Z",
-      "description": "2023년 12월 말 국가교육위원회(국교위)가 ‘2028 대학입시제도 개편안’을 최종 의결했고, 교육부는 이를 반영하여 2028 대학입시제도를 확정 발표했다. 이 개편된 대입제도의 핵심 내용은 수능 심화수학 제외와 내신 5등급제이다. 그리고 지난 8월 초순 대통령에 대한 교육부 업무보고와 국회 교육위원회에서 보고한 국교위 중장기 국가교육발전계획에서 2033 ...",
-      "category": "입시·사교육",
-      "feedProvider": "bing",
-      "policyRelevance": 87,
-      "score": 108
     },
     {
       "id": "34d3b77f7bda",
@@ -229,13 +216,13 @@
       "score": 86
     },
     {
-      "id": "bd10d375d902",
+      "id": "771dd51aab5d",
       "title": "'2027년 대입 수시' 원서 접수 ‘먹통’ 사태… 교육부·대교협 ‘뒷북 구제책’ 형평성·책임론 도마",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5dmlXVGcxZUhQZjRDb0hsakdUWEF6emRGbmVLSUp4dGxqUUNWWHJweUZSanhLVWhTR3JPMUVOcDN2cFozMHZGT004bl9SQUc2WHJ2YW9HNHlTVDNWekYwdFZ3T0JYSVk?oc=5",
-      "source": "교수신문",
+      "source": "kyosu.net",
       "kind": "domestic",
       "publishedAt": "2026-09-13T12:14:45.000Z",
-      "description": "'2027년 대입 수시' 원서 접수 ‘먹통’ 사태… 교육부·대교협 ‘뒷북 구제책’ 형평성·책임론 도마 교수신문",
+      "description": "'2027년 대입 수시' 원서 접수 ‘먹통’ 사태… 교육부·대교협 ‘뒷북 구제책’ 형평성·책임론 도마 kyosu.net",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
@@ -359,6 +346,19 @@
       "score": 75
     },
     {
+      "id": "d3f73f56af64",
+      "title": "[칼럼] 정부, 사립대 홀대…‘대학도 의무 교육하자’",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPcGxxeDFYRGllVklKMGo4cDB5QXZ0VmpmdVQzNlpaX2lrNzllVGN0bHVUd1ZmUUhQUklDeHZWa1VfckNoa2FEa2RhQTUta1FWbVhJMG8wOEpOSFlHcC05V1ZYdG53TjZoMHA5b3E2UUw?oc=5",
+      "source": "코리아리포트",
+      "kind": "domestic",
+      "publishedAt": "2026-09-13T21:47:13.000Z",
+      "description": "[칼럼] 정부, 사립대 홀대…‘대학도 의무 교육하자’ 코리아리포트",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 73
+    },
+    {
       "id": "7af34bc323e4",
       "title": "‘서버 먹통’에 수시 미접수 최대 1200여 명…형평성 논란 속 구제 신청 접수",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NUFl5MUpxbWR6OXNoYmlmRUpYTms5VW1rMnhuZ0RrU2VKRFNJZFliZmVTajk3NkQ0STVLeFl3al9KbmlpMEduUk9UVkxLdVBob0N3bVZERDBmT1E3VGltZTNuUFVtejNLWHRNWURSelVCcVltdHfSAWZBVV95cUxNblByT2h4UW5YUHpMYTJ2STZDak9NUmUtMkVlVUpvREpXY0VLYWllZG11bzBtdlNMSFpqc0pYRWtVRWdzaVVKZE1zc25KY1l0dlhwMEtWcDhHZ2pHY0xrWmZVT1Q2Tmc?oc=5",
@@ -411,13 +411,13 @@
       "score": 72
     },
     {
-      "id": "464b3f12eb47",
+      "id": "4fcdebc9d67f",
       "title": "경상국립대, 2027학년도 신입생 수시모집 평균 경쟁률 8.09대 1",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XdV8yTGlMOWluZ2VqVzZGUEJ2YWYySl9WakdwTm03enE0NjhRcmpTMFVRd2d2ODRKWHlITkFOMmpScDFkQTRmRDdwc2RGaVdfaV9raDczbURyN1Z1YWF6dnJweld0VDM5SWhXSlRR?oc=5",
-      "source": "케이에스피뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBKOHNEYkdlTkgtM0ZPMkRwNXZDNEs1ejZCd3VEUG5sTjlNNlk3OWhpTmFiUVRhT252SV9ldlY1QVFUWjZla2NVRWxn?oc=5",
+      "source": "mediatoday.asia",
       "kind": "domestic",
       "publishedAt": "2026-09-13T09:51:00.000Z",
-      "description": "경상국립대, 2027학년도 신입생 수시모집 평균 경쟁률 8.09대 1 케이에스피뉴스",
+      "description": "경상국립대, 2027학년도 신입생 수시모집 평균 경쟁률 8.09대 1 mediatoday.asia",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -457,19 +457,6 @@
       "kind": "domestic",
       "publishedAt": "2026-09-13T06:54:35.000Z",
       "description": "경상국립대 2027학년도 신입생 수시모집 평균 경쟁률 8.09대1 경남도민신문",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 71
-    },
-    {
-      "id": "a298a7994eba",
-      "title": "경상국립대, 내년 신입생 수시모집 경쟁율 8.09대 1",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tcGJaam1RVkhNQU5CbzMtblV1OFI3UGVqSDRHbUZvUlg5NGtXTjBqcWVza25uUUFPWGRHcFFxdTl3a3JGM2t2eE5FNGZMVFVVMTBjR1ZqYlRzbVNGLWFONdIBeEFVX3lxTE1IdHRZYlZLYmxzYXg3RXBoNWlrVmYtbE9HTFpmV2tDcDY3VnhXODJOUmNNUHhrdllQdThDcXkxYU9KUUkwbnZkYjItSm9JLVJwb0diQWhxMWFZWFh1VVFvLURFTThFRzNlLXI3T3NwWko2X2NtdkJoLQ?oc=5",
-      "source": "뉴시스",
-      "kind": "domestic",
-      "publishedAt": "2026-09-12T22:13:17.000Z",
-      "description": "경상국립대, 내년 신입생 수시모집 경쟁율 8.09대 1 뉴시스",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -736,6 +723,19 @@
       "score": 62
     },
     {
+      "id": "a298a7994eba",
+      "title": "경상국립대, 내년 신입생 수시모집 경쟁율 8.09대 1",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tcGJaam1RVkhNQU5CbzMtblV1OFI3UGVqSDRHbUZvUlg5NGtXTjBqcWVza25uUUFPWGRHcFFxdTl3a3JGM2t2eE5FNGZMVFVVMTBjR1ZqYlRzbVNGLWFONdIBeEFVX3lxTE1IdHRZYlZLYmxzYXg3RXBoNWlrVmYtbE9HTFpmV2tDcDY3VnhXODJOUmNNUHhrdllQdThDcXkxYU9KUUkwbnZkYjItSm9JLVJwb0diQWhxMWFZWFh1VVFvLURFTThFRzNlLXI3T3NwWko2X2NtdkJoLQ?oc=5",
+      "source": "뉴시스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-12T22:13:17.000Z",
+      "description": "경상국립대, 내년 신입생 수시모집 경쟁율 8.09대 1 뉴시스",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 61
+    },
+    {
       "id": "e4cff37a3f3d",
       "title": "경상국립대 2027학년도 수시 경쟁률 '8.09대 1'...3729명 모집에 3만 156명 지원",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tLVBDS3NDc0k5SFAyRU5CZmRlUlN2RHVocWV4QXVnY2V5bVNTOHR3TVdMazRUVzFmWmludDNpYjJ3QWFIQm1WdDR4aW1WV2pKcFVrRFFwVlF3SG1XN2NzSE5yRXJPOWdYSnI3dVd3?oc=5",
@@ -788,13 +788,13 @@
       "score": 57
     },
     {
-      "id": "cd2583d908a7",
+      "id": "295072188ee3",
       "title": "대전시교육청, DX교육데이터협회와 맞손…\"AI로 학생 맞춤형 교육 구현할 것\" - 보도자료 | 기사",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKQmszOF9sWFE4U3BsVnJhSXBGMUU1YkhDX3lOTVZDZnd4Wm9fbEo4Z1dQdmZSTVUxY21SNnNoMG1scUhES3NFMHQwdndhYnBjQkkzM1BxcmNhamJxZU1V?oc=5",
-      "source": "더팩트",
+      "source": "news.tf.co.kr",
       "kind": "domestic",
       "publishedAt": "2026-09-10T06:11:18.000Z",
-      "description": "대전시교육청, DX교육데이터협회와 맞손…\"AI로 학생 맞춤형 교육 구현할 것\" - 보도자료 | 기사 더팩트",
+      "description": "대전시교육청, DX교육데이터협회와 맞손…\"AI로 학생 맞춤형 교육 구현할 것\" - 보도자료 | 기사 news.tf.co.kr",
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 45,
@@ -814,13 +814,13 @@
       "score": 56
     },
     {
-      "id": "f17beb9f8b25",
+      "id": "0ba3ca700e9b",
       "title": "[2027학년도 수능 원서접수] 55만1864명 지원…졸업생 늘고 재학생 감소",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9lS1JoR0RrY2VyQUNPRWdXdnhWVUl5RVpKdkdxdmtVOG90YkdQUHU2dF9aQ2lpWlhzTm1QVmYxS1RpZWp4RlI0WVZaeHI?oc=5",
-      "source": "에듀모닝",
+      "source": "edumorning.com",
       "kind": "domestic",
       "publishedAt": "2026-09-09T22:54:15.000Z",
-      "description": "[2027학년도 수능 원서접수] 55만1864명 지원…졸업생 늘고 재학생 감소 에듀모닝",
+      "description": "[2027학년도 수능 원서접수] 55만1864명 지원…졸업생 늘고 재학생 감소 edumorning.com",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -903,17 +903,17 @@
     "throughDate": "2026-09-14",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-09-12T15:00:00.000Z",
-    "windowEnd": "2026-09-13T21:37:12.055Z",
+    "windowEnd": "2026-09-13T22:35:06.016Z",
     "itemIds": [
       "d7dff8fdfff5",
-      "b67f156f27b1",
       "b9843876baa5",
       "64f128373ba9",
       "7e98c326d514",
-      "bd10d375d902",
+      "771dd51aab5d",
       "bfc114aeca6a",
+      "d3f73f56af64",
       "7af34bc323e4",
-      "464b3f12eb47",
+      "4fcdebc9d67f",
       "6c682bb8121e",
       "4ff2745a9086",
       "451c9841d158",
@@ -925,17 +925,26 @@
       "domestic": 12,
       "foreign": 0
     },
-    "headline": "오늘 아침 교육뉴스는 입시·사교육·유·초중등·교원·조직 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 13건이 확인됐습니다. 교육부는 “우리 아이 미래 경쟁력” 영유아 보호자가 묻고, 인지과학이 답하다! 등을 공식 발표했습니다. 국내 언론에서는 [이재희 칼럼] 서·논술형 평가에 대한 반대와 우려를 반드시 극복해야와 수시 원서접수 '먹통' 후폭풍…교육부, 오늘 구제 절차 발표 등이 주요하게 다뤄졌습니다. 전체적으로는 입시·사교육·유·초중등·교원·조직 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "headline": "오늘 아침 교육뉴스는 입시·사교육·고등교육·유·초중등 이슈를 중심으로 형성됐습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 13건이 확인됐습니다. 교육부는 “우리 아이 미래 경쟁력” 영유아 보호자가 묻고, 인지과학이 답하다! 등을 공식 발표했습니다. 국내 언론에서는 수시 원서접수 '먹통' 후폭풍…교육부, 오늘 구제 절차 발표와 교육부, 14일 수도권 영유아 사교육 학부모 이야기 마당 개최 등이 주요하게 다뤄졌습니다. 전체적으로는 입시·사교육·고등교육·유·초중등 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "입시·사교육",
-        "summary": "[이재희 칼럼] 서·논술형 평가에 대한 반대와 우려를 반드시 극복해야 · 수시 원서접수 '먹통' 후폭풍…교육부, 오늘 구제 절차 발표 · 교육부, 14일 수도권 영유아 사교육 학부모 이야기 마당 개최",
+        "summary": "수시 원서접수 '먹통' 후폭풍…교육부, 오늘 구제 절차 발표 · 교육부, 14일 수도권 영유아 사교육 학부모 이야기 마당 개최 · '수시 접수 먹통' 원서접수 미완료 최대 1200여명...14일부터 구제",
         "why": "대입·수능·사교육 이슈는 학생·학부모 체감도가 높고 후속 안내와 현장 반응 점검이 중요합니다.",
         "sources": [
-          "아주경제",
           "데일리안",
-          "2news.co.kr"
+          "2news.co.kr",
+          "파이낸셜뉴스"
+        ]
+      },
+      {
+        "title": "고등교육",
+        "summary": "[칼럼] 정부, 사립대 홀대…‘대학도 의무 교육하자’ · [월요논단] 국립대 등록금 무료정책, 지방시대의 서막(序幕)",
+        "why": "대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다.",
+        "sources": [
+          "코리아리포트",
+          "v.daum.net"
         ]
       },
       {
@@ -953,20 +962,12 @@
         "sources": [
           "신아일보"
         ]
-      },
-      {
-        "title": "고등교육",
-        "summary": "[월요논단] 국립대 등록금 무료정책, 지방시대의 서막(序幕)",
-        "why": "대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다.",
-        "sources": [
-          "v.daum.net"
-        ]
       }
     ],
     "watchpoints": [
       "입시·사교육: 대입·수능·사교육 이슈는 학생·학부모 체감도가 높고 후속 안내와 현장 반응 점검이 중요합니다.",
-      "유·초중등: 학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
-      "교원·조직: 교원 업무·교권·인사와 직접 연결될 수 있어 현장 반응과 제도 운영상 쟁점을 살펴볼 필요가 있습니다."
+      "고등교육: 대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다.",
+      "유·초중등: 학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다."
     ]
   }
 }
