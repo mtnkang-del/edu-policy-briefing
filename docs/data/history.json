@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T21:39:35.263Z",
+  "generatedAt": "2026-09-14T22:36:07.552Z",
   "retentionDays": 30,
   "days": [
     "2026-09-15",
@@ -82,13 +82,13 @@
       "snapshotDate": "2026-09-15"
     },
     {
-      "id": "b2ecddf96d03",
+      "id": "18d7633ca03e",
       "title": "[사설] 민간에 맡긴 수시 접수, 학부모들은 진작부터 아찔했는데",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsYmpzeWZRelVXaHNIUWJSQ09GcFNIRnF5dkJyRkJoTFJmSkJ3bTRrMUVsX1pBMkZBeEwwYzdwb0d3bE9BTmpqUzhaMm9Ncmczak1EMlg2VQ?oc=5",
-      "source": "seoul.co.kr",
+      "source": "서울신문",
       "kind": "domestic",
       "publishedAt": "2026-09-14T09:43:16.000Z",
-      "description": "[사설] 민간에 맡긴 수시 접수, 학부모들은 진작부터 아찔했는데 seoul.co.kr",
+      "description": "[사설] 민간에 맡긴 수시 접수, 학부모들은 진작부터 아찔했는데 서울신문",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -96,28 +96,13 @@
       "snapshotDate": "2026-09-15"
     },
     {
-      "id": "63801058e5e4",
-      "title": "Plan for literary translation graduate school delayed over regional development policy",
-      "url": "https://www.koreatimes.co.kr/lifestyle/books/20260914/plan-for-literary-translation-graduate-school-delayed-over-regional-development-policy",
-      "source": "The Korea Times",
-      "kind": "foreign",
-      "publishedAt": "2026-09-14T09:07:00.000Z",
-      "description": "A plan by the Literature Translation Institute of Korea (LTI Korea) to establish an independent graduate school dedicated to Korean literary ...",
-      "category": "유·초중등",
-      "score": 30,
-      "originalTitle": "Plan for literary translation graduate school delayed over regional development policy",
-      "titleKo": "지역개발정책보다 문학번역대학원 진학계획 지연",
-      "summaryKo": "한국문학번역원 (LTI Korea) 이 한국문학을 전담하는 독립적인 대학원을 설립하기 위한 계획...",
-      "snapshotDate": "2026-09-15"
-    },
-    {
-      "id": "e040f1095a12",
+      "id": "fd14d82f03d1",
       "title": "교육부, 수시 원서접수 시스템 전반 점검…대학 경쟁률 공개 시점, 사무 이관 방안도",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4MGluTzhhcGNEWTBjSlhkYmRVQTJiSm1LLTNiWHhzcmxseXBtalNKSU1GVDB3V1dmSXotelBpT2VXZWlKN1lMemVtbG05eGdTdUVsTXRGd3ZJRzg?oc=5",
-      "source": "kyeonggi.com",
+      "source": "경기일보",
       "kind": "domestic",
       "publishedAt": "2026-09-14T08:54:46.000Z",
-      "description": "교육부, 수시 원서접수 시스템 전반 점검…대학 경쟁률 공개 시점, 사무 이관 방안도 kyeonggi.com",
+      "description": "교육부, 수시 원서접수 시스템 전반 점검…대학 경쟁률 공개 시점, 사무 이관 방안도 경기일보",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 75,
@@ -181,13 +166,13 @@
       "snapshotDate": "2026-09-15"
     },
     {
-      "id": "e99824c960dc",
+      "id": "2cd6624469a2",
       "title": "대입 원서접수 '먹통'에…최교진 \"교육부·대교협 직접 관리 검토\"",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlM0tlUGlaR245UDhmTGF1SmV0UFJuOGVhQ2RRd0F6OXo3a0VPN0hrQjJVdkdWdmZnQ0ZlM0h2ckw2aEdGVGZaSzMxMVc3a1N6Q2JxakxHWEhveW5UM2pjSFFkeGRXb3l3dXc?oc=5",
-      "source": "월요신문",
+      "source": "wolyo.co.kr",
       "kind": "domestic",
       "publishedAt": "2026-09-14T07:20:12.000Z",
-      "description": "대입 원서접수 '먹통'에…최교진 \"교육부·대교협 직접 관리 검토\" 월요신문",
+      "description": "대입 원서접수 '먹통'에…최교진 \"교육부·대교협 직접 관리 검토\" wolyo.co.kr",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
@@ -237,13 +222,13 @@
       "snapshotDate": "2026-09-15"
     },
     {
-      "id": "0a008c1c97ef",
+      "id": "62ae617ea079",
       "title": "수시 원서 ‘160억짜리 먹통’... 관리·감독도 손놓은 교육부",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTi1sa243NDc3OVF2dEpFQi10ck1LSGRuTVl2TlBjZi01SVlwajl2RU1kRlNPRnlQZ19UQVpaNGw1ei1YRkxPckpuUVNiMGx5TWhQd182WE9KMTEwUmlSYnFXZk5Rd2hLcDBENEVRaTcxRWROU3FYSXBXemoyd1ZvdVNCX2FoM2s?oc=5",
-      "source": "chosun.com",
+      "source": "조선일보",
       "kind": "domestic",
       "publishedAt": "2026-09-14T02:36:01.000Z",
-      "description": "수시 원서 ‘160억짜리 먹통’... 관리·감독도 손놓은 교육부 chosun.com",
+      "description": "수시 원서 ‘160억짜리 먹통’... 관리·감독도 손놓은 교육부 조선일보",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
@@ -307,13 +292,13 @@
       "snapshotDate": "2026-09-15"
     },
     {
-      "id": "dcde89a99c43",
+      "id": "1f3008924055",
       "title": "[현장기고] 학생은 정책 실험의 대상이 아니다",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkRlZzT2JjczVZdk1OdC1Db3llaV80VzIzbXhXT1RmcmdLZGRzSDZ4ZC1HU21pTW1ETVAybFQ0UXdXcmN2S1p1WnZncGtyanBIT1dkXzNnUW9Jd2pSaktj?oc=5",
-      "source": "hangyo.com",
+      "source": "한국교육신문",
       "kind": "domestic",
       "publishedAt": "2026-09-14T00:10:00.000Z",
-      "description": "[현장기고] 학생은 정책 실험의 대상이 아니다 hangyo.com",
+      "description": "[현장기고] 학생은 정책 실험의 대상이 아니다 한국교육신문",
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -371,7 +356,21 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 73,
+      "score": 63,
+      "snapshotDate": "2026-09-15"
+    },
+    {
+      "id": "0e120b21f81c",
+      "title": "'학생 줄었는데 교부금은 왜 늘어날까'…교육재정 개편 놓고 정부·교육감 충돌",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%ED%95%99%EC%83%9D-%EC%A4%84%EC%97%88%EB%8A%94%EB%8D%B0-%EA%B5%90%EB%B6%80%EA%B8%88%EC%9D%80-%EC%99%9C-%EB%8A%98%EC%96%B4%EB%82%A0%EA%B9%8C-%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95-%EA%B0%9C%ED%8E%B8-%EB%86%93%EA%B3%A0-%EC%A0%95%EB%B6%80-%EA%B5%90%EC%9C%A1%EA%B0%90-%EC%B6%A9%EB%8F%8C/ar-AA2c9RYW",
+      "source": "매일신문 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-09-13T21:34:47.000Z",
+      "description": "정부의 지방교육재정교부금 개편을 두고 전국 시·도 교육감들이 반발하고 있다. 학령인구 감소와 교육환경 변화를 이유로 지방교육재정교부금 산정 방식을 바꾸려는 데 대해, 시· 도 교육감들이 국회를 찾아 현행 제도 유지를 요구하고 나섰다. 쟁점은 단순히 교 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 87,
+      "score": 90,
       "snapshotDate": "2026-09-15"
     },
     {
@@ -445,13 +444,13 @@
       "snapshotDate": "2026-09-15"
     },
     {
-      "id": "9fbef8a15821",
+      "id": "009cc55e5386",
       "title": "'수시 원서접수 먹통'에 접수 못 한 수험생 최대 1,200여 명‥\"구제조치 시행\"",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QTFdtSWZyVjVVd3FYMmFLbWZYUjNmeHd5Tjc2Z1B2a2Z3WEpBMzVkaE5yR0Ruc19QSDdBbzhrR3pWWmZyemszUHlUeWI5TktrWUduU29XdHdhUkVLd3BkNENPanBvOFFxUE9MWkotbmJCdUxrTkJB0gF3QVVfeXFMTmFyX1dyN0RLT0FGdmg2cFBBdVRQX1pPSDhMMGY4WFFILXJ2ZklxWERBREx3ZjVJMDlJeThuQ0h0Y1ZjM0VuWnF1Y1o1Uy1jSW9BelZRejU1SjZFTUNPRGVMSlk5Q2tvNzlkSXcyY0pmUG5tQVMzWjA?oc=5",
-      "source": "MBC 뉴스",
+      "source": "imnews.imbc.com",
       "kind": "domestic",
       "publishedAt": "2026-09-13T11:00:07.000Z",
-      "description": "'수시 원서접수 먹통'에 접수 못 한 수험생 최대 1,200여 명‥\"구제조치 시행\" MBC 뉴스",
+      "description": "'수시 원서접수 먹통'에 접수 못 한 수험생 최대 1,200여 명‥\"구제조치 시행\" imnews.imbc.com",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 42,
@@ -501,17 +500,17 @@
       "snapshotDate": "2026-09-15"
     },
     {
-      "id": "16331622383a",
-      "title": "교육부, “우리 아이 미래 경쟁력” 영유아 보호자가 묻고, 인지과학이 답하다!",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpRW9VYTV5dng1MldEVlZfQ3JMSWRKOUxqTjk5NS0yWXNGU1BKUDkxa2gtb3Zzc3FFUFF0ckxmZjVFNVh4S3lvTVEwRW1hc0dXM0NLQXpjdHlfdTVWdzd5Vk13?oc=5",
-      "source": "koreatopnews.net",
+      "id": "4ed0c25d2fcc",
+      "title": "충북교육청, 향후 4년 정책 밑그림 그린다",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MSVMwcklta0wybDNiS1N5SHJ6ekZieXBWVGJDVkpBUVIzNlJOZW01aTV1N3pMUC1nRlRXQVhRTWZNNVdOa3lEX1pNR2pSX2tXUHVDVkdvQTA4UXJHNnF2Y21RR3ljUEM0N0luN0EtRWE2MXPSAXNBVV95cUxOTElTMHJJbWtMMmwzYktTeUhyenpGYnlwVlRiQ1ZKQVFSMzZSTmVtNWk1dTd6TFAtZ0ZUV0FYUU1mTTVXTmt5RF9aTUdqUl9rV1B1Q1ZHb0EwOFFyRzZxdmNtUUd5Y1BDNDdJbjdBLUVhNjFz?oc=5",
+      "source": "대전일보",
       "kind": "domestic",
-      "publishedAt": "2026-09-13T08:50:26.000Z",
-      "description": "교육부, “우리 아이 미래 경쟁력” 영유아 보호자가 묻고, 인지과학이 답하다! koreatopnews.net",
-      "category": "유·초중등",
+      "publishedAt": "2026-09-13T08:04:47.000Z",
+      "description": "충북교육청, 향후 4년 정책 밑그림 그린다 대전일보",
+      "category": "기타",
       "feedProvider": "google",
-      "policyRelevance": 51,
-      "score": 66,
+      "policyRelevance": 65,
+      "score": 72,
       "snapshotDate": "2026-09-15"
     },
     {
@@ -526,20 +525,6 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 61,
-      "snapshotDate": "2026-09-15"
-    },
-    {
-      "id": "4ed0c25d2fcc",
-      "title": "충북교육청, 향후 4년 정책 밑그림 그린다",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6Nkxob2JBMm9zQzVUN2VubjV2M19nWkNtSS1oSHRYQ1F6WHFkb0x0YUNjTFpTUzFkUmpJd0hseHZpTjhObzhFbFJkNzBjc244Vldla3V4SmI2OGxyM2huQldFblBoOU11dnRWaXRLVdIBc0FVX3lxTE5MSVMwcklta0wybDNiS1N5SHJ6ekZieXBWVGJDVkpBUVIzNlJOZW01aTV1N3pMUC1nRlRXQVhRTWZNNVdOa3lEX1pNR2pSX2tXUHVDVkdvQTA4UXJHNnF2Y21RR3ljUEM0N0luN0EtRWE2MXM?oc=5",
-      "source": "대전일보",
-      "kind": "domestic",
-      "publishedAt": "2026-09-13T07:44:44.000Z",
-      "description": "충북교육청, 향후 4년 정책 밑그림 그린다 대전일보",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 72,
       "snapshotDate": "2026-09-15"
     },
     {
@@ -612,6 +597,20 @@
       "snapshotDate": "2026-09-15"
     },
     {
+      "id": "592edafa5392",
+      "title": "\"점수보다 문제해결력\"…교육부, 영유아 사교육 학부모 토크콘서트",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41aFF0aGVCNFM0eGlZNkFwTWx3VU9mTGgxdnFyeGg5ZGs3WVVvQ3FWTWF1ZUtYek9JWENHcGRqd25NNF9JN2tfaWRkOEdWTEZUMEtxRXJsUVpmbW8tcVpj0gFfQVVfeXFMTjVoUXRoZUI0UzR4aVk2QXBNbHdVT2ZMaDF2cXJ4aDlkazdZVW9DcVZNYXVlS1h6T0lYQ0dwZGp3bk00X0k3a19pZGQ4R1ZMRlQwS3FFcmxRWmZtby1xWmM?oc=5",
+      "source": "뉴스1",
+      "kind": "domestic",
+      "publishedAt": "2026-09-13T00:00:00.000Z",
+      "description": "\"점수보다 문제해결력\"…교육부, 영유아 사교육 학부모 토크콘서트 뉴스1",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 75,
+      "score": 77,
+      "snapshotDate": "2026-09-15"
+    },
+    {
       "id": "a298a7994eba",
       "title": "경상국립대, 내년 신입생 수시모집 경쟁율 8.09대 1",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tcGJaam1RVkhNQU5CbzMtblV1OFI3UGVqSDRHbUZvUlg5NGtXTjBqcWVza25uUUFPWGRHcFFxdTl3a3JGM2t2eE5FNGZMVFVVMTBjR1ZqYlRzbVNGLWFONdIBeEFVX3lxTE1IdHRZYlZLYmxzYXg3RXBoNWlrVmYtbE9HTFpmV2tDcDY3VnhXODJOUmNNUHhrdllQdThDcXkxYU9KUUkwbnZkYjItSm9JLVJwb0diQWhxMWFZWFh1VVFvLURFTThFRzNlLXI3T3NwWko2X2NtdkJoLQ?oc=5",
@@ -665,6 +664,20 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 65,
+      "snapshotDate": "2026-09-15"
+    },
+    {
+      "id": "05ffa3b4ce93",
+      "title": "수시 접수도 제대로 못해... 연장 논란 휘말린 ‘IT 강국’",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV3VFQ29qcHpsNk9rQ1FiX2hTYlIxVUdrUTJYM2RWS2g3S1BVM2ZFY2JFcDVac1VGV2xiZ21rYzZ0eEE2ZXFtbXpkNzVTckVicGNsZjY1alhLemVnWmQ0R09IWl9PcHphemtDN3QzbDR2bElZcXNHbzN6eENiVzZNV29CaFZwdlU?oc=5",
+      "source": "조선일보",
+      "kind": "domestic",
+      "publishedAt": "2026-09-12T08:28:41.000Z",
+      "description": "수시 접수도 제대로 못해... 연장 논란 휘말린 ‘IT 강국’ 조선일보",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 42,
+      "score": 62,
       "snapshotDate": "2026-09-15"
     },
     {

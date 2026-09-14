@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-14T21:39:28.063Z",
-  "generatedAtKST": "2026-09-15T06:39:24.669+09:00",
+  "generatedAt": "2026-09-14T22:36:01.949Z",
+  "generatedAtKST": "2026-09-15T07:35:59.171+09:00",
   "date": "2026-09-15",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 11,
-    "domesticGoogle": 158,
+    "domesticBing": 12,
+    "domesticGoogle": 159,
     "foreignBing": 1,
-    "foreignGoogle": 231,
-    "carried": 80,
-    "rawUnique": 373,
-    "policyRejected": 301,
-    "policyKept": 72
+    "foreignGoogle": 230,
+    "carried": 147,
+    "rawUnique": 376,
+    "policyRejected": 302,
+    "policyKept": 74
   },
   "briefing": [
     "학생맞춤통합지원을 위해 교육청.지역사회 협력체계를 강화한다 — 교육부",
@@ -24,10 +24,10 @@
     "2026년 1차 학교폭력 실태조사 결과 발표 — 교육부"
   ],
   "stats": {
-    "total": 73,
+    "total": 74,
     "official": 9,
-    "domestic": 62,
-    "foreign": 2
+    "domestic": 64,
+    "foreign": 1
   },
   "items": [
     {
@@ -191,6 +191,19 @@
       "score": 90
     },
     {
+      "id": "0e120b21f81c",
+      "title": "'학생 줄었는데 교부금은 왜 늘어날까'…교육재정 개편 놓고 정부·교육감 충돌",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%ED%95%99%EC%83%9D-%EC%A4%84%EC%97%88%EB%8A%94%EB%8D%B0-%EA%B5%90%EB%B6%80%EA%B8%88%EC%9D%80-%EC%99%9C-%EB%8A%98%EC%96%B4%EB%82%A0%EA%B9%8C-%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95-%EA%B0%9C%ED%8E%B8-%EB%86%93%EA%B3%A0-%EC%A0%95%EB%B6%80-%EA%B5%90%EC%9C%A1%EA%B0%90-%EC%B6%A9%EB%8F%8C/ar-AA2c9RYW",
+      "source": "매일신문 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-09-13T21:34:47.000Z",
+      "description": "정부의 지방교육재정교부금 개편을 두고 전국 시·도 교육감들이 반발하고 있다. 학령인구 감소와 교육환경 변화를 이유로 지방교육재정교부금 산정 방식을 바꾸려는 데 대해, 시· 도 교육감들이 국회를 찾아 현행 제도 유지를 요구하고 나섰다. 쟁점은 단순히 교 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 87,
+      "score": 90
+    },
+    {
       "id": "5ff835192a26",
       "title": "수시 원서접수 구제 시작…교육부, 시스템 개선 의지 밝혔지만 논란 확산",
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPbDNCRkUteGV5NXVOOG1KVFYxRldCM3lPQllPS3JFaTVxUjZyOVNHel9aSGF1SW9KcUNJRml3Q29uWGhud3J6MmktWDhnaEpPSjVKUXBnNzhfLXE2M2hveGY2N0RDLUxwczVSSm9sM1FEV256ODEwZmV1ZGhsYzVpdm41Vm5pdEN3SUlFUUdsNFI2RDV5bkQtRjZlSkNnVFl2WkNJTW5XaFdSbkEyaHRlOE9vYzViRGJMOV9CQ20xTHpvWTZFR3hKQ3h3aElhLV9ua3Y4ZFNIRmVTNm5sQzdhRF9qZmVOZDhNYzlmVWZRbmJSYXRkdTBEOU1UM00yaXg1amRrZURGd0tNdGhCaFppYTVqb25GWTRGZFRCVGptUUlVRnM?oc=5",
@@ -204,13 +217,13 @@
       "score": 88
     },
     {
-      "id": "e040f1095a12",
+      "id": "fd14d82f03d1",
       "title": "교육부, 수시 원서접수 시스템 전반 점검…대학 경쟁률 공개 시점, 사무 이관 방안도",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4MGluTzhhcGNEWTBjSlhkYmRVQTJiSm1LLTNiWHhzcmxseXBtalNKSU1GVDB3V1dmSXotelBpT2VXZWlKN1lMemVtbG05eGdTdUVsTXRGd3ZJRzg?oc=5",
-      "source": "kyeonggi.com",
+      "source": "경기일보",
       "kind": "domestic",
       "publishedAt": "2026-09-14T08:54:46.000Z",
-      "description": "교육부, 수시 원서접수 시스템 전반 점검…대학 경쟁률 공개 시점, 사무 이관 방안도 kyeonggi.com",
+      "description": "교육부, 수시 원서접수 시스템 전반 점검…대학 경쟁률 공개 시점, 사무 이관 방안도 경기일보",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 75,
@@ -230,13 +243,13 @@
       "score": 86
     },
     {
-      "id": "e99824c960dc",
+      "id": "2cd6624469a2",
       "title": "대입 원서접수 '먹통'에…최교진 \"교육부·대교협 직접 관리 검토\"",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlM0tlUGlaR245UDhmTGF1SmV0UFJuOGVhQ2RRd0F6OXo3a0VPN0hrQjJVdkdWdmZnQ0ZlM0h2ckw2aEdGVGZaSzMxMVc3a1N6Q2JxakxHWEhveW5UM2pjSFFkeGRXb3l3dXc?oc=5",
-      "source": "월요신문",
+      "source": "wolyo.co.kr",
       "kind": "domestic",
       "publishedAt": "2026-09-14T07:20:12.000Z",
-      "description": "대입 원서접수 '먹통'에…최교진 \"교육부·대교협 직접 관리 검토\" 월요신문",
+      "description": "대입 원서접수 '먹통'에…최교진 \"교육부·대교협 직접 관리 검토\" wolyo.co.kr",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
@@ -308,13 +321,13 @@
       "score": 82
     },
     {
-      "id": "0a008c1c97ef",
+      "id": "62ae617ea079",
       "title": "수시 원서 ‘160억짜리 먹통’... 관리·감독도 손놓은 교육부",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTi1sa243NDc3OVF2dEpFQi10ck1LSGRuTVl2TlBjZi01SVlwajl2RU1kRlNPRnlQZ19UQVpaNGw1ei1YRkxPckpuUVNiMGx5TWhQd182WE9KMTEwUmlSYnFXZk5Rd2hLcDBENEVRaTcxRWROU3FYSXBXemoyd1ZvdVNCX2FoM2s?oc=5",
-      "source": "chosun.com",
+      "source": "조선일보",
       "kind": "domestic",
       "publishedAt": "2026-09-14T02:36:01.000Z",
-      "description": "수시 원서 ‘160억짜리 먹통’... 관리·감독도 손놓은 교육부 chosun.com",
+      "description": "수시 원서 ‘160억짜리 먹통’... 관리·감독도 손놓은 교육부 조선일보",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
@@ -354,6 +367,19 @@
       "kind": "domestic",
       "publishedAt": "2026-09-13T00:00:00.000Z",
       "description": "교육부, 14일 수도권 영유아 사교육 학부모 이야기 마당 개최 2news.co.kr",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 75,
+      "score": 77
+    },
+    {
+      "id": "592edafa5392",
+      "title": "\"점수보다 문제해결력\"…교육부, 영유아 사교육 학부모 토크콘서트",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41aFF0aGVCNFM0eGlZNkFwTWx3VU9mTGgxdnFyeGg5ZGs3WVVvQ3FWTWF1ZUtYek9JWENHcGRqd25NNF9JN2tfaWRkOEdWTEZUMEtxRXJsUVpmbW8tcVpj0gFfQVVfeXFMTjVoUXRoZUI0UzR4aVk2QXBNbHdVT2ZMaDF2cXJ4aDlkazdZVW9DcVZNYXVlS1h6T0lYQ0dwZGp3bk00X0k3a19pZGQ4R1ZMRlQwS3FFcmxRWmZtby1xWmM?oc=5",
+      "source": "뉴스1",
+      "kind": "domestic",
+      "publishedAt": "2026-09-13T00:00:00.000Z",
+      "description": "\"점수보다 문제해결력\"…교육부, 영유아 사교육 학부모 토크콘서트 뉴스1",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 75,
@@ -464,25 +490,12 @@
       "score": 73
     },
     {
-      "id": "d3f73f56af64",
-      "title": "[칼럼] 정부, 사립대 홀대…‘대학도 의무 교육하자’",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPcGxxeDFYRGllVklKMGo4cDB5QXZ0VmpmdVQzNlpaX2lrNzllVGN0bHVUd1ZmUUhQUklDeHZWa1VfckNoa2FEa2RhQTUta1FWbVhJMG8wOEpOSFlHcC05V1ZYdG53TjZoMHA5b3E2UUw?oc=5",
-      "source": "코리아리포트",
-      "kind": "domestic",
-      "publishedAt": "2026-09-13T21:47:13.000Z",
-      "description": "[칼럼] 정부, 사립대 홀대…‘대학도 의무 교육하자’ 코리아리포트",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 73
-    },
-    {
       "id": "4ed0c25d2fcc",
       "title": "충북교육청, 향후 4년 정책 밑그림 그린다",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6Nkxob2JBMm9zQzVUN2VubjV2M19nWkNtSS1oSHRYQ1F6WHFkb0x0YUNjTFpTUzFkUmpJd0hseHZpTjhObzhFbFJkNzBjc244Vldla3V4SmI2OGxyM2huQldFblBoOU11dnRWaXRLVdIBc0FVX3lxTE5MSVMwcklta0wybDNiS1N5SHJ6ekZieXBWVGJDVkpBUVIzNlJOZW01aTV1N3pMUC1nRlRXQVhRTWZNNVdOa3lEX1pNR2pSX2tXUHVDVkdvQTA4UXJHNnF2Y21RR3ljUEM0N0luN0EtRWE2MXM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MSVMwcklta0wybDNiS1N5SHJ6ekZieXBWVGJDVkpBUVIzNlJOZW01aTV1N3pMUC1nRlRXQVhRTWZNNVdOa3lEX1pNR2pSX2tXUHVDVkdvQTA4UXJHNnF2Y21RR3ljUEM0N0luN0EtRWE2MXPSAXNBVV95cUxOTElTMHJJbWtMMmwzYktTeUhyenpGYnlwVlRiQ1ZKQVFSMzZSTmVtNWk1dTd6TFAtZ0ZUV0FYUU1mTTVXTmt5RF9aTUdqUl9rV1B1Q1ZHb0EwOFFyRzZxdmNtUUd5Y1BDNDdJbjdBLUVhNjFz?oc=5",
       "source": "대전일보",
       "kind": "domestic",
-      "publishedAt": "2026-09-13T07:44:44.000Z",
+      "publishedAt": "2026-09-13T08:04:47.000Z",
       "description": "충북교육청, 향후 4년 정책 밑그림 그린다 대전일보",
       "category": "기타",
       "feedProvider": "google",
@@ -542,13 +555,13 @@
       "score": 71
     },
     {
-      "id": "b2ecddf96d03",
+      "id": "18d7633ca03e",
       "title": "[사설] 민간에 맡긴 수시 접수, 학부모들은 진작부터 아찔했는데",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsYmpzeWZRelVXaHNIUWJSQ09GcFNIRnF5dkJyRkJoTFJmSkJ3bTRrMUVsX1pBMkZBeEwwYzdwb0d3bE9BTmpqUzhaMm9Ncmczak1EMlg2VQ?oc=5",
-      "source": "seoul.co.kr",
+      "source": "서울신문",
       "kind": "domestic",
       "publishedAt": "2026-09-14T09:43:16.000Z",
-      "description": "[사설] 민간에 맡긴 수시 접수, 학부모들은 진작부터 아찔했는데 seoul.co.kr",
+      "description": "[사설] 민간에 맡긴 수시 접수, 학부모들은 진작부터 아찔했는데 서울신문",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -581,13 +594,13 @@
       "score": 71
     },
     {
-      "id": "dcde89a99c43",
+      "id": "1f3008924055",
       "title": "[현장기고] 학생은 정책 실험의 대상이 아니다",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkRlZzT2JjczVZdk1OdC1Db3llaV80VzIzbXhXT1RmcmdLZGRzSDZ4ZC1HU21pTW1ETVAybFQ0UXdXcmN2S1p1WnZncGtyanBIT1dkXzNnUW9Jd2pSaktj?oc=5",
-      "source": "hangyo.com",
+      "source": "한국교육신문",
       "kind": "domestic",
       "publishedAt": "2026-09-14T00:10:00.000Z",
-      "description": "[현장기고] 학생은 정책 실험의 대상이 아니다 hangyo.com",
+      "description": "[현장기고] 학생은 정책 실험의 대상이 아니다 한국교육신문",
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -633,29 +646,16 @@
       "score": 67
     },
     {
-      "id": "9fbef8a15821",
+      "id": "009cc55e5386",
       "title": "'수시 원서접수 먹통'에 접수 못 한 수험생 최대 1,200여 명‥\"구제조치 시행\"",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QTFdtSWZyVjVVd3FYMmFLbWZYUjNmeHd5Tjc2Z1B2a2Z3WEpBMzVkaE5yR0Ruc19QSDdBbzhrR3pWWmZyemszUHlUeWI5TktrWUduU29XdHdhUkVLd3BkNENPanBvOFFxUE9MWkotbmJCdUxrTkJB0gF3QVVfeXFMTmFyX1dyN0RLT0FGdmg2cFBBdVRQX1pPSDhMMGY4WFFILXJ2ZklxWERBREx3ZjVJMDlJeThuQ0h0Y1ZjM0VuWnF1Y1o1Uy1jSW9BelZRejU1SjZFTUNPRGVMSlk5Q2tvNzlkSXcyY0pmUG5tQVMzWjA?oc=5",
-      "source": "MBC 뉴스",
+      "source": "imnews.imbc.com",
       "kind": "domestic",
       "publishedAt": "2026-09-13T11:00:07.000Z",
-      "description": "'수시 원서접수 먹통'에 접수 못 한 수험생 최대 1,200여 명‥\"구제조치 시행\" MBC 뉴스",
+      "description": "'수시 원서접수 먹통'에 접수 못 한 수험생 최대 1,200여 명‥\"구제조치 시행\" imnews.imbc.com",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 42,
-      "score": 66
-    },
-    {
-      "id": "16331622383a",
-      "title": "교육부, “우리 아이 미래 경쟁력” 영유아 보호자가 묻고, 인지과학이 답하다!",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpRW9VYTV5dng1MldEVlZfQ3JMSWRKOUxqTjk5NS0yWXNGU1BKUDkxa2gtb3Zzc3FFUFF0ckxmZjVFNVh4S3lvTVEwRW1hc0dXM0NLQXpjdHlfdTVWdzd5Vk13?oc=5",
-      "source": "koreatopnews.net",
-      "kind": "domestic",
-      "publishedAt": "2026-09-13T08:50:26.000Z",
-      "description": "교육부, “우리 아이 미래 경쟁력” 영유아 보호자가 묻고, 인지과학이 답하다! koreatopnews.net",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 51,
       "score": 66
     },
     {
@@ -698,6 +698,19 @@
       "score": 65
     },
     {
+      "id": "d3f73f56af64",
+      "title": "[칼럼] 정부, 사립대 홀대…‘대학도 의무 교육하자’",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPcGxxeDFYRGllVklKMGo4cDB5QXZ0VmpmdVQzNlpaX2lrNzllVGN0bHVUd1ZmUUhQUklDeHZWa1VfckNoa2FEa2RhQTUta1FWbVhJMG8wOEpOSFlHcC05V1ZYdG53TjZoMHA5b3E2UUw?oc=5",
+      "source": "코리아리포트",
+      "kind": "domestic",
+      "publishedAt": "2026-09-13T21:47:13.000Z",
+      "description": "[칼럼] 정부, 사립대 홀대…‘대학도 의무 교육하자’ 코리아리포트",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 63
+    },
+    {
       "id": "7af34bc323e4",
       "title": "‘서버 먹통’에 수시 미접수 최대 1200여 명…형평성 논란 속 구제 신청 접수",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NUFl5MUpxbWR6OXNoYmlmRUpYTms5VW1rMnhuZ0RrU2VKRFNJZFliZmVTajk3NkQ0STVLeFl3al9KbmlpMEduUk9UVkxLdVBob0N3bVZERDBmT1E3VGltZTNuUFVtejNLWHRNWURSelVCcVltdHfSAWZBVV95cUxNblByT2h4UW5YUHpMYTJ2STZDak9NUmUtMkVlVUpvREpXY0VLYWllZG11bzBtdlNMSFpqc0pYRWtVRWdzaVVKZE1zc25KY1l0dlhwMEtWcDhHZ2pHY0xrWmZVT1Q2Tmc?oc=5",
@@ -705,6 +718,19 @@
       "kind": "domestic",
       "publishedAt": "2026-09-13T11:59:00.000Z",
       "description": "‘서버 먹통’에 수시 미접수 최대 1200여 명…형평성 논란 속 구제 신청 접수 동아일보",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 42,
+      "score": 62
+    },
+    {
+      "id": "05ffa3b4ce93",
+      "title": "수시 접수도 제대로 못해... 연장 논란 휘말린 ‘IT 강국’",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV3VFQ29qcHpsNk9rQ1FiX2hTYlIxVUdrUTJYM2RWS2g3S1BVM2ZFY2JFcDVac1VGV2xiZ21rYzZ0eEE2ZXFtbXpkNzVTckVicGNsZjY1alhLemVnWmQ0R09IWl9PcHphemtDN3QzbDR2bElZcXNHbzN6eENiVzZNV29CaFZwdlU?oc=5",
+      "source": "조선일보",
+      "kind": "domestic",
+      "publishedAt": "2026-09-12T08:28:41.000Z",
+      "description": "수시 접수도 제대로 못해... 연장 논란 휘말린 ‘IT 강국’ 조선일보",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 42,
@@ -959,20 +985,6 @@
       "originalTitle": "Teaching resources to support the updated New Zealand curriculum",
       "titleKo": "업데이트된 뉴질랜드 커리큘럼을 지원하기 위한 교육 자료",
       "summaryKo": "업데이트된 뉴질랜드 교육 과정 지원을 위한 교육 자료 뉴질랜드 교육부"
-    },
-    {
-      "id": "63801058e5e4",
-      "title": "Plan for literary translation graduate school delayed over regional development policy",
-      "url": "https://www.koreatimes.co.kr/lifestyle/books/20260914/plan-for-literary-translation-graduate-school-delayed-over-regional-development-policy",
-      "source": "The Korea Times",
-      "kind": "foreign",
-      "publishedAt": "2026-09-14T09:07:00.000Z",
-      "description": "A plan by the Literature Translation Institute of Korea (LTI Korea) to establish an independent graduate school dedicated to Korean literary ...",
-      "category": "유·초중등",
-      "score": 30,
-      "originalTitle": "Plan for literary translation graduate school delayed over regional development policy",
-      "titleKo": "지역개발정책보다 문학번역대학원 진학계획 지연",
-      "summaryKo": "한국문학번역원 (LTI Korea) 이 한국문학을 전담하는 독립적인 대학원을 설립하기 위한 계획..."
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -982,7 +994,7 @@
     "throughDate": "2026-09-15",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-09-13T15:00:00.000Z",
-    "windowEnd": "2026-09-14T21:39:28.063Z",
+    "windowEnd": "2026-09-14T22:36:01.949Z",
     "itemIds": [
       "d898311662ba",
       "c3b7c5922adf",
@@ -990,35 +1002,35 @@
       "b824b0fe1458",
       "7520dd61b997",
       "2b98eae66582",
+      "0e120b21f81c",
       "5ff835192a26",
-      "e040f1095a12",
+      "fd14d82f03d1",
       "f08306748732",
-      "e99824c960dc",
+      "2cd6624469a2",
       "f40fac4e5ae1",
       "596437333f5c",
       "8149cddacc62",
       "cf29d34b1c6b",
-      "0a008c1c97ef",
+      "62ae617ea079",
       "369ca6cff9bd",
       "f27fc34f0fbf",
-      "d3f73f56af64",
       "feabbe3d43d3",
       "e00e8064d7ca",
-      "b2ecddf96d03",
+      "18d7633ca03e",
       "31e29c2a66e8",
       "51dc2b313c7c",
-      "dcde89a99c43",
+      "1f3008924055",
       "5a0ddff1c40a",
-      "63801058e5e4"
+      "d3f73f56af64"
     ],
     "stats": {
       "total": 26,
       "official": 2,
-      "domestic": 23,
-      "foreign": 1
+      "domestic": 24,
+      "foreign": 0
     },
-    "headline": "오늘 아침 교육뉴스는 입시·사교육·유·초중등·고등교육 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 26건이 확인됐습니다. 교육부는 학생맞춤통합지원을 위해 교육청.지역사회 협력체계를 강화한다와 폐교를 지역의 활력 거점으로, 교육부-행안부 폐교 활용 지원사업 7건 선정 등을 공식 발표했습니다. 국내 언론에서는 [이재희 칼럼] 서·논술형 평가에 대한 반대와 우려를 반드시 극복해야와 지방교육재정교부금 55년 만에 개편… 2045 국가전략 수립 등이 주요하게 다뤄졌습니다. 해외에서는 지역개발정책보다 문학번역대학원 진학계획 지연 관련 보도가 확인됐습니다. 전체적으로는 입시·사교육·유·초중등·고등교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "headline": "오늘 아침 교육뉴스는 입시·사교육·교원·조직·고등교육 이슈를 중심으로 형성됐습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 26건이 확인됐습니다. 교육부는 학생맞춤통합지원을 위해 교육청.지역사회 협력체계를 강화한다와 폐교를 지역의 활력 거점으로, 교육부-행안부 폐교 활용 지원사업 7건 선정 등을 공식 발표했습니다. 국내 언론에서는 [이재희 칼럼] 서·논술형 평가에 대한 반대와 우려를 반드시 극복해야와 지방교육재정교부금 55년 만에 개편… 2045 국가전략 수립 등이 주요하게 다뤄졌습니다. 전체적으로는 입시·사교육·교원·조직·고등교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "입시·사교육",
@@ -1031,37 +1043,37 @@
         ]
       },
       {
-        "title": "유·초중등",
-        "summary": "학생맞춤통합지원을 위해 교육청.지역사회 협력체계를 강화한다 · [현장기고] 학생은 정책 실험의 대상이 아니다 · 지역개발정책보다 문학번역대학원 진학계획 지연",
-        "why": "학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
+        "title": "교원·조직",
+        "summary": "[대정부 질문] 여야, 교육교부금 개편 우려 한목소리…“교육감과 다시 머리 맞대야” · '학생 줄었는데 교부금은 왜 늘어날까'…교육재정 개편 놓고 정부·교육감 충돌 · 학령인구 감소 시대, 2027학년도 공립 교원 선발 규모 확정…초등 2,821명·특수 692명 예비교원 진로 재편 예고",
+        "why": "교원 업무·교권·인사와 직접 연결될 수 있어 현장 반응과 제도 운영상 쟁점을 살펴볼 필요가 있습니다.",
         "sources": [
-          "교육부",
-          "hangyo.com",
-          "The Korea Times"
+          "교육플러스",
+          "매일신문 on MSN",
+          "얼리어답터뉴스"
         ]
       },
       {
         "title": "고등교육",
-        "summary": "[칼럼] 정부, 사립대 홀대…‘대학도 의무 교육하자’ · ‘성과·경쟁’에 쏠린 정책… 국·공립대 교수 단체 “고등교육 청사진부터 세워야” · 최교진 장관 “국립대 지원 정책, 지방 학생 우대 아냐… 필요시 제도 보완할 것”",
+        "summary": "‘성과·경쟁’에 쏠린 정책… 국·공립대 교수 단체 “고등교육 청사진부터 세워야” · 최교진 장관 “국립대 지원 정책, 지방 학생 우대 아냐… 필요시 제도 보완할 것” · [칼럼] 정부, 사립대 홀대…‘대학도 의무 교육하자’",
         "why": "대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다.",
         "sources": [
-          "코리아리포트",
-          "한국대학신문"
+          "한국대학신문",
+          "코리아리포트"
         ]
       },
       {
-        "title": "AI·디지털",
-        "summary": "지방교육재정교부금 55년 만에 개편… 2045 국가전략 수립 · 육아정책연구소, ‘영유아정책 국제포럼’ 개최…AI 시대 기본교육으로서 영유아정책 방향 모색",
-        "why": "AI·디지털 전환 정책은 교육과정·교원역량·인프라와 연결되므로 실행 여건과 현장 적용성을 함께 봐야 합니다.",
+        "title": "유·초중등",
+        "summary": "학생맞춤통합지원을 위해 교육청.지역사회 협력체계를 강화한다 · [현장기고] 학생은 정책 실험의 대상이 아니다",
+        "why": "학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
         "sources": [
-          "디지털타임스 on MSN",
-          "한국강사신문"
+          "교육부",
+          "한국교육신문"
         ]
       }
     ],
     "watchpoints": [
       "입시·사교육: 대입·수능·사교육 이슈는 학생·학부모 체감도가 높고 후속 안내와 현장 반응 점검이 중요합니다.",
-      "유·초중등: 학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
+      "교원·조직: 교원 업무·교권·인사와 직접 연결될 수 있어 현장 반응과 제도 운영상 쟁점을 살펴볼 필요가 있습니다.",
       "고등교육: 대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다."
     ]
   }
