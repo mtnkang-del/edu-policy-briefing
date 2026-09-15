@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T21:45:15.431Z",
+  "generatedAt": "2026-09-15T22:34:27.212Z",
   "retentionDays": 30,
   "days": [
     "2026-09-16",
@@ -29,7 +29,7 @@
     {
       "id": "35e40f930a66",
       "title": "전북도의회 예결특위, 도교육청 결산·추경예산안 심사 돌입",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrVV9FemVyNGk2SHZ4azZCSTNXRTBLZmZmbkhNdV9Ta0gwV3pFNTFfZl9nV3E2RmZRanhMUV9abi0yeGE3d0hlUmZoSXA5czBEMWwzQ2pYTHNPRlZCZE9Eb1BvbmRlX05p?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fWW5Ld3U2ZVJaa2o5YWhpTnlkZGF4SW1zd0xZYnNnS2g5MGRKY1NsTUVvU0tmdVJTZEhfZWVnVm01LVpncDJzUFV5cFZHbW1rcnVNRTdxVzd5ME9TcW5KdkdLYV9YLXhRaHc?oc=5",
       "source": "투데이안",
       "kind": "domestic",
       "publishedAt": "2026-09-15T20:27:25.000Z",
@@ -217,7 +217,7 @@
       "category": "유·초중등",
       "feedProvider": "bing",
       "policyRelevance": 75,
-      "score": 95,
+      "score": 85,
       "snapshotDate": "2026-09-16"
     },
     {
@@ -231,7 +231,7 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 75,
+      "score": 65,
       "snapshotDate": "2026-09-16"
     },
     {
@@ -333,6 +333,21 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 61,
+      "snapshotDate": "2026-09-16"
+    },
+    {
+      "id": "63801058e5e4",
+      "title": "Plan for literary translation graduate school delayed over regional development policy",
+      "url": "https://www.koreatimes.co.kr/lifestyle/books/20260914/plan-for-literary-translation-graduate-school-delayed-over-regional-development-policy",
+      "source": "The Korea Times",
+      "kind": "foreign",
+      "publishedAt": "2026-09-14T09:07:00.000Z",
+      "description": "A plan by the Literature Translation Institute of Korea (LTI Korea) to establish an independent graduate school dedicated to Korean literary ...",
+      "category": "유·초중등",
+      "score": 30,
+      "originalTitle": "Plan for literary translation graduate school delayed over regional development policy",
+      "titleKo": "지역개발정책보다 문학번역대학원 진학계획 지연",
+      "summaryKo": "한국문학번역원 (LTI Korea) 이 한국문학을 전담하는 독립적인 대학원을 설립하기 위한 계획...",
       "snapshotDate": "2026-09-16"
     },
     {
@@ -560,6 +575,20 @@
       "snapshotDate": "2026-09-16"
     },
     {
+      "id": "667033463623",
+      "title": "[아시아경제] 이기정 총장, 칼럼 ‘[정책의 맥] AI 시대, 마음건강이 새로운 대학 경쟁력이다’ 기고",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pQ2hETUFMTHo1YkRGTGJJYVd3V1ZlMU1wM3NiNUkwYV9ZZGpPU0Z6RHBKcW1FaHVBZEtpMG40LTAtekVMMDdJWDBFaXRudm4zbFY3Z1VTNmZPNzNhRDZRVVR5VzN3QWU5RDY0?oc=5",
+      "source": "뉴스H",
+      "kind": "domestic",
+      "publishedAt": "2026-09-14T05:14:50.000Z",
+      "description": "[아시아경제] 이기정 총장, 칼럼 ‘[정책의 맥] AI 시대, 마음건강이 새로운 대학 경쟁력이다’ 기고 뉴스H",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 65,
+      "snapshotDate": "2026-09-16"
+    },
+    {
       "id": "62ae617ea079",
       "title": "수시 원서 ‘160억짜리 먹통’... 관리·감독도 손놓은 교육부",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTi1sa243NDc3OVF2dEpFQi10ck1LSGRuTVl2TlBjZi01SVlwajl2RU1kRlNPRnlQZ19UQVpaNGw1ei1YRkxPckpuUVNiMGx5TWhQd182WE9KMTEwUmlSYnFXZk5Rd2hLcDBENEVRaTcxRWROU3FYSXBXemoyd1ZvdVNCX2FoM2s?oc=5",
@@ -644,20 +673,6 @@
       "snapshotDate": "2026-09-16"
     },
     {
-      "id": "dcde89a99c43",
-      "title": "[현장기고] 학생은 정책 실험의 대상이 아니다",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkRlZzT2JjczVZdk1OdC1Db3llaV80VzIzbXhXT1RmcmdLZGRzSDZ4ZC1HU21pTW1ETVAybFQ0UXdXcmN2S1p1WnZncGtyanBIT1dkXzNnUW9Jd2pSaktj?oc=5",
-      "source": "hangyo.com",
-      "kind": "domestic",
-      "publishedAt": "2026-09-14T00:10:00.000Z",
-      "description": "[현장기고] 학생은 정책 실험의 대상이 아니다 hangyo.com",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 61,
-      "snapshotDate": "2026-09-16"
-    },
-    {
       "id": "1f3008924055",
       "title": "[현장기고] 학생은 정책 실험의 대상이 아니다",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkRlZzT2JjczVZdk1OdC1Db3llaV80VzIzbXhXT1RmcmdLZGRzSDZ4ZC1HU21pTW1ETVAybFQ0UXdXcmN2S1p1WnZncGtyanBIT1dkXzNnUW9Jd2pSaktj?oc=5",
@@ -668,8 +683,8 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 71,
-      "snapshotDate": "2026-09-15"
+      "score": 61,
+      "snapshotDate": "2026-09-16"
     },
     {
       "id": "d898311662ba",
@@ -768,6 +783,20 @@
       "snapshotDate": "2026-09-16"
     },
     {
+      "id": "771dd51aab5d",
+      "title": "'2027년 대입 수시' 원서 접수 ‘먹통’ 사태… 교육부·대교협 ‘뒷북 구제책’ 형평성·책임론 도마",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5dmlXVGcxZUhQZjRDb0hsakdUWEF6emRGbmVLSUp4dGxqUUNWWHJweUZSanhLVWhTR3JPMUVOcDN2cFozMHZGT004bl9SQUc2WHJ2YW9HNHlTVDNWekYwdFZ3T0JYSVk?oc=5",
+      "source": "kyosu.net",
+      "kind": "domestic",
+      "publishedAt": "2026-09-13T12:14:45.000Z",
+      "description": "'2027년 대입 수시' 원서 접수 ‘먹통’ 사태… 교육부·대교협 ‘뒷북 구제책’ 형평성·책임론 도마 kyosu.net",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 76,
+      "snapshotDate": "2026-09-16"
+    },
+    {
       "id": "bd10d375d902",
       "title": "'2027년 대입 수시' 원서 접수 ‘먹통’ 사태… 교육부·대교협 ‘뒷북 구제책’ 형평성·책임론 도마",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5dmlXVGcxZUhQZjRDb0hsakdUWEF6emRGbmVLSUp4dGxqUUNWWHJweUZSanhLVWhTR3JPMUVOcDN2cFozMHZGT004bl9SQUc2WHJ2YW9HNHlTVDNWekYwdFZ3T0JYSVk?oc=5",
@@ -779,21 +808,7 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 76,
-      "snapshotDate": "2026-09-16"
-    },
-    {
-      "id": "771dd51aab5d",
-      "title": "'2027년 대입 수시' 원서 접수 ‘먹통’ 사태… 교육부·대교협 ‘뒷북 구제책’ 형평성·책임론 도마",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5dmlXVGcxZUhQZjRDb0hsakdUWEF6emRGbmVLSUp4dGxqUUNWWHJweUZSanhLVWhTR3JPMUVOcDN2cFozMHZGT004bl9SQUc2WHJ2YW9HNHlTVDNWekYwdFZ3T0JYSVk?oc=5",
-      "source": "kyosu.net",
-      "kind": "domestic",
-      "publishedAt": "2026-09-13T12:14:45.000Z",
-      "description": "'2027년 대입 수시' 원서 접수 ‘먹통’ 사태… 교육부·대교협 ‘뒷북 구제책’ 형평성·책임론 도마 kyosu.net",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 86,
-      "snapshotDate": "2026-09-14"
+      "snapshotDate": "2026-09-15"
     },
     {
       "id": "20a86370b2b3",
@@ -1015,7 +1030,7 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 61,
+      "score": 51,
       "snapshotDate": "2026-09-16"
     },
     {
@@ -1075,13 +1090,13 @@
       "snapshotDate": "2026-09-16"
     },
     {
-      "id": "aae19a20e86e",
+      "id": "b2c25e7055f3",
       "title": "[2027전문대수시특집] ‘일반/전문대 통합 취업률 1위’ 경복대 1589명(93.6%).. 물리치료학과 ‘4년제 전환’",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93S3dNTnZURE5wb2l2VzJHQzlKLXdTeUhod3BJdTdlbkFmQUVmWFRGbVRTNl9aWE8xM1pPLTRZMW1wVlVYcG5iVnhub0lMR2xpT2RXdk5pMHZSTzkzYkZyWmk2T0lBSkMwMF84SA?oc=5",
-      "source": "veritas-a.com",
+      "source": "베리타스알파",
       "kind": "domestic",
       "publishedAt": "2026-09-12T09:09:00.000Z",
-      "description": "[2027전문대수시특집] ‘일반/전문대 통합 취업률 1위’ 경복대 1589명(93.6%).. 물리치료학과 ‘4년제 전환’ veritas-a.com",
+      "description": "[2027전문대수시특집] ‘일반/전문대 통합 취업률 1위’ 경복대 1589명(93.6%).. 물리치료학과 ‘4년제 전환’ 베리타스알파",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -1715,7 +1730,7 @@
       "category": "교원·조직",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-09-16"
+      "snapshotDate": "2026-09-15"
     },
     {
       "id": "2baa17daa94b",
@@ -2029,7 +2044,7 @@
       "category": "유·초중등",
       "policyRelevance": 100,
       "score": 99,
-      "snapshotDate": "2026-09-16"
+      "snapshotDate": "2026-09-15"
     },
     {
       "id": "6879ac2610bf",
@@ -2042,7 +2057,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-09-16"
+      "snapshotDate": "2026-09-15"
     },
     {
       "id": "724b56abd8f3",
@@ -2055,7 +2070,7 @@
       "category": "교원·조직",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-09-16"
+      "snapshotDate": "2026-09-15"
     },
     {
       "id": "0c96efd48fbc",
