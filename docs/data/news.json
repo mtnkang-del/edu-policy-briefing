@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-16T21:39:09.755Z",
-  "generatedAtKST": "2026-09-17T06:39:07.546+09:00",
+  "generatedAt": "2026-09-16T22:34:13.876Z",
+  "generatedAtKST": "2026-09-17T07:34:10.231+09:00",
   "date": "2026-09-17",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 8,
+    "domesticBing": 12,
     "domesticGoogle": 199,
     "foreignBing": 4,
-    "foreignGoogle": 201,
-    "carried": 130,
-    "rawUnique": 398,
-    "policyRejected": 303,
+    "foreignGoogle": 204,
+    "carried": 206,
+    "rawUnique": 402,
+    "policyRejected": 304,
     "policyKept": 80
   },
   "briefing": [
@@ -26,8 +26,8 @@
   "stats": {
     "total": 80,
     "official": 10,
-    "domestic": 69,
-    "foreign": 1
+    "domestic": 70,
+    "foreign": 0
   },
   "items": [
     {
@@ -139,19 +139,6 @@
       "score": 105
     },
     {
-      "id": "74628ad45f8e",
-      "title": "교육감들 “55년 교육재정 근간 흔들려”…교부금 개편 전면 재검토 촉구",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B5%90%EC%9C%A1%EA%B0%90%EB%93%A4-55%EB%85%84-%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95-%EA%B7%BC%EA%B0%84-%ED%9D%94%EB%93%A4%EB%A0%A4-%EA%B5%90%EB%B6%80%EA%B8%88-%EA%B0%9C%ED%8E%B8-%EC%A0%84%EB%A9%B4-%EC%9E%AC%EA%B2%80%ED%86%A0-%EC%B4%89%EA%B5%AC/ar-AA2ckdS0",
-      "source": "이투데이 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-09-15T22:30:00.000Z",
-      "description": "내국세 20.79% 연동 폐지에 반발…“실질 순증 2259억원 그쳐” “예산부수법안 지정 제외해야”…교육위·관련 상임위 공동 검증 요구 전국 시·도교육감들이 정부의 지방교육재정교부금 개편안을 두고 교육재정 감소와 교육자치 위축 가능성을 충분히 검증해야 한다며 국회에 전면적인 재검토를 촉구했다. 특히 55년간 유지된 내국세 연동 방식을 바꾸는 법안이 충분한 ...",
-      "category": "교원·조직",
-      "feedProvider": "bing",
-      "policyRelevance": 77,
-      "score": 104
-    },
-    {
       "id": "58cdbfb5eabe",
       "title": "교육교부금법 국회 심사 시작…\"재정 안정될 것\" vs \"교육 어려워질 것\"",
       "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EC%9D%BC%EB%B0%98/%EA%B5%90%EC%9C%A1%EA%B5%90%EB%B6%80%EA%B8%88%EB%B2%95-%EA%B5%AD%ED%9A%8C-%EC%8B%AC%EC%82%AC-%EC%8B%9C%EC%9E%91-%EC%9E%AC%EC%A0%95-%EC%95%88%EC%A0%95%EB%90%A0-%EA%B2%83-vs-%EA%B5%90%EC%9C%A1-%EC%96%B4%EB%A0%A4%EC%9B%8C%EC%A7%88-%EA%B2%83/ar-AA2cljoB",
@@ -178,6 +165,19 @@
       "score": 98
     },
     {
+      "id": "8a841566f1e7",
+      "title": "교육부·대교협, 수시 '먹통' 특별조사반 운영…최교진 \"공적 원서접수 체계로 개편 검토\"",
+      "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EA%B3%A0%EB%93%B1-%EA%B5%90%EC%9C%A1/%EA%B5%90%EC%9C%A1%EB%B6%80-%EB%8C%80%EA%B5%90%ED%98%91-%EC%88%98%EC%8B%9C-%EB%A8%B9%ED%86%B5-%ED%8A%B9%EB%B3%84%EC%A1%B0%EC%82%AC%EB%B0%98-%EC%9A%B4%EC%98%81-%EC%B5%9C%EA%B5%90%EC%A7%84-%EA%B3%B5%EC%A0%81-%EC%9B%90%EC%84%9C%EC%A0%91%EC%88%98-%EC%B2%B4%EA%B3%84%EB%A1%9C-%EA%B0%9C%ED%8E%B8-%EA%B2%80%ED%86%A0/ar-AA2ckt6U",
+      "source": "아시아경제 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-09-15T22:54:17.000Z",
+      "description": "2027학년도 수시모집 원서접수 시스템 장애 사태와 관련해 교육부와 한국대학교육협의회(대교협)가 특별조사반은 구성, 운영하기로 했다. 특별조사 결과를 바탕으로 유사 사례가 발생하지 않도록 재발 방지 대책을 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 87,
+      "score": 96
+    },
+    {
       "id": "a03718ad1abc",
       "title": "“우리 아이 미래 경쟁력” 영유아 보호자가 묻고, 인지과학이 답하다!",
       "url": "https://www.moe.go.kr/boardCnts/listRenew.do?boardID=294&m=020402&page=1&searchType=S&searchStr=%E2%80%9C%EC%9A%B0%EB%A6%AC%20%EC%95%84%EC%9D%B4%20%EB%AF%B8%EB%9E%98%20%EA%B2%BD%EC%9F%81%EB%A0%A5%E2%80%9D%20%EC%98%81%EC%9C%A0%EC%95%84%20%EB%B3%B4%ED%98%B8%EC%9E%90%EA%B0%80%20%EB%AC%BB%EA%B3%A0%2C%20%EC%9D%B8%EC%A7%80%EA%B3%BC%ED%95%99%EC%9D%B4%20%EB%8B%B5%ED%95%98%EB%8B%A4!",
@@ -188,6 +188,32 @@
       "category": "유·초중등",
       "policyRelevance": 100,
       "score": 95
+    },
+    {
+      "id": "74628ad45f8e",
+      "title": "교육감들 “55년 교육재정 근간 흔들려”…교부금 개편 전면 재검토 촉구",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B5%90%EC%9C%A1%EA%B0%90%EB%93%A4-55%EB%85%84-%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95-%EA%B7%BC%EA%B0%84-%ED%9D%94%EB%93%A4%EB%A0%A4-%EA%B5%90%EB%B6%80%EA%B8%88-%EA%B0%9C%ED%8E%B8-%EC%A0%84%EB%A9%B4-%EC%9E%AC%EA%B2%80%ED%86%A0-%EC%B4%89%EA%B5%AC/ar-AA2ckdS0",
+      "source": "이투데이 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-09-15T22:30:00.000Z",
+      "description": "내국세 20.79% 연동 폐지에 반발…“실질 순증 2259억원 그쳐” “예산부수법안 지정 제외해야”…교육위·관련 상임위 공동 검증 요구 전국 시·도교육감들이 정부의 지방교육재정교부금 개편안을 두고 교육재정 감소와 교육자치 위축 가능성을 충분히 검증해야 한다며 국회에 전면적인 재검토를 촉구했다. 특히 55년간 유지된 내국세 연동 방식을 바꾸는 법안이 충분한 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
+      "score": 94
+    },
+    {
+      "id": "19fc6bae169d",
+      "title": "55년 교육교부금 산식 손질…교육감들 \"재정 감소 검증해야\"",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/55%EB%85%84-%EA%B5%90%EC%9C%A1%EA%B5%90%EB%B6%80%EA%B8%88-%EC%82%B0%EC%8B%9D-%EC%86%90%EC%A7%88-%EA%B5%90%EC%9C%A1%EA%B0%90%EB%93%A4-%EC%9E%AC%EC%A0%95-%EA%B0%90%EC%86%8C-%EA%B2%80%EC%A6%9D%ED%95%B4%EC%95%BC/ar-AA2cl1Wa",
+      "source": "대전일보 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-09-16T03:18:00.000Z",
+      "description": "정부가 55년간 유지된 지방교육재정교부금 산정 방식을 바꾸려는 가운데 전국 시·도교육감들이 교육재정 감소 가능성에 대한 국회의 면밀한 검증과 사회적 논의를 촉구했다.대한민국교육감협의회는 16일 국회 소통관에서 기자회견을 열고 \"내국세 연동 방식은 안정적인 교육재정을 확보해 온 기반\"이라며 \"교육 현장에 미칠 영향을 충분히 따지지 않은 채 이를 폐지해서는 안 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
+      "score": 92
     },
     {
       "id": "027c22a20d11",
@@ -252,6 +278,32 @@
       "category": "입시·사교육",
       "feedProvider": "bing",
       "policyRelevance": 65,
+      "score": 86
+    },
+    {
+      "id": "482a6048407e",
+      "title": "‘수시 원서접수 먹통’ 교육부 특별조사…공적 접수체계 개편 검토",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oSTVzbUVTUGRNdHN0NGh2MFVNbnJaUjhWbnU2TnIwcDZsbFIyYmFKZGdmRTNwU3Mwc0dsZDJSb0dQQmNFR2dJeG9zSTVwZDdzY2xOejgzS3JTMDdDM1JRUG5wUjhBMHMyWVHSAW5BVV95cUxPa21SOUNveWFPbG52bGo1S2F5Rm5uTzkxQmVHaXEyMzdQclhvSEw3eE1ob1NSek96NUM5WUNVVGs1TVd6S0FhU1ZxYUMwTjRqNGNxaWFMeWE2M1hSZUhwMi1BUkdQd1Y2bEdhazFDdw?oc=5",
+      "source": "충청신문",
+      "kind": "domestic",
+      "publishedAt": "2026-09-16T06:33:50.000Z",
+      "description": "‘수시 원서접수 먹통’ 교육부 특별조사…공적 접수체계 개편 검토 충청신문",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 86
+    },
+    {
+      "id": "d1e3e07d99c7",
+      "title": "서울교육미래정책포럼 “교육교부금 개편 즉각 중단하라”",
+      "url": "https://www.edupress.kr/news/articleView.html?idxno=30469",
+      "source": "에듀프레스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-14T14:51:00.000Z",
+      "description": "에듀프레스 장재훈 기자 = 서울교육미래정책포럼이 정부의 지방교육재정교부금 개편안에 대해 “교육을 무시한 일방 행정”이라며 즉각 중단을 촉구했다. 포럼은 14일 성명을 내고 교육교부금 연동제 폐지는 55년간 유지돼 온 교육재정 체계를 흔드는 조치라며 강하게 반발했다. 이들은 “산식 조정이라는 명분을 내세우고 있지만 실제로는 교육재정을 대폭 줄이는 개편”이라고 ...",
+      "category": "재정·법령",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
       "score": 86
     },
     {
@@ -749,13 +801,13 @@
       "score": 71
     },
     {
-      "id": "afda855c06bb",
+      "id": "4ebfcbcb565f",
       "title": "교육부 “시스템 장애로 대입 수시 원서 접수 완료 못한 학생 최대 1천200여명…14∼16일 구제신청 접수”",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nOFdIMlJsbjRoR1htMTFlUDlBVlZBVW4tY1NJR0RrTWtWd25BUWZoRm9QMHJNR1huZEs5SVdhZThjMlZoVTgyNkxuVE1CeVp2UlZCX3ZMMkFhWEk?oc=5",
-      "source": "강원일보",
+      "source": "kwnews.co.kr",
       "kind": "domestic",
       "publishedAt": "2026-09-13T10:49:09.000Z",
-      "description": "교육부 “시스템 장애로 대입 수시 원서 접수 완료 못한 학생 최대 1천200여명…14∼16일 구제신청 접수” 강원일보",
+      "description": "교육부 “시스템 장애로 대입 수시 원서 접수 완료 못한 학생 최대 1천200여명…14∼16일 구제신청 접수” kwnews.co.kr",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 75,
@@ -814,13 +866,13 @@
       "score": 66
     },
     {
-      "id": "771dd51aab5d",
+      "id": "bd10d375d902",
       "title": "'2027년 대입 수시' 원서 접수 ‘먹통’ 사태… 교육부·대교협 ‘뒷북 구제책’ 형평성·책임론 도마",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5dmlXVGcxZUhQZjRDb0hsakdUWEF6emRGbmVLSUp4dGxqUUNWWHJweUZSanhLVWhTR3JPMUVOcDN2cFozMHZGT004bl9SQUc2WHJ2YW9HNHlTVDNWekYwdFZ3T0JYSVk?oc=5",
-      "source": "kyosu.net",
+      "source": "교수신문",
       "kind": "domestic",
       "publishedAt": "2026-09-13T12:14:45.000Z",
-      "description": "'2027년 대입 수시' 원서 접수 ‘먹통’ 사태… 교육부·대교협 ‘뒷북 구제책’ 형평성·책임론 도마 kyosu.net",
+      "description": "'2027년 대입 수시' 원서 접수 ‘먹통’ 사태… 교육부·대교협 ‘뒷북 구제책’ 형평성·책임론 도마 교수신문",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
@@ -944,19 +996,6 @@
       "score": 63
     },
     {
-      "id": "d3f73f56af64",
-      "title": "[칼럼] 정부, 사립대 홀대…‘대학도 의무 교육하자’",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPcGxxeDFYRGllVklKMGo4cDB5QXZ0VmpmdVQzNlpaX2lrNzllVGN0bHVUd1ZmUUhQUklDeHZWa1VfckNoa2FEa2RhQTUta1FWbVhJMG8wOEpOSFlHcC05V1ZYdG53TjZoMHA5b3E2UUw?oc=5",
-      "source": "코리아리포트",
-      "kind": "domestic",
-      "publishedAt": "2026-09-13T21:47:13.000Z",
-      "description": "[칼럼] 정부, 사립대 홀대…‘대학도 의무 교육하자’ 코리아리포트",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 63
-    },
-    {
       "id": "8642a097d5c5",
       "title": "인천 요양보호사교육기관 6곳 추가 지정…지역별 접근성 확대",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50YzZiOE5wYTBvYnd2OFlxV2pBV3ZxSWNiQ0Q0OFRWN1JmejktaVBCcFJiREZaQnRBeWZIU2ZUTHJEOW5vRktlZnM5TTBYMzZudkJpZw?oc=5",
@@ -1020,48 +1059,6 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 61
-    },
-    {
-      "id": "e00e8064d7ca",
-      "title": "‘성과·경쟁’에 쏠린 정책… 국·공립대 교수 단체 “고등교육 청사진부터 세워야”",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BMHJKNWx5bDMyck5uc3BiUlljNlZGN3dvWkx1a0l2enRtRDNKU0tyeWhScEcwaXNZUThyZWNmVW1EQXZ2Q1FHaHJWUjZlOXVKaXk2QkthOXRBajhCMnNad1FKbWw4dw?oc=5",
-      "source": "한국대학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-09-14T14:51:09.000Z",
-      "description": "‘성과·경쟁’에 쏠린 정책… 국·공립대 교수 단체 “고등교육 청사진부터 세워야” 한국대학신문",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 61
-    },
-    {
-      "id": "18d7633ca03e",
-      "title": "[사설] 민간에 맡긴 수시 접수, 학부모들은 진작부터 아찔했는데",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsYmpzeWZRelVXaHNIUWJSQ09GcFNIRnF5dkJyRkJoTFJmSkJ3bTRrMUVsX1pBMkZBeEwwYzdwb0d3bE9BTmpqUzhaMm9Ncmczak1EMlg2VQ?oc=5",
-      "source": "서울신문",
-      "kind": "domestic",
-      "publishedAt": "2026-09-14T09:43:16.000Z",
-      "description": "[사설] 민간에 맡긴 수시 접수, 학부모들은 진작부터 아찔했는데 서울신문",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 61
-    },
-    {
-      "id": "abc9b4fb45bc",
-      "title": "Ministry of Education misses its own curriculum deadline",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZGJZOWJ2WVZXU1VOYVlYSVZQbmUtQmNOV01JVmZQZzhuZk9EM1RvRWJXS2VmdGlHbzM0ak1HVjV5QUJEZVRwclM4UEhPYVlHUDlMaW1FMy1kRllpSG9wR25MOWtVeFduZlFZV25SUkE2YjBCOS1EQXNPanJDdmMzejEzNVlhenlCY3A2S3EySUN2aDdNRnE4bjlVTUwyVVU?oc=5",
-      "source": "thepost.co.nz",
-      "kind": "foreign",
-      "publishedAt": "2026-09-14T16:00:00.000Z",
-      "description": "Ministry of Education misses its own curriculum deadline thepost.co.nz",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 53,
-      "score": 61,
-      "originalTitle": "Ministry of Education misses its own curriculum deadline",
-      "titleKo": "교육부가 자체 커리큘럼 마감일을 놓침",
-      "summaryKo": "교육부가 자체 커리큘럼 마감일을 놓침 thepost.co.nz"
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -1071,19 +1068,22 @@
     "throughDate": "2026-09-17",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-09-15T15:00:00.000Z",
-    "windowEnd": "2026-09-16T21:39:09.755Z",
+    "windowEnd": "2026-09-16T22:34:13.876Z",
     "itemIds": [
       "a75d87c47f28",
       "3052b8ec9ed8",
       "0e2e1b11460c",
       "65bb686addac",
       "26f95f1a8752",
-      "74628ad45f8e",
       "58cdbfb5eabe",
+      "8a841566f1e7",
+      "74628ad45f8e",
+      "19fc6bae169d",
       "027c22a20d11",
       "4eb923097b6b",
       "f6f77ac4caeb",
       "51d661410910",
+      "482a6048407e",
       "94c52126284d",
       "279acfe9a478",
       "0898b190af5a",
@@ -1099,31 +1099,31 @@
       "03a2621dad8c"
     ],
     "stats": {
-      "total": 24,
+      "total": 27,
       "official": 5,
-      "domestic": 19,
+      "domestic": 22,
       "foreign": 0
     },
     "headline": "오늘 아침 교육뉴스는 입시·사교육·교원·조직·고등교육 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 24건이 확인됐습니다. 교육부는 2026학년도 대학수학능력시험 성적 분석 결과 발표 보도자료, ‘2026 에듀테크 코리아 페어’, 9월 17일(목)부터 3일간 코엑스에서 개최와 대한민국 최고 권위의 학술상, 제71회 대한민국학술원상 시상식 개최 등을 공식 발표했습니다. 국내 언론에서는 교육감들 “55년 교육재정 근간 흔들려”…교부금 개편 전면 재검토 촉구와 교육교부금법 국회 심사 시작…\"재정 안정될 것\" vs \"교육 어려워질 것\" 등이 주요하게 다뤄졌습니다. 전체적으로는 입시·사교육·교원·조직·고등교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 27건이 확인됐습니다. 교육부는 2026학년도 대학수학능력시험 성적 분석 결과 발표 보도자료, ‘2026 에듀테크 코리아 페어’, 9월 17일(목)부터 3일간 코엑스에서 개최와 대한민국 최고 권위의 학술상, 제71회 대한민국학술원상 시상식 개최 등을 공식 발표했습니다. 국내 언론에서는 교육교부금법 국회 심사 시작…\"재정 안정될 것\" vs \"교육 어려워질 것\"와 교육부·대교협, 수시 '먹통' 특별조사반 운영…최교진 \"공적 원서접수 체계로 개편 검토\" 등이 주요하게 다뤄졌습니다. 전체적으로는 입시·사교육·교원·조직·고등교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "입시·사교육",
-        "summary": "2026학년도 대학수학능력시험 성적 분석 결과 발표 보도자료 · [보도참고자료] 유웨이 수시 원서접수시스템 장애 관련 조치 진행 현황 · 최교진 교육부 장관이 수시 원서접수 먹통 피해 학생 250명을 구제하겠다고 밝혔어요. 📋",
+        "summary": "2026학년도 대학수학능력시험 성적 분석 결과 발표 보도자료 · [보도참고자료] 유웨이 수시 원서접수시스템 장애 관련 조치 진행 현황 · 교육부·대교협, 수시 '먹통' 특별조사반 운영…최교진 \"공적 원서접수 체계로 개편 검토\"",
         "why": "대입·수능·사교육 이슈는 학생·학부모 체감도가 높고 후속 안내와 현장 반응 점검이 중요합니다.",
         "sources": [
           "교육부",
-          "뉴닉"
+          "아시아경제 on MSN"
         ]
       },
       {
         "title": "교원·조직",
-        "summary": "교육감들 “55년 교육재정 근간 흔들려”…교부금 개편 전면 재검토 촉구 · 교육교부금법 국회 심사 시작…\"재정 안정될 것\" vs \"교육 어려워질 것\" · 충남교육청, 유아교육 교권 보호 현장 목소리 청취…정책 반영 추진",
+        "summary": "교육교부금법 국회 심사 시작…\"재정 안정될 것\" vs \"교육 어려워질 것\" · 교육감들 “55년 교육재정 근간 흔들려”…교부금 개편 전면 재검토 촉구 · 55년 교육교부금 산식 손질…교육감들 \"재정 감소 검증해야\"",
         "why": "교원 업무·교권·인사와 직접 연결될 수 있어 현장 반응과 제도 운영상 쟁점을 살펴볼 필요가 있습니다.",
         "sources": [
-          "이투데이 on MSN",
           "한겨레 on MSN",
-          "뉴스충청인"
+          "이투데이 on MSN",
+          "대전일보 on MSN"
         ]
       },
       {
