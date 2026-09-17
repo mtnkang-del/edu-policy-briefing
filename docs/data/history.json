@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T21:45:15.295Z",
+  "generatedAt": "2026-09-17T22:40:17.456Z",
   "retentionDays": 30,
   "days": [
     "2026-09-18",
@@ -28,6 +28,20 @@
     "2026-08-26"
   ],
   "items": [
+    {
+      "id": "7fec7b58a668",
+      "title": "AI시대 수능 개편에 공감…논·서술형 평가, 내신에서 먼저 검증해야",
+      "url": "https://www.msn.com/ko-kr/news/other/ai%EC%8B%9C%EB%8C%80-%EC%88%98%EB%8A%A5-%EA%B0%9C%ED%8E%B8%EC%97%90-%EA%B3%B5%EA%B0%90-%EB%85%BC-%EC%84%9C%EC%88%A0%ED%98%95-%ED%8F%89%EA%B0%80-%EB%82%B4%EC%8B%A0%EC%97%90%EC%84%9C-%EB%A8%BC%EC%A0%80-%EA%B2%80%EC%A6%9D%ED%95%B4%EC%95%BC/ar-AA2crLz8",
+      "source": "이데일리 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-09-17T13:31:01.000Z",
+      "description": "[대담=박철근 사회부장, 정리=신하영 김응열 기자] “고교 내신에서 서·논술형 평가를 도입해 채점 체계를 실증한 뒤 국민적 논의·숙의 과정을 거쳐 우려되는 문제를 해결했을 때 대입에 반영할 수 있을 것입니다.” 최교진 교육부 장관은 취임 1주년(9월 12일)을 맞아 지난 15일 이데일리와 가진 인터뷰에서 대학수학능력시험(수능) 서·논술형 평가 도입과 관련해 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 87,
+      "score": 108,
+      "snapshotDate": "2026-09-18"
+    },
     {
       "id": "bbb9e7229f7a",
       "title": "교육감協, 교부금 개편안에 교육계 의견 반영 촉구",
@@ -71,13 +85,13 @@
       "snapshotDate": "2026-09-18"
     },
     {
-      "id": "a90b98748131",
+      "id": "dec2bcf76d0b",
       "title": "교육부 ‘수시 먹통’ 사태 354건 구제 확정",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qYWtYb2drelhSWnJLWFh5VW05LVdzRjB6LXpMT2poNWtyT2hfVUZiV0xYM25oRXVFZW40SFQ2aUdrOHdXU1RrTENJY3JfRG1HY3BDQWJ2cEMyQjg?oc=5",
-      "source": "kwnews.co.kr",
+      "source": "강원일보",
       "kind": "domestic",
       "publishedAt": "2026-09-17T09:55:30.000Z",
-      "description": "교육부 ‘수시 먹통’ 사태 354건 구제 확정 kwnews.co.kr",
+      "description": "교육부 ‘수시 먹통’ 사태 354건 구제 확정 강원일보",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
@@ -119,11 +133,11 @@
       "source": "동아사이언스",
       "kind": "domestic",
       "publishedAt": "2026-09-17T09:13:00.000Z",
-      "description": "장경애 동아사이언스 대표는 \"과학동아에어 에듀가 실제 교육 현장에서 학생들의 질문과 탐구 활동을 돕는 AI 교육 솔루션으로 인정받았다는 점에서 뜻깊은 수상\"이라며 \"앞으로도 교사와 학생의 의견을 적극적으로 반영해 학생들이 AI를 올바르게 활용하고 자기주도적인 과학탐구 역량을 기를 수 있도록 서비스를 고도화해 나가겠다\"고 말했다.",
+      "description": "‘2026 K-에듀테크 콘테스트’ 대상 수상자들이 기념 촬영을 하고 있는 모습. 왼쪽부터 나기쁨 퓨처덕 대표, 고영훈 교육부 인재정책총괄과장, 김지연 카디날정보기술 대표, 장경애 동아사이언스 대표. 한국디지털교육협회 제공 동아사이언스의 AI 과학 탐구 교육 솔루션 '과학동아AiR edu(과학동아에어 에듀)'가 17일 서울 코엑스에서 열린 '2026 K-에듀 ...",
       "category": "AI·디지털",
       "feedProvider": "bing",
-      "policyRelevance": 45,
-      "score": 77,
+      "policyRelevance": 65,
+      "score": 86,
       "snapshotDate": "2026-09-18"
     },
     {
@@ -298,13 +312,13 @@
       "snapshotDate": "2026-09-18"
     },
     {
-      "id": "c67b8fcb97ca",
+      "id": "2015d4a5a372",
       "title": "강원 수험생 대입 지원 확대…'맞춤형 공교육'으로 교육격차 줄여",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mcVB2RFVLMjhoVFltUTRCUF9SM3hBa056X1p1ak0taGpjWm5xckNxdkhZbmp2Q1NGOTJVV1M4UWVkMEFNT2hwZHVtWFNBb0lsZFZKVm1jOWlsNGp3MlJVS1dONS0?oc=5",
-      "source": "MTN 머니투데이방송",
+      "source": "news.mtn.co.kr",
       "kind": "domestic",
       "publishedAt": "2026-09-17T04:38:03.000Z",
-      "description": "강원 수험생 대입 지원 확대…'맞춤형 공교육'으로 교육격차 줄여 MTN 머니투데이방송",
+      "description": "강원 수험생 대입 지원 확대…'맞춤형 공교육'으로 교육격차 줄여 news.mtn.co.kr",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 52,
@@ -1055,7 +1069,7 @@
       "category": "유·초중등",
       "feedProvider": "bing",
       "policyRelevance": 75,
-      "score": 85,
+      "score": 75,
       "snapshotDate": "2026-09-18"
     },
     {
@@ -1423,8 +1437,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 66,
-      "snapshotDate": "2026-09-18"
+      "score": 76,
+      "snapshotDate": "2026-09-17"
     },
     {
       "id": "6c2fea734ae5",

@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-17T21:36:48.918Z",
-  "generatedAtKST": "2026-09-18T06:36:45.916+09:00",
+  "generatedAt": "2026-09-17T22:31:51.346Z",
+  "generatedAtKST": "2026-09-18T07:31:47.734+09:00",
   "date": "2026-09-18",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 17,
+    "domesticBing": 13,
     "domesticGoogle": 195,
-    "foreignBing": 2,
-    "foreignGoogle": 215,
-    "carried": 143,
+    "foreignBing": 5,
+    "foreignGoogle": 211,
+    "carried": 220,
     "rawUnique": 423,
     "policyRejected": 309,
     "policyKept": 80
@@ -21,7 +21,7 @@
     "한-중앙아시아, 교육협력의 지평을 넓힌다 — 교육부",
     "2026학년도 대학수학능력시험 성적 분석 결과 발표 보도자료 — 교육부",
     "2027학년도 대학수학능력시험 9월 모의평가 이의신청 심사 결과 발표 — 교육부",
-    "대한민국 최고 권위의 학술상, 제71회 대한민국학술원상 시상식 개최 — 교육부"
+    "AI시대 수능 개편에 공감…논·서술형 평가, 내신에서 먼저 검증해야 — 이데일리 on MSN"
   ],
   "stats": {
     "total": 80,
@@ -77,6 +77,19 @@
       "category": "입시·사교육",
       "policyRelevance": 100,
       "score": 109
+    },
+    {
+      "id": "7fec7b58a668",
+      "title": "AI시대 수능 개편에 공감…논·서술형 평가, 내신에서 먼저 검증해야",
+      "url": "https://www.msn.com/ko-kr/news/other/ai%EC%8B%9C%EB%8C%80-%EC%88%98%EB%8A%A5-%EA%B0%9C%ED%8E%B8%EC%97%90-%EA%B3%B5%EA%B0%90-%EB%85%BC-%EC%84%9C%EC%88%A0%ED%98%95-%ED%8F%89%EA%B0%80-%EB%82%B4%EC%8B%A0%EC%97%90%EC%84%9C-%EB%A8%BC%EC%A0%80-%EA%B2%80%EC%A6%9D%ED%95%B4%EC%95%BC/ar-AA2crLz8",
+      "source": "이데일리 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-09-17T13:31:01.000Z",
+      "description": "[대담=박철근 사회부장, 정리=신하영 김응열 기자] “고교 내신에서 서·논술형 평가를 도입해 채점 체계를 실증한 뒤 국민적 논의·숙의 과정을 거쳐 우려되는 문제를 해결했을 때 대입에 반영할 수 있을 것입니다.” 최교진 교육부 장관은 취임 1주년(9월 12일)을 맞아 지난 15일 이데일리와 가진 인터뷰에서 대학수학능력시험(수능) 서·논술형 평가 도입과 관련해 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 87,
+      "score": 108
     },
     {
       "id": "0e2e1b11460c",
@@ -307,6 +320,19 @@
       "score": 87
     },
     {
+      "id": "55fc377152e7",
+      "title": "과학탐구에 AI 더했다…과학동아AiR edu, 교육부장관상 수상",
+      "url": "https://www.dongascience.com/ko/news/79962",
+      "source": "동아사이언스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-17T09:13:00.000Z",
+      "description": "‘2026 K-에듀테크 콘테스트’ 대상 수상자들이 기념 촬영을 하고 있는 모습. 왼쪽부터 나기쁨 퓨처덕 대표, 고영훈 교육부 인재정책총괄과장, 김지연 카디날정보기술 대표, 장경애 동아사이언스 대표. 한국디지털교육협회 제공 동아사이언스의 AI 과학 탐구 교육 솔루션 '과학동아AiR edu(과학동아에어 에듀)'가 17일 서울 코엑스에서 열린 '2026 K-에듀 ...",
+      "category": "AI·디지털",
+      "feedProvider": "bing",
+      "policyRelevance": 65,
+      "score": 86
+    },
+    {
       "id": "6ddab0045da9",
       "title": "55년 만에 바뀌는 지방교육재정교부금… 교육감들 “재정 감소 검증해야”",
       "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EC%A4%91%EB%93%B1-%EA%B5%90%EC%9C%A1/55%EB%85%84-%EB%A7%8C%EC%97%90-%EB%B0%94%EB%80%8C%EB%8A%94-%EC%A7%80%EB%B0%A9%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95%EA%B5%90%EB%B6%80%EA%B8%88-%EA%B5%90%EC%9C%A1%EA%B0%90%EB%93%A4-%EC%9E%AC%EC%A0%95-%EA%B0%90%EC%86%8C-%EA%B2%80%EC%A6%9D%ED%95%B4%EC%95%BC/ar-AA2ckTBt",
@@ -333,19 +359,6 @@
       "score": 86
     },
     {
-      "id": "0ceaed3ab164",
-      "title": "'입법예고 단 5일·독단적 밀실행정' 규탄…교육·시민사회 377개 단체 \"교육재정교부금 개편안 부결하라\"",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%9E%85%EB%B2%95%EC%98%88%EA%B3%A0-%EB%8B%A8-5%EC%9D%BC-%EB%8F%85%EB%8B%A8%EC%A0%81-%EB%B0%80%EC%8B%A4%ED%96%89%EC%A0%95-%EA%B7%9C%ED%83%84-%EA%B5%90%EC%9C%A1-%EC%8B%9C%EB%AF%BC%EC%82%AC%ED%9A%8C-377%EA%B0%9C-%EB%8B%A8%EC%B2%B4-%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95%EA%B5%90%EB%B6%80%EA%B8%88-%EA%B0%9C%ED%8E%B8%EC%95%88-%EB%B6%80%EA%B2%B0%ED%95%98%EB%9D%BC/ar-AA2ceTpI",
-      "source": "Aju Business Daily on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-09-14T22:20:49.000Z",
-      "description": "정부의 일방적인 지방교육재정교부금법 개편안에 대한 국회의 졸속 심의·의결을 즉각 중단해야 한다는 교육·노동·시민사회의 강력한 목소리가 터져 나왔다.전국 377개 교육·노동·학부모·학생&middo ...",
-      "category": "유·초중등",
-      "feedProvider": "bing",
-      "policyRelevance": 75,
-      "score": 85
-    },
-    {
       "id": "654a9cc35be1",
       "title": "최교진 교육부 장관,'영유아 정책 국제포럼' 참석",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tQ1hYZjdCRWJLOUxFdDVhVUE4bklpbHgxT2x2NFhkWjRlNWRmZ3k3ZC1pZGlFUF9NdTVMS0FXX1Q0SVAyVkZkMTVrNUJONHNpRDdIRW1tYjRmdkJlMVRtVkVhbWE4eTVq?oc=5",
@@ -359,13 +372,13 @@
       "score": 82
     },
     {
-      "id": "a90b98748131",
+      "id": "dec2bcf76d0b",
       "title": "교육부 ‘수시 먹통’ 사태 354건 구제 확정",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qYWtYb2drelhSWnJLWFh5VW05LVdzRjB6LXpMT2poNWtyT2hfVUZiV0xYM25oRXVFZW40SFQ2aUdrOHdXU1RrTENJY3JfRG1HY3BDQWJ2cEMyQjg?oc=5",
-      "source": "kwnews.co.kr",
+      "source": "강원일보",
       "kind": "domestic",
       "publishedAt": "2026-09-17T09:55:30.000Z",
-      "description": "교육부 ‘수시 먹통’ 사태 354건 구제 확정 kwnews.co.kr",
+      "description": "교육부 ‘수시 먹통’ 사태 354건 구제 확정 강원일보",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
@@ -502,13 +515,13 @@
       "score": 81
     },
     {
-      "id": "c67b8fcb97ca",
+      "id": "2015d4a5a372",
       "title": "강원 수험생 대입 지원 확대…'맞춤형 공교육'으로 교육격차 줄여",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mcVB2RFVLMjhoVFltUTRCUF9SM3hBa056X1p1ak0taGpjWm5xckNxdkhZbmp2Q1NGOTJVV1M4UWVkMEFNT2hwZHVtWFNBb0lsZFZKVm1jOWlsNGp3MlJVS1dONS0?oc=5",
-      "source": "MTN 머니투데이방송",
+      "source": "news.mtn.co.kr",
       "kind": "domestic",
       "publishedAt": "2026-09-17T04:38:03.000Z",
-      "description": "강원 수험생 대입 지원 확대…'맞춤형 공교육'으로 교육격차 줄여 MTN 머니투데이방송",
+      "description": "강원 수험생 대입 지원 확대…'맞춤형 공교육'으로 교육격차 줄여 news.mtn.co.kr",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 52,
@@ -576,19 +589,6 @@
       "description": "AI가 학생 서·논술형 평가까지 돕는다…경기도교육청이 코엑스서 공개한 미래교육 월드장애인사랑뉴스",
       "category": "유·초중등",
       "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 77
-    },
-    {
-      "id": "55fc377152e7",
-      "title": "과학탐구에 AI 더했다…과학동아AiR edu, 교육부장관상 수상",
-      "url": "https://www.dongascience.com/ko/news/79962",
-      "source": "동아사이언스",
-      "kind": "domestic",
-      "publishedAt": "2026-09-17T09:13:00.000Z",
-      "description": "장경애 동아사이언스 대표는 \"과학동아에어 에듀가 실제 교육 현장에서 학생들의 질문과 탐구 활동을 돕는 AI 교육 솔루션으로 인정받았다는 점에서 뜻깊은 수상\"이라며 \"앞으로도 교사와 학생의 의견을 적극적으로 반영해 학생들이 AI를 올바르게 활용하고 자기주도적인 과학탐구 역량을 기를 수 있도록 서비스를 고도화해 나가겠다\"고 말했다.",
-      "category": "AI·디지털",
-      "feedProvider": "bing",
       "policyRelevance": 45,
       "score": 77
     },
@@ -721,6 +721,19 @@
       "feedProvider": "bing",
       "policyRelevance": 87,
       "score": 76
+    },
+    {
+      "id": "0ceaed3ab164",
+      "title": "'입법예고 단 5일·독단적 밀실행정' 규탄…교육·시민사회 377개 단체 \"교육재정교부금 개편안 부결하라\"",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%9E%85%EB%B2%95%EC%98%88%EA%B3%A0-%EB%8B%A8-5%EC%9D%BC-%EB%8F%85%EB%8B%A8%EC%A0%81-%EB%B0%80%EC%8B%A4%ED%96%89%EC%A0%95-%EA%B7%9C%ED%83%84-%EA%B5%90%EC%9C%A1-%EC%8B%9C%EB%AF%BC%EC%82%AC%ED%9A%8C-377%EA%B0%9C-%EB%8B%A8%EC%B2%B4-%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95%EA%B5%90%EB%B6%80%EA%B8%88-%EA%B0%9C%ED%8E%B8%EC%95%88-%EB%B6%80%EA%B2%B0%ED%95%98%EB%9D%BC/ar-AA2ceTpI",
+      "source": "Aju Business Daily on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-09-14T22:20:49.000Z",
+      "description": "정부의 일방적인 지방교육재정교부금법 개편안에 대한 국회의 졸속 심의·의결을 즉각 중단해야 한다는 교육·노동·시민사회의 강력한 목소리가 터져 나왔다.전국 377개 교육·노동·학부모·학생&middo ...",
+      "category": "유·초중등",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 75
     },
     {
       "id": "e82609d27d3f",
@@ -1049,19 +1062,6 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 66
-    },
-    {
-      "id": "f40fac4e5ae1",
-      "title": "대입 수시 전산 장애 사태, 교육부 장관 시스템 직접 관리 검토 시사",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lUG5URW1ySUpjWjNTVVkyV01NQ1JyV0tyZWRJaks1VEo3ZTVHTy1BM3VKcHUzcXQ2ME5uQ3RFUENCSkNiQ0xJVkdvQ2xBWE9xczJOSHlhV1VSVVBidkltbWtnNDhvZjAz?oc=5",
-      "source": "2news.co.kr",
-      "kind": "domestic",
-      "publishedAt": "2026-09-14T06:08:00.000Z",
-      "description": "대입 수시 전산 장애 사태, 교육부 장관 시스템 직접 관리 검토 시사 2news.co.kr",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 66
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -1071,10 +1071,11 @@
     "throughDate": "2026-09-18",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-09-16T15:00:00.000Z",
-    "windowEnd": "2026-09-17T21:36:48.918Z",
+    "windowEnd": "2026-09-17T22:31:51.346Z",
     "itemIds": [
       "5ca6adccf255",
       "874fb34b24d1",
+      "7fec7b58a668",
       "48c3ec1b1fb5",
       "1acf5022fae6",
       "a6ca3f79b829",
@@ -1084,8 +1085,9 @@
       "540390c9a059",
       "2e13e14b3ab6",
       "a39c14351e80",
+      "55fc377152e7",
       "654a9cc35be1",
-      "a90b98748131",
+      "dec2bcf76d0b",
       "3c8fb3cd2fa9",
       "51fe9539c042",
       "f0a59b5dbf04",
@@ -1093,11 +1095,10 @@
       "744d2c41ce3a",
       "9dc75f5066c0",
       "49c6362316c3",
-      "c67b8fcb97ca",
+      "2015d4a5a372",
       "734d605960b2",
       "27f06e81a3df",
       "4eff7c977646",
-      "55fc377152e7",
       "5df101023cbb",
       "e82609d27d3f",
       "d76c63ada015",
@@ -1107,32 +1108,32 @@
       "c2c10aff71b2"
     ],
     "stats": {
-      "total": 32,
+      "total": 33,
       "official": 2,
-      "domestic": 29,
+      "domestic": 30,
       "foreign": 1
     },
     "headline": "오늘 아침 교육뉴스는 입시·사교육·AI·디지털·교원·조직 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 32건이 확인됐습니다. 교육부는 유웨이어플라이 수시 원서접수시스템 장애 관련 조치 결과 발표와 한-중앙아시아, 교육협력의 지평을 넓힌다 등을 공식 발표했습니다. 국내 언론에서는 도성훈 인천교육감, “학령인구 감소 핑계로 교육예산 축소 안돼… 지방교부금 개편 원점 재논의해야”와 [교육타파] 교육감협의회, 여수 총회서 교부금 대응 집중 논의… \"국회 법안심사소위 조속 가동해야\" 등이 주요하게 다뤄졌습니다. 해외에서는 페루 대통령, 정부가 이데올로기 적으로 간주하는 콘텐츠를 삭제하기위한 학교 개혁안 발표 관련 보도가 확인됐습니다. 전체적으로는 입시·사교육·AI·디지털·교원·조직 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 33건이 확인됐습니다. 교육부는 유웨이어플라이 수시 원서접수시스템 장애 관련 조치 결과 발표와 한-중앙아시아, 교육협력의 지평을 넓힌다 등을 공식 발표했습니다. 국내 언론에서는 AI시대 수능 개편에 공감…논·서술형 평가, 내신에서 먼저 검증해야와 도성훈 인천교육감, “학령인구 감소 핑계로 교육예산 축소 안돼… 지방교부금 개편 원점 재논의해야” 등이 주요하게 다뤄졌습니다. 해외에서는 페루 대통령, 정부가 이데올로기 적으로 간주하는 콘텐츠를 삭제하기위한 학교 개혁안 발표 관련 보도가 확인됐습니다. 전체적으로는 입시·사교육·AI·디지털·교원·조직 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "입시·사교육",
-        "summary": "유웨이어플라이 수시 원서접수시스템 장애 관련 조치 결과 발표 · 수능에 서·논술형 도입하나…1박2일 '국민숙의' 결과는? · [교육 트렌드] 교육부, 학교폭력 예방 선도학교 276곳 운영…교원·학생·학부모 함께 참여 外",
+        "summary": "유웨이어플라이 수시 원서접수시스템 장애 관련 조치 결과 발표 · AI시대 수능 개편에 공감…논·서술형 평가, 내신에서 먼저 검증해야 · 수능에 서·논술형 도입하나…1박2일 '국민숙의' 결과는?",
         "why": "대입·수능·사교육 이슈는 학생·학부모 체감도가 높고 후속 안내와 현장 반응 점검이 중요합니다.",
         "sources": [
           "교육부",
-          "뉴시스 on MSN",
-          "베이비뉴스 on MSN"
+          "이데일리 on MSN",
+          "뉴시스 on MSN"
         ]
       },
       {
         "title": "AI·디지털",
-        "summary": "서울교육청, 19일 '서울국제교육포럼'…AI·디지털 리터러시 논의 · AI·유아교육·고등교육까지…중앙아시아와 교육 협력 넓힌다 · 김홍순 교육부 정책기획관 “에듀테크 산업 성장과 교육적 활용의 선순환 생태계 만들 것”",
+        "summary": "서울교육청, 19일 '서울국제교육포럼'…AI·디지털 리터러시 논의 · AI·유아교육·고등교육까지…중앙아시아와 교육 협력 넓힌다 · 과학탐구에 AI 더했다…과학동아AiR edu, 교육부장관상 수상",
         "why": "AI·디지털 전환 정책은 교육과정·교원역량·인프라와 연결되므로 실행 여건과 현장 적용성을 함께 봐야 합니다.",
         "sources": [
           "조선에듀 on MSN",
           "연합뉴스",
-          "디지틀조선일보"
+          "동아사이언스"
         ]
       },
       {
