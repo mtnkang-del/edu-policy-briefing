@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-20T21:37:00.536Z",
-  "generatedAtKST": "2026-09-21T06:36:56.601+09:00",
+  "generatedAt": "2026-09-20T22:33:08.165Z",
+  "generatedAtKST": "2026-09-21T07:33:04.287+09:00",
   "date": "2026-09-21",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 11,
-    "domesticGoogle": 168,
-    "foreignBing": 9,
-    "foreignGoogle": 235,
-    "carried": 133,
-    "rawUnique": 404,
-    "policyRejected": 322,
+    "domesticBing": 12,
+    "domesticGoogle": 169,
+    "foreignBing": 8,
+    "foreignGoogle": 236,
+    "carried": 209,
+    "rawUnique": 408,
+    "policyRejected": 328,
     "policyKept": 80
   },
   "briefing": [
@@ -26,8 +26,8 @@
   "stats": {
     "total": 80,
     "official": 8,
-    "domestic": 69,
-    "foreign": 3
+    "domestic": 67,
+    "foreign": 5
   },
   "items": [
     {
@@ -192,19 +192,6 @@
       "score": 82
     },
     {
-      "id": "d5bbacc169e0",
-      "title": "전국교수단체연합, 국·사립대 아우르는 고등교육 정책촉구",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%A0%84%EA%B5%AD%EA%B5%90%EC%88%98%EB%8B%A8%EC%B2%B4%EC%97%B0%ED%95%A9-%EA%B5%AD-%EC%82%AC%EB%A6%BD%EB%8C%80-%EC%95%84%EC%9A%B0%EB%A5%B4%EB%8A%94-%EA%B3%A0%EB%93%B1%EA%B5%90%EC%9C%A1-%EC%A0%95%EC%B1%85%EC%B4%89%EA%B5%AC/ar-AA2cvgZI",
-      "source": "한스경제 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-09-17T23:25:41.000Z",
-      "description": "| 서울=한스경제 신홍관 기자 | 전국교수단체연합이 정부의 지방 국립대 등록금 전액 지원 정책을 두고 “진단이 틀렸고 형평성에 어긋나며 고등교육 개혁의 우선순위까지 뒤바뀌었다”고 비판했다.전국교수단체연합은 18일 오후 서울 광화문광장 이순신 장군 동상 앞에서 기자회견을 열고 “인공지능(AI) 혁명과 국제질서 재편이 동시에 진행되는 문명사적 대전환기에 정부가 ...",
-      "category": "AI·디지털",
-      "feedProvider": "bing",
-      "policyRelevance": 75,
-      "score": 81
-    },
-    {
       "id": "48c3ec1b1fb5",
       "title": "도성훈 인천교육감, “학령인구 감소 핑계로 교육예산 축소 안돼… 지방교부금 개편 원점 재논의해야”",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5OWZPcGFDbVBpZ0JsVWZTUGVVY3V4TTNyYmZQQktaZTg0TWFSdDJXUzd3M0hJMjduc25DWG56amw4bk5jaWFERFpfNUJGVVhxRzUyaFJn?oc=5",
@@ -260,13 +247,13 @@
       "score": 77
     },
     {
-      "id": "ea641662f13e",
+      "id": "50ce6908c834",
       "title": "수능 선택과목 폐지·내신 5등급제…학군지 주거수요도 재편되나",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NdWFXRjAxb2xkN2NtOHZvMTN3aE5IeVRHcVBTY21aSVNKbGExd2t3SFhUbE0ydVk5Sl93SURCLXd2Y2otV0hMTkdYM2FicnJNTlh5clBib0dnVUZuSG0yeWtUTlBVZEZMQTg0eWptY9IBb0FVX3lxTE9NdWFXRjAxb2xkN2NtOHZvMTN3aE5IeVRHcVBTY21aSVNKbGExd2t3SFhUbE0ydVk5Sl93SURCLXd2Y2otV0hMTkdYM2FicnJNTlh5clBib0dnVUZuSG0yeWtUTlBVZEZMQTg0eWptYw?oc=5",
-      "source": "thepublic.kr",
+      "source": "더퍼블릭",
       "kind": "domestic",
       "publishedAt": "2026-09-20T00:01:44.000Z",
-      "description": "수능 선택과목 폐지·내신 5등급제…학군지 주거수요도 재편되나 thepublic.kr",
+      "description": "수능 선택과목 폐지·내신 5등급제…학군지 주거수요도 재편되나 더퍼블릭",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 42,
@@ -442,13 +429,13 @@
       "score": 72
     },
     {
-      "id": "c70b2c97af94",
+      "id": "794d2ae3eed0",
       "title": "최교진 장관, 대학생 고민 직접 듣는다… 청년정책 토론회 개최",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wY09zejBURVlzNjJVSERCeGk1OHZtZ2JRd1VDb2VFOXFhMkhvdGFheGFVUTkxWkFIc09IaGxjekRXVUFRN2RtdmlPLXFmZnlPeXBCajBKY2l6X25pN1Q4LUZRTHdFUQ?oc=5",
-      "source": "한국대학신문",
+      "source": "news.unn.net",
       "kind": "domestic",
       "publishedAt": "2026-09-20T00:00:00.000Z",
-      "description": "최교진 장관, 대학생 고민 직접 듣는다… 청년정책 토론회 개최 한국대학신문",
+      "description": "최교진 장관, 대학생 고민 직접 듣는다… 청년정책 토론회 개최 news.unn.net",
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -496,7 +483,7 @@
     {
       "id": "00aca8b972e7",
       "title": "[기고] 지방교육재정교부금 개편, 안정적인 교육재정 원칙 지켜야",
-      "url": "https://www.msn.com/ko-kr/news/other/%EA%B8%B0%EA%B3%A0-%EC%A7%80%EB%B0%A9%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95%EA%B5%90%EB%B6%80%EA%B8%88-%EA%B0%9C%ED%8E%B8-%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8-%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95-%EC%9B%90%EC%B9%99-%EC%A7%80%EC%BC%9C%EC%95%BC/ar-AA2cAylV",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B8%B0%EA%B3%A0-%EC%A7%80%EB%B0%A9%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95%EA%B5%90%EB%B6%80%EA%B8%88-%EA%B0%9C%ED%8E%B8-%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8-%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95-%EC%9B%90%EC%B9%99-%EC%A7%80%EC%BC%9C%EC%95%BC/ar-AA2cAylV",
       "source": "중도일보 on MSN",
       "kind": "domestic",
       "publishedAt": "2026-09-19T18:17:41.000Z",
@@ -570,19 +557,6 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 66
-    },
-    {
-      "id": "09a113c94e93",
-      "title": "[포토] 대학 정책 비판하는 '유원준 사립대교수연합회 이사장'",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFcW5ORDVqT0c1dWd1NGhDRk9NWVl2aDVXNVJXdXFZUDRDbFdiVEg0aFd3V3h1LWZIRUxWOGVZeXJxX3RmVF9Qb2RvU1JNMVBfSjAwZ1FlY1EzLWpINVhsa1NNcVNZeWhILVA2T3M0S3M?oc=5",
-      "source": "shinailbo.co.kr",
-      "kind": "domestic",
-      "publishedAt": "2026-09-18T06:35:05.000Z",
-      "description": "[포토] 대학 정책 비판하는 '유원준 사립대교수연합회 이사장' shinailbo.co.kr",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 65
     },
     {
       "id": "2c9d9bc36b3f",
@@ -676,13 +650,13 @@
       "score": 63
     },
     {
-      "id": "31b5131c1e9f",
+      "id": "941fc40683d7",
       "title": "[전문대교협 소식] 교육부 출입기자 간담회 개최",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xaUc1Tmc5RjhsT19pdXJ0Q0xhU2x6a3NvRkVHRmxuQTduUm1mU2stXzFzOUY1b3BlYnRWbl94V0g1cFNJMkU2a1pMM0E1SkdvaFk4dEU5UG1taDBKUEJxZEhFUWpyZw?oc=5",
-      "source": "한국대학신문",
+      "source": "news.unn.net",
       "kind": "domestic",
       "publishedAt": "2026-09-18T07:01:16.000Z",
-      "description": "[전문대교협 소식] 교육부 출입기자 간담회 개최 한국대학신문",
+      "description": "[전문대교협 소식] 교육부 출입기자 간담회 개최 news.unn.net",
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 45,
@@ -845,13 +819,13 @@
       "score": 61
     },
     {
-      "id": "bd15fa04282d",
-      "title": "전국교수단체연합, “국·공·사립대 균형적 정책 수립, 실질직 지원·자율성 보장” 촉구",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tdVRTUmMxeHVWQ0JqNkdVSUkxc1VMRURnQl9fZWlYRUw2TGFzMlgzME9XbnNrWHVpVVBSdm9Db0RPNEhwV2FrZHc3RmN1ajFORDA2R3JsSFlHT2E1aElndTg2bnUxUQ?oc=5",
-      "source": "한국대학신문",
+      "id": "b6c5e3c3a729",
+      "title": "[포토] 대학 정책 비판하는 '유원준 사립대교수연합회 이사장'",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFcW5ORDVqT0c1dWd1NGhDRk9NWVl2aDVXNVJXdXFZUDRDbFdiVEg0aFd3V3h1LWZIRUxWOGVZeXJxX3RmVF9Qb2RvU1JNMVBfSjAwZ1FlY1EzLWpINVhsa1NNcVNZeWhILVA2T3M0S3M?oc=5",
+      "source": "신아일보",
       "kind": "domestic",
-      "publishedAt": "2026-09-18T05:00:00.000Z",
-      "description": "전국교수단체연합, “국·공·사립대 균형적 정책 수립, 실질직 지원·자율성 보장” 촉구 한국대학신문",
+      "publishedAt": "2026-09-18T06:35:05.000Z",
+      "description": "[포토] 대학 정책 비판하는 '유원준 사립대교수연합회 이사장' 신아일보",
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -866,19 +840,6 @@
       "publishedAt": "2026-09-18T01:32:43.000Z",
       "description": "정세준 청춘어람 대표, 국가산학연협력위 간담회서 청년·지역 중심 정책 제안 대학저널",
       "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 61
-    },
-    {
-      "id": "36694d04f2d7",
-      "title": "학부모 만난 국힘… \"'수시먹통 사태' 장관이 책임져야\"",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EcDRLRHRXdi1hZU83MzB4anp1eHYzeXdYeThwd1dSUmlTcWpRaDlTQk5wb2hTLUtrb1o4ZGlpQWFUbDAwcWl6S3RRaDBmVWVGM0dkVlJTTVdwTmtZN3Fj?oc=5",
-      "source": "한국교육신문",
-      "kind": "domestic",
-      "publishedAt": "2026-09-17T22:23:48.000Z",
-      "description": "학부모 만난 국힘… \"'수시먹통 사태' 장관이 책임져야\" 한국교육신문",
-      "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 61
@@ -926,13 +887,13 @@
       "score": 60
     },
     {
-      "id": "27f06e81a3df",
+      "id": "9341b243140b",
       "title": "대교협, AI·융복합 교양교육 온라인 강좌 확대…91개 무료 제공",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VNVQzWVVteTVvQmhnTEwyWWhJUWJROUFheHdzUk5UeFA2MUN0ejE5SF9VQU1IenJrM0NlYnZBZGhvNVZneWNBaVMteVJsRWhFVDM3N1ZhS0tXcHhG?oc=5",
-      "source": "뉴스핌",
+      "source": "newspim.com",
       "kind": "domestic",
       "publishedAt": "2026-09-17T03:00:00.000Z",
-      "description": "대교협, AI·융복합 교양교육 온라인 강좌 확대…91개 무료 제공 뉴스핌",
+      "description": "대교협, AI·융복합 교양교육 온라인 강좌 확대…91개 무료 제공 newspim.com",
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 47,
@@ -965,13 +926,26 @@
       "score": 57
     },
     {
-      "id": "a26baa99ac74",
+      "id": "2f9d3ff568dd",
+      "title": "전남광주교육청, 유치원서 초등학교까지…디지털·AI 교육 ‘이음’ 강화",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Gbk93cG92R2ttSll3LXV2Ni04d1Z0MU83TG45RHg1LVhtb0FzU2hjSkFRTVZvWlFRVUxyamNERjRaRGVRRWZ5NUx3azVFU2pTeW1ZbDlPcE5ZbXdwbHhvTTlkdTZMTlFNRUJnbjZtbHDSAXRBVV95cUxQTWtIaEZSQ1R6c1BKbDhqNUx3UDM3UEt1em5OWjJYYlQ4dTlVc1E5UVVjcEFfMWhEOTduUDFVV0I2enRzT0FuaEtxRWJ4dGRkcDhPM0hDOE5iM0FNLVBFUjFRLWtoZnhra05hYTMweEZGQUdzeg?oc=5",
+      "source": "thefairnews.co.kr",
+      "kind": "domestic",
+      "publishedAt": "2026-09-17T00:13:43.000Z",
+      "description": "전남광주교육청, 유치원서 초등학교까지…디지털·AI 교육 ‘이음’ 강화 thefairnews.co.kr",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 57
+    },
+    {
+      "id": "d62573f950d3",
       "title": "수능 서·논술형, 숙의할수록 ‘신중’…10명 중 3명만 ‘10년 내 도입’",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pZmJHekV5aXV3aERjOWJfeVlVaVhkZG1vRWt6bVJyWXZnWHlOeGZzREllSEdWcUE4SHhfQmkwaFVtQzdSZlFuVkF2bVMzVV9neEphNWtrVmVRMk5iVHRJ0gFfQVVfeXFMTWlmYkd6RXlpdXdoRGM5Yl95WVVpWGRkbW9Fa3ptUnJZdmdYeU54ZnNESWVIR1ZxQThIeF9CaTBoVW1DN1JmUW5WQXZtUzNVX2d4SmE1a2tWZVEyTmJUdEk?oc=5",
-      "source": "경향신문",
+      "source": "khan.co.kr",
       "kind": "domestic",
       "publishedAt": "2026-09-17T06:44:00.000Z",
-      "description": "수능 서·논술형, 숙의할수록 ‘신중’…10명 중 3명만 ‘10년 내 도입’ 경향신문",
+      "description": "수능 서·논술형, 숙의할수록 ‘신중’…10명 중 3명만 ‘10년 내 도입’ khan.co.kr",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 42,
@@ -992,19 +966,6 @@
       "originalTitle": "Peru's president unveils school reform to remove content her government considers ideological",
       "titleKo": "페루 대통령, 정부가 이데올로기 적으로 간주하는 콘텐츠를 삭제하기위한 학교 개혁안 발표",
       "summaryKo": "페루 대통령, 정부가 이념적으로 고려하는 콘텐츠를 삭제하기 위한 학교 개혁안 발표 www.christiandaily.com"
-    },
-    {
-      "id": "c5daa0df292e",
-      "title": "'수시모집 장애' 최종 354명 구제…경쟁률 조회 후 접수 3건은 취소 권고",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9seEZnMzItWDU5b2ZzVjFEZ0RGdjVwZEx5QzF2bU1ERXBMNHRTMGtlV25zMTV0R2t1dTZqWXk1TmhiM3hMYl9LaWxWOERYczRxWGMxUUhpOEhaTDUySklvV2FvNUZtTzByTG1tag?oc=5",
-      "source": "korea.kr",
-      "kind": "domestic",
-      "publishedAt": "2026-09-17T12:23:26.000Z",
-      "description": "'수시모집 장애' 최종 354명 구제…경쟁률 조회 후 접수 3건은 취소 권고 korea.kr",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 46,
-      "score": 54
     },
     {
       "id": "d76c63ada015",
@@ -1059,17 +1020,62 @@
       "score": 53
     },
     {
-      "id": "030f2525e874",
-      "title": "수시 원서접수 장애에 교사·학부모단체 분통…“최교진 사퇴해야”",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kWlRNM2dwZmFmQS1LcVRfSElpRE9yQ3Bxak4xb3dFQjVUb0hSWElldjdtYkR1dHdkNlExZXJVYnUxMW8yR2ZrcmJLREhxQTI0emEwWnZTU19kYzJkMUdkQ2N2b3RZN0N6?oc=5",
-      "source": "edupress.kr",
+      "id": "36694d04f2d7",
+      "title": "학부모 만난 국힘… \"'수시먹통 사태' 장관이 책임져야\"",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EcDRLRHRXdi1hZU83MzB4anp1eHYzeXdYeThwd1dSUmlTcWpRaDlTQk5wb2hTLUtrb1o4ZGlpQWFUbDAwcWl6S3RRaDBmVWVGM0dkVlJTTVdwTmtZN3Fj?oc=5",
+      "source": "한국교육신문",
       "kind": "domestic",
-      "publishedAt": "2026-09-17T05:37:19.000Z",
-      "description": "수시 원서접수 장애에 교사·학부모단체 분통…“최교진 사퇴해야” edupress.kr",
+      "publishedAt": "2026-09-17T22:23:48.000Z",
+      "description": "학부모 만난 국힘… \"'수시먹통 사태' 장관이 책임져야\" 한국교육신문",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 51
+    },
+    {
+      "id": "c2c10aff71b2",
+      "title": "수시 원서접수 장애에 교사·학부모단체 분통…“최교진 사퇴해야”",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kWlRNM2dwZmFmQS1LcVRfSElpRE9yQ3Bxak4xb3dFQjVUb0hSWElldjdtYkR1dHdkNlExZXJVYnUxMW8yR2ZrcmJLREhxQTI0emEwWnZTU19kYzJkMUdkQ2N2b3RZN0N6?oc=5",
+      "source": "에듀프레스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-17T05:37:19.000Z",
+      "description": "수시 원서접수 장애에 교사·학부모단체 분통…“최교진 사퇴해야” 에듀프레스",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 51
+    },
+    {
+      "id": "4efa9d186a52",
+      "title": "Labour to pause government’s school curriculum overhaul, NCEA changes if elected",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYTlXTVVCV2ZrQkNNSXVGb1c1b29FYl9zNTJyd09OTnBRYk9GejFTUVFWYi0zb003dmN3RmtPYzlhelJqa1VIY0ZtY0M2MTJSX3puOGdiWGp2Z0toWDN5dHJxNl94Um1KdDZmcEJYd05BRUdLYm42d25IUlNDN3BlNy1qUEg0ZTJuUnNDaUJjWkxzOGN1bzVWYlVlMFlHWWRESU5aYldKajZmU3FfQ2RmRlYzb1VONHg1MjgtVkFNTTFUNHFENk8xRk9kRnhJbjZ0ZFc4?oc=5",
+      "source": "RNZ",
+      "kind": "foreign",
+      "publishedAt": "2026-09-17T03:53:09.000Z",
+      "description": "Labour to pause government’s school curriculum overhaul, NCEA changes if elected RNZ",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 53,
+      "score": 51,
+      "originalTitle": "Labour to pause government’s school curriculum overhaul, NCEA changes if elected",
+      "titleKo": "정부의 학교 교육과정 개편을 일시 중단하기 위한 노력, 선출될 경우 NCEA 변경",
+      "summaryKo": "정부의 학교 커리큘럼 개편을 일시 중단하는 노동, RNZ가 선출되면 NCEA가 변경됨"
+    },
+    {
+      "id": "abc9b4fb45bc",
+      "title": "Ministry of Education misses its own curriculum deadline",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZGJZOWJ2WVZXU1VOYVlYSVZQbmUtQmNOV01JVmZQZzhuZk9EM1RvRWJXS2VmdGlHbzM0ak1HVjV5QUJEZVRwclM4UEhPYVlHUDlMaW1FMy1kRllpSG9wR25MOWtVeFduZlFZV25SUkE2YjBCOS1EQXNPanJDdmMzejEzNVlhenlCY3A2S3EySUN2aDdNRnE4bjlVTUwyVVU?oc=5",
+      "source": "thepost.co.nz",
+      "kind": "foreign",
+      "publishedAt": "2026-09-14T16:00:00.000Z",
+      "description": "Ministry of Education misses its own curriculum deadline thepost.co.nz",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 53,
+      "score": 51,
+      "originalTitle": "Ministry of Education misses its own curriculum deadline",
+      "titleKo": "교육부가 자체 커리큘럼 마감일을 놓침",
+      "summaryKo": "교육부가 자체 커리큘럼 마감일을 놓침 thepost.co.nz"
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -1079,7 +1085,7 @@
     "throughDate": "2026-09-21",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-09-19T15:00:00.000Z",
-    "windowEnd": "2026-09-20T21:37:00.536Z",
+    "windowEnd": "2026-09-20T22:33:08.165Z",
     "itemIds": [
       "25f27bdca053",
       "7711737b8ec0",
@@ -1088,9 +1094,9 @@
       "b31b4701ce2a",
       "afdfcdf37abf",
       "76a92addb6a8",
-      "ea641662f13e",
+      "50ce6908c834",
       "0a6006d0352d",
-      "c70b2c97af94",
+      "794d2ae3eed0",
       "00aca8b972e7"
     ],
     "stats": {
@@ -1119,7 +1125,7 @@
         "sources": [
           "교육부",
           "경상일보",
-          "한국대학신문"
+          "news.unn.net"
         ]
       },
       {
@@ -1127,7 +1133,7 @@
         "summary": "수능 선택과목 폐지·내신 5등급제…학군지 주거수요도 재편되나 · 입시 변수 산적한데 ‘불공정’ 논란까지…수시 먹통에 흔들린 수험생 [공정 건드린 공교육] · 쟁점 정리",
         "why": "대입·수능·사교육 이슈는 학생·학부모 체감도가 높고 후속 안내와 현장 반응 점검이 중요합니다.",
         "sources": [
-          "thepublic.kr",
+          "더퍼블릭",
           "supple.kr"
         ]
       },
