@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-23T21:37:58.205Z",
-  "generatedAtKST": "2026-09-24T06:37:54.693+09:00",
+  "generatedAt": "2026-09-23T22:33:19.040Z",
+  "generatedAtKST": "2026-09-24T07:33:15.491+09:00",
   "date": "2026-09-24",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 15,
+    "domesticBing": 16,
     "domesticGoogle": 144,
     "foreignBing": 6,
-    "foreignGoogle": 236,
-    "carried": 97,
-    "rawUnique": 370,
-    "policyRejected": 304,
-    "policyKept": 66
+    "foreignGoogle": 233,
+    "carried": 161,
+    "rawUnique": 368,
+    "policyRejected": 300,
+    "policyKept": 68
   },
   "briefing": [
     "「학원 설립.운영 및 과외교습에 관한 법률 시행령」 일부개정령안 국무회의 통과 — 교육부",
@@ -24,9 +24,9 @@
     "교육의 미래, 청년들과 함께 고민한다 — 교육부"
   ],
   "stats": {
-    "total": 70,
+    "total": 72,
     "official": 10,
-    "domestic": 50,
+    "domestic": 52,
     "foreign": 10
   },
   "items": [
@@ -229,19 +229,6 @@
       "score": 81
     },
     {
-      "id": "f485797e3987",
-      "title": "교육부, 청년 130명과 교육정책 토론…AI 시대 교육·진로 논의",
-      "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EC%A4%91%EB%93%B1-%EA%B5%90%EC%9C%A1/%EA%B5%90%EC%9C%A1%EB%B6%80-%EC%B2%AD%EB%85%84-130%EB%AA%85%EA%B3%BC-%EA%B5%90%EC%9C%A1%EC%A0%95%EC%B1%85-%ED%86%A0%EB%A1%A0-ai-%EC%8B%9C%EB%8C%80-%EA%B5%90%EC%9C%A1-%EC%A7%84%EB%A1%9C-%EB%85%BC%EC%9D%98/ar-AA2cDDT7",
-      "source": "조선에듀 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-09-20T21:55:28.000Z",
-      "description": "교육부가 21일 세종대학교 광개토관에서 ‘2026년 교육부 청년정책 토론회’를 개최한다.이번 토론회에는 청년단체 관계자 50명과 대학생·취업준비생·사회초년생 등 일반 청년 50명, 교육부 2030청년자문단 20여 명 등 약 130명이 참여한다.교육부 ...",
-      "category": "고등교육",
-      "feedProvider": "bing",
-      "policyRelevance": 75,
-      "score": 81
-    },
-    {
       "id": "0e5c7873a9b1",
       "title": "정시도 학생부 영향 확대…이투스, 자퇴 후 수능 올인 신중론",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5QkJPZENXODNuS1BCQXZPdVk3b0NsNWdBTm5qUkY2Vklvb0NzQldvemVraVBMVWpGcHlkVGVZWE5BNVJtQXZVWVBqMEI2XzdtSkNoMVdmWHpOT3RkYTVBUVVJam1qYkNCR0hFNERob2xaUdIBckFVX3lxTFB5QkJPZENXODNuS1BCQXZPdVk3b0NsNWdBTm5qUkY2Vklvb0NzQldvemVraVBMVWpGcHlkVGVZWE5BNVJtQXZVWVBqMEI2XzdtSkNoMVdmWHpOT3RkYTVBUVVJam1qYkNCR0hFNERob2xaUQ?oc=5",
@@ -281,6 +268,19 @@
       "score": 77
     },
     {
+      "id": "a8a3b2b21f83",
+      "title": "싱가포르 교육부장관, 배화여고·반포고·정원여중 찾아 미래교육·국제교류 현장 살핀다",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/20/2026092000087.html",
+      "source": "뉴데일리 경제",
+      "kind": "domestic",
+      "publishedAt": "2026-09-20T23:00:00.000Z",
+      "description": "서울시교육청은 21일과 22일 이틀간 데스몬드 리(Desmond Lee) 싱가포르 교육부 장관 일행이 서울 학교를 방문해 국제공동수업 현장 등을 참관하고, 정근식 교육감과 교육정책·협력방안을 논의한다고 밝혔다.리 장관을 비롯해 사무차관과 교육정책 담당관 등으로 구성된 싱가포르 대표단은 21일 배화여자고등학교를 방문해 세계시민 혁신미래학교 교육 현장을 둘러본 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 77
+    },
+    {
       "id": "ca22080af2db",
       "title": "대학 입학 가산점 정책 조정: IELTS가 논란을 일으키는 이유는 무엇일까요?",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUHVLNmpFWnhQRWQwUWZCS3lCWURiSkp6WVlRYWo3VEdtbTZJN3ByTVJqcGN5elRwUXBHTWd5UjZFT3lzX2c1SGZLLUwweVh3Z3o3VXB0M2dGUnZ0ZXhPbmplQV9FZ2pMdHA0Rzk4YlJtUlNLNzFOVU1ybHNzcWdSZEo5YVJtSk8tQk9CMEVwQ3N5bFQwcGN0Y0RmYW5qQmtl?oc=5",
@@ -304,6 +304,19 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 52,
+      "score": 76
+    },
+    {
+      "id": "4321fe7feb56",
+      "title": "최교진, 싱가포르 교육장관과 미래교육 협력 논의…AI 교육 경험 공유",
+      "url": "https://www.newspim.com/news/view/20260922000132",
+      "source": "뉴스핌",
+      "kind": "domestic",
+      "publishedAt": "2026-09-22T07:54:00.000Z",
+      "description": "[서울=뉴스핌] 송주원 기자 = 최교진 교육부 장관은 22일 데스먼드 리 싱가포르 교육부 장관과 교육정책 간담회를 열고 양국의 교육정책 경험과 미래교육 분야 협력 방안을 논의한다.간담회는 이날 오후 2시30분 서울 한국교육시설안전원에서 열린다. 양국 장관을 비 ...",
+      "category": "기타",
+      "feedProvider": "bing",
+      "policyRelevance": 65,
       "score": 76
     },
     {
@@ -372,19 +385,6 @@
       "score": 76
     },
     {
-      "id": "76a11db000cd",
-      "title": "최교진, 청년 130명 만난다…AI시대 교육 방향 논의",
-      "url": "https://www.msn.com/ko-kr/news/national/%EC%B5%9C%EA%B5%90%EC%A7%84-%EC%B2%AD%EB%85%84-130%EB%AA%85-%EB%A7%8C%EB%82%9C%EB%8B%A4-ai%EC%8B%9C%EB%8C%80-%EA%B5%90%EC%9C%A1-%EB%B0%A9%ED%96%A5-%EB%85%BC%EC%9D%98/ar-AA2czOTa",
-      "source": "NEWSIS on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-09-20T02:00:00.000Z",
-      "description": "최교진 교육부 장관이 대학생과 취업준비생, 사회초년생 등 청년 130여 명을 만나 교육·진로·취업 문제와 인공지능(AI) 시대 교육정책 방향을 논의한다. 교육부는 오는 21일 오후 2시 서울 광진구 세종대학교 광개토관에서 '2026년 교육부 청년정책 토론회'를 개최한다고 20일 밝혔다. 이번 토론회에는 전국총학생회협의회와 과학기술원 총학생회, 청소년특별회의 ...",
-      "category": "AI·디지털",
-      "feedProvider": "bing",
-      "policyRelevance": 87,
-      "score": 76
-    },
-    {
       "id": "c16f3a71c25a",
       "title": "대학노조, “‘고등교육재정교부금법’ 제정, 대학 단계적 무상교육” 촉구",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Ld1dlYkZRZDZLWVVBSWxLc1NKcEwyYWFmc1JsUWFza0NXVXJ4SnNPX1hkVnhDVjc3WnBDalh6aGIySGt1OVFjaXM1V3hqcXlHOEVkZERRUzZ2anVlMG1wYjU1WWVIQQ?oc=5",
@@ -439,13 +439,13 @@
     {
       "id": "0a049a08701a",
       "title": "평가원, 싱가포르 교육부와 교육정책 논의…에듀테크·미래인재 협력",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YamU2WThUVEtNZVZMX25oQkU2bGxMMUM2RlFRZ0dPejg0SXdyVHdISXJSUFhhME5DWm1Oa29qX2ZOd3RyWlBnLUFSUi1IMDNGVEU3RnB4aEt1NUpV?oc=5",
+      "url": "https://www.newspim.com/news/view/20260922000462",
       "source": "뉴스핌",
       "kind": "domestic",
-      "publishedAt": "2026-09-22T01:38:00.000Z",
-      "description": "평가원, 싱가포르 교육부와 교육정책 논의…에듀테크·미래인재 협력 뉴스핌",
+      "publishedAt": "2026-09-22T07:54:00.000Z",
+      "description": "[서울=뉴스핌] 송주원 기자 = 한국교육과정평가원은 싱가포르 교육부 대표단과 교육 분야 협력을 강화하기 위한 교육정책 간담회를 개최한다고 22일 밝혔다.간담회는 이날 한국교육시설안전원 대회의실에서 열린다. 싱가포르 측에서는 데스몬드 리(Desmond Lee) ...",
       "category": "AI·디지털",
-      "feedProvider": "google",
+      "feedProvider": "bing",
       "policyRelevance": 65,
       "score": 72
     },
@@ -499,6 +499,32 @@
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 45,
+      "score": 71
+    },
+    {
+      "id": "f485797e3987",
+      "title": "교육부, 청년 130명과 교육정책 토론…AI 시대 교육·진로 논의",
+      "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EC%A4%91%EB%93%B1-%EA%B5%90%EC%9C%A1/%EA%B5%90%EC%9C%A1%EB%B6%80-%EC%B2%AD%EB%85%84-130%EB%AA%85%EA%B3%BC-%EA%B5%90%EC%9C%A1%EC%A0%95%EC%B1%85-%ED%86%A0%EB%A1%A0-ai-%EC%8B%9C%EB%8C%80-%EA%B5%90%EC%9C%A1-%EC%A7%84%EB%A1%9C-%EB%85%BC%EC%9D%98/ar-AA2cDDT7",
+      "source": "조선에듀 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-09-20T21:55:28.000Z",
+      "description": "교육부가 21일 세종대학교 광개토관에서 ‘2026년 교육부 청년정책 토론회’를 개최한다.이번 토론회에는 청년단체 관계자 50명과 대학생·취업준비생·사회초년생 등 일반 청년 50명, 교육부 2030청년자문단 20여 명 등 약 130명이 참여한다.교육부 ...",
+      "category": "고등교육",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 71
+    },
+    {
+      "id": "849d24d8f855",
+      "title": "최교진, 청년 130명 만난다…AI시대 교육 방향 논의",
+      "url": "https://www.fnnews.com/news/202609200903272330",
+      "source": "파이낸셜뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-20T02:02:00.000Z",
+      "description": "[세종=뉴시스]용윤신 기자 = 최교진 교육부 장관이 대학생과 취업준비생, 사회초년생 등 청년 130여 명을 만나 교육·진로·취업 문제와 인공지능(AI) 시대 교육정책 방향을 논의한다. 교육부는 오는 21일 오후 2시 서울 광진구 세종대학교 광개토관에서 '2026년 교..",
+      "category": "AI·디지털",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
       "score": 71
     },
     {
@@ -616,19 +642,6 @@
       "kind": "domestic",
       "publishedAt": "2026-09-21T10:02:00.000Z",
       "description": "차정인 국교위 위원장, 싱가포르 교육부 장관 등과 교육 협력 간담회 한국대학신문",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 63
-    },
-    {
-      "id": "c739a13223ff",
-      "title": "싱가포르 교육부 장관 대표단, 서울 중·고교 방문… 교육협력 논의",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5STzZZa0V5dlhQRnd0V2RsNEYxeUxRU1JrRGdHRDlTWnpBejNvVHVkcUpqb2MtZ0hScXc2QUIydVR3TWgtZU9xQTJSeFpTcV9zVVhyS1BobWNJV2RKdWFDVWQzbjV6dw?oc=5",
-      "source": "한국대학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-09-20T22:11:31.000Z",
-      "description": "싱가포르 교육부 장관 대표단, 서울 중·고교 방문… 교육협력 논의 한국대학신문",
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 45,
@@ -852,6 +865,19 @@
       "summaryKo": "페루 대통령, 정부가 이념적으로 고려하는 콘텐츠를 삭제하기 위한 학교 개혁안 발표 www.christiandaily.com"
     },
     {
+      "id": "c739a13223ff",
+      "title": "싱가포르 교육부 장관 대표단, 서울 중·고교 방문… 교육협력 논의",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5STzZZa0V5dlhQRnd0V2RsNEYxeUxRU1JrRGdHRDlTWnpBejNvVHVkcUpqb2MtZ0hScXc2QUIydVR3TWgtZU9xQTJSeFpTcV9zVVhyS1BobWNJV2RKdWFDVWQzbjV6dw?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-09-20T22:11:31.000Z",
+      "description": "싱가포르 교육부 장관 대표단, 서울 중·고교 방문… 교육협력 논의 한국대학신문",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 53
+    },
+    {
       "id": "c70b2c97af94",
       "title": "최교진 장관, 대학생 고민 직접 듣는다… 청년정책 토론회 개최",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wY09zejBURVlzNjJVSERCeGk1OHZtZ2JRd1VDb2VFOXFhMkhvdGFheGFVUTkxWkFIc09IaGxjekRXVUFRN2RtdmlPLXFmZnlPeXBCajBKY2l6X25pN1Q4LUZRTHdFUQ?oc=5",
@@ -897,20 +923,6 @@
       "summaryKo": "정부의 학교 커리큘럼 개편을 일시 중단하는 노동, RNZ가 선출되면 NCEA가 변경됨"
     },
     {
-      "id": "5047dbec5724",
-      "title": "Who needs a degree? South Korea’s chip boom rewires university-obsessed culture",
-      "url": "https://www.msn.com/en-xl/money/general/who-needs-a-degree-south-korea-s-chip-boom-rewires-university-obsessed-culture/ar-AA2cJcpA",
-      "source": "South China Morning Post on MSN",
-      "kind": "foreign",
-      "publishedAt": "2026-09-21T23:49:30.000Z",
-      "description": "When I think about the pay I'll be getting at Samsung, I'm not worried at all,' a student at a semiconductor school says Inside a brightly lit cleanroom at Chungbuk Semiconductor High School in South ...",
-      "category": "고등교육",
-      "score": 30,
-      "originalTitle": "Who needs a degree? South Korea’s chip boom rewires university-obsessed culture",
-      "titleKo": "학위가 필요한 사람은 누구인가요? 한국의 칩 붐은 대학에 집착하는 문화를 재조명합니다.",
-      "summaryKo": "삼성에서 받을 보수를 생각하면 전혀 걱정이 안 돼요. '반도체 학교의 한 학생이 남쪽에 있는 충북반도체고등학교의 밝게 빛나는 청정실 안에서..."
-    },
-    {
       "id": "ad87c43184a1",
       "title": "Scholar calls academy integration key to South Korea's future military",
       "url": "https://www.upi.com/Top_News/World-News/2026/09/18/military-academies-defense-reform-joint-operations/8971789773520/",
@@ -939,6 +951,20 @@
       "summaryKo": "피스 윈드 위크 (Peace Wind Week) 가 시작되면서 칼럼니스트는 한국의 통일 교육이 오늘날의 진정한 북한을 여전히 가르치고 있는지 묻습니다."
     },
     {
+      "id": "0a6dd9300351",
+      "title": "Inside South Korea’s university programs offering a direct route to Samsung and SK Hynix",
+      "url": "https://www.msn.com/en-us/money/markets/inside-south-korea-s-university-programs-offering-a-direct-route-to-samsung-and-sk-hynix/ar-AA2ciQq9",
+      "source": "CNBC on MSN",
+      "kind": "foreign",
+      "publishedAt": "2026-09-15T16:52:04.000Z",
+      "description": "Companies are helping universities develop courses, provide financial support and create pathways through which qualifying students can join them.",
+      "category": "고등교육",
+      "score": 30,
+      "originalTitle": "Inside South Korea’s university programs offering a direct route to Samsung and SK Hynix",
+      "titleKo": "삼성과 SK하이닉스로 바로 가는 경로를 제공하는 한국의 대학 프로그램 내부",
+      "summaryKo": "기업들은 대학이 과정을 개발하고 재정 지원을 제공하며 자격을 갖춘 학생들이 참여할 수 있는 경로를 만들 수 있도록 돕고 있습니다."
+    },
+    {
       "id": "f3eb03e57f3f",
       "title": "Applications surge for South Korean corporate-sponsored majors",
       "url": "https://www.upi.com/Top_News/World-News/2026/09/15/university-admissions-Samsung-Electronics-SK-hynix-programs/4391789512434/",
@@ -960,7 +986,7 @@
     "throughDate": "2026-09-24",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-09-22T15:00:00.000Z",
-    "windowEnd": "2026-09-23T21:37:58.205Z",
+    "windowEnd": "2026-09-23T22:33:19.040Z",
     "itemIds": [
       "30c9aaa61003",
       "921aa4bababd",
