@@ -1,7 +1,8 @@
 {
-  "generatedAt": "2026-09-23T22:33:33.133Z",
+  "generatedAt": "2026-09-24T21:37:39.407Z",
   "retentionDays": 30,
   "days": [
+    "2026-09-25",
     "2026-09-24",
     "2026-09-23",
     "2026-09-22",
@@ -30,10 +31,38 @@
     "2026-08-30",
     "2026-08-29",
     "2026-08-28",
-    "2026-08-27",
-    "2026-08-26"
+    "2026-08-27"
   ],
   "items": [
+    {
+      "id": "ae5ccbf94c42",
+      "title": "수능만 잘 보면 된다?…2028 정시, 학생부가 변수로",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CWFd5eW1EdF80WEtZN1c2bnNKc0Y2bFE2VjZSTmo2T3VOODVvZkdyNmFnbGFvNFlKRFA3Mmd1ZzM4Nl9SRDZVbUp1bXVlRHJiRW92WjdXM19GcjVCUFZGcg?oc=5",
+      "source": "메트로신문",
+      "kind": "domestic",
+      "publishedAt": "2026-09-23T23:30:20.000Z",
+      "description": "수능만 잘 보면 된다?…2028 정시, 학생부가 변수로 메트로신문",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 75,
+      "snapshotDate": "2026-09-25"
+    },
+    {
+      "id": "02f6e34324aa",
+      "title": "Exclusive: Ministry of Education recommends teachers resign for elections, restrict SNS politics",
+      "url": "https://www.msn.com/en-xl/news/other/exclusive-ministry-of-education-recommends-teachers-resign-for-elections-restrict-sns-politics/ar-AA2cRXd2",
+      "source": "The Chosun Ilbo on MSN",
+      "kind": "foreign",
+      "publishedAt": "2026-09-23T20:51:31.000Z",
+      "description": "A policy study by the Ministry of Education, conducted to advance the current government’s national task of “expanding teachers’ political basic rights,” concluded that teachers should be restricted ...",
+      "category": "교원·조직",
+      "score": 30,
+      "originalTitle": "Exclusive: Ministry of Education recommends teachers resign for elections, restrict SNS politics",
+      "titleKo": "독점: 교육부는 교사가 선거를 위해 사직하고, SNS 정치를 제한할 것을 권장합니다.",
+      "summaryKo": "현 정부의 국정과제인 '교원의 정치적 기본권 확대' 를 추진하기 위해 실시된 교육부의 정책연구는 교사를 제한해야 한다는 결론을 내렸다...",
+      "snapshotDate": "2026-09-25"
+    },
     {
       "id": "ca22080af2db",
       "title": "대학 입학 가산점 정책 조정: IELTS가 논란을 일으키는 이유는 무엇일까요?",
@@ -45,8 +74,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 52,
-      "score": 76,
-      "snapshotDate": "2026-09-24"
+      "score": 66,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "4d9a3b14aef9",
@@ -59,8 +88,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 52,
-      "score": 76,
-      "snapshotDate": "2026-09-24"
+      "score": 66,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "30c9aaa61003",
@@ -73,8 +102,8 @@
       "category": "교원·조직",
       "feedProvider": "bing",
       "policyRelevance": 75,
-      "score": 87,
-      "snapshotDate": "2026-09-24"
+      "score": 77,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "921aa4bababd",
@@ -87,8 +116,8 @@
       "category": "재정·법령",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 86,
-      "snapshotDate": "2026-09-24"
+      "score": 76,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "c16f3a71c25a",
@@ -101,8 +130,22 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 75,
-      "snapshotDate": "2026-09-24"
+      "score": 65,
+      "snapshotDate": "2026-09-25"
+    },
+    {
+      "id": "5f59cafb5575",
+      "title": "자퇴로 ‘내신 리셋’ 실효 다하나…상위권 대학, 정시에도 학생부 반영",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUEpPMXVFXzA1NmZ3NVVGS0ZhcWRNVTFLcGJfUmpXZ2JPZjNUZ2FOR3RtakExby1LTHdDRjVEV3EtU1IxRDRfaEJZb3R6YXZ0S2NaQkJUN3JPNmNOYUxSOXRrbko5QnRlelZhWFRZYjV4T0pDdEJSUW4xY0xuZXcyMA?oc=5",
+      "source": "edaily.co.kr",
+      "kind": "domestic",
+      "publishedAt": "2026-09-23T00:48:17.000Z",
+      "description": "자퇴로 ‘내신 리셋’ 실효 다하나…상위권 대학, 정시에도 학생부 반영 edaily.co.kr",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 65,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "c85571920324",
@@ -115,8 +158,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 73,
-      "snapshotDate": "2026-09-24"
+      "score": 63,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "1e9e3759fb35",
@@ -129,8 +172,8 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 71,
-      "snapshotDate": "2026-09-24"
+      "score": 61,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "0e5c7873a9b1",
@@ -143,8 +186,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 52,
-      "score": 80,
-      "snapshotDate": "2026-09-24"
+      "score": 70,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "40f8818afe2e",
@@ -157,8 +200,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 82,
-      "snapshotDate": "2026-09-24"
+      "score": 72,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "93a79d0ff164",
@@ -171,8 +214,22 @@
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 73,
-      "snapshotDate": "2026-09-24"
+      "score": 63,
+      "snapshotDate": "2026-09-25"
+    },
+    {
+      "id": "2d7a81d7af6c",
+      "title": "“무엇을 할지보다 안 할 것부터”… 수능 앞둔 추석 연휴, 학습 리듬 지켜야",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mRzVfcGxUR2ZUb1cyX0tKQTM4YUZyQjBoeFd0RmZjTS1KUzUzdGw4Z1Z6M3FEbmFyQzRyVWt0cXo5R1J0aFcwNXpwTTBmcjJsZVJwRVpacUE3OWVqRXVDT0xGclJoZw?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-09-22T23:17:51.000Z",
+      "description": "“무엇을 할지보다 안 할 것부터”… 수능 앞둔 추석 연휴, 학습 리듬 지켜야 한국대학신문",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 65,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "32bdcf545fea",
@@ -185,8 +242,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 86,
-      "snapshotDate": "2026-09-24"
+      "score": 76,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "2853d1ebe086",
@@ -199,8 +256,36 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 75,
-      "snapshotDate": "2026-09-24"
+      "score": 65,
+      "snapshotDate": "2026-09-25"
+    },
+    {
+      "id": "7258c57ce998",
+      "title": "충북교육청 '수업 중 스마트기기 제한' 초중고 학칙 정비",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%EB%B0%8F-%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4/%EC%B6%A9%EB%B6%81%EA%B5%90%EC%9C%A1%EC%B2%AD-%EC%88%98%EC%97%85-%EC%A4%91-%EC%8A%A4%EB%A7%88%ED%8A%B8%EA%B8%B0%EA%B8%B0-%EC%A0%9C%ED%95%9C-%EC%B4%88%EC%A4%91%EA%B3%A0-%ED%95%99%EC%B9%99-%EC%A0%95%EB%B9%84/ar-AA2cMO9w",
+      "source": "뉴시스 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-09-22T18:46:24.000Z",
+      "description": "충북도교육청은 초중등교육법 개정에 따라 '수업 중 학생 스마트기기 사용 제한'을 뼈대로 한 학칙 내 학생 생활 규정을 정비했다고 23일 밝혔다. 개정된 초중등교육법 '20조 5(교내 스마트기기의 사용 제한 등)'는 수업 중 학생의 스마트기기 사용을 제한하는 내용이 담겼다. 2023년 제정된 '교원의 학생 생활 지도에 관한 고시'에 적시된 학생 스마트기기 사 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 81,
+      "snapshotDate": "2026-09-25"
+    },
+    {
+      "id": "34306afa519f",
+      "title": "최교진 교육부장관, 싱가포르와 초중등 교육제도 및 AI 교육 정책 논의",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=208754",
+      "source": "라이센스뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-22T12:00:00.000Z",
+      "description": "라이센스뉴스 = 황수정 기자 | 한국과 싱가포르 교육 당국이 양국의 주요 교육 제도와 미래 교육 정책 추진 경험을 나누는 자리를 가졌다. 교육부는 최교진 장관이 22일 한국교육시설안전원에서 데스먼드 리 싱가포르 교육부장관과 교육정책 간담회를 개최했다고 밝혔다.",
+      "category": "AI·디지털",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
+      "score": 82,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "a1ce3d89e827",
@@ -214,7 +299,7 @@
       "feedProvider": "bing",
       "policyRelevance": 40,
       "score": 61,
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "7b176de363d1",
@@ -228,7 +313,7 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 71,
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "ef88152a9a2b",
@@ -242,7 +327,7 @@
       "feedProvider": "bing",
       "policyRelevance": 75,
       "score": 81,
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "4321fe7feb56",
@@ -256,7 +341,7 @@
       "feedProvider": "bing",
       "policyRelevance": 65,
       "score": 76,
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "0a049a08701a",
@@ -270,7 +355,7 @@
       "feedProvider": "bing",
       "policyRelevance": 65,
       "score": 72,
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "25297a00a50a",
@@ -284,7 +369,7 @@
       "feedProvider": "google",
       "policyRelevance": 47,
       "score": 68,
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "34306afa519f",
@@ -312,7 +397,21 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 61,
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
+    },
+    {
+      "id": "c3118bc60612",
+      "title": "제주도·교육청 등 4개 기관, 교육혁신선도지역 공모 공동 추진",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VS3FjVVlBN1BwT2xYVzIwc1hDWDM0UjQ2Q3VJckRRbTlocGpuNnI0SllMcUR2RUhueXN5LXlLVnhNZ3FURjdkb1dmamV2Q1Foa2RFTF9yQ1VQbVItd2R0eNIBYEFVX3lxTE5VS3FjVVlBN1BwT2xYVzIwc1hDWDM0UjQ2Q3VJckRRbTlocGpuNnI0SllMcUR2RUhueXN5LXlLVnhNZ3FURjdkb1dmamV2Q1Foa2RFTF9yQ1VQbVItd2R0eA?oc=5",
+      "source": "연합뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-22T05:00:03.000Z",
+      "description": "제주도·교육청 등 4개 기관, 교육혁신선도지역 공모 공동 추진 연합뉴스",
+      "category": "지역·평생교육",
+      "feedProvider": "google",
+      "policyRelevance": 47,
+      "score": 64,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "46e9e1ec70f1",
@@ -326,7 +425,7 @@
       "feedProvider": "bing",
       "policyRelevance": 45,
       "score": 67,
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "2f03b7968604",
@@ -340,7 +439,7 @@
       "feedProvider": "bing",
       "policyRelevance": 65,
       "score": 76,
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "0a049a08701a",
@@ -368,7 +467,7 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 61,
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "f9cf88bf552d",
@@ -382,7 +481,7 @@
       "feedProvider": "google",
       "policyRelevance": 75,
       "score": 77,
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "bf1a98c24d24",
@@ -409,7 +508,7 @@
       "category": "입시·사교육",
       "policyRelevance": 100,
       "score": 109,
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "db47eb42d0b9",
@@ -422,7 +521,7 @@
       "category": "유·초중등",
       "policyRelevance": 100,
       "score": 105,
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "5047dbec5724",
@@ -450,8 +549,8 @@
       "category": "AI·디지털",
       "feedProvider": "bing",
       "policyRelevance": 65,
-      "score": 76,
-      "snapshotDate": "2026-09-24"
+      "score": 66,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "44bcbcf14352",
@@ -464,11 +563,11 @@
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 53,
-      "score": 65,
+      "score": 55,
       "originalTitle": "Parliament extends public participation on six education reform bills to October 2",
       "titleKo": "의회는 6개 교육개혁법안에 대한 국민참여를 10월 2일까지 확대한다.",
       "summaryKo": "의회, 6개 교육개혁법안에 대한 국민참여를 10월 2일까지 확대 교육뉴스",
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "6d4217e55b4e",
@@ -481,11 +580,11 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 53,
-      "score": 61,
+      "score": 51,
       "originalTitle": "Government to Revise School Education Curriculum After Seven Years",
       "titleKo": "정부, 7년 후 학교 교육과정 개정",
       "summaryKo": "정부, 7년 후 학교 교육과정 개정 라토파티",
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "52f38e87d1ed",
@@ -515,8 +614,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 63,
-      "snapshotDate": "2026-09-24"
+      "score": 53,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "eb9fc247c7a3",
@@ -529,8 +628,8 @@
       "category": "재정·법령",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 76,
-      "snapshotDate": "2026-09-24"
+      "score": 66,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "fed7ab36cbc2",
@@ -543,8 +642,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 63,
-      "snapshotDate": "2026-09-24"
+      "score": 53,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "3c75c79f0ada",
@@ -557,8 +656,8 @@
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 42,
-      "score": 62,
-      "snapshotDate": "2026-09-24"
+      "score": 52,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "642839159b6a",
@@ -585,8 +684,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 77,
-      "score": 82,
-      "snapshotDate": "2026-09-24"
+      "score": 72,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "f1896ef1f942",
@@ -599,8 +698,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 61,
-      "snapshotDate": "2026-09-24"
+      "score": 51,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "1a11107fce6f",
@@ -613,8 +712,8 @@
       "category": "입시·사교육",
       "feedProvider": "bing",
       "policyRelevance": 75,
-      "score": 77,
-      "snapshotDate": "2026-09-24"
+      "score": 67,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "5af7bf3fbf62",
@@ -627,8 +726,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 61,
-      "snapshotDate": "2026-09-24"
+      "score": 51,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "210a143c5538",
@@ -655,8 +754,22 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 61,
-      "snapshotDate": "2026-09-24"
+      "score": 51,
+      "snapshotDate": "2026-09-25"
+    },
+    {
+      "id": "e81c66be5c46",
+      "title": "싱가포르 교육부 장관, 서울 학교 찾아 미래교육 현장 살핀다",
+      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1295248",
+      "source": "전국매일신문",
+      "kind": "domestic",
+      "publishedAt": "2026-09-21T06:16:00.000Z",
+      "description": "서울시교육청은 21일부터 22일까지 데스몬드 리(Desmond Lee) 싱가포르 교육부 장관과 대표단의 서울 학교 방문을 지원하고, 정근식 교육감과 오찬 회동을 통해 양국 교육정책과 교육협력 방안을 논의한다고 21일 밝혔다.이번 방문은 싱가포르 대표단이 특색 있는 서울 학교 교육과정과 미래교육 운영 사례를 직접 살펴보고, 양국의 교육정책과 학교 현장 경험을 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 53,
+      "score": 57,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "766535e7d43a",
@@ -669,8 +782,8 @@
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 76,
-      "snapshotDate": "2026-09-24"
+      "score": 66,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "6a80246e0d65",
@@ -683,8 +796,8 @@
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 47,
-      "score": 64,
-      "snapshotDate": "2026-09-24"
+      "score": 54,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "fd3afd2e7c83",
@@ -697,8 +810,8 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 72,
-      "snapshotDate": "2026-09-24"
+      "score": 62,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "f5acca9138cd",
@@ -711,8 +824,8 @@
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 72,
-      "snapshotDate": "2026-09-24"
+      "score": 62,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "095649fb4c83",
@@ -725,8 +838,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 65,
-      "snapshotDate": "2026-09-24"
+      "score": 55,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "a8a3b2b21f83",
@@ -739,8 +852,8 @@
       "category": "교원·조직",
       "feedProvider": "bing",
       "policyRelevance": 75,
-      "score": 77,
-      "snapshotDate": "2026-09-24"
+      "score": 67,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "c739a13223ff",
@@ -754,7 +867,7 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 53,
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "f485797e3987",
@@ -768,7 +881,7 @@
       "feedProvider": "bing",
       "policyRelevance": 75,
       "score": 71,
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "1700a92d38f7",
@@ -869,7 +982,7 @@
       "originalTitle": "Education reforms split teachers’ unions as Parliament weighs two key Bills",
       "titleKo": "교육 개혁은 의회가 두 가지 주요 법안의 무게에 따라 교원 노조를 분열시킵니다.",
       "summaryKo": "교육 개혁은 의회가 두 가지 주요 법안 일일 국가의 무게에 따라 교원 노조를 분열시킵니다.",
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "849d24d8f855",
@@ -938,7 +1051,7 @@
       "category": "유·초중등",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "44eaafde590b",
@@ -951,7 +1064,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "7711737b8ec0",
@@ -964,7 +1077,7 @@
       "category": "고등교육",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "c70b2c97af94",
@@ -1161,7 +1274,7 @@
       "originalTitle": "Scholar calls academy integration key to South Korea's future military",
       "titleKo": "학자는 한국의 미래 군대에 아카데미 통합 열쇠를 호출",
       "summaryKo": "한국의 국방 학자는 군사 아카데미를 통합하면 미래 전쟁을 위한 공동 작전, 다양성 및 장교 교육을 향상시킬 수 있다고 말합니다.",
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "2c9d9bc36b3f",
@@ -1570,7 +1683,7 @@
       "originalTitle": "Principals frustrated by government's curriculum changes, federation says",
       "titleKo": "연맹은 정부의 커리큘럼 변경으로 인해 교장들이 좌절하고 있다고 말합니다.",
       "summaryKo": "RNZ 연맹은 정부의 커리큘럼 변경으로 인해 교장이 좌절했다고 말합니다.",
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "0ca99dd18f84",
@@ -1821,11 +1934,11 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 53,
-      "score": 55,
+      "score": 50,
       "originalTitle": "Peru's president unveils school reform to remove content her government considers ideological",
       "titleKo": "페루 대통령, 정부가 이데올로기 적으로 간주하는 콘텐츠를 삭제하기위한 학교 개혁안 발표",
       "summaryKo": "페루 대통령, 정부가 이념적으로 고려하는 콘텐츠를 삭제하기 위한 학교 개혁안 발표 www.christiandaily.com",
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "f0a59b5dbf04",
@@ -2062,11 +2175,11 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 53,
-      "score": 51,
+      "score": 46,
       "originalTitle": "Labour to pause government’s school curriculum overhaul, NCEA changes if elected",
       "titleKo": "정부의 학교 교육과정 개편을 일시 중단하기 위한 노력, 선출될 경우 NCEA 변경",
       "summaryKo": "정부의 학교 커리큘럼 개편을 일시 중단하는 노동, RNZ가 선출되면 NCEA가 변경됨",
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "41ceb72ae532",
@@ -2191,8 +2304,8 @@
       "description": "교육부 공식 보도자료",
       "category": "입시·사교육",
       "policyRelevance": 100,
-      "score": 99,
-      "snapshotDate": "2026-09-24"
+      "score": 94,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "874fb34b24d1",
@@ -2204,8 +2317,8 @@
       "description": "교육부 공식 보도자료",
       "category": "기타",
       "policyRelevance": 100,
-      "score": 95,
-      "snapshotDate": "2026-09-24"
+      "score": 90,
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "9a71e8ca8de0",
@@ -2568,7 +2681,7 @@
       "category": "AI·디지털",
       "policyRelevance": 100,
       "score": 90,
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "0e2e1b11460c",
@@ -2581,7 +2694,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 90,
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "65bb686addac",
@@ -2594,7 +2707,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 90,
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "a75d87c47f28",
@@ -2733,7 +2846,7 @@
       "originalTitle": "Inside South Korea’s university programs offering a direct route to Samsung and SK Hynix",
       "titleKo": "삼성과 SK하이닉스로 바로 가는 경로를 제공하는 한국의 대학 프로그램 내부",
       "summaryKo": "기업들은 대학이 과정을 개발하고 재정 지원을 제공하며 자격을 갖춘 학생들이 참여할 수 있는 경로를 만들 수 있도록 돕고 있습니다.",
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "f3eb03e57f3f",
@@ -2748,7 +2861,7 @@
       "originalTitle": "Applications surge for South Korean corporate-sponsored majors",
       "titleKo": "한국 기업 스폰서 전공 지원자 급증",
       "summaryKo": "학생들이 주요 기업의 일자리에 대한 명확한 경로를 모색함에 따라 기업이 후원하는 한국 대학 프로그램에 대한 지원서가 기록적으로 증가했습니다.",
-      "snapshotDate": "2026-09-24"
+      "snapshotDate": "2026-09-25"
     },
     {
       "id": "20d18e6454e3",
@@ -8241,102 +8354,6 @@
       "category": "기타",
       "score": 50,
       "snapshotDate": "2026-09-01"
-    },
-    {
-      "id": "796498d222a1",
-      "title": "정부 초청 외국인 장학생 졸업 축하 행사 개최",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107035&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-08-26T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "유·초중등",
-      "score": 50,
-      "snapshotDate": "2026-09-01"
-    },
-    {
-      "id": "aa9dc7db9810",
-      "title": "교육부, 성인문해교육 지원사업 20주년 기념 '대한민국 문해교육 정책전시회' 개최",
-      "url": "https://www.msn.com/ko-kr/news/other/%EA%B5%90%EC%9C%A1%EB%B6%80-%EC%84%B1%EC%9D%B8%EB%AC%B8%ED%95%B4%EA%B5%90%EC%9C%A1-%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85-20%EC%A3%BC%EB%85%84-%EA%B8%B0%EB%85%90-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AC%B8%ED%95%B4%EA%B5%90%EC%9C%A1-%EC%A0%95%EC%B1%85%EC%A0%84%EC%8B%9C%ED%9A%8C-%EA%B0%9C%EC%B5%9C/ar-AA2aWNnP",
-      "source": "조선에듀 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-08-25T23:12:23.000Z",
-      "description": "교육부와 국가평생교육진흥원이 오는 27일부터 28일까지 이틀간 청주 오스코에서 ‘대한민국 문해교육 정책전시회’를 개최한다.이번 정책전시회에서는 성인문해교육 지원사업 20주년을 맞아 그간의 성인문해교육 정책성과를 공유하고, 인공지능(AI)·디지털 시대 ...",
-      "category": "AI·디지털",
-      "score": 47,
-      "snapshotDate": "2026-08-29"
-    },
-    {
-      "id": "556d726e0aa3",
-      "title": "문해교육 20년 한눈에…교육부, 대한민국 문해교육 정책전시회",
-      "url": "https://www.msn.com/ko-kr/news/national/%EB%AC%B8%ED%95%B4%EA%B5%90%EC%9C%A1-20%EB%85%84-%ED%95%9C%EB%88%88%EC%97%90-%EA%B5%90%EC%9C%A1%EB%B6%80-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AC%B8%ED%95%B4%EA%B5%90%EC%9C%A1-%EC%A0%95%EC%B1%85%EC%A0%84%EC%8B%9C%ED%9A%8C/ar-AA2aVyvN",
-      "source": "뉴스1 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-08-25T20:00:00.000Z",
-      "description": "27~28일 청주 오스코서 '문해교육 정책전시회' 개최 (서울=뉴스1) 김재현 기자 = 교육부와 국가평생교육진흥원은 27~28일 이틀간 충북 청주 오스코(OSCO)에서 '대한민국 문해교육 정책전시회'를 개최한다고 26일 밝혔다. 성인문해교육 지원사업 20주년을 맞아 마련된 이번 행사는 지난 20년간의 정책 성과를 ...",
-      "category": "지역·평생교육",
-      "score": 43,
-      "snapshotDate": "2026-08-27"
-    },
-    {
-      "id": "fecfb1a8f9c5",
-      "title": "문해교육 20년 한눈에…교육부, 대한민국 문해교육 정책전시회",
-      "url": "https://www.msn.com/ko-kr/news/other/%EB%AC%B8%ED%95%B4%EA%B5%90%EC%9C%A1-20%EB%85%84-%ED%95%9C%EB%88%88%EC%97%90-%EA%B5%90%EC%9C%A1%EB%B6%80-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AC%B8%ED%95%B4%EA%B5%90%EC%9C%A1-%EC%A0%95%EC%B1%85%EC%A0%84%EC%8B%9C%ED%9A%8C/ar-AA2aVyvN",
-      "source": "뉴스1 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-08-25T20:00:00.000Z",
-      "description": "27~28일 청주 오스코서 '문해교육 정책전시회' 개최 (서울=뉴스1) 김재현 기자 = 교육부와 국가평생교육진흥원은 27~28일 이틀간 충북 청주 오스코(OSCO)에서 '대한민국 문해교육 정책전시회'를 개최한다고 26일 밝혔다. 성인문해교육 지원사업 20주년을 맞아 마련된 이번 행사는 지난 20년간의 정책 성과를 ...",
-      "category": "지역·평생교육",
-      "score": 53,
-      "snapshotDate": "2026-08-26"
-    },
-    {
-      "id": "967a905b0f4f",
-      "title": "“AI 시대 이끌 기술인재 한자리에”…교육부·한국발명진흥회, 직업계고 인재성장 기업포럼 성료",
-      "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EC%9D%BC%EB%B0%98/ai-%EC%8B%9C%EB%8C%80-%EC%9D%B4%EB%81%8C-%EA%B8%B0%EC%88%A0%EC%9D%B8%EC%9E%AC-%ED%95%9C%EC%9E%90%EB%A6%AC%EC%97%90-%EA%B5%90%EC%9C%A1%EB%B6%80-%ED%95%9C%EA%B5%AD%EB%B0%9C%EB%AA%85%EC%A7%84%ED%9D%A5%ED%9A%8C-%EC%A7%81%EC%97%85%EA%B3%84%EA%B3%A0-%EC%9D%B8%EC%9E%AC%EC%84%B1%EC%9E%A5-%EA%B8%B0%EC%97%85%ED%8F%AC%EB%9F%BC-%EC%84%B1%EB%A3%8C/ar-AA2aVI4w",
-      "source": "매일경제 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-08-25T18:05:30.000Z",
-      "description": "인공지능 전환 시대 기업 맞춤형 직업교육 정책 공유 기업 현장의 기술인재 채용 필요성·중요성 확인 25일 교육부와 한국발명진흥회가 주최·주관한 ‘2026 직업계고 인재성장 기업포럼’ 에서 참석자들이 기념촬영을 하고 있다. [한국발명진흥회] 인공지능 전환(AX)과 학령인구 감소에 대응해 직업계고 인재 양성과 고졸 인재 채용 확대 방안을 논의하는 자리가 마련됐 ...",
-      "category": "AI·디지털",
-      "score": 57,
-      "snapshotDate": "2026-08-26"
-    },
-    {
-      "id": "24b9e62c6821",
-      "title": "교육부, 인문사회 ‘집단지성’으로 해법 찾는다",
-      "url": "http://jeongpil.com/2648540",
-      "source": "정필",
-      "kind": "domestic",
-      "publishedAt": "2026-08-25T16:59:00.000Z",
-      "description": "[정필=김정훈 교육전문기자 kspa@jeongpil.com] 교육부와 한국연구재단(이사장 홍원화)은 케이(K)-학술의 도약을 이끌 2026년 인문사회 분야 학술지원 집단연구군 신규과제 94개를 선정했다. 사업별 선정 결과는 8월 26일 한국연구재단 누리집을 통해 공고됐으며, 연구책임자는 연구사업통합지원시스템을 통해 결과를 확인할 수 있다. 이번에 선정된 신 ...",
-      "category": "고등교육",
-      "score": 43,
-      "snapshotDate": "2026-08-27"
-    },
-    {
-      "id": "7cbc1979b25d",
-      "title": "정부, 성인 문해교육 20년 기념 전시…한글 넘어 AI·금융까지 배운다",
-      "url": "https://www.newspim.com/news/view/20260826000127",
-      "source": "뉴스핌",
-      "kind": "domestic",
-      "publishedAt": "2026-08-25T12:20:00.000Z",
-      "description": "[서울=뉴스핌] 송주원 기자 = 교육부와 국가평생교육진흥원은 성인문해교육 지원사업 20주년을 맞아 오는 27일부터 28일까지 청주 오스코에서 '대한민국 문해교육 정책전시회'를 개최한다고 26일 밝혔다.이번 행사는 지난 20년간 성인문해교육 정책의 성과를 돌아보 ...",
-      "category": "AI·디지털",
-      "score": 57,
-      "snapshotDate": "2026-08-26"
-    },
-    {
-      "id": "1f4f7eb9e631",
-      "title": "교육부, 서울대와 함께 ‘서울대학교 역사교육지원연구센터’ 개소",
-      "url": "https://www.msn.com/ko-kr/news/other/%EA%B5%90%EC%9C%A1%EB%B6%80-%EC%84%9C%EC%9A%B8%EB%8C%80%EC%99%80-%ED%95%A8%EA%BB%98-%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90-%EC%97%AD%EC%82%AC%EA%B5%90%EC%9C%A1%EC%A7%80%EC%9B%90%EC%97%B0%EA%B5%AC%EC%84%BC%ED%84%B0-%EA%B0%9C%EC%86%8C/ar-AA2aRKiL",
-      "source": "조선에듀 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-08-25T09:30:00.000Z",
-      "description": "교육부와 서울대학교가 오늘(25일) 서울대학교에서 ‘서울대학교 역사교육지원연구센터’ 개소식을 개최했다.서울대학교 교육종합연구원은 지난 5월 교육부와 16개 시도교육청이 추진하는 ‘2026년 학교 역사교육 활성화 사업’ 공모에 선정됐다. 이에 따라 6 ...",
-      "category": "입시·사교육",
-      "score": 43,
-      "snapshotDate": "2026-08-28"
     }
   ]
 }
