@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-24T21:37:24.997Z",
-  "generatedAtKST": "2026-09-25T06:37:19.024+09:00",
+  "generatedAt": "2026-09-24T22:34:00.233Z",
+  "generatedAtKST": "2026-09-25T07:33:55.292+09:00",
   "date": "2026-09-25",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 13,
+    "domesticBing": 11,
     "domesticGoogle": 146,
     "foreignBing": 6,
-    "foreignGoogle": 221,
-    "carried": 119,
-    "rawUnique": 353,
-    "policyRejected": 289,
-    "policyKept": 64
+    "foreignGoogle": 220,
+    "carried": 170,
+    "rawUnique": 351,
+    "policyRejected": 288,
+    "policyKept": 63
   },
   "briefing": [
     "「학원 설립.운영 및 과외교습에 관한 법률 시행령」 일부개정령안 국무회의 통과 — 교육부",
@@ -24,9 +24,9 @@
     "2026 산업계 대학교육 혁신포럼 개최 — 교육부"
   ],
   "stats": {
-    "total": 68,
+    "total": 67,
     "official": 10,
-    "domestic": 48,
+    "domestic": 47,
     "foreign": 10
   },
   "items": [
@@ -216,6 +216,19 @@
       "score": 77
     },
     {
+      "id": "c8695ece0f35",
+      "title": "대전교육감 직속 교육활동보호관 신설…부당민원 교직원 징계금지(종합)",
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%8C%80%EC%A0%84%EA%B5%90%EC%9C%A1%EA%B0%90-%EC%A7%81%EC%86%8D-%EA%B5%90%EC%9C%A1%ED%99%9C%EB%8F%99%EB%B3%B4%ED%98%B8%EA%B4%80-%EC%8B%A0%EC%84%A4-%EB%B6%80%EB%8B%B9%EB%AF%BC%EC%9B%90-%EA%B5%90%EC%A7%81%EC%9B%90-%EC%A7%95%EA%B3%84%EA%B8%88%EC%A7%80-%EC%A2%85%ED%95%A9/ar-AA2cIWV3",
+      "source": "연합뉴스 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-09-21T22:49:36.000Z",
+      "description": "교권침해 신고시 장학사·변호사 등 출동…부당 민원엔 학교장 재량 거부 대전교사노조 \"교권 침해로 위축된 학교 현장에 새로운 희망 제시 결단\" (대전=연합뉴스) 이주형 기자 = 대전시교육청이 오는 23일부터 교육감 직속 전담 기구인 '교육활동보호관'을 신설한다고 22일 밝혔다. 오석진 대전교육감은 이날 본청에서 브리핑을 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 77
+    },
+    {
       "id": "921aa4bababd",
       "title": "선심성 현금지원 교육청 최대 100억 예산 삭감",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uT1VaS3ZmVUo4WVE0VHViUGVMSUN2dzh3Q21fQ3p4bnIxaFlmSVVieXRQX0VycHQ1bWtIaHVuR0dTUEhGZ0FaSC1GeXZRbkFQeVo4eDc0RnVmOU5BSHZJ?oc=5",
@@ -281,13 +294,13 @@
       "score": 75
     },
     {
-      "id": "40f8818afe2e",
+      "id": "554de2a82962",
       "title": "수시 마감 39분 지나서야 ‘1시간 연장’ 공지…대교협 늑장대응",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iNEJTdDl1MGJoLThPSzRGVFRzWHNhTjhYMWUwZXM2R0lMR2JPZjgzT1RsN1VyQnVqR0owZ05RQ0dxX0otSVZvaHdxTDNLbHJBSVBlek5ZOXdZWUk2UzFtdVFmSnNVLUF2bWdFREJLN1c2WC1weVHSAWZBVV95cUxQQlhJVTZSVDZzdnZXY004cm1fbTN0QmJNazl4MERvMVFpdlNGbkYzLVJxNC1tYzNRTlVDWkFPQ3UzZ1N2cDNCWTJraEhSTXlxN2RuYTFiRHFTTHJOS3Y5UUdCdzgwdHc?oc=5",
-      "source": "동아일보",
+      "source": "donga.com",
       "kind": "domestic",
       "publishedAt": "2026-09-22T23:55:26.000Z",
-      "description": "수시 마감 39분 지나서야 ‘1시간 연장’ 공지…대교협 늑장대응 동아일보",
+      "description": "수시 마감 39분 지나서야 ‘1시간 연장’ 공지…대교협 늑장대응 donga.com",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
@@ -330,19 +343,6 @@
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 71
-    },
-    {
-      "id": "f485797e3987",
-      "title": "교육부, 청년 130명과 교육정책 토론…AI 시대 교육·진로 논의",
-      "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EC%A4%91%EB%93%B1-%EA%B5%90%EC%9C%A1/%EA%B5%90%EC%9C%A1%EB%B6%80-%EC%B2%AD%EB%85%84-130%EB%AA%85%EA%B3%BC-%EA%B5%90%EC%9C%A1%EC%A0%95%EC%B1%85-%ED%86%A0%EB%A1%A0-ai-%EC%8B%9C%EB%8C%80-%EA%B5%90%EC%9C%A1-%EC%A7%84%EB%A1%9C-%EB%85%BC%EC%9D%98/ar-AA2cDDT7",
-      "source": "조선에듀 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-09-20T21:55:28.000Z",
-      "description": "교육부가 21일 세종대학교 광개토관에서 ‘2026년 교육부 청년정책 토론회’를 개최한다.이번 토론회에는 청년단체 관계자 50명과 대학생·취업준비생·사회초년생 등 일반 청년 50명, 교육부 2030청년자문단 20여 명 등 약 130명이 참여한다.교육부 ...",
-      "category": "고등교육",
-      "feedProvider": "bing",
-      "policyRelevance": 75,
       "score": 71
     },
     {
@@ -742,19 +742,6 @@
       "score": 53
     },
     {
-      "id": "c739a13223ff",
-      "title": "싱가포르 교육부 장관 대표단, 서울 중·고교 방문… 교육협력 논의",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5STzZZa0V5dlhQRnd0V2RsNEYxeUxRU1JrRGdHRDlTWnpBejNvVHVkcUpqb2MtZ0hScXc2QUIydVR3TWgtZU9xQTJSeFpTcV9zVVhyS1BobWNJV2RKdWFDVWQzbjV6dw?oc=5",
-      "source": "한국대학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-09-20T22:11:31.000Z",
-      "description": "싱가포르 교육부 장관 대표단, 서울 중·고교 방문… 교육협력 논의 한국대학신문",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 53
-    },
-    {
       "id": "3c75c79f0ada",
       "title": "‘서울대 10개 만들기’ 정책 반발 확산",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MSmt1cTc3TFpFUDE4MHZSaGU0X0NpSlVQeEdFc1Q5S0NJbG01aHpoY0ZBOXZsRHQ4YVRtVV9RclJJQzl3alpaNjFMak1GbHE5alczRGNvWU9qbkwwSnRMcVhzSWFhYTRfbG5j?oc=5",
@@ -934,7 +921,7 @@
     "throughDate": "2026-09-25",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-09-23T15:00:00.000Z",
-    "windowEnd": "2026-09-24T21:37:24.997Z",
+    "windowEnd": "2026-09-24T22:34:00.233Z",
     "itemIds": [
       "ae5ccbf94c42",
       "ca22080af2db",
