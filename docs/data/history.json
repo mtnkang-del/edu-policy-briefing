@@ -1,7 +1,8 @@
 {
-  "generatedAt": "2026-09-24T22:34:14.317Z",
+  "generatedAt": "2026-09-25T21:39:30.572Z",
   "retentionDays": 30,
   "days": [
+    "2026-09-26",
     "2026-09-25",
     "2026-09-24",
     "2026-09-23",
@@ -30,10 +31,82 @@
     "2026-08-31",
     "2026-08-30",
     "2026-08-29",
-    "2026-08-28",
-    "2026-08-27"
+    "2026-08-28"
   ],
   "items": [
+    {
+      "id": "f1b0e03f498e",
+      "title": "“사교육·경력단절 키워”…‘3시 하교’ 좌초 조짐에 뿔난 학부모",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5OSnhnNkNscWpNaW9pTk9XTGk2NTJrOWlPWkZvdjQyaldJS2xvUzBCYzBqMDBvSmpPQjhYbHlrcWpOWGxDdEE?oc=5",
+      "source": "v.daum.net",
+      "kind": "domestic",
+      "publishedAt": "2026-09-25T05:30:00.000Z",
+      "description": "“사교육·경력단절 키워”…‘3시 하교’ 좌초 조짐에 뿔난 학부모 v.daum.net",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 71,
+      "snapshotDate": "2026-09-26"
+    },
+    {
+      "id": "566bd3c79db9",
+      "title": "'3시 하교' 좌초 조짐에 뿔난 학부모 \"사교육·경력단절 키워\"",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoaDIyc2JXODl5WFN4ZXlNWE45TWJuNHFMMmFMM3BHVEVWd0t4cnh0ZzNGQzBlek9KaWFPcEw0NFlWR3RmRXo1WW9SbGtFTnFCMERpci1Vd0VKRUdfQzJKZTNJblVFWmNzUmpKbEJxOWY5V3RFeWZDbdIBeEFVX3lxTFBoaDIyc2JXODl5WFN4ZXlNWE45TWJuNHFMMmFMM3BHVEVWd0t4cnh0ZzNGQzBlek9KaWFPcEw0NFlWR3RmRXo1WW9SbGtFTnFCMERpci1Vd0VKRUdfQzJKZTNJblVFWmNzUmpKbEJxOWY5V3RFeWZDbQ?oc=5",
+      "source": "뉴시스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-25T05:00:00.000Z",
+      "description": "'3시 하교' 좌초 조짐에 뿔난 학부모 \"사교육·경력단절 키워\" 뉴시스",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 71,
+      "snapshotDate": "2026-09-26"
+    },
+    {
+      "id": "b43bed67378a",
+      "title": "안민석 교육감, 에스토니아·독일서 AI·시민교육 구상...내년부터 본격 추진",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqdk85WkRHeW51bVZpSEVRd194NENVeEFfcktwZXpPaW1TSVhtYkhnNVR3ODRoeFRnRWlNdXFZSmdRM1NzUzNubXdUdXdaV1dRU2MxLTF5UGRfUdIBWEFVX3lxTE5zSzktX2FVQ2NoUmoyRXlQYjhLMklRRHotZGxhLVJHSmM4TTY3RlJqdUx0UWlYZFkzUmtmQVZXdjBaNGVENlI2eTRSdE44eEpsTEJiVWJhUkY?oc=5",
+      "source": "아주경제",
+      "kind": "domestic",
+      "publishedAt": "2026-09-25T01:34:49.000Z",
+      "description": "안민석 교육감, 에스토니아·독일서 AI·시민교육 구상...내년부터 본격 추진 아주경제",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 47,
+      "score": 78,
+      "snapshotDate": "2026-09-26"
+    },
+    {
+      "id": "2ec75f1f73ea",
+      "title": "Punjab approves new curriculum for Government Schools, cuts textbook burden by 25 per cent",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXSUNza3JpM3AyUVRpR3J5VTlsQmFEUmxIczZKZVJGYUxGTXhVc2ZEQy1JaE44alhVT0hCcm5FdGl3ZnBfNkNoa25MeXpLX3FqR0hsZE10bFh4UENMTjA4enNBYWRHbUpoWXdj?oc=5",
+      "source": "Pakistan Connect",
+      "kind": "foreign",
+      "publishedAt": "2026-09-24T08:36:24.000Z",
+      "description": "Punjab approves new curriculum for Government Schools, cuts textbook burden by 25 per cent Pakistan Connect",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 53,
+      "score": 61,
+      "originalTitle": "Punjab approves new curriculum for Government Schools, cuts textbook burden by 25 per cent",
+      "titleKo": "펀자브, 정부 학교를 위한 새로운 커리큘럼 승인, 교과서 부담 25% 삭감",
+      "summaryKo": "펀자브, 정부 학교를 위한 새로운 커리큘럼 승인, 교과서 부담 25% 삭감 파키스탄 커넥트",
+      "snapshotDate": "2026-09-26"
+    },
+    {
+      "id": "ef8dce710364",
+      "title": "대학 등록금은 예정된 일정대로 계속 인상될 것입니다.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GMW1rTDNGS0VOOWNVeHdVUmJncm9IeFUzN1NyelJGTGs1WGtKLW1tOUc0NDhmZ2hnUEEwQWVZWF8wNUl0cmFNZjdqdXRDbEhDVldadWt4ZUVtN0YwZjJSV1FnY0hSRmlyZkxETkc3Q2lyWndaeWpVdGZZSG8?oc=5",
+      "source": "Vietnam.vn",
+      "kind": "domestic",
+      "publishedAt": "2026-09-24T06:32:26.000Z",
+      "description": "대학 등록금은 예정된 일정대로 계속 인상될 것입니다. Vietnam.vn",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 61,
+      "snapshotDate": "2026-09-26"
+    },
     {
       "id": "ae5ccbf94c42",
       "title": "수능만 잘 보면 된다?…2028 정시, 학생부가 변수로",
@@ -45,8 +118,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 75,
-      "snapshotDate": "2026-09-25"
+      "score": 65,
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "02f6e34324aa",
@@ -64,6 +137,21 @@
       "snapshotDate": "2026-09-25"
     },
     {
+      "id": "2b8ce378175e",
+      "title": "Exclusive: Ministry of Education recommends teachers resign for elections, restrict SNS politics",
+      "url": "https://www.msn.com/en-xl/money/general/exclusive-ministry-of-education-recommends-teachers-resign-for-elections-restrict-sns-politics/ar-AA2cRXd2",
+      "source": "The Chosun Ilbo on MSN",
+      "kind": "foreign",
+      "publishedAt": "2026-09-23T20:35:49.000Z",
+      "description": "A policy study by the Ministry of Education, conducted to advance the current government’s national task of “expanding teachers’ political basic rights,” concluded that teachers should be restricted ...",
+      "category": "교원·조직",
+      "score": 30,
+      "originalTitle": "Exclusive: Ministry of Education recommends teachers resign for elections, restrict SNS politics",
+      "titleKo": "독점: 교육부는 교사가 선거를 위해 사직하고, SNS 정치를 제한할 것을 권장합니다.",
+      "summaryKo": "현 정부의 국정과제인 '교원의 정치적 기본권 확대' 를 추진하기 위해 실시된 교육부의 정책연구는 교사를 제한해야 한다는 결론을 내렸다...",
+      "snapshotDate": "2026-09-26"
+    },
+    {
       "id": "ca22080af2db",
       "title": "대학 입학 가산점 정책 조정: IELTS가 논란을 일으키는 이유는 무엇일까요?",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUHVLNmpFWnhQRWQwUWZCS3lCWURiSkp6WVlRYWo3VEdtbTZJN3ByTVJqcGN5elRwUXBHTWd5UjZFT3lzX2c1SGZLLUwweVh3Z3o3VXB0M2dGUnZ0ZXhPbmplQV9FZ2pMdHA0Rzk4YlJtUlNLNzFOVU1ybHNzcWdSZEo5YVJtSk8tQk9CMEVwQ3N5bFQwcGN0Y0RmYW5qQmtl?oc=5",
@@ -75,7 +163,21 @@
       "feedProvider": "google",
       "policyRelevance": 52,
       "score": 66,
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-26"
+    },
+    {
+      "id": "f06b5a078758",
+      "title": "전남광주 지역대학교 IR 협의회 출범",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12amRrRkJvMHNvOGlMdWp2bzkwQU9abGtMZ0xpd1FVNkV5VFk4LVF3M3NUM09wNzR1YmxLUzBSSktNd3BVMWNXbEtWbVFNc3BYelhXcnhNd0dvLWR5Ul9lcg?oc=5",
+      "source": "newstoktok.com",
+      "kind": "domestic",
+      "publishedAt": "2026-09-23T09:30:00.000Z",
+      "description": "전남광주 지역대학교 IR 협의회 출범 newstoktok.com",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 52,
+      "score": 66,
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "4d9a3b14aef9",
@@ -103,7 +205,35 @@
       "feedProvider": "bing",
       "policyRelevance": 75,
       "score": 77,
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-26"
+    },
+    {
+      "id": "94c6b48fb0b5",
+      "title": "급여 정책, 수당 제도 및 교사 지원을 지속적으로 개선합니다",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLXBfLUFuX190YWpiSG81TWM5VDJEc0lncE5YN01EcFV1QjFrM1lkUUFuc1RoTWREbmNfX2NiZ096SXlGNjBTamRzVnR6VjVuTzJqaEZkaGNPZU9xSTBQREdtOUNjYnE1YXdXaFBBQ20wNzdRODFJWkU1YzIxR01fbmtqejVLd2V4QnZzRVpqbUEtSjhqOGE4RzdmeVRsSXVwbkNLOVcxUDZmT0JtRHBQQmhFTzFncmstZFE?oc=5",
+      "source": "Laodong.vn",
+      "kind": "domestic",
+      "publishedAt": "2026-09-23T04:07:41.000Z",
+      "description": "급여 정책, 수당 제도 및 교사 지원을 지속적으로 개선합니다 Laodong.vn",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 61,
+      "snapshotDate": "2026-09-26"
+    },
+    {
+      "id": "eb5390192c3b",
+      "title": "선심성 현금지원 교육청 최대 100억 예산 삭감",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uT1VaS3ZmVUo4WVE0VHViUGVMSUN2dzh3Q21fQ3p4bnIxaFlmSVVieXRQX0VycHQ1bWtIaHVuR0dTUEhGZ0FaSC1GeXZRbkFQeVo4eDc0RnVmOU5BSHZJ?oc=5",
+      "source": "hangyo.com",
+      "kind": "domestic",
+      "publishedAt": "2026-09-23T00:57:06.000Z",
+      "description": "선심성 현금지원 교육청 최대 100억 예산 삭감 hangyo.com",
+      "category": "재정·법령",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 76,
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "921aa4bababd",
@@ -131,7 +261,7 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 65,
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "5f59cafb5575",
@@ -145,7 +275,7 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 65,
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "c85571920324",
@@ -159,7 +289,7 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 63,
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "1e9e3759fb35",
@@ -173,7 +303,7 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 61,
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "0e5c7873a9b1",
@@ -187,7 +317,21 @@
       "feedProvider": "google",
       "policyRelevance": 52,
       "score": 70,
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-26"
+    },
+    {
+      "id": "40f8818afe2e",
+      "title": "수시 마감 39분 지나서야 ‘1시간 연장’ 공지…대교협 늑장대응",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iNEJTdDl1MGJoLThPSzRGVFRzWHNhTjhYMWUwZXM2R0lMR2JPZjgzT1RsN1VyQnVqR0owZ05RQ0dxX0otSVZvaHdxTDNLbHJBSVBlek5ZOXdZWUk2UzFtdVFmSnNVLUF2bWdFREJLN1c2WC1weVHSAWZBVV95cUxQQlhJVTZSVDZzdnZXY004cm1fbTN0QmJNazl4MERvMVFpdlNGbkYzLVJxNC1tYzNRTlVDWkFPQ3UzZ1N2cDNCWTJraEhSTXlxN2RuYTFiRHFTTHJOS3Y5UUdCdzgwdHc?oc=5",
+      "source": "동아일보",
+      "kind": "domestic",
+      "publishedAt": "2026-09-22T23:55:26.000Z",
+      "description": "수시 마감 39분 지나서야 ‘1시간 연장’ 공지…대교협 늑장대응 동아일보",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 72,
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "554de2a82962",
@@ -204,20 +348,6 @@
       "snapshotDate": "2026-09-25"
     },
     {
-      "id": "40f8818afe2e",
-      "title": "수시 마감 39분 지나서야 ‘1시간 연장’ 공지…대교협 늑장대응",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iNEJTdDl1MGJoLThPSzRGVFRzWHNhTjhYMWUwZXM2R0lMR2JPZjgzT1RsN1VyQnVqR0owZ05RQ0dxX0otSVZvaHdxTDNLbHJBSVBlek5ZOXdZWUk2UzFtdVFmSnNVLUF2bWdFREJLN1c2WC1weVHSAWZBVV95cUxQQlhJVTZSVDZzdnZXY004cm1fbTN0QmJNazl4MERvMVFpdlNGbkYzLVJxNC1tYzNRTlVDWkFPQ3UzZ1N2cDNCWTJraEhSTXlxN2RuYTFiRHFTTHJOS3Y5UUdCdzgwdHc?oc=5",
-      "source": "동아일보",
-      "kind": "domestic",
-      "publishedAt": "2026-09-22T23:55:26.000Z",
-      "description": "수시 마감 39분 지나서야 ‘1시간 연장’ 공지…대교협 늑장대응 동아일보",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 82,
-      "snapshotDate": "2026-09-24"
-    },
-    {
       "id": "93a79d0ff164",
       "title": "[뉴스핌-교총 특별기획③](하) 학부모 진단 거부에 기초학력 '골든타임 끝'",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CYy1zTl9PTGdQTEFKN1hOUUx3cnhuSkVJWHluaFphRHExY1ZPQXZIZHdGOHpSSEtkYVU0T1VidFc3cWJadkx1MUtPb0ZBZENSYThLb1Z6dXZmRHl1?oc=5",
@@ -229,7 +359,7 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 63,
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "2d7a81d7af6c",
@@ -243,7 +373,7 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 65,
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "32bdcf545fea",
@@ -257,7 +387,7 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 76,
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "2853d1ebe086",
@@ -271,7 +401,7 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 65,
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "7258c57ce998",
@@ -298,8 +428,8 @@
       "category": "AI·디지털",
       "feedProvider": "bing",
       "policyRelevance": 77,
-      "score": 82,
-      "snapshotDate": "2026-09-25"
+      "score": 72,
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "a1ce3d89e827",
@@ -312,8 +442,8 @@
       "category": "입시·사교육",
       "feedProvider": "bing",
       "policyRelevance": 40,
-      "score": 61,
-      "snapshotDate": "2026-09-25"
+      "score": 51,
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "7b176de363d1",
@@ -326,8 +456,8 @@
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 71,
-      "snapshotDate": "2026-09-25"
+      "score": 61,
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "ef88152a9a2b",
@@ -340,8 +470,8 @@
       "category": "AI·디지털",
       "feedProvider": "bing",
       "policyRelevance": 75,
-      "score": 81,
-      "snapshotDate": "2026-09-25"
+      "score": 71,
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "4321fe7feb56",
@@ -354,8 +484,8 @@
       "category": "기타",
       "feedProvider": "bing",
       "policyRelevance": 65,
-      "score": 76,
-      "snapshotDate": "2026-09-25"
+      "score": 66,
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "0a049a08701a",
@@ -368,8 +498,8 @@
       "category": "AI·디지털",
       "feedProvider": "bing",
       "policyRelevance": 65,
-      "score": 72,
-      "snapshotDate": "2026-09-25"
+      "score": 62,
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "25297a00a50a",
@@ -382,8 +512,8 @@
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 47,
-      "score": 68,
-      "snapshotDate": "2026-09-25"
+      "score": 58,
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "34306afa519f",
@@ -410,8 +540,36 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 61,
-      "snapshotDate": "2026-09-25"
+      "score": 51,
+      "snapshotDate": "2026-09-26"
+    },
+    {
+      "id": "734af4da3177",
+      "title": "[단독] 메아리 없는 ‘기간제교사 반복 마약검사’ 법 개정 요구...‘잠자는’ 국회 교육위",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrb1ZtaXBGUVNIZXloNHVSOHlULVRxR1djREEySFVQdGF3emN5RkoyVFc2QjV0RkZMT3d6WUQ2UXc4Wlhpd0FJY0p5WUIxcDNwdmFhR0JUaWZKcGM?oc=5",
+      "source": "더에듀",
+      "kind": "domestic",
+      "publishedAt": "2026-09-22T05:35:50.000Z",
+      "description": "[단독] 메아리 없는 ‘기간제교사 반복 마약검사’ 법 개정 요구...‘잠자는’ 국회 교육위 더에듀",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 75,
+      "score": 67,
+      "snapshotDate": "2026-09-26"
+    },
+    {
+      "id": "d55c884fd0a9",
+      "title": "제주도·교육청 등 4개 기관, 교육혁신선도지역 공모 공동 추진",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83RmptVmN0VkpmTlpOV19qNlNXTnAxa0VxTkx2a0lSakYxeFBwcDZuamdpNGtrLTlHbWNtTko0eUVOaUxtNWN0NzBpQ25LUWVaS3pjQ3RoekJCLUHSAWBBVV95cUxOVUtxY1VZQTdQcE9sWFcyMHNYQ1gzNFI0NkN1SXJEUW05aHBqbjZyNEpZTHFEdkVIbnlzeS15S1Z4TWdxVEY3ZG9XZmpldkNRaGtkRUxfckNVUG1SLXdkdHg?oc=5",
+      "source": "yna.co.kr",
+      "kind": "domestic",
+      "publishedAt": "2026-09-22T05:00:03.000Z",
+      "description": "제주도·교육청 등 4개 기관, 교육혁신선도지역 공모 공동 추진 yna.co.kr",
+      "category": "지역·평생교육",
+      "feedProvider": "google",
+      "policyRelevance": 47,
+      "score": 54,
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "c3118bc60612",
@@ -438,8 +596,22 @@
       "category": "AI·디지털",
       "feedProvider": "bing",
       "policyRelevance": 45,
-      "score": 67,
-      "snapshotDate": "2026-09-25"
+      "score": 57,
+      "snapshotDate": "2026-09-26"
+    },
+    {
+      "id": "90b3b477c63b",
+      "title": "울산교육청, 교원 520여 명 대상 인공지능·디지털 활용 연수",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB6cnRVNjNSVmtWUkVhT2x2T3h0cldvQ2NGWS03SGN2a0syZEhhWk5WNHd4aEswSGVwc0NjdzdXN3BMMGZf?oc=5",
+      "source": "newszoom.kr",
+      "kind": "domestic",
+      "publishedAt": "2026-09-22T03:33:00.000Z",
+      "description": "울산교육청, 교원 520여 명 대상 인공지능·디지털 활용 연수 newszoom.kr",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 57,
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "2f03b7968604",
@@ -452,8 +624,8 @@
       "category": "유·초중등",
       "feedProvider": "bing",
       "policyRelevance": 65,
-      "score": 76,
-      "snapshotDate": "2026-09-25"
+      "score": 66,
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "0a049a08701a",
@@ -480,8 +652,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 61,
-      "snapshotDate": "2026-09-25"
+      "score": 51,
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "f9cf88bf552d",
@@ -494,8 +666,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 75,
-      "score": 77,
-      "snapshotDate": "2026-09-25"
+      "score": 67,
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "bf1a98c24d24",
@@ -521,8 +693,8 @@
       "description": "교육부 공식 보도자료",
       "category": "입시·사교육",
       "policyRelevance": 100,
-      "score": 109,
-      "snapshotDate": "2026-09-25"
+      "score": 99,
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "db47eb42d0b9",
@@ -534,8 +706,8 @@
       "description": "교육부 공식 보도자료",
       "category": "유·초중등",
       "policyRelevance": 100,
-      "score": 105,
-      "snapshotDate": "2026-09-25"
+      "score": 95,
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "5047dbec5724",
@@ -563,8 +735,8 @@
       "category": "교원·조직",
       "feedProvider": "bing",
       "policyRelevance": 75,
-      "score": 77,
-      "snapshotDate": "2026-09-25"
+      "score": 67,
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "306678220787",
@@ -595,7 +767,7 @@
       "originalTitle": "Parliament extends public participation on six education reform bills to October 2",
       "titleKo": "의회는 6개 교육개혁법안에 대한 국민참여를 10월 2일까지 확대한다.",
       "summaryKo": "의회, 6개 교육개혁법안에 대한 국민참여를 10월 2일까지 확대 교육뉴스",
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "6d4217e55b4e",
@@ -612,7 +784,7 @@
       "originalTitle": "Government to Revise School Education Curriculum After Seven Years",
       "titleKo": "정부, 7년 후 학교 교육과정 개정",
       "summaryKo": "정부, 7년 후 학교 교육과정 개정 라토파티",
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "52f38e87d1ed",
@@ -1010,7 +1182,7 @@
       "originalTitle": "Education reforms split teachers’ unions as Parliament weighs two key Bills",
       "titleKo": "교육 개혁은 의회가 두 가지 주요 법안의 무게에 따라 교원 노조를 분열시킵니다.",
       "summaryKo": "교육 개혁은 의회가 두 가지 주요 법안 일일 국가의 무게에 따라 교원 노조를 분열시킵니다.",
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "849d24d8f855",
@@ -1079,7 +1251,7 @@
       "category": "유·초중등",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "44eaafde590b",
@@ -1092,7 +1264,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "7711737b8ec0",
@@ -1105,7 +1277,7 @@
       "category": "고등교육",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "c70b2c97af94",
@@ -1302,7 +1474,7 @@
       "originalTitle": "Scholar calls academy integration key to South Korea's future military",
       "titleKo": "학자는 한국의 미래 군대에 아카데미 통합 열쇠를 호출",
       "summaryKo": "한국의 국방 학자는 군사 아카데미를 통합하면 미래 전쟁을 위한 공동 작전, 다양성 및 장교 교육을 향상시킬 수 있다고 말합니다.",
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "2c9d9bc36b3f",
@@ -1707,11 +1879,11 @@
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 53,
-      "score": 51,
+      "score": 46,
       "originalTitle": "Principals frustrated by government's curriculum changes, federation says",
       "titleKo": "연맹은 정부의 커리큘럼 변경으로 인해 교장들이 좌절하고 있다고 말합니다.",
       "summaryKo": "RNZ 연맹은 정부의 커리큘럼 변경으로 인해 교장이 좌절했다고 말합니다.",
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "0ca99dd18f84",
@@ -2333,7 +2505,7 @@
       "category": "입시·사교육",
       "policyRelevance": 100,
       "score": 94,
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "874fb34b24d1",
@@ -2346,7 +2518,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 90,
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "9a71e8ca8de0",
@@ -2709,7 +2881,7 @@
       "category": "AI·디지털",
       "policyRelevance": 100,
       "score": 90,
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "0e2e1b11460c",
@@ -2722,7 +2894,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 90,
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "65bb686addac",
@@ -2735,7 +2907,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 90,
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "a75d87c47f28",
@@ -2874,7 +3046,7 @@
       "originalTitle": "Inside South Korea’s university programs offering a direct route to Samsung and SK Hynix",
       "titleKo": "삼성과 SK하이닉스로 바로 가는 경로를 제공하는 한국의 대학 프로그램 내부",
       "summaryKo": "기업들은 대학이 과정을 개발하고 재정 지원을 제공하며 자격을 갖춘 학생들이 참여할 수 있는 경로를 만들 수 있도록 돕고 있습니다.",
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "f3eb03e57f3f",
@@ -2889,7 +3061,7 @@
       "originalTitle": "Applications surge for South Korean corporate-sponsored majors",
       "titleKo": "한국 기업 스폰서 전공 지원자 급증",
       "summaryKo": "학생들이 주요 기업의 일자리에 대한 명확한 경로를 모색함에 따라 기업이 후원하는 한국 대학 프로그램에 대한 지원서가 기록적으로 증가했습니다.",
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-26"
     },
     {
       "id": "20d18e6454e3",
@@ -8201,18 +8373,6 @@
       "snapshotDate": "2026-08-30"
     },
     {
-      "id": "ce22f0930daa",
-      "title": "교육부, 'AI 교과서 개발역량 강화 워크숍' 개최",
-      "url": "https://www.fnnews.com/news/202608271201311807",
-      "source": "파이낸셜뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-08-27T05:01:00.000Z",
-      "description": "교육부, 'AI 교과서 개발역량 강화 워크숍' 개최 현장교원 참여 '인정 교과서' 2028년부터 학교 수업에 적용 (서울=연합뉴스) 노재현 기자 = 교육부는 28∼29일 대구 인터불고엑스코 호텔에서 인공지능(AI) 교과 교과서 집필위원을 대상으로 'AI 교과 교과서 개발 ..",
-      "category": "AI·디지털",
-      "score": 61,
-      "snapshotDate": "2026-08-27"
-    },
-    {
       "id": "7479eb90ce00",
       "title": "학교 역사교육 활성화를 위한 교육부-독립기념관 업무협약(MOU) 체결",
       "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107050&lev=0&m=020402",
@@ -8223,141 +8383,6 @@
       "category": "입시·사교육",
       "score": 50,
       "snapshotDate": "2026-09-03"
-    },
-    {
-      "id": "c49b9d7b7078",
-      "title": "인공지능(AI) 교과, 교원이 주도하여 교육자료부터 인정교과서까지 만든다",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107049&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-08-27T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "AI·디지털",
-      "score": 58,
-      "snapshotDate": "2026-09-02"
-    },
-    {
-      "id": "c09781f02639",
-      "title": "2026년 8월 대학정보공시 분석 결과 발표",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107048&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-08-27T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "고등교육",
-      "score": 54,
-      "snapshotDate": "2026-09-02"
-    },
-    {
-      "id": "5ac435d84d87",
-      "title": "2029학년도 대학입학전형기본사항 발표",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107052&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-08-27T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "고등교육",
-      "score": 54,
-      "snapshotDate": "2026-09-01"
-    },
-    {
-      "id": "c1fe939d27e4",
-      "title": "부이사관 교육부(애틀란타한국교육원 파견) 김새봄 강원대학교 강릉캠퍼스 행정본부장 구영실",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=02230406645551584",
-      "source": "이데일리",
-      "kind": "domestic",
-      "publishedAt": "2026-08-26T23:09:00.000Z",
-      "description": "◇부이사관 △교육부(애틀란타한국교육원 파견) 김새봄 △강원대학교 강릉캠퍼스 행정본부장 구영실 ◇서기관 △평생학습정책과장 민미홍 △학생건강정책과장 김주연 △교육부 최흥윤 △교육부 이상범 △교육부(국외훈련 파견) 강현 △기획조정실 임종일 △감사관실 이종환 △학교정책실 ...",
-      "category": "고등교육",
-      "score": 53,
-      "snapshotDate": "2026-08-27"
-    },
-    {
-      "id": "a297fb96d738",
-      "title": "- 교육부, ‘인공지능(AI) 교과 교과서 개발 역량 강화 연수’ 개최",
-      "url": "https://edu.chosun.com/site/data/html_dir/2026/08/27/2026082780135.html",
-      "source": "조선에듀",
-      "kind": "domestic",
-      "publishedAt": "2026-08-26T18:53:00.000Z",
-      "description": "교육부가 오는 28일부터 29일까지 대구 인터불고 엑스코 호텔에서 인공지능 (AI) 교과 교과서 집필위원을 대상으로 ‘인공지능 (AI) 교과 교과서 개발 역량 강화 연수’를 개최한다. 그동안 학교에서는 인공지능 (AI) 관련 교과가 다양하지 않아, 학교장이 과목을 개설하고 교사가 직접 제작한 교육자료를 활용해 수업하는 경우가 많았다. 이에 따라 교원이 매 ...",
-      "category": "AI·디지털",
-      "score": 61,
-      "snapshotDate": "2026-08-27"
-    },
-    {
-      "id": "5faf16185f42",
-      "title": "South Korea military academy merger plan draws heated opposition",
-      "url": "https://www.upi.com/Top_News/World-News/2026/08/26/military-academies-reform-merging-into-one/3151787789597/",
-      "source": "UPI",
-      "kind": "foreign",
-      "publishedAt": "2026-08-26T13:16:00.000Z",
-      "description": "S. Korea's first public hearing on merging three service academies turned heated as supporters and opponents clashed over military education reform.",
-      "category": "기타",
-      "score": 30,
-      "originalTitle": "South Korea military academy merger plan draws heated opposition",
-      "titleKo": "한국 사관학교 병합 계획은 열띤 반대를 이끌어 냅니다.",
-      "summaryKo": "S. 한국 최초의 복무 아카데미 병합 공청회는 군사 교육 개혁에 대한 지지자와 반대자가 충돌하면서 열띤 반응을 보였다.",
-      "snapshotDate": "2026-09-01"
-    },
-    {
-      "id": "f96db02b49af",
-      "title": "AI시대 '문해교육' 방향은…27~28일 청주서 정책 전시회",
-      "url": "https://www.newsis.com/view/NISX20260826_0003762785",
-      "source": "뉴시스",
-      "kind": "domestic",
-      "publishedAt": "2026-08-26T05:00:00.000Z",
-      "description": "[세종=뉴시스]용윤신 기자 = 성인문해교육 지원사업 20주년을 맞아 그동안의 성과를 돌아보고 인공지능(AI)·디지털 시대 문해교육의 방향을 모색하는 정책전시회가 열린다.교육부와 국가평생교육진흥원은 27일부터 28일까지 이틀간 청주 오스코(OSCO)에서 '대한민국 문해교육 정책전시회'를 개최한다고 26일 밝혔다.이번 행사는 성인문해교육 지원사업 추진 20주년 ...",
-      "category": "AI·디지털",
-      "score": 47,
-      "snapshotDate": "2026-08-27"
-    },
-    {
-      "id": "31a2a62dd232",
-      "title": "경남교육청, 미국 AI·디지털 교육 정책 연수 성과 공유",
-      "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EB%82%A8%EA%B5%90%EC%9C%A1%EC%B2%AD-%EB%AF%B8%EA%B5%AD-ai-%EB%94%94%EC%A7%80%ED%84%B8-%EA%B5%90%EC%9C%A1-%EC%A0%95%EC%B1%85-%EC%97%B0%EC%88%98-%EC%84%B1%EA%B3%BC-%EA%B3%B5%EC%9C%A0/ar-AA2aWF56",
-      "source": "뉴스핌 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-08-26T03:22:20.000Z",
-      "description": "[창원=뉴스핌] 남경문 기자 = 경남도교육청이 미국 인공지능(AI)·디지털 교육 현장을 둘러본 교원 연수단과 함께 연수 결과를 공유하고 도내 학교 적용 방안을 논의했다. 도교육청은 26일 '2026년 디지털 기반 교육혁신 유공교원 국외 연수 사후 보고회'를 열고 미국의 AI 및 디지털 교육 우수 사례를 중심으로 학생 ...",
-      "category": "AI·디지털",
-      "score": 51,
-      "snapshotDate": "2026-08-29"
-    },
-    {
-      "id": "8ad2ad0f3fc2",
-      "title": "경남교육청, 미국 AI·디지털 교육 연수 보고회…수업혁신 지원",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B2%BD%EB%82%A8%EA%B5%90%EC%9C%A1%EC%B2%AD-%EB%AF%B8%EA%B5%AD-ai-%EB%94%94%EC%A7%80%ED%84%B8-%EA%B5%90%EC%9C%A1-%EC%97%B0%EC%88%98-%EB%B3%B4%EA%B3%A0%ED%9A%8C-%EC%88%98%EC%97%85%ED%98%81%EC%8B%A0-%EC%A7%80%EC%9B%90/ar-AA2aXipz",
-      "source": "연합뉴스 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-08-26T01:28:26.000Z",
-      "description": "(창원=연합뉴스) 김동민 기자 = 경남도교육청은 26일 그랜드머큐어 창원에서 '2026년 디지털 기반 교육혁신 유공 교원 국외 연수 사후 보고회'를 열고 미국의 인공지능(AI)과 디지털 교육 우수 사례 및 현장 적용 방안을 논의했다. 도내 초·중등 교사와 교육 전문직 등 24명으로 구성된 연수단은 이달 5일부터 ...",
-      "category": "AI·디지털",
-      "score": 51,
-      "snapshotDate": "2026-08-29"
-    },
-    {
-      "id": "d745d270f00d",
-      "title": "경남교육청, 미국 국외 연수 성과 인공지능(AI)·디지털 교육 현장 확산",
-      "url": "https://www.idomin.com/news/articleView.html?idxno=2013262",
-      "source": "경남도민일보",
-      "kind": "domestic",
-      "publishedAt": "2026-08-26T00:13:00.000Z",
-      "description": "경남도교육청이 26일 창원시 성산구 그랜드머큐어 창원에서 ‘2026년 디지털 기반 교육혁신 유공교원 국외 연수 사후 보고회’를 열었다. 이날 보고회에서는 미국 인공지능 (AI)과 디지털 교육 우수 사례, 도내 현장 적용 방안을 논의했다.",
-      "category": "AI·디지털",
-      "score": 51,
-      "snapshotDate": "2026-08-29"
-    },
-    {
-      "id": "b39f63e90b4c",
-      "title": "2026년 교육기본통계 조사 결과 발표",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107034&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-08-26T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "기타",
-      "score": 54,
-      "snapshotDate": "2026-09-01"
     }
   ]
 }
