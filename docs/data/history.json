@@ -1,7 +1,8 @@
 {
-  "generatedAt": "2026-09-25T21:39:30.572Z",
+  "generatedAt": "2026-09-26T23:44:07.848Z",
   "retentionDays": 30,
   "days": [
+    "2026-09-27",
     "2026-09-26",
     "2026-09-25",
     "2026-09-24",
@@ -30,14 +31,55 @@
     "2026-09-01",
     "2026-08-31",
     "2026-08-30",
-    "2026-08-29",
-    "2026-08-28"
+    "2026-08-29"
   ],
   "items": [
     {
+      "id": "62a4c4527b11",
+      "title": "대구시교육청, 대구교육종단연구 2기 본격 추진 > 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9SMmVCRFVNX0UwUHBXQTdNdERjQndwOFViQWxod2gzVm9EQUx6MjAtZ2Y3TU5tZEpPQVljcjRVUTF5YUE?oc=5",
+      "source": "더코리아",
+      "kind": "domestic",
+      "publishedAt": "2026-09-25T14:41:00.000Z",
+      "description": "대구시교육청, 대구교육종단연구 2기 본격 추진 > 뉴스 더코리아",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 47,
+      "score": 64,
+      "snapshotDate": "2026-09-27"
+    },
+    {
+      "id": "4f0caed7ca0c",
+      "title": "안민석 경기도교육감, 유럽 교육현장서 AI·시민교육 구상…내년 경기형 모델 추진",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WNnNQOFRsRnZnV3NJbUxHa3p6TnczN0hrVTAxVUo5R005UjAyek80ZE9qNnNMUVQ1cnl5NWpzMFo3YUFLVXV1LU5XanVXVVdUaEdFOXhGTnpwQWZpcndqTmRXSWhwSzIyalQzcNIBbEFVX3lxTE5WNnNQOFRsRnZnV3NJbUxHa3p6TnczN0hrVTAxVUo5R005UjAyek80ZE9qNnNMUVQ1cnl5NWpzMFo3YUFLVXV1LU5XanVXVVdUaEdFOXhGTnpwQWZpcndqTmRXSWhwSzIyalQzcA?oc=5",
+      "source": "필드뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-25T11:46:53.000Z",
+      "description": "안민석 경기도교육감, 유럽 교육현장서 AI·시민교육 구상…내년 경기형 모델 추진 필드뉴스",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 47,
+      "score": 68,
+      "snapshotDate": "2026-09-27"
+    },
+    {
+      "id": "1c32c5c6203d",
+      "title": "대구시교육청, 대구 학생의 성장을 장기 추적하는 '대구교육종단연구 2기' 본격 추진",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82ZjJIeDA2MDZ1SU5qcE5xSDBIUEFvOWFKTzN3d2VBYmxIVVF2a3ZuTGw3NVQtUTBxRHNTUWJicWR3Rkp0Q2ZEXzh5eVlTc1M5MTREa2pJNUlRU3dEOWRvWGJR?oc=5",
+      "source": "㈜한국탑뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-25T10:30:18.000Z",
+      "description": "대구시교육청, 대구 학생의 성장을 장기 추적하는 '대구교육종단연구 2기' 본격 추진 ㈜한국탑뉴스",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 57,
+      "score": 69,
+      "snapshotDate": "2026-09-27"
+    },
+    {
       "id": "f1b0e03f498e",
       "title": "“사교육·경력단절 키워”…‘3시 하교’ 좌초 조짐에 뿔난 학부모",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5OSnhnNkNscWpNaW9pTk9XTGk2NTJrOWlPWkZvdjQyaldJS2xvUzBCYzBqMDBvSmpPQjhYbHlrcWpOWGxDdEE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KNmJnWGR2T092ZTE4WTM5QXBvbE82YlFKN2s0Z3EtS2ZJcnltVEpITnMxa1VSVFpnYnNvUHl2MHBOZXVWdS01eE9QOC12cWVRYzUzVw?oc=5",
       "source": "v.daum.net",
       "kind": "domestic",
       "publishedAt": "2026-09-25T05:30:00.000Z",
@@ -45,8 +87,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 71,
-      "snapshotDate": "2026-09-26"
+      "score": 61,
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "566bd3c79db9",
@@ -59,8 +101,22 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 71,
-      "snapshotDate": "2026-09-26"
+      "score": 61,
+      "snapshotDate": "2026-09-27"
+    },
+    {
+      "id": "55bf17daa037",
+      "title": "대구시교육청, ‘대구교육종단연구 2기’ 본격 추진…학생 1만2천 명 성장 추적",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hemxSUkYtTFQtekxnSjN5cTgwNXF2b2pRVnNXTWtBbllVTUNnd3VZTEpodTA5OWlXN3hINEJ4TUFmWGN1UVFCUTFqYzV0V1gyNUNkUWx6bUxBQnlvbWVfdE1yZVBlWDhOYy1J?oc=5",
+      "source": "여성종합뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-25T04:51:44.000Z",
+      "description": "대구시교육청, ‘대구교육종단연구 2기’ 본격 추진…학생 1만2천 명 성장 추적 여성종합뉴스",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 57,
+      "score": 69,
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "b43bed67378a",
@@ -73,8 +129,50 @@
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 47,
-      "score": 78,
-      "snapshotDate": "2026-09-26"
+      "score": 68,
+      "snapshotDate": "2026-09-27"
+    },
+    {
+      "id": "b5d8855f1e03",
+      "title": "[취재노트] 교부금법 5일, 시행규칙 42일...교육부의 거꾸로 시간표와 교육청의 딜레마",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzWkZFUVZ3cGZwOUtDX2dHSVRxTnRNU3YzUUMwdDY3Z1pNX1B1dXNudmowMGR3bHJTLWQxbl9aLU96NWxkOWZaSXlvbWtfR0NwLXhNOXV6dUFTZ0dSVF9pLTFoak90d2s?oc=5",
+      "source": "교육플러스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-25T00:20:43.000Z",
+      "description": "[취재노트] 교부금법 5일, 시행규칙 42일...교육부의 거꾸로 시간표와 교육청의 딜레마 교육플러스",
+      "category": "재정·법령",
+      "feedProvider": "google",
+      "policyRelevance": 77,
+      "score": 86,
+      "snapshotDate": "2026-09-27"
+    },
+    {
+      "id": "679089f379f3",
+      "title": "대한민국교육감협의회, “2027년 교육교부금 10.1% 증가? 추경 기준으론 3.2%”…재정 부담 우려",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIYzh4OHdmNGYxR05CVXppejhFTHZIajFDZHIxZ3FYTEdVUVE4RjQzV3ZDaWxxODBmdWxXeTNaMTJvMUc0MjB6Mm5ITjBaYnIwc19xZnpieFlqdl9vSTFIVkxoOEZqWDFPQ21CNDEza9IBb0FVX3lxTFBIYzh4OHdmNGYxR05CVXppejhFTHZIajFDZHIxZ3FYTEdVUVE4RjQzV3ZDaWxxODBmdWxXeTNaMTJvMUc0MjB6Mm5ITjBaYnIwc19xZnpieFlqdl9vSTFIVkxoOEZqWDFPQ21CNDEzaw?oc=5",
+      "source": "연합투데이",
+      "kind": "domestic",
+      "publishedAt": "2026-09-24T12:33:29.000Z",
+      "description": "대한민국교육감협의회, “2027년 교육교부금 10.1% 증가? 추경 기준으론 3.2%”…재정 부담 우려 연합투데이",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 77,
+      "score": 82,
+      "snapshotDate": "2026-09-27"
+    },
+    {
+      "id": "369cdf063c4f",
+      "title": "청두대학교는 신입생 지원을 위해 유니고 장학금으로 470억 VND를 배정했습니다.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMGxWTFNFOHVpeWMxY29QcEh0T2Ewb1NQOUV6WU55ZkM4MnFYNGR1OUdyOUpqcFdjUEJOS3cwNllKd0w4WkVjT1JYaDFKR01DdFBUX2hWZXkya0dkSTlic0FlVFVMblZZRFNQb0hCaUFSVWZaLVpxaGptZk5nd2Y1M1MyMDBCNHJlRXF2MnJvaGVPN2ZYZnJQcmdldHhOVlBtYmxlN3NqUUl1M0RyaGc?oc=5",
+      "source": "Vietnam.vn",
+      "kind": "domestic",
+      "publishedAt": "2026-09-24T10:47:17.000Z",
+      "description": "청두대학교는 신입생 지원을 위해 유니고 장학금으로 470억 VND를 배정했습니다. Vietnam.vn",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 61,
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "2ec75f1f73ea",
@@ -91,7 +189,7 @@
       "originalTitle": "Punjab approves new curriculum for Government Schools, cuts textbook burden by 25 per cent",
       "titleKo": "펀자브, 정부 학교를 위한 새로운 커리큘럼 승인, 교과서 부담 25% 삭감",
       "summaryKo": "펀자브, 정부 학교를 위한 새로운 커리큘럼 승인, 교과서 부담 25% 삭감 파키스탄 커넥트",
-      "snapshotDate": "2026-09-26"
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "ef8dce710364",
@@ -105,7 +203,21 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 61,
-      "snapshotDate": "2026-09-26"
+      "snapshotDate": "2026-09-27"
+    },
+    {
+      "id": "347f6205052c",
+      "title": "[단독] 정부 정책 연구에서 \"국회의원 선거는 사직 후 출마\" \"학생 연결된 SNS엔 정치 표현 안 돼\"",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR1J4endLU0xuWGMySEN3NnVWdXhyYVFYYWRRX1F3NFoxMEkzNFJlRkRoRmpSUzZKRUg4dnB1WUV0UnFObDVCekNubDlweEtZUGI3RmIyXzRocDI0NlFEZkVLV0NMcXdvSllWaFRpckg0MDkweHZXOW4tT3BFM0dTdWRfdjVEQlE?oc=5",
+      "source": "조선일보",
+      "kind": "domestic",
+      "publishedAt": "2026-09-24T03:39:26.000Z",
+      "description": "[단독] 정부 정책 연구에서 \"국회의원 선거는 사직 후 출마\" \"학생 연결된 SNS엔 정치 표현 안 돼\" 조선일보",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 75,
+      "score": 77,
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "ae5ccbf94c42",
@@ -118,8 +230,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 65,
-      "snapshotDate": "2026-09-26"
+      "score": 55,
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "02f6e34324aa",
@@ -134,7 +246,7 @@
       "originalTitle": "Exclusive: Ministry of Education recommends teachers resign for elections, restrict SNS politics",
       "titleKo": "독점: 교육부는 교사가 선거를 위해 사직하고, SNS 정치를 제한할 것을 권장합니다.",
       "summaryKo": "현 정부의 국정과제인 '교원의 정치적 기본권 확대' 를 추진하기 위해 실시된 교육부의 정책연구는 교사를 제한해야 한다는 결론을 내렸다...",
-      "snapshotDate": "2026-09-25"
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "2b8ce378175e",
@@ -162,8 +274,64 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 52,
-      "score": 66,
-      "snapshotDate": "2026-09-26"
+      "score": 56,
+      "snapshotDate": "2026-09-27"
+    },
+    {
+      "id": "fa03ff5176e6",
+      "title": "12화 학생은 줄어드는데 교육예산은 왜 늘어날까",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3LW9JWDEyMENDbnpkc3NidlNRaWJGcnNpc2k5UFc0enNnSjJnMmF6bXNLT1BwYjlzWWxERXY0T09CV1pHVDlPMQ?oc=5",
+      "source": "브런치",
+      "kind": "domestic",
+      "publishedAt": "2026-09-23T17:52:33.000Z",
+      "description": "12화 학생은 줄어드는데 교육예산은 왜 늘어날까 브런치",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 55,
+      "snapshotDate": "2026-09-27"
+    },
+    {
+      "id": "356506a5d70f",
+      "title": "한국장총, ‘장애학생 진로탐색 안내서’ 장애인정책리포트 발간",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fOENPYWlfdHVTSC14NlpJSDJBc1BORXNfRTVybWo3dGdoVWJNYThqT1NrYmhQZ2RuZEZoTUhmXzItNXpQLUR3RDN4dzRrdWxDTmZ5aVZBeWpRazN1QUhkek5CZ0toUUpXOV9wYkVn0gFyQVVfeXFMTXQzMFV6dDdSQ2E1RVo5blZONndraEktY3hGbXBEbzNHWGo0cVFZdV9WQkcwNmlUN3pGMmlybjgzanRLaHE2NGt0bnN2RGtscy1fZllLSDJtZG9wQ0FlWHo2aTJoYXl5LTdRblNlTnowdzFn?oc=5",
+      "source": "에이블뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-23T10:17:00.000Z",
+      "description": "한국장총, ‘장애학생 진로탐색 안내서’ 장애인정책리포트 발간 에이블뉴스",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 51,
+      "snapshotDate": "2026-09-27"
+    },
+    {
+      "id": "1a0282e615e3",
+      "title": "교육부, 2026 산업계 대학교육 혁신포럼 개최",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOOGctbzBGN0RQLWxXcUtmTjBqQVltZkhXUnhLNURGbGV5aDdkNWJWTTdwd3NPdnZCRklGc2lvWnBkVVN2MWRfTktLY0JlRzBZSzdFLXM5cjFiU1ViU2xwem5UWQ?oc=5",
+      "source": "대한민국교육신문",
+      "kind": "domestic",
+      "publishedAt": "2026-09-23T09:42:45.000Z",
+      "description": "교육부, 2026 산업계 대학교육 혁신포럼 개최 대한민국교육신문",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 53,
+      "snapshotDate": "2026-09-27"
+    },
+    {
+      "id": "05c03b7c335d",
+      "title": "전남광주 지역대학교 IR 협의회 출범",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12amRrRkJvMHNvOGlMdWp2bzkwQU9abGtMZ0xpd1FVNkV5VFk4LVF3M3NUM09wNzR1YmxLUzBSSktNd3BVMWNXbEtWbVFNc3BYelhXcnhNd0dvLWR5Ul9lcg?oc=5",
+      "source": "톡톡뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-23T09:30:00.000Z",
+      "description": "전남광주 지역대학교 IR 협의회 출범 톡톡뉴스",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 52,
+      "score": 56,
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "f06b5a078758",
@@ -204,8 +372,22 @@
       "category": "교원·조직",
       "feedProvider": "bing",
       "policyRelevance": 75,
-      "score": 77,
-      "snapshotDate": "2026-09-26"
+      "score": 67,
+      "snapshotDate": "2026-09-27"
+    },
+    {
+      "id": "0e3aac353d9b",
+      "title": "옹진군-인천시교육청, 섬 지역 교육혁신 협력…소규모학교·마을연계 확대",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MZkl6ZkFpWDdFVXNYMmlaVGx0TlowMzZrQ3phNFMxbWd5dEJzWXd5bjV3UlZ3R0x0ZGI1ZHNMVE0wQUtVeno4NWlvV0dpUTBVOHB1QlNNSjhuWkx5VWhLdXhxaWY2VlNpazZ3YlZ1aXB2UVk?oc=5",
+      "source": "오늘경제",
+      "kind": "domestic",
+      "publishedAt": "2026-09-23T04:11:38.000Z",
+      "description": "옹진군-인천시교육청, 섬 지역 교육혁신 협력…소규모학교·마을연계 확대 오늘경제",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 47,
+      "score": 54,
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "94c6b48fb0b5",
@@ -218,8 +400,22 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 61,
-      "snapshotDate": "2026-09-26"
+      "score": 51,
+      "snapshotDate": "2026-09-27"
+    },
+    {
+      "id": "921aa4bababd",
+      "title": "선심성 현금지원 교육청 최대 100억 예산 삭감",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uT1VaS3ZmVUo4WVE0VHViUGVMSUN2dzh3Q21fQ3p4bnIxaFlmSVVieXRQX0VycHQ1bWtIaHVuR0dTUEhGZ0FaSC1GeXZRbkFQeVo4eDc0RnVmOU5BSHZJ?oc=5",
+      "source": "한국교육신문",
+      "kind": "domestic",
+      "publishedAt": "2026-09-23T00:57:06.000Z",
+      "description": "선심성 현금지원 교육청 최대 100억 예산 삭감 한국교육신문",
+      "category": "재정·법령",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 66,
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "eb5390192c3b",
@@ -236,18 +432,18 @@
       "snapshotDate": "2026-09-26"
     },
     {
-      "id": "921aa4bababd",
-      "title": "선심성 현금지원 교육청 최대 100억 예산 삭감",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uT1VaS3ZmVUo4WVE0VHViUGVMSUN2dzh3Q21fQ3p4bnIxaFlmSVVieXRQX0VycHQ1bWtIaHVuR0dTUEhGZ0FaSC1GeXZRbkFQeVo4eDc0RnVmOU5BSHZJ?oc=5",
-      "source": "한국교육신문",
+      "id": "59ef6ef57a50",
+      "title": "대학노조, “‘고등교육재정교부금법’ 제정, 대학 단계적 무상교육” 촉구",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Ld1dlYkZRZDZLWVVBSWxLc1NKcEwyYWFmc1JsUWFza0NXVXJ4SnNPX1hkVnhDVjc3WnBDalh6aGIySGt1OVFjaXM1V3hqcXlHOEVkZERRUzZ2anVlMG1wYjU1WWVIQQ?oc=5",
+      "source": "news.unn.net",
       "kind": "domestic",
-      "publishedAt": "2026-09-23T00:57:06.000Z",
-      "description": "선심성 현금지원 교육청 최대 100억 예산 삭감 한국교육신문",
-      "category": "재정·법령",
+      "publishedAt": "2026-09-23T00:55:12.000Z",
+      "description": "대학노조, “‘고등교육재정교부금법’ 제정, 대학 단계적 무상교육” 촉구 news.unn.net",
+      "category": "고등교육",
       "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 76,
-      "snapshotDate": "2026-09-25"
+      "policyRelevance": 40,
+      "score": 55,
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "c16f3a71c25a",
@@ -274,8 +470,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 65,
-      "snapshotDate": "2026-09-26"
+      "score": 55,
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "c85571920324",
@@ -302,8 +498,8 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 61,
-      "snapshotDate": "2026-09-26"
+      "score": 51,
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "0e5c7873a9b1",
@@ -316,8 +512,22 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 52,
-      "score": 70,
-      "snapshotDate": "2026-09-26"
+      "score": 60,
+      "snapshotDate": "2026-09-27"
+    },
+    {
+      "id": "53b4d6061cd9",
+      "title": "경북교육청, 초등교육과정 현장 지원 역량 강화",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tVWtSRGh5SzAxc2pzdmpUM1RvZFpVRVA2NnBIdWpsV2RaNHBYNU9tS0VTbGNNSEFxWGtUWW9rR2VWSVI4eEkydWxGREZobXdhQm82TjZPTFVkYl82aG9pWEgyTldGQQ?oc=5",
+      "source": "데일리대구경북뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-22T23:58:01.000Z",
+      "description": "경북교육청, 초등교육과정 현장 지원 역량 강화 데일리대구경북뉴스",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 62,
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "40f8818afe2e",
@@ -330,8 +540,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 72,
-      "snapshotDate": "2026-09-26"
+      "score": 62,
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "554de2a82962",
@@ -694,7 +904,7 @@
       "category": "입시·사교육",
       "policyRelevance": 100,
       "score": 99,
-      "snapshotDate": "2026-09-26"
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "db47eb42d0b9",
@@ -707,7 +917,7 @@
       "category": "유·초중등",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-09-26"
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "5047dbec5724",
@@ -767,7 +977,7 @@
       "originalTitle": "Parliament extends public participation on six education reform bills to October 2",
       "titleKo": "의회는 6개 교육개혁법안에 대한 국민참여를 10월 2일까지 확대한다.",
       "summaryKo": "의회, 6개 교육개혁법안에 대한 국민참여를 10월 2일까지 확대 교육뉴스",
-      "snapshotDate": "2026-09-26"
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "6d4217e55b4e",
@@ -784,7 +994,7 @@
       "originalTitle": "Government to Revise School Education Curriculum After Seven Years",
       "titleKo": "정부, 7년 후 학교 교육과정 개정",
       "summaryKo": "정부, 7년 후 학교 교육과정 개정 라토파티",
-      "snapshotDate": "2026-09-26"
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "52f38e87d1ed",
@@ -1182,7 +1392,7 @@
       "originalTitle": "Education reforms split teachers’ unions as Parliament weighs two key Bills",
       "titleKo": "교육 개혁은 의회가 두 가지 주요 법안의 무게에 따라 교원 노조를 분열시킵니다.",
       "summaryKo": "교육 개혁은 의회가 두 가지 주요 법안 일일 국가의 무게에 따라 교원 노조를 분열시킵니다.",
-      "snapshotDate": "2026-09-26"
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "849d24d8f855",
@@ -1251,7 +1461,7 @@
       "category": "유·초중등",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-09-26"
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "44eaafde590b",
@@ -1264,7 +1474,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-09-26"
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "7711737b8ec0",
@@ -1277,7 +1487,7 @@
       "category": "고등교육",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-09-26"
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "c70b2c97af94",
@@ -1474,7 +1684,7 @@
       "originalTitle": "Scholar calls academy integration key to South Korea's future military",
       "titleKo": "학자는 한국의 미래 군대에 아카데미 통합 열쇠를 호출",
       "summaryKo": "한국의 국방 학자는 군사 아카데미를 통합하면 미래 전쟁을 위한 공동 작전, 다양성 및 장교 교육을 향상시킬 수 있다고 말합니다.",
-      "snapshotDate": "2026-09-26"
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "2c9d9bc36b3f",
@@ -2505,7 +2715,7 @@
       "category": "입시·사교육",
       "policyRelevance": 100,
       "score": 94,
-      "snapshotDate": "2026-09-26"
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "874fb34b24d1",
@@ -2518,7 +2728,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 90,
-      "snapshotDate": "2026-09-26"
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "9a71e8ca8de0",
@@ -2533,6 +2743,21 @@
       "policyRelevance": 47,
       "score": 54,
       "snapshotDate": "2026-09-21"
+    },
+    {
+      "id": "8ae56b59a3c5",
+      "title": "Virtualware and Partner GlobePoint Sign Agreement with Korean Education Group to introduce VIROO across its education ecosystem",
+      "url": "https://finance.yahoo.com/technology/articles/virtualware-partner-globepoint-sign-agreement-062900903.html",
+      "source": "Yahoo Finance",
+      "kind": "foreign",
+      "publishedAt": "2026-09-16T23:29:00.000Z",
+      "description": "Bilbao.- Virtualware (EPA: ALVIR), a European pioneer in 3D-driven industrial software, together with its South Korean partner GlobePoint and Korean Education Group (KEG), have signed a Memorandum of ...",
+      "category": "기타",
+      "score": 30,
+      "originalTitle": "Virtualware and Partner GlobePoint Sign Agreement with Korean Education Group to introduce VIROO across its education ecosystem",
+      "titleKo": "가상 소프트웨어 및 파트너 GlobePoint, 교육 생태계 전반에 VIROO 도입을 위해 한국 교육 그룹과 계약 체결",
+      "summaryKo": "빌바오. - 3D 기반 산업용 소프트웨어의 유럽 선구자인 버추얼웨어 (EPA: ALVIR) 는 한국 파트너인 글로브포인트 (GlobePoint) 및 한국 교육 그룹 (KEG) 과 함께...",
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "99d4960e9325",
@@ -2881,7 +3106,7 @@
       "category": "AI·디지털",
       "policyRelevance": 100,
       "score": 90,
-      "snapshotDate": "2026-09-26"
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "0e2e1b11460c",
@@ -2894,7 +3119,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 90,
-      "snapshotDate": "2026-09-26"
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "65bb686addac",
@@ -2907,7 +3132,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 90,
-      "snapshotDate": "2026-09-26"
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "a75d87c47f28",
@@ -3046,7 +3271,7 @@
       "originalTitle": "Inside South Korea’s university programs offering a direct route to Samsung and SK Hynix",
       "titleKo": "삼성과 SK하이닉스로 바로 가는 경로를 제공하는 한국의 대학 프로그램 내부",
       "summaryKo": "기업들은 대학이 과정을 개발하고 재정 지원을 제공하며 자격을 갖춘 학생들이 참여할 수 있는 경로를 만들 수 있도록 돕고 있습니다.",
-      "snapshotDate": "2026-09-26"
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "f3eb03e57f3f",
@@ -3061,7 +3286,7 @@
       "originalTitle": "Applications surge for South Korean corporate-sponsored majors",
       "titleKo": "한국 기업 스폰서 전공 지원자 급증",
       "summaryKo": "학생들이 주요 기업의 일자리에 대한 명확한 경로를 모색함에 따라 기업이 후원하는 한국 대학 프로그램에 대한 지원서가 기록적으로 증가했습니다.",
-      "snapshotDate": "2026-09-26"
+      "snapshotDate": "2026-09-27"
     },
     {
       "id": "20d18e6454e3",
@@ -8190,199 +8415,6 @@
       "category": "AI·디지털",
       "score": 47,
       "snapshotDate": "2026-09-02"
-    },
-    {
-      "id": "2f87c81a2bad",
-      "title": "AI 시대, 문해교육의 새 지평을 열다…제1회 대한민국 문해교육 정책전시회 성료",
-      "url": "https://www.msn.com/ko-kr/news/other/ai-%EC%8B%9C%EB%8C%80-%EB%AC%B8%ED%95%B4%EA%B5%90%EC%9C%A1%EC%9D%98-%EC%83%88-%EC%A7%80%ED%8F%89%EC%9D%84-%EC%97%B4%EB%8B%A4-%EC%A0%9C1%ED%9A%8C-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AC%B8%ED%95%B4%EA%B5%90%EC%9C%A1-%EC%A0%95%EC%B1%85%EC%A0%84%EC%8B%9C%ED%9A%8C-%EC%84%B1%EB%A3%8C/ar-AA2bfl1Z",
-      "source": "아주경제 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-08-30T18:54:04.000Z",
-      "description": "지난 20년간 대한민국 문해교육이 걸어온 발자취를 돌아보고, 인공지능(AI)과 디지털 대전환 시대에 발맞춰 진화하는 문해교육의 새로운 방향을 제시한 ‘제1회 대한민국 문해교육 정책전시회’가 뜨거운 열기 속에 막을 내렸다.기초적인 읽고 쓰기를 넘어 ...",
-      "category": "AI·디지털",
-      "score": 47,
-      "snapshotDate": "2026-09-02"
-    },
-    {
-      "id": "b2179f37a2b1",
-      "title": "제1회 문해교육 정책전시회…전국 학습자 2만명 참여",
-      "url": "https://www.koreadaily.com/article/20260831014921113",
-      "source": "중앙일보",
-      "kind": "domestic",
-      "publishedAt": "2026-08-30T18:48:00.000Z",
-      "description": "교육부와 국가평생교육진흥원이 처음 개최한 대한민국 문해교육 정책전시회가 전국 문해학습자와 교사, 평생교육 관계자들의 참여 속에 막을 내렸다. 정부는 이번 행사를 계기로 기초문해를 넘어 디지털·인공지능(AI) ...",
-      "category": "AI·디지털",
-      "score": 47,
-      "snapshotDate": "2026-09-02"
-    },
-    {
-      "id": "6a1eaae77040",
-      "title": "교육부, 강원특별자치도교육청 부교육감으로 김태훈 대구광역시교육청 부교육감 임명",
-      "url": "http://jeongpil.com/2654109",
-      "source": "정필",
-      "kind": "domestic",
-      "publishedAt": "2026-08-30T17:00:00.000Z",
-      "description": "[정필=김정훈 교육전문기자 kspa@jeongpil.com] 교육부는 2026. 9. 1. 자 인사발령으로 강원특별자치도교육청 부교육감에 김태훈 현(現) 대구광역시교육청 부교육감을 임명했다. 이번에 부교육감으로 취임하는 김 부교육감은 강릉고등학교와 서울대학교 국민윤리교육과를 졸업했다. 1994년 제37회 행정고시에 합격해 공직에 입문했다. 2015년 일반직 ...",
-      "category": "교원·조직",
-      "score": 43,
-      "snapshotDate": "2026-09-02"
-    },
-    {
-      "id": "ed25570793cc",
-      "title": "구글 출신 이해민 의원, 대통령실 AI미래기획수석 내정",
-      "url": "https://www.cio.com/article/4215744/%ea%b5%ac%ea%b8%80-%ec%b6%9c%ec%8b%a0-%ec%9d%b4%ed%95%b4%eb%af%bc-%ec%9d%98%ec%9b%90-%eb%8c%80%ed%86%b5%eb%a0%b9%ec%8b%a4-ai%eb%af%b8%eb%9e%98%ea%b8%b0%ed%9a%8d%ec%88%98%ec%84%9d-%eb%82%b4%ec%a0%95.html",
-      "source": "CIO",
-      "kind": "domestic",
-      "publishedAt": "2026-08-30T16:48:00.000Z",
-      "description": "구글 출신 IT 전문가인 이해민 조국혁신당 의원이 대통령비서실 AI미래기획수석비서관으로 내정됐다. 지난해 신설된 AI미래기획수석은 대통령실의 AI 정책 컨트롤타워로, 초대 수석인 하정우 전 네이버 AI혁신센터장의 뒤를 잇게 됐다.",
-      "category": "AI·디지털",
-      "score": 47,
-      "snapshotDate": "2026-09-01"
-    },
-    {
-      "id": "893ac2bdb582",
-      "title": "[지금 노려볼 외교시장은? 태국 ] AI 교육 전환 본격화…‘K-에듀테크’ 아세안 교두보 부상",
-      "url": "https://www.koreapost.co.kr/news/articleView.html?idxno=88566",
-      "source": "코리아포스트",
-      "kind": "domestic",
-      "publishedAt": "2026-08-30T00:00:00.000Z",
-      "description": "방콕무역관에 따르면 ZEP QUIZ는 정식 출시 전 베타서비스 기간에 태국 이용자 약 50만명과 누적 플레이 100만회를 기록했다. 태국어 지원뿐 아니라 전통 의상과 사원, 야시장 등 현지 문화를 콘텐츠에 반영한 점이 초기 이용자 확보에 도움이 된 것으로 분석됐다. 현지 시장에서는 SkillLane, OpenDurian, Globish, Conicle 등 ...",
-      "category": "AI·디지털",
-      "score": 47,
-      "snapshotDate": "2026-08-31"
-    },
-    {
-      "id": "fdae1c5e76ab",
-      "title": "경기도평생교육진흥원, 문해교육 성과 '교육부 장관 표창도 수상'",
-      "url": "https://www.lecturernews.com/news/articleView.html?idxno=209544",
-      "source": "한국강사신문",
-      "kind": "domestic",
-      "publishedAt": "2026-08-29T02:48:00.000Z",
-      "description": "[한국강사신문 이미숙 기자] 경기도평생교육진흥원이 성인 문해교육과 디지털 문해 역량 강화에 기여한 성과를 인정받아 교육부 장관 표창을 받았다.경기도평생교육진흥원은 8월 27일부터 28일까지 충북 청주 오스코 컨벤션센터에서 열린 ‘제1회 대한민국 문해교육 정책전시회’에 참여해 경기도의 문해교육 정책과 주요 성과를 소개했다고 28일 밝혔다.교육부가 주최하고 국 ...",
-      "category": "AI·디지털",
-      "score": 43,
-      "snapshotDate": "2026-08-31"
-    },
-    {
-      "id": "e444c8d4c52d",
-      "title": "경기도평생교육진흥원, 문해교육에 디지털 일상 접목… 교육부 장관 표창",
-      "url": "https://www.lawissue.co.kr/view.php?ud=202608281610518327d94aa4ada6_12",
-      "source": "로이슈",
-      "kind": "domestic",
-      "publishedAt": "2026-08-28T14:39:00.000Z",
-      "description": "경기도 문해교육이 읽기와 쓰기를 넘어 생활 속 디지털 기기 활용까지 아우르는 방식으로 넓어지고 있다.경기도평생교육진흥원은 31개 시군의 문해교육 사례를 모은 전시 공간에서 키오스크·인공지능(AI) 체험을 운영하고, 성인문해교육과 디지털 역량 강화 공로로 교육부 장관 표창을 받았다.진흥원 ...",
-      "category": "AI·디지털",
-      "score": 57,
-      "snapshotDate": "2026-08-29"
-    },
-    {
-      "id": "70fb811a7836",
-      "title": "하나은행, 금융문해교육 활성화 기여 공로 ‘교육부장관 표창’ 수상",
-      "url": "https://www.hg-times.com/news/articleView.html?idxno=304819",
-      "source": "한강타임즈",
-      "kind": "domestic",
-      "publishedAt": "2026-08-28T10:18:00.000Z",
-      "description": "한강타임즈 김광호 기자 = 하나은행은 지난 27일 충북 ‘청주오스코’에서 열린 ‘2026년 문해교육 유공표창 시상식’에서 금융문해교육 활성화에 기여한 공로를 인정받아 교육부장관 표창을 수상했다고 28일 밝혔다.",
-      "category": "지역·평생교육",
-      "score": 53,
-      "snapshotDate": "2026-08-29"
-    },
-    {
-      "id": "2a1a3206293a",
-      "title": "하나은행, 교육부장관 표창 수상…금융문해교육 활성화",
-      "url": "https://www.fnnews.com/news/202608281351329779",
-      "source": "파이낸셜뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-08-28T07:36:00.000Z",
-      "description": "하나은행이 지난 27일 충북 '청주오스코'에서 열린 '2026년 문해교육 유공표창 시상식'에서 금융문해교육 활성화에 기여한 공로를 인정받아 교육부장관 표창을 수상했다.하나은행은 지난 2023년부터 교육부, 국가평생교육진흥원과 협력해 '디지털 금융문해교과서'와 교..",
-      "category": "AI·디지털",
-      "score": 43,
-      "snapshotDate": "2026-08-30"
-    },
-    {
-      "id": "a660b3b47d03",
-      "title": "최은옥 차관, 대학총장세미나 참석…고등교육 정책 방향 논의",
-      "url": "https://www.newspim.com/news/view/20260828000148",
-      "source": "뉴스핌",
-      "kind": "domestic",
-      "publishedAt": "2026-08-28T04:31:00.000Z",
-      "description": "[서울=뉴스핌] 황혜영 기자 = 최은옥 교육부 차관이 28일 제주에서 열리는 '2026년 한국대학교육협의회 하계 대학총장세미나'에 참석해 대학 총장들과 향후 고등교육 정책 방향을 논의한다.교육부에 따르면 최 차관은 이날 세미나에서 인구구조 변화와 인공지능(AI) 대전환 ...",
-      "category": "AI·디지털",
-      "score": 47,
-      "snapshotDate": "2026-08-30"
-    },
-    {
-      "id": "bef320715b36",
-      "title": "“시중은행 중 유일”… 하나은행, 금융문해교육 활성화 공로 ‘교육부장관 표창’ 수상",
-      "url": "https://www.dailysmart.co.kr/news/articleView.html?idxno=128827",
-      "source": "스마트경제",
-      "kind": "domestic",
-      "publishedAt": "2026-08-28T03:46:00.000Z",
-      "description": "하나은행은 지난 27일 충북 ‘청주오스코’에서 개최된 ‘2026년 문해교육 유공표창 시상식’에서 금융문해교육 활성화에 기여한 공로를 높이 인정받아 교육부장관 표창을 수상했다고 28일 밝혔다.",
-      "category": "지역·평생교육",
-      "score": 43,
-      "snapshotDate": "2026-08-30"
-    },
-    {
-      "id": "7d66719060e3",
-      "title": "최은옥 교육차관, 대교협 하계 총장세미나 참석…정책방향 논의",
-      "url": "https://www.yna.co.kr/view/AKR20260828041700530",
-      "source": "연합뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-08-28T02:41:00.000Z",
-      "description": "(세종=연합뉴스) 고상민 기자 = 최은옥 교육부 차관은 28일 오후 제주에서 열리는 '2026년 한국대학교육협의회(대교협) 하계 대학총장세미나'에 참석한다. 최 차관은 사회·환경 변화에 대비하는 '고등교육 정책방향'과 관련해 대학 총장들과 논의하는 시간을 갖는다. 앞서 교육부는 정책연구와 대학 현장과의 소통을 거쳐 '고등교육 정책방향'을 마련했다. 이번 세 ...",
-      "category": "고등교육",
-      "score": 43,
-      "snapshotDate": "2026-08-30"
-    },
-    {
-      "id": "c21f6777063c",
-      "title": "경기도평생교육진흥원, 평생교육 유공 표창 수상·문해교육 정책 홍보체험관 운영",
-      "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=788415",
-      "source": "일간투데이",
-      "kind": "domestic",
-      "publishedAt": "2026-08-28T01:39:00.000Z",
-      "description": "[일간투데이 허필숙 기자] 경기도평생교육진흥원은 27일과 28일 충북 청주 오스코 컨벤션센터에서 열린 ‘제1회 대한민국 문해교육 정책전시회’에 참가해 경기도 문해교육 정책과 성과를 알리는 홍보체험관을 운영했다.전시회는 교육부 주최, 국가평생교육원 주관으로 개최돼 전국 ...",
-      "category": "지역·평생교육",
-      "score": 43,
-      "snapshotDate": "2026-08-30"
-    },
-    {
-      "id": "a39d820825d8",
-      "title": "Sungyeon Kwon Assumes Deputy Superintendent Role at Daegu Office of Education: \"Brings Extensive Educational Administration Experience\"",
-      "url": "https://www.asiae.co.kr/en/article/2026082815170645358",
-      "source": "Asia Economy",
-      "kind": "foreign",
-      "publishedAt": "2026-08-27T23:17:00.000Z",
-      "description": "The Daegu Metropolitan Office of Education announced that Sungyeon Kwon (54), a senior executive official in general service at the Ministry of Educat ...",
-      "category": "기타",
-      "score": 30,
-      "originalTitle": "Sungyeon Kwon Assumes Deputy Superintendent Role at Daegu Office of Education: \"Brings Extensive Educational Administration Experience\"",
-      "snapshotDate": "2026-09-08"
-    },
-    {
-      "id": "7c083603e3f0",
-      "title": "가천대, '제1회 대한민국 문해교육 정책전시회'…대학 참가 유일",
-      "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EA%B3%A0%EB%93%B1-%EA%B5%90%EC%9C%A1/%EA%B0%80%EC%B2%9C%EB%8C%80-%EC%A0%9C1%ED%9A%8C-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AC%B8%ED%95%B4%EA%B5%90%EC%9C%A1-%EC%A0%95%EC%B1%85%EC%A0%84%EC%8B%9C%ED%9A%8C-%EB%8C%80%ED%95%99-%EC%B0%B8%EA%B0%80-%EC%9C%A0%EC%9D%BC/ar-AA2b5n9y",
-      "source": "디지털타임스 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-08-27T21:21:53.000Z",
-      "description": "AI활용 디지털 문해교육 선보여 각광 가천대학교(총장 이길여)가 교육부와 국가평생교육진흥원이 주최한 ‘제1회 대한민국 문해교육 정책전시회’에 대학기관으로는 유일하게 참가해 AI·디지털 기술과 문화예술을 접목한 문해교육 ...",
-      "category": "AI·디지털",
-      "score": 47,
-      "snapshotDate": "2026-08-30"
-    },
-    {
-      "id": "7479eb90ce00",
-      "title": "학교 역사교육 활성화를 위한 교육부-독립기념관 업무협약(MOU) 체결",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107050&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-08-27T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "입시·사교육",
-      "score": 50,
-      "snapshotDate": "2026-09-03"
     }
   ]
 }
