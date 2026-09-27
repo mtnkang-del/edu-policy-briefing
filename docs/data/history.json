@@ -1,7 +1,8 @@
 {
-  "generatedAt": "2026-09-27T00:43:52.686Z",
+  "generatedAt": "2026-09-27T23:52:44.224Z",
   "retentionDays": 30,
   "days": [
+    "2026-09-28",
     "2026-09-27",
     "2026-09-26",
     "2026-09-25",
@@ -30,10 +31,191 @@
     "2026-09-02",
     "2026-09-01",
     "2026-08-31",
-    "2026-08-30",
-    "2026-08-29"
+    "2026-08-30"
   ],
   "items": [
+    {
+      "id": "207ad980c3d0",
+      "title": "안민석 경기도교육감, OECD에 경기교육 ‘벽깨기’ 정책 소개",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0RFJ2OEpjVmdrenNoRkJfaS1fdG9EMU5ZTTg0M0JQU0NpN0pMaTlWVlc2OFpRTVVXdmtaX09KZ3BHdmJtblF4VXJfeHdWdVd2VEx0dHpoRXd5SEQyV2lRMkVIczdIR0hJUGc?oc=5",
+      "source": "비즈월드",
+      "kind": "domestic",
+      "publishedAt": "2026-09-27T22:26:00.000Z",
+      "description": "안민석 경기도교육감, OECD에 경기교육 ‘벽깨기’ 정책 소개 비즈월드",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 82,
+      "snapshotDate": "2026-09-28"
+    },
+    {
+      "id": "3ec06ac9e1b7",
+      "title": "세종시교육청 새 부교육감에 ‘AI 정책통’ 이윤홍…교육부 25년 경력",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11eGptQ1NBdHQwaFZ2VEd5ZGt6SlVMWmc5SzBsbl9QWVNsOXh2MGFweFdCNXZxaEhDZUVVOW1tQTdvWElJalNQMGJGa1hpYWlWZVA4Q2FnblBKY2kzbjRIN2MxeDZyYlNC?oc=5",
+      "source": "녹색경제신문",
+      "kind": "domestic",
+      "publishedAt": "2026-09-27T21:14:20.000Z",
+      "description": "세종시교육청 새 부교육감에 ‘AI 정책통’ 이윤홍…교육부 25년 경력 녹색경제신문",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 86,
+      "snapshotDate": "2026-09-28"
+    },
+    {
+      "id": "c64abbcc7680",
+      "title": "대입 정원 채우려 노인을 학생으로 둔갑… 입시비리 3년간 10건 적발",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOODBNZng1MUlQOVZvVHVYaFdpY2JZaS13RURXMlpiVWNMOW9Gcl9GRVRhYjYxY3B1bTBUME82eTg1OXpKQlU4dDdtbTlVUFBXY2x6TUtielZhOVhIdXFLQ1NRcUF2Z2gySDROOUhxWXlSbzV1OGRIU2RfbVFhcGdaZ1BsRE1iM3M?oc=5",
+      "source": "조선일보",
+      "kind": "domestic",
+      "publishedAt": "2026-09-27T15:45:00.000Z",
+      "description": "대입 정원 채우려 노인을 학생으로 둔갑… 입시비리 3년간 10건 적발 조선일보",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 75,
+      "snapshotDate": "2026-09-28"
+    },
+    {
+      "id": "415eaff90343",
+      "title": "교육행정과 AI 인재정책 거친 이윤홍 부교육감",
+      "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2443105",
+      "source": "충청일보",
+      "kind": "domestic",
+      "publishedAt": "2026-09-27T10:09:00.000Z",
+      "description": "교육 현장 지원과 조직 운영, 미래 인재정책을 두루 경험한 교육행정가가 세종교육의 새 부교육감으로 업무를 맡는다. 교육부 핵심 보직과 대학 사무국, 중앙교육연수원장을 거치며 쌓은 행정 경험이 세종교육의 정책 실행력과 미래교육 역량을 잇는 자산이 될 전망이다.세종시교육청은 이윤홍 전 교육부 인공지능인재지원국장이 28일 세종시부교육감으로 임명됐다고 밝혔다.이 ...",
+      "category": "AI·디지털",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 91,
+      "snapshotDate": "2026-09-28"
+    },
+    {
+      "id": "87a140cb1157",
+      "title": "경기도교육청, OECD와 '교육 2040' 논의…경기교육 3대 정책 공유",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yR3dncGY4OHFHNGM3Ri1tLWZYaWUwNHhCY2tseHRxakRma3V5akJ1cmJJQWNpNzhybThpQnVycWdwdFlFcFlHOWNVZHdQTUVUcGxSaW4xdjJ4dFoyVTVQdlM2bmpyZmFDYUFUWll3aDZJWGs?oc=5",
+      "source": "오늘경제",
+      "kind": "domestic",
+      "publishedAt": "2026-09-27T05:16:10.000Z",
+      "description": "경기도교육청, OECD와 '교육 2040' 논의…경기교육 3대 정책 공유 오늘경제",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 82,
+      "snapshotDate": "2026-09-28"
+    },
+    {
+      "id": "f12d31af35ae",
+      "title": "안민석 교육감, OECD 교육기술국 방문해 경기교육 핵심정책 소개",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2Nk91cUJrbUt3LUxQNFA3VkdVYVA1M2E2V1F5cmtMME4zd29xaU5VMEJqVjBrVG4xM3FIckxvSkVwZlZ2TVNINU0xNXNqdXdLV0djcnJjaWVjLVUxX1JZNUYxTzQxcDVVZEs1OENXUQ?oc=5",
+      "source": "kihoilbo.co.kr",
+      "kind": "domestic",
+      "publishedAt": "2026-09-27T04:54:00.000Z",
+      "description": "안민석 교육감, OECD 교육기술국 방문해 경기교육 핵심정책 소개 kihoilbo.co.kr",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 82,
+      "snapshotDate": "2026-09-28"
+    },
+    {
+      "id": "1567c69fe55d",
+      "title": "아일랜드 장학금 프로그램의 베트남 학생 대상 확대.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWZGYi1QeW8tWkNiMkp6YWJXLUxuS25Pby0wSmR1VVRkVWdmZ1V3RlBvNmR4d1RUZDJoNmZtY2w2ZFVmb0pJdUxrMy1qWl9raHlnV1FOWHZGSXRsZklNOFpva3NZLWdpMnFwWm9DM3dSN0hWSnRvanY2SXlocHd4Q1NhNFUxQXVYZDdKZnBIVG1tX3lIeUo2bEVobWhsTFE?oc=5",
+      "source": "Vietnam.vn",
+      "kind": "domestic",
+      "publishedAt": "2026-09-27T04:51:30.000Z",
+      "description": "아일랜드 장학금 프로그램의 베트남 학생 대상 확대. Vietnam.vn",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 52,
+      "score": 76,
+      "snapshotDate": "2026-09-28"
+    },
+    {
+      "id": "86ec383e65a0",
+      "title": "안민석 교육감, OECD서 경기교육대전환 소개...AI시대 교육모델 국제협력 확대",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VaTBBSTZ5dnB1elJHZDVsRkZtRlFWS3hSRVQ2eEJSTGVPT2d0MTV6V0FUMDRxSnZpNWVCN2EtTWxoWndIRUYtZ0wwVTNpMTkyN2dNRlpxazJ0UdIBWEFVX3lxTE00RHgxLWVBYlI3TG45WDdQUmMyZEYzaGpWWGtlOFZQdl94ZXpGM3hSVndBNlNuTDJBUTJKNWJYY21qc2R6T1YwX3I4eWRMLTYxaG4tc2FGM0M?oc=5",
+      "source": "ajunews.com",
+      "kind": "domestic",
+      "publishedAt": "2026-09-27T04:25:42.000Z",
+      "description": "안민석 교육감, OECD서 경기교육대전환 소개...AI시대 교육모델 국제협력 확대 ajunews.com",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 47,
+      "score": 78,
+      "snapshotDate": "2026-09-28"
+    },
+    {
+      "id": "2c640a8ab67d",
+      "title": "경기도교육청, OECD서 경기교육 3대 정책 소개",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4OC0tUU5tZkg3QjQ5ekxxdXoybGo2UXRoRnhKc3NNbW9BM0tacEtXUmpuSmJ0ZzYwekprb0I4TUJMNk81T2FGMlFJTXlObEVJRDJFdGZ4cEVYN0p0dFJ5MmN3?oc=5",
+      "source": "경인미래신문",
+      "kind": "domestic",
+      "publishedAt": "2026-09-27T04:18:39.000Z",
+      "description": "경기도교육청, OECD서 경기교육 3대 정책 소개 경인미래신문",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 82,
+      "snapshotDate": "2026-09-28"
+    },
+    {
+      "id": "3e617fee684a",
+      "title": "대구교육청, 학생 1만2천 명 최대 6년 추적…‘교육정책 데이터’ 쌓는다",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QcDV5Wk5kVlgySDVhbGFTanNzejREYnFCd0NYRzZZY3l3OTlvWWVSMlo2NUFLR09mRV9EX0tHa09kd0dwN3hDR1dYNG5vU3hMbmdxSmhuNlRseFM0Vkd1WV8tdTF1QUhPLTd3?oc=5",
+      "source": "웹플러스뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-27T02:25:45.000Z",
+      "description": "대구교육청, 학생 1만2천 명 최대 6년 추적…‘교육정책 데이터’ 쌓는다 웹플러스뉴스",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 75,
+      "score": 87,
+      "snapshotDate": "2026-09-28"
+    },
+    {
+      "id": "17cc6376253c",
+      "title": "대구교육청, 학생 성장 장기 추적 ‘대구교육종단연구 2기’ 추진",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFQXVhcVdCdnRvSnNEU1BqSElvYWxEcVRubjRoYVZPeFVZZEZQdUYtWTJDOXUxanFUS0Rucm9oVEdFWDVBX2hnUElGaWtFdzMtNUhWV2N4RGo?oc=5",
+      "source": "경북신문",
+      "kind": "domestic",
+      "publishedAt": "2026-09-27T01:24:09.000Z",
+      "description": "대구교육청, 학생 성장 장기 추적 ‘대구교육종단연구 2기’ 추진 경북신문",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 57,
+      "score": 79,
+      "snapshotDate": "2026-09-28"
+    },
+    {
+      "id": "5da863b78ec7",
+      "title": "이재명 대통령 저서 방학 추천 논란…교육부, 도서 선정 절차 손본다",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LbXVmYWJfM2Jxb3BIUVhCSDdjVElUZldKaEU1dkJNT243Uks3ZUhGektPcW9YWHl0emtISkxfMDVXN3NXVklxWkMzdlRVbm9WdkFkTzR0aGRrSGVGbTBPQ3pFNmNidkZw?oc=5",
+      "source": "더쎈뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-27T01:00:47.000Z",
+      "description": "이재명 대통령 저서 방학 추천 논란…교육부, 도서 선정 절차 손본다 더쎈뉴스",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 47,
+      "score": 74,
+      "snapshotDate": "2026-09-28"
+    },
+    {
+      "id": "fa03ff5176e6",
+      "title": "12화 학생은 줄어드는데 교육예산은 왜 늘어날까",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3LW9JWDEyMENDbnpkc3NidlNRaWJGcnNpc2k5UFc0enNnSjJnMmF6bXNLT1BwYjlzWWxERXY0T09CV1pHVDlPMQ?oc=5",
+      "source": "브런치",
+      "kind": "domestic",
+      "publishedAt": "2026-09-26T22:38:16.000Z",
+      "description": "12화 학생은 줄어드는데 교육예산은 왜 늘어날까 브런치",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 65,
+      "snapshotDate": "2026-09-28"
+    },
     {
       "id": "f91384e7dc25",
       "title": "12화 학생은 줄어드는데 교육예산은 왜 늘어날까",
@@ -60,7 +242,7 @@
       "feedProvider": "google",
       "policyRelevance": 47,
       "score": 64,
-      "snapshotDate": "2026-09-27"
+      "snapshotDate": "2026-09-28"
     },
     {
       "id": "4f0caed7ca0c",
@@ -74,7 +256,7 @@
       "feedProvider": "google",
       "policyRelevance": 47,
       "score": 68,
-      "snapshotDate": "2026-09-27"
+      "snapshotDate": "2026-09-28"
     },
     {
       "id": "1c32c5c6203d",
@@ -88,7 +270,21 @@
       "feedProvider": "google",
       "policyRelevance": 57,
       "score": 69,
-      "snapshotDate": "2026-09-27"
+      "snapshotDate": "2026-09-28"
+    },
+    {
+      "id": "095400339284",
+      "title": "교육부, 멕시코와 대학원 장학·학술교류…중남미 국가 첫 협력",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WcXFsdF84NFRaRGdYZTVSLV9YTVNpa2M2LUM4akN2Y05obXhjajd1WmRnQ0VmbkNQSzFCMjFNeVpQSFEyRDI5bm9NYm9TUXZ2a0NPaDkxeEllUQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-25T06:00:29.000Z",
+      "description": "교육부, 멕시코와 대학원 장학·학술교류…중남미 국가 첫 협력 파이낸셜뉴스",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 63,
+      "snapshotDate": "2026-09-28"
     },
     {
       "id": "f1b0e03f498e",
@@ -102,12 +298,12 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 61,
-      "snapshotDate": "2026-09-27"
+      "snapshotDate": "2026-09-28"
     },
     {
       "id": "566bd3c79db9",
       "title": "'3시 하교' 좌초 조짐에 뿔난 학부모 \"사교육·경력단절 키워\"",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoaDIyc2JXODl5WFN4ZXlNWE45TWJuNHFMMmFMM3BHVEVWd0t4cnh0ZzNGQzBlek9KaWFPcEw0NFlWR3RmRXo1WW9SbGtFTnFCMERpci1Vd0VKRUdfQzJKZTNJblVFWmNzUmpKbEJxOWY5V3RFeWZDbdIBeEFVX3lxTFBoaDIyc2JXODl5WFN4ZXlNWE45TWJuNHFMMmFMM3BHVEVWd0t4cnh0ZzNGQzBlek9KaWFPcEw0NFlWR3RmRXo1WW9SbGtFTnFCMERpci1Vd0VKRUdfQzJKZTNJblVFWmNzUmpKbEJxOWY5V3RFeWZDbQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCcld6a3l0bkpDclZRTkthSVo5YzdYVFZpS0FtSFMyYjNlam82UzNwOFo2a1ZRMjJvMDdNanBVaEZFZl95MU5fTEoxTHBKWUM1ZzBmVDN5MXBOY2IwTF95Y9IBeEFVX3lxTFBoaDIyc2JXODl5WFN4ZXlNWE45TWJuNHFMMmFMM3BHVEVWd0t4cnh0ZzNGQzBlek9KaWFPcEw0NFlWR3RmRXo1WW9SbGtFTnFCMERpci1Vd0VKRUdfQzJKZTNJblVFWmNzUmpKbEJxOWY5V3RFeWZDbQ?oc=5",
       "source": "뉴시스",
       "kind": "domestic",
       "publishedAt": "2026-09-25T05:00:00.000Z",
@@ -116,7 +312,7 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 61,
-      "snapshotDate": "2026-09-27"
+      "snapshotDate": "2026-09-28"
     },
     {
       "id": "55bf17daa037",
@@ -130,7 +326,21 @@
       "feedProvider": "google",
       "policyRelevance": 57,
       "score": 69,
-      "snapshotDate": "2026-09-27"
+      "snapshotDate": "2026-09-28"
+    },
+    {
+      "id": "bd031dbbe4cf",
+      "title": "안민석 교육감, 에스토니아·독일서 AI·시민교육 구상...내년부터 본격 추진",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqdk85WkRHeW51bVZpSEVRd194NENVeEFfcktwZXpPaW1TSVhtYkhnNVR3ODRoeFRnRWlNdXFZSmdRM1NzUzNubXdUdXdaV1dRU2MxLTF5UGRfUdIBWEFVX3lxTE5zSzktX2FVQ2NoUmoyRXlQYjhLMklRRHotZGxhLVJHSmM4TTY3RlJqdUx0UWlYZFkzUmtmQVZXdjBaNGVENlI2eTRSdE44eEpsTEJiVWJhUkY?oc=5",
+      "source": "ajunews.com",
+      "kind": "domestic",
+      "publishedAt": "2026-09-25T01:34:49.000Z",
+      "description": "안민석 교육감, 에스토니아·독일서 AI·시민교육 구상...내년부터 본격 추진 ajunews.com",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 47,
+      "score": 68,
+      "snapshotDate": "2026-09-28"
     },
     {
       "id": "b43bed67378a",
@@ -145,6 +355,20 @@
       "policyRelevance": 47,
       "score": 68,
       "snapshotDate": "2026-09-27"
+    },
+    {
+      "id": "90af201922b3",
+      "title": "[취재노트] 교부금법 5일, 시행규칙 42일...교육부의 거꾸로 시간표와 교육청의 딜레마",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzWkZFUVZ3cGZwOUtDX2dHSVRxTnRNU3YzUUMwdDY3Z1pNX1B1dXNudmowMGR3bHJTLWQxbl9aLU96NWxkOWZaSXlvbWtfR0NwLXhNOXV6dUFTZ0dSVF9pLTFoak90d2s?oc=5",
+      "source": "edpl.co.kr",
+      "kind": "domestic",
+      "publishedAt": "2026-09-25T00:20:43.000Z",
+      "description": "[취재노트] 교부금법 5일, 시행규칙 42일...교육부의 거꾸로 시간표와 교육청의 딜레마 edpl.co.kr",
+      "category": "재정·법령",
+      "feedProvider": "google",
+      "policyRelevance": 77,
+      "score": 86,
+      "snapshotDate": "2026-09-28"
     },
     {
       "id": "b5d8855f1e03",
@@ -171,8 +395,8 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 77,
-      "score": 82,
-      "snapshotDate": "2026-09-27"
+      "score": 72,
+      "snapshotDate": "2026-09-28"
     },
     {
       "id": "369cdf063c4f",
@@ -185,8 +409,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 61,
-      "snapshotDate": "2026-09-27"
+      "score": 51,
+      "snapshotDate": "2026-09-28"
     },
     {
       "id": "2ec75f1f73ea",
@@ -199,11 +423,11 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 53,
-      "score": 61,
+      "score": 51,
       "originalTitle": "Punjab approves new curriculum for Government Schools, cuts textbook burden by 25 per cent",
       "titleKo": "펀자브, 정부 학교를 위한 새로운 커리큘럼 승인, 교과서 부담 25% 삭감",
       "summaryKo": "펀자브, 정부 학교를 위한 새로운 커리큘럼 승인, 교과서 부담 25% 삭감 파키스탄 커넥트",
-      "snapshotDate": "2026-09-27"
+      "snapshotDate": "2026-09-28"
     },
     {
       "id": "ef8dce710364",
@@ -216,8 +440,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 61,
-      "snapshotDate": "2026-09-27"
+      "score": 51,
+      "snapshotDate": "2026-09-28"
     },
     {
       "id": "347f6205052c",
@@ -230,8 +454,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 75,
-      "score": 77,
-      "snapshotDate": "2026-09-27"
+      "score": 67,
+      "snapshotDate": "2026-09-28"
     },
     {
       "id": "ae5ccbf94c42",
@@ -275,7 +499,7 @@
       "originalTitle": "Exclusive: Ministry of Education recommends teachers resign for elections, restrict SNS politics",
       "titleKo": "독점: 교육부는 교사가 선거를 위해 사직하고, SNS 정치를 제한할 것을 권장합니다.",
       "summaryKo": "현 정부의 국정과제인 '교원의 정치적 기본권 확대' 를 추진하기 위해 실시된 교육부의 정책연구는 교사를 제한해야 한다는 결론을 내렸다...",
-      "snapshotDate": "2026-09-27"
+      "snapshotDate": "2026-09-28"
     },
     {
       "id": "ca22080af2db",
@@ -949,7 +1173,7 @@
       "originalTitle": "Parliament extends public participation on six education reform bills to October 2",
       "titleKo": "의회는 6개 교육개혁법안에 대한 국민참여를 10월 2일까지 확대한다.",
       "summaryKo": "의회, 6개 교육개혁법안에 대한 국민참여를 10월 2일까지 확대 교육뉴스",
-      "snapshotDate": "2026-09-27"
+      "snapshotDate": "2026-09-28"
     },
     {
       "id": "6d4217e55b4e",
@@ -966,7 +1190,7 @@
       "originalTitle": "Government to Revise School Education Curriculum After Seven Years",
       "titleKo": "정부, 7년 후 학교 교육과정 개정",
       "summaryKo": "정부, 7년 후 학교 교육과정 개정 라토파티",
-      "snapshotDate": "2026-09-27"
+      "snapshotDate": "2026-09-28"
     },
     {
       "id": "52f38e87d1ed",
@@ -1360,11 +1584,11 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 53,
-      "score": 59,
+      "score": 54,
       "originalTitle": "Education reforms split teachers’ unions as Parliament weighs two key Bills",
       "titleKo": "교육 개혁은 의회가 두 가지 주요 법안의 무게에 따라 교원 노조를 분열시킵니다.",
       "summaryKo": "교육 개혁은 의회가 두 가지 주요 법안 일일 국가의 무게에 따라 교원 노조를 분열시킵니다.",
-      "snapshotDate": "2026-09-27"
+      "snapshotDate": "2026-09-28"
     },
     {
       "id": "849d24d8f855",
@@ -1656,7 +1880,7 @@
       "originalTitle": "Scholar calls academy integration key to South Korea's future military",
       "titleKo": "학자는 한국의 미래 군대에 아카데미 통합 열쇠를 호출",
       "summaryKo": "한국의 국방 학자는 군사 아카데미를 통합하면 미래 전쟁을 위한 공동 작전, 다양성 및 장교 교육을 향상시킬 수 있다고 말합니다.",
-      "snapshotDate": "2026-09-27"
+      "snapshotDate": "2026-09-28"
     },
     {
       "id": "2c9d9bc36b3f",
@@ -3243,7 +3467,7 @@
       "originalTitle": "Applications surge for South Korean corporate-sponsored majors",
       "titleKo": "한국 기업 스폰서 전공 지원자 급증",
       "summaryKo": "학생들이 주요 기업의 일자리에 대한 명확한 경로를 모색함에 따라 기업이 후원하는 한국 대학 프로그램에 대한 지원서가 기록적으로 증가했습니다.",
-      "snapshotDate": "2026-09-27"
+      "snapshotDate": "2026-09-28"
     },
     {
       "id": "20d18e6454e3",
@@ -8213,201 +8437,6 @@
       "titleKo": "한국 교육예산 117.6조원으로 10.6% 증가",
       "summaryKo": "한국 교육예산 117조 6천억원으로 10.6% 증가 서울경제신문",
       "snapshotDate": "2026-09-09"
-    },
-    {
-      "id": "3c0f91c3c86f",
-      "title": "교육부, 강원교육청 부교육감에 김태훈 대구 부교육감 임명",
-      "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=789131",
-      "source": "일간투데이",
-      "kind": "domestic",
-      "publishedAt": "2026-09-01T04:16:00.000Z",
-      "description": "[일간투데이 노덕용 기자] 교육부는 1일 강원특별자치도교육청 부교육감에 김태훈 대구광역시교육청 부교육감을 임명했다.김태훈 신임 부교육감은 강릉고등학교와 서울대학교 국민윤리교육과를 졸업하고 1994년 제37회 행정고시에 합격해 공직을 시작했다.2015년 고위공무원으로 승 ...",
-      "category": "교원·조직",
-      "score": 43,
-      "snapshotDate": "2026-09-04"
-    },
-    {
-      "id": "65f3fba71bf6",
-      "title": "지역 성장을 견인할 국가대표 거점국립대학 선정 결과 발표",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107095&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-09-01T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "고등교육",
-      "policyRelevance": 100,
-      "score": 99,
-      "snapshotDate": "2026-09-07"
-    },
-    {
-      "id": "3648ad6f9ab4",
-      "title": "2027년도 교육부 예산안 117.6조 원 편성",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107087&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-09-01T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "재정·법령",
-      "policyRelevance": 100,
-      "score": 99,
-      "snapshotDate": "2026-09-07"
-    },
-    {
-      "id": "fdb19824a6ad",
-      "title": "정부초청 외국인 대학원 장학생, 한국에서 새로운 출발",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107089&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-09-01T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "입시·사교육",
-      "policyRelevance": 100,
-      "score": 95,
-      "snapshotDate": "2026-09-07"
-    },
-    {
-      "id": "cf114b859fda",
-      "title": "[보도참고자료]2027년 교육부 청년 핵심 지원사업 발표",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107091&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-09-01T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "기타",
-      "score": 64,
-      "snapshotDate": "2026-09-04"
-    },
-    {
-      "id": "7515cfd390b4",
-      "title": "전국 디지털튜터 양성센터 교육생 모집",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107088&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-09-01T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "AI·디지털",
-      "score": 60,
-      "snapshotDate": "2026-09-04"
-    },
-    {
-      "id": "f39e17eedc04",
-      "title": "한국맥도날드, 디지털 문해교육 현장 지원 성과 인정…권순빈 점장 교육부 장관상",
-      "url": "https://www.lawissue.co.kr/view.php?ud=202608312027496387204ead0791_12",
-      "source": "로이슈",
-      "kind": "domestic",
-      "publishedAt": "2026-08-31T13:28:00.000Z",
-      "description": "한국맥도날드 창원시티세븐점 권순빈 점장이 디지털 문해교육 현장에서 시니어 교육을 지원한 공로를 인정받아 교육부 장관상을 받았다.한국맥도날드는 31일 지난 27일 충북 청주 오스코에서 열린 ‘제1회 대한민국 문해교육 정책전시회’의 문해교육 유공자 표창에서 권순빈 점장이 교육부 장관상을 수 ...",
-      "category": "AI·디지털",
-      "score": 43,
-      "snapshotDate": "2026-09-02"
-    },
-    {
-      "id": "f3910f4488ff",
-      "title": "엔지니어링협회, 4본부 체제로 조직개편…디지털혁신본부 신설",
-      "url": "https://news.tf.co.kr/read/economy/2360096.htm",
-      "source": "더팩트",
-      "kind": "domestic",
-      "publishedAt": "2026-08-31T03:00:00.000Z",
-      "description": "[더팩트｜이중삼 기자] 한국엔지니어링협회가 정책·회원 서비스와 디지털 전환 기능을 강화하는 방향으로 조직을 전면 재편한다. 특히 엔지니어링산업의 AI·DX 전환을 전담하는 디지털혁신본부를 신설해 미래 성장 기반 마련에 나선다.",
-      "category": "AI·디지털",
-      "score": 61,
-      "snapshotDate": "2026-09-01"
-    },
-    {
-      "id": "8f6095a024b3",
-      "title": "최은옥 교육부 차관, 한국대학교육협의회하계 총장세미나 참석",
-      "url": "https://www.koreasisailbo.com/2368448",
-      "source": "시사일보",
-      "kind": "domestic",
-      "publishedAt": "2026-08-31T02:24:00.000Z",
-      "description": "[시사일보=박대석 기자] 최은옥 교육부 차관은 8월 28일, 제주에서 열리는 ‘2026년 한국대학교육협의회(회장 이기정, 한양대학교 총장) 하계 대학총장세미나’에 참석한다. 최은옥 차관은 향후 급변하는 사회・환경 변화에 대비하는 ‘고등교육 정책 방향(안)’에 대해 총장들과 논의하는 시간을 갖는다. 교육부는 정책연구와 대학 현장과의 소통 등을 거쳐 본 정책 ...",
-      "category": "고등교육",
-      "score": 43,
-      "snapshotDate": "2026-09-03"
-    },
-    {
-      "id": "e8dc75ff7c4b",
-      "title": "전남인재평생교육진흥원, 평생교육 활성화 공로 교육부장관상 수상",
-      "url": "https://www.newsprime.co.kr/news/article.html?no=745668",
-      "source": "프라임경제",
-      "kind": "domestic",
-      "publishedAt": "2026-08-31T02:10:00.000Z",
-      "description": "[프라임경제] 전남인재평생교육진흥원이 지난 27일 청주 오스코 컨벤션센터에서 열린 '2026 대한민국 문해교육 정책전시회'에서 평생교육 활성화 및 지역 주민의 학습 기회를 확대한 공로를 인정받아 설립 이래 처음으로 교육부장관 표창을 수상했다.​진흥원은 그동안 교육 접근성이 낮은 지역을 직접 찾아가는 문해교육을..",
-      "category": "지역·평생교육",
-      "score": 53,
-      "snapshotDate": "2026-08-31"
-    },
-    {
-      "id": "7ccf4f29ef2d",
-      "title": "교육부-한국항공우주산업 업무협약식 및 고졸 채용설명회 개최",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107075&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-08-31T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "기타",
-      "score": 50,
-      "snapshotDate": "2026-09-04"
-    },
-    {
-      "id": "81cd38bd726f",
-      "title": "한국-싱가포르, 이공계(STEM) 교사 교류로 미래 인재 양성 협력 강화",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107074&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-08-31T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "교원·조직",
-      "score": 60,
-      "snapshotDate": "2026-09-03"
-    },
-    {
-      "id": "2ca523c7bdbd",
-      "title": "한국방송통신대학교, '문해교육 정책전시회'서 AI·문해교육 체험 제공",
-      "url": "https://www.msn.com/ko-kr/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%95%99%EC%8A%B5/%EA%B3%A0%EB%93%B1-%EA%B5%90%EC%9C%A1/%ED%95%9C%EA%B5%AD%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90-%EB%AC%B8%ED%95%B4%EA%B5%90%EC%9C%A1-%EC%A0%95%EC%B1%85%EC%A0%84%EC%8B%9C%ED%9A%8C-%EC%84%9C-ai-%EB%AC%B8%ED%95%B4%EA%B5%90%EC%9C%A1-%EC%B2%B4%ED%97%98-%EC%A0%9C%EA%B3%B5/ar-AA2bf4BP",
-      "source": "아시아투데이 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-08-30T21:17:17.000Z",
-      "description": "‘2026 제1회 대한민국 문해교육 정책전시회’ 방송대 홍보 부스를 살펴보고 있는 김종오 총장국립한국방송통신대학교(방송대)가 AI·디지털 시대에 필요한 문해교육 콘텐츠를 선보였다.방송대는 지난&n ...",
-      "category": "AI·디지털",
-      "score": 47,
-      "snapshotDate": "2026-09-02"
-    },
-    {
-      "id": "2f87c81a2bad",
-      "title": "AI 시대, 문해교육의 새 지평을 열다…제1회 대한민국 문해교육 정책전시회 성료",
-      "url": "https://www.msn.com/ko-kr/news/other/ai-%EC%8B%9C%EB%8C%80-%EB%AC%B8%ED%95%B4%EA%B5%90%EC%9C%A1%EC%9D%98-%EC%83%88-%EC%A7%80%ED%8F%89%EC%9D%84-%EC%97%B4%EB%8B%A4-%EC%A0%9C1%ED%9A%8C-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AC%B8%ED%95%B4%EA%B5%90%EC%9C%A1-%EC%A0%95%EC%B1%85%EC%A0%84%EC%8B%9C%ED%9A%8C-%EC%84%B1%EB%A3%8C/ar-AA2bfl1Z",
-      "source": "아주경제 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-08-30T18:54:04.000Z",
-      "description": "지난 20년간 대한민국 문해교육이 걸어온 발자취를 돌아보고, 인공지능(AI)과 디지털 대전환 시대에 발맞춰 진화하는 문해교육의 새로운 방향을 제시한 ‘제1회 대한민국 문해교육 정책전시회’가 뜨거운 열기 속에 막을 내렸다.기초적인 읽고 쓰기를 넘어 ...",
-      "category": "AI·디지털",
-      "score": 47,
-      "snapshotDate": "2026-09-02"
-    },
-    {
-      "id": "b2179f37a2b1",
-      "title": "제1회 문해교육 정책전시회…전국 학습자 2만명 참여",
-      "url": "https://www.koreadaily.com/article/20260831014921113",
-      "source": "중앙일보",
-      "kind": "domestic",
-      "publishedAt": "2026-08-30T18:48:00.000Z",
-      "description": "교육부와 국가평생교육진흥원이 처음 개최한 대한민국 문해교육 정책전시회가 전국 문해학습자와 교사, 평생교육 관계자들의 참여 속에 막을 내렸다. 정부는 이번 행사를 계기로 기초문해를 넘어 디지털·인공지능(AI) ...",
-      "category": "AI·디지털",
-      "score": 47,
-      "snapshotDate": "2026-09-02"
-    },
-    {
-      "id": "6a1eaae77040",
-      "title": "교육부, 강원특별자치도교육청 부교육감으로 김태훈 대구광역시교육청 부교육감 임명",
-      "url": "http://jeongpil.com/2654109",
-      "source": "정필",
-      "kind": "domestic",
-      "publishedAt": "2026-08-30T17:00:00.000Z",
-      "description": "[정필=김정훈 교육전문기자 kspa@jeongpil.com] 교육부는 2026. 9. 1. 자 인사발령으로 강원특별자치도교육청 부교육감에 김태훈 현(現) 대구광역시교육청 부교육감을 임명했다. 이번에 부교육감으로 취임하는 김 부교육감은 강릉고등학교와 서울대학교 국민윤리교육과를 졸업했다. 1994년 제37회 행정고시에 합격해 공직에 입문했다. 2015년 일반직 ...",
-      "category": "교원·조직",
-      "score": 43,
-      "snapshotDate": "2026-09-02"
     }
   ]
 }
