@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-26T23:43:52.952Z",
-  "generatedAtKST": "2026-09-27T08:43:50.890+09:00",
+  "generatedAt": "2026-09-27T00:43:39.905Z",
+  "generatedAtKST": "2026-09-27T09:43:37.725+09:00",
   "date": "2026-09-27",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
@@ -8,26 +8,26 @@
   "collectionHealth": {
     "officialLive": 10,
     "domesticBing": 2,
-    "domesticGoogle": 148,
+    "domesticGoogle": 146,
     "foreignBing": 2,
-    "foreignGoogle": 220,
-    "carried": 55,
-    "rawUnique": 340,
-    "policyRejected": 298,
-    "policyKept": 42
+    "foreignGoogle": 217,
+    "carried": 72,
+    "rawUnique": 338,
+    "policyRejected": 300,
+    "policyKept": 38
   },
   "briefing": [
     "「학원 설립.운영 및 과외교습에 관한 법률 시행령」 일부개정령안 국무회의 통과 — 교육부",
     "이주배경학생 맞춤형 진로지도 강화‘체류자격 기반 진로설계 안내서’ 보급 — 교육부",
+    "유웨이어플라이 수시 원서접수시스템 장애 관련 조치 결과 발표 — 교육부",
     "데이터로 읽는 우리 교육 제14호 발간 - 학교체육, 수업에서 일상으로 — 교육부",
-    "교육의 미래, 청년들과 함께 고민한다 — 교육부",
-    "2026 산업계 대학교육 혁신포럼 개최 — 교육부"
+    "교육의 미래, 청년들과 함께 고민한다 — 교육부"
   ],
   "stats": {
-    "total": 47,
+    "total": 42,
     "official": 10,
-    "domestic": 28,
-    "foreign": 9
+    "domestic": 24,
+    "foreign": 8
   },
   "items": [
     {
@@ -55,6 +55,18 @@
       "score": 95
     },
     {
+      "id": "5ca6adccf255",
+      "title": "유웨이어플라이 수시 원서접수시스템 장애 관련 조치 결과 발표",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107228&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-09-17T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "입시·사교육",
+      "policyRelevance": 100,
+      "score": 94
+    },
+    {
       "id": "25f27bdca053",
       "title": "데이터로 읽는 우리 교육 제14호 발간 - 학교체육, 수업에서 일상으로",
       "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107255&lev=0&m=020402",
@@ -64,7 +76,7 @@
       "description": "교육부 공식 보도자료",
       "category": "유·초중등",
       "policyRelevance": 100,
-      "score": 95
+      "score": 90
     },
     {
       "id": "44eaafde590b",
@@ -76,7 +88,7 @@
       "description": "교육부 공식 보도자료",
       "category": "기타",
       "policyRelevance": 100,
-      "score": 95
+      "score": 90
     },
     {
       "id": "7711737b8ec0",
@@ -88,19 +100,7 @@
       "description": "교육부 공식 보도자료",
       "category": "고등교육",
       "policyRelevance": 100,
-      "score": 95
-    },
-    {
-      "id": "5ca6adccf255",
-      "title": "유웨이어플라이 수시 원서접수시스템 장애 관련 조치 결과 발표",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107228&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-09-17T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "입시·사교육",
-      "policyRelevance": 100,
-      "score": 94
+      "score": 90
     },
     {
       "id": "874fb34b24d1",
@@ -188,6 +188,19 @@
       "feedProvider": "google",
       "policyRelevance": 75,
       "score": 77
+    },
+    {
+      "id": "f91384e7dc25",
+      "title": "12화 학생은 줄어드는데 교육예산은 왜 늘어날까",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3LW9JWDEyMENDbnpkc3NidlNRaWJGcnNpc2k5UFc0enNnSjJnMmF6bXNLT1BwYjlzWWxERXY0T09CV1pHVDlPMQ?oc=5",
+      "source": "brunch.co.kr",
+      "kind": "domestic",
+      "publishedAt": "2026-09-26T22:38:16.000Z",
+      "description": "12화 학생은 줄어드는데 교육예산은 왜 늘어날까 brunch.co.kr",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 75
     },
     {
       "id": "1c32c5c6203d",
@@ -281,32 +294,6 @@
       "score": 64
     },
     {
-      "id": "53b4d6061cd9",
-      "title": "경북교육청, 초등교육과정 현장 지원 역량 강화",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tVWtSRGh5SzAxc2pzdmpUM1RvZFpVRVA2NnBIdWpsV2RaNHBYNU9tS0VTbGNNSEFxWGtUWW9rR2VWSVI4eEkydWxGREZobXdhQm82TjZPTFVkYl82aG9pWEgyTldGQQ?oc=5",
-      "source": "데일리대구경북뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-09-22T23:58:01.000Z",
-      "description": "경북교육청, 초등교육과정 현장 지원 역량 강화 데일리대구경북뉴스",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 62
-    },
-    {
-      "id": "40f8818afe2e",
-      "title": "수시 마감 39분 지나서야 ‘1시간 연장’ 공지…대교협 늑장대응",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iNEJTdDl1MGJoLThPSzRGVFRzWHNhTjhYMWUwZXM2R0lMR2JPZjgzT1RsN1VyQnVqR0owZ05RQ0dxX0otSVZvaHdxTDNLbHJBSVBlek5ZOXdZWUk2UzFtdVFmSnNVLUF2bWdFREJLN1c2WC1weVHSAWZBVV95cUxQQlhJVTZSVDZzdnZXY004cm1fbTN0QmJNazl4MERvMVFpdlNGbkYzLVJxNC1tYzNRTlVDWkFPQ3UzZ1N2cDNCWTJraEhSTXlxN2RuYTFiRHFTTHJOS3Y5UUdCdzgwdHc?oc=5",
-      "source": "동아일보",
-      "kind": "domestic",
-      "publishedAt": "2026-09-22T23:55:26.000Z",
-      "description": "수시 마감 39분 지나서야 ‘1시간 연장’ 공지…대교협 늑장대응 동아일보",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 62
-    },
-    {
       "id": "f1b0e03f498e",
       "title": "“사교육·경력단절 키워”…‘3시 하교’ 좌초 조짐에 뿔난 학부모",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KNmJnWGR2T092ZTE4WTM5QXBvbE82YlFKN2s0Z3EtS2ZJcnltVEpITnMxa1VSVFpnYnNvUHl2MHBOZXVWdS01eE9QOC12cWVRYzUzVw?oc=5",
@@ -375,19 +362,6 @@
       "summaryKo": "펀자브, 정부 학교를 위한 새로운 커리큘럼 승인, 교과서 부담 25% 삭감 파키스탄 커넥트"
     },
     {
-      "id": "0e5c7873a9b1",
-      "title": "정시도 학생부 영향 확대…이투스, 자퇴 후 수능 올인 신중론",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5QkJPZENXODNuS1BCQXZPdVk3b0NsNWdBTm5qUkY2Vklvb0NzQldvemVraVBMVWpGcHlkVGVZWE5BNVJtQXZVWVBqMEI2XzdtSkNoMVdmWHpOT3RkYTVBUVVJam1qYkNCR0hFNERob2xaUdIBckFVX3lxTFB5QkJPZENXODNuS1BCQXZPdVk3b0NsNWdBTm5qUkY2Vklvb0NzQldvemVraVBMVWpGcHlkVGVZWE5BNVJtQXZVWVBqMEI2XzdtSkNoMVdmWHpOT3RkYTVBUVVJam1qYkNCR0hFNERob2xaUQ?oc=5",
-      "source": "메가경제",
-      "kind": "domestic",
-      "publishedAt": "2026-09-23T00:08:42.000Z",
-      "description": "정시도 학생부 영향 확대…이투스, 자퇴 후 수능 올인 신중론 메가경제",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 52,
-      "score": 60
-    },
-    {
       "id": "76a92addb6a8",
       "title": "Education reforms split teachers’ unions as Parliament weighs two key Bills",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObmw1a1F0MUl4bHJBTDNQelRHSnQ0Z1hteFpiRUlubENVSGtqYk9qODRpRmlDblc0TUxWWXVtQTVGRm51amJrMDJCcTNaWTR6cW83X0tnX2c5YThrVkF3M0tWdVRnSWN0TGNyY3hjY3E3UmFNSk4wWUFNM1ZNZXJaSzJLUUdYVm9Ha1ZtV2dnTUZCaWxhWkFzNktxaDZ4VG5USUVSY3d5dDJwc0Z6ZE1wWDYtZmplRDVUNllJV0pTQ2RvSzg?oc=5",
@@ -443,26 +417,13 @@
       "score": 55
     },
     {
-      "id": "fa03ff5176e6",
-      "title": "12화 학생은 줄어드는데 교육예산은 왜 늘어날까",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3LW9JWDEyMENDbnpkc3NidlNRaWJGcnNpc2k5UFc0enNnSjJnMmF6bXNLT1BwYjlzWWxERXY0T09CV1pHVDlPMQ?oc=5",
-      "source": "브런치",
-      "kind": "domestic",
-      "publishedAt": "2026-09-23T17:52:33.000Z",
-      "description": "12화 학생은 줄어드는데 교육예산은 왜 늘어날까 브런치",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 55
-    },
-    {
-      "id": "59ef6ef57a50",
+      "id": "c16f3a71c25a",
       "title": "대학노조, “‘고등교육재정교부금법’ 제정, 대학 단계적 무상교육” 촉구",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Ld1dlYkZRZDZLWVVBSWxLc1NKcEwyYWFmc1JsUWFza0NXVXJ4SnNPX1hkVnhDVjc3WnBDalh6aGIySGt1OVFjaXM1V3hqcXlHOEVkZERRUzZ2anVlMG1wYjU1WWVIQQ?oc=5",
-      "source": "news.unn.net",
+      "source": "한국대학신문",
       "kind": "domestic",
       "publishedAt": "2026-09-23T00:55:12.000Z",
-      "description": "대학노조, “‘고등교육재정교부금법’ 제정, 대학 단계적 무상교육” 촉구 news.unn.net",
+      "description": "대학노조, “‘고등교육재정교부금법’ 제정, 대학 단계적 무상교육” 촉구 한국대학신문",
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -550,19 +511,6 @@
       "score": 51
     },
     {
-      "id": "1e9e3759fb35",
-      "title": "[이민청보다 먼저 이민정책 보론①] 유학생 30만, 유학·연수 입국 50만…‘유치’ 다음을 설계할 때",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2eE55aXdTTGRXTjlzWkFpUlZES1A3RzR5SEVCSmJ2dDNBc0V1ZHJwTGZzNjdBZjR4NlE5Vng5VXE3ekZxS0tIWWRzUUZFUmctRHk0a0d2M1Nrck01SHdHdUhaTlBfUQ?oc=5",
-      "source": "이로운넷",
-      "kind": "domestic",
-      "publishedAt": "2026-09-23T00:20:00.000Z",
-      "description": "[이민청보다 먼저 이민정책 보론①] 유학생 30만, 유학·연수 입국 50만…‘유치’ 다음을 설계할 때 이로운넷",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 51
-    },
-    {
       "id": "6d4217e55b4e",
       "title": "Government to Revise School Education Curriculum After Seven Years",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb2hOY0p3bUE2TVhYVjg2TXhJbUoyYmM5UEtGN3RHN0JCcFBpd2pKQnJYRWNjT1dRLWVDRXRrb1M0NUtvYzVKNjMyTUVucGZ0TkhDS3djaGNuRVBQd1poUGNrZWs3Y1lTOXNyWm1Fb3lySGRtSXpJamwyRVdlOXNWaWZGdlh6dnliSHNCRnN4c3l4S29DTnpaSUFKSHNtZ3E4b3JTRmhnWXRjOXAyZktmMXJuTEllM2NEeWdLQ0ExVC1pYzdrMXBPMHZ5Q1d6QQ?oc=5",
@@ -579,12 +527,12 @@
       "summaryKo": "정부, 7년 후 학교 교육과정 개정 라토파티"
     },
     {
-      "id": "02f6e34324aa",
+      "id": "2b8ce378175e",
       "title": "Exclusive: Ministry of Education recommends teachers resign for elections, restrict SNS politics",
-      "url": "https://www.msn.com/en-xl/news/other/exclusive-ministry-of-education-recommends-teachers-resign-for-elections-restrict-sns-politics/ar-AA2cRXd2",
+      "url": "https://www.msn.com/en-xl/money/general/exclusive-ministry-of-education-recommends-teachers-resign-for-elections-restrict-sns-politics/ar-AA2cRXd2",
       "source": "The Chosun Ilbo on MSN",
       "kind": "foreign",
-      "publishedAt": "2026-09-23T20:51:31.000Z",
+      "publishedAt": "2026-09-23T20:35:49.000Z",
       "description": "A policy study by the Ministry of Education, conducted to advance the current government’s national task of “expanding teachers’ political basic rights,” concluded that teachers should be restricted ...",
       "category": "교원·조직",
       "score": 30,
@@ -605,20 +553,6 @@
       "originalTitle": "Scholar calls academy integration key to South Korea's future military",
       "titleKo": "학자는 한국의 미래 군대에 아카데미 통합 열쇠를 호출",
       "summaryKo": "한국의 국방 학자는 군사 아카데미를 통합하면 미래 전쟁을 위한 공동 작전, 다양성 및 장교 교육을 향상시킬 수 있다고 말합니다."
-    },
-    {
-      "id": "8ae56b59a3c5",
-      "title": "Virtualware and Partner GlobePoint Sign Agreement with Korean Education Group to introduce VIROO across its education ecosystem",
-      "url": "https://finance.yahoo.com/technology/articles/virtualware-partner-globepoint-sign-agreement-062900903.html",
-      "source": "Yahoo Finance",
-      "kind": "foreign",
-      "publishedAt": "2026-09-16T23:29:00.000Z",
-      "description": "Bilbao.- Virtualware (EPA: ALVIR), a European pioneer in 3D-driven industrial software, together with its South Korean partner GlobePoint and Korean Education Group (KEG), have signed a Memorandum of ...",
-      "category": "기타",
-      "score": 30,
-      "originalTitle": "Virtualware and Partner GlobePoint Sign Agreement with Korean Education Group to introduce VIROO across its education ecosystem",
-      "titleKo": "가상 소프트웨어 및 파트너 GlobePoint, 교육 생태계 전반에 VIROO 도입을 위해 한국 교육 그룹과 계약 체결",
-      "summaryKo": "빌바오. - 3D 기반 산업용 소프트웨어의 유럽 선구자인 버추얼웨어 (EPA: ALVIR) 는 한국 파트너인 글로브포인트 (GlobePoint) 및 한국 교육 그룹 (KEG) 과 함께..."
     },
     {
       "id": "0a6dd9300351",
@@ -656,17 +590,30 @@
     "throughDate": "2026-09-27",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-09-25T15:00:00.000Z",
-    "windowEnd": "2026-09-26T23:43:52.952Z",
-    "itemIds": [],
+    "windowEnd": "2026-09-27T00:43:39.905Z",
+    "itemIds": [
+      "f91384e7dc25"
+    ],
     "stats": {
-      "total": 0,
+      "total": 1,
       "official": 0,
-      "domestic": 0,
+      "domestic": 1,
       "foreign": 0
     },
-    "headline": "오늘 아침 브리핑 기준 확인된 교육뉴스가 없습니다.",
-    "summary": "전일 00시부터 오늘 아침 갱신 시각까지 확인된 교육 관련 기사가 없습니다.",
-    "issues": [],
-    "watchpoints": []
+    "headline": "오늘 아침 교육뉴스는 유·초중등 이슈를 중심으로 형성됐습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 1건이 확인됐습니다. 국내 언론에서는 12화 학생은 줄어드는데 교육예산은 왜 늘어날까 등이 주요하게 다뤄졌습니다. 전체적으로는 유·초중등 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "issues": [
+      {
+        "title": "유·초중등",
+        "summary": "12화 학생은 줄어드는데 교육예산은 왜 늘어날까",
+        "why": "학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
+        "sources": [
+          "brunch.co.kr"
+        ]
+      }
+    ],
+    "watchpoints": [
+      "유·초중등: 학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다."
+    ]
   }
 }
