@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-29T01:08:18.032Z",
-  "generatedAtKST": "2026-09-29T10:07:55.497+09:00",
+  "generatedAt": "2026-09-29T02:05:49.008Z",
+  "generatedAtKST": "2026-09-29T11:05:26.487+09:00",
   "date": "2026-09-29",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 0,
-    "domesticBing": 9,
-    "domesticGoogle": 142,
-    "foreignBing": 1,
-    "foreignGoogle": 211,
-    "carried": 53,
-    "rawUnique": 333,
-    "policyRejected": 286,
-    "policyKept": 47
+    "domesticBing": 8,
+    "domesticGoogle": 146,
+    "foreignBing": 2,
+    "foreignGoogle": 212,
+    "carried": 97,
+    "rawUnique": 339,
+    "policyRejected": 293,
+    "policyKept": 46
   },
   "briefing": [
     "[기획특집] 서울시교육감·노동계, 교육재정교부금 개편에 한목소리로 ‘재검토’ 요구 — 전국매일신문",
@@ -24,10 +24,10 @@
     "정근식 서울시교육감, “학생 줄어도 교육재정 수요는 줄지 않아…안정적 재원 확보해야” — enewstoday.co.kr"
   ],
   "stats": {
-    "total": 52,
+    "total": 50,
     "official": 0,
-    "domestic": 44,
-    "foreign": 8
+    "domestic": 43,
+    "foreign": 7
   },
   "items": [
     {
@@ -96,13 +96,13 @@
       "score": 87
     },
     {
-      "id": "a2d8520a991f",
+      "id": "efd01ac65995",
       "title": "최교진 교육부 장관, 특수교육 교원단체와 간담회…현장 지원방안 논의",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVbUUtNEduQ3NRQmdfSHh0ZUUzVEM1T3dDdG1GcllvNXVpdWFJbTItZUROUXVIS25CM2xKbm1heENTQ3RtajBra3kzZlBUbE9YT1l3b3huMGZVRzFF?oc=5",
-      "source": "newspim.com",
+      "source": "뉴스핌",
       "kind": "domestic",
       "publishedAt": "2026-09-29T00:00:00.000Z",
-      "description": "최교진 교육부 장관, 특수교육 교원단체와 간담회…현장 지원방안 논의 newspim.com",
+      "description": "최교진 교육부 장관, 특수교육 교원단체와 간담회…현장 지원방안 논의 뉴스핌",
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 57,
@@ -202,7 +202,7 @@
     {
       "id": "4b095b8ae021",
       "title": "부산교육청, 유아 정서·심리 지원 교원 역량강화 연수",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96OTJTNVg1M1ktRUhFbDhmaXgyVHZLMGdXeVdYdm1uWTcwQjg1T25WRWFEN2pBRjZLMl9xOEdjZVkxZnNPQklsb1A5ZXpveEFmeG5UWUcyMktMRzRNTS0w?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTdjk5YU9Wc1pEVW42U01Vc1ZWeFlWcTlKbkVGTVBiX0lwWlg2aHBpazI3ODkzdVBOVTVsdUxrd1ZGU2RiaGRLRmhNZWdCMmVpRzUxMFJVd18xejhf?oc=5",
       "source": "누리일보",
       "kind": "domestic",
       "publishedAt": "2026-09-29T00:10:01.000Z",
@@ -228,7 +228,7 @@
     {
       "id": "005856fb0155",
       "title": "[경북도교육청 소식] 초중고 교원들과 '서술·논술형 평가' 개발",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B2%BD%EB%B6%81%EB%8F%84%EA%B5%90%EC%9C%A1%EC%B2%AD-%EC%86%8C%EC%8B%9D-%EC%B4%88%EC%A4%91%EA%B3%A0-%EA%B5%90%EC%9B%90%EB%93%A4%EA%B3%BC-%EC%84%9C%EC%88%A0-%EB%85%BC%EC%88%A0%ED%98%95-%ED%8F%89%EA%B0%80-%EA%B0%9C%EB%B0%9C/ar-AA2d4CvC",
+      "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EB%B6%81%EB%8F%84%EA%B5%90%EC%9C%A1%EC%B2%AD-%EC%86%8C%EC%8B%9D-%EC%B4%88%EC%A4%91%EA%B3%A0-%EA%B5%90%EC%9B%90%EB%93%A4%EA%B3%BC-%EC%84%9C%EC%88%A0-%EB%85%BC%EC%88%A0%ED%98%95-%ED%8F%89%EA%B0%80-%EA%B0%9C%EB%B0%9C/ar-AA2d4CvC",
       "source": "동행미디어 시대 on MSN",
       "kind": "domestic",
       "publishedAt": "2026-09-27T17:37:51.000Z",
@@ -332,7 +332,7 @@
     {
       "id": "2cd1923c41a6",
       "title": "경기도교육청, 2027학년도 고교 평준화 지역 학생 배정 방안 온라인 설명회 실시",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmbjdOQjI1YmhqWDRCd0VESzlCelRkV2FEcHA0V3ExLUpsXzN6LTlEbXozUXFuaV9pclNaV3UzTVkyQzRuMGo5cy1zbEc5S3phdFpPQzEwalJyVUNK?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14c2ZTVWdZalpWRm03YTFrNW4xcWlHYXZZWjk4WlJKSW40VHY1MlI0M1dSLXNUMFl3UzFGb1BjbjVRRFk5aUxacFU2cldOV05TUUJwZUQ2NW5OWVphU2psLUpB?oc=5",
       "source": "누리일보",
       "kind": "domestic",
       "publishedAt": "2026-09-28T05:10:54.000Z",
@@ -473,13 +473,13 @@
       "score": 64
     },
     {
-      "id": "851728e47ed1",
+      "id": "77a1b890e7d2",
       "title": "KEDI, 학생맞춤통합지원 첫 학기 점검 토론회…\"행정부담 줄이고 전담체계 필요\"",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ncFdoMkdTUG9zSVI1WEdKZ1Y1SElLXzM5a2FuRWJPcjBvd2JIZ0VldE1GYU93bGpVSXQtdVNqR3NOc1JveGlBdjlxa1RWeXQ1ZUNxNWVIRDFUemVP?oc=5",
-      "source": "newspim.com",
+      "source": "뉴스핌",
       "kind": "domestic",
       "publishedAt": "2026-09-28T00:15:00.000Z",
-      "description": "KEDI, 학생맞춤통합지원 첫 학기 점검 토론회…\"행정부담 줄이고 전담체계 필요\" newspim.com",
+      "description": "KEDI, 학생맞춤통합지원 첫 학기 점검 토론회…\"행정부담 줄이고 전담체계 필요\" 뉴스핌",
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 45,
@@ -519,19 +519,6 @@
       "kind": "domestic",
       "publishedAt": "2026-09-25T11:46:53.000Z",
       "description": "안민석 경기도교육감, 유럽 교육현장서 AI·시민교육 구상…내년 경기형 모델 추진 필드뉴스",
-      "category": "AI·디지털",
-      "feedProvider": "google",
-      "policyRelevance": 47,
-      "score": 58
-    },
-    {
-      "id": "bd031dbbe4cf",
-      "title": "안민석 교육감, 에스토니아·독일서 AI·시민교육 구상...내년부터 본격 추진",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqdk85WkRHeW51bVZpSEVRd194NENVeEFfcktwZXpPaW1TSVhtYkhnNVR3ODRoeFRnRWlNdXFZSmdRM1NzUzNubXdUdXdaV1dRU2MxLTF5UGRfUdIBWEFVX3lxTE5zSzktX2FVQ2NoUmoyRXlQYjhLMklRRHotZGxhLVJHSmM4TTY3RlJqdUx0UWlYZFkzUmtmQVZXdjBaNGVENlI2eTRSdE44eEpsTEJiVWJhUkY?oc=5",
-      "source": "ajunews.com",
-      "kind": "domestic",
-      "publishedAt": "2026-09-25T01:34:49.000Z",
-      "description": "안민석 교육감, 에스토니아·독일서 AI·시민교육 구상...내년부터 본격 추진 ajunews.com",
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 47,
@@ -705,20 +692,6 @@
       "originalTitle": "Applications surge for South Korean corporate-sponsored majors",
       "titleKo": "한국 기업 스폰서 전공 지원자 급증",
       "summaryKo": "학생들이 주요 기업의 일자리에 대한 명확한 경로를 모색함에 따라 기업이 후원하는 한국 대학 프로그램에 대한 지원서가 기록적으로 증가했습니다."
-    },
-    {
-      "id": "63801058e5e4",
-      "title": "Plan for literary translation graduate school delayed over regional development policy",
-      "url": "https://www.koreatimes.co.kr/lifestyle/books/20260914/plan-for-literary-translation-graduate-school-delayed-over-regional-development-policy",
-      "source": "The Korea Times",
-      "kind": "foreign",
-      "publishedAt": "2026-09-14T09:07:00.000Z",
-      "description": "A plan by the Literature Translation Institute of Korea (LTI Korea) to establish an independent graduate school dedicated to Korean literary ...",
-      "category": "유·초중등",
-      "score": 30,
-      "originalTitle": "Plan for literary translation graduate school delayed over regional development policy",
-      "titleKo": "지역개발정책보다 문학번역대학원 진학계획 지연",
-      "summaryKo": "한국문학번역원 (LTI Korea) 이 한국문학을 전담하는 독립적인 대학원을 설립하기 위한 계획..."
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -728,14 +701,14 @@
     "throughDate": "2026-09-29",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-09-27T15:00:00.000Z",
-    "windowEnd": "2026-09-29T01:08:18.032Z",
+    "windowEnd": "2026-09-29T02:05:49.008Z",
     "itemIds": [
       "497c6ab33038",
       "5d9a84e779ad",
       "a3bb523d66ed",
       "9d91d2de9f77",
       "bee2cf26c713",
-      "a2d8520a991f",
+      "efd01ac65995",
       "5af64eb9ece2",
       "70ca9bc21a98",
       "3ec06ac9e1b7",
@@ -754,7 +727,7 @@
       "2cd1923c41a6",
       "207ad980c3d0",
       "c64abbcc7680",
-      "851728e47ed1",
+      "77a1b890e7d2",
       "7399a3ad95fd"
     ],
     "stats": {
@@ -773,7 +746,7 @@
         "sources": [
           "전국매일신문",
           "enewstoday.co.kr",
-          "newspim.com"
+          "뉴스핌"
         ]
       },
       {
