@@ -1,35 +1,47 @@
 {
-  "generatedAt": "2026-09-30T00:39:05.940Z",
-  "generatedAtKST": "2026-09-30T09:39:03.378+09:00",
+  "generatedAt": "2026-09-30T01:21:31.032Z",
+  "generatedAtKST": "2026-09-30T10:21:28.595+09:00",
   "date": "2026-09-30",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 12,
+    "domesticBing": 13,
     "domesticGoogle": 144,
-    "foreignBing": 2,
+    "foreignBing": 4,
     "foreignGoogle": 201,
-    "carried": 58,
-    "rawUnique": 336,
-    "policyRejected": 266,
-    "policyKept": 70
+    "carried": 126,
+    "rawUnique": 341,
+    "policyRejected": 267,
+    "policyKept": 74
   },
   "briefing": [
+    "2027학년도 공립 중등·특수(중등)·보건·영양·사서·전문상담교사 임용후보자 선정경쟁시험 모집공고 현황 — 교육부",
     "다름을 넘어, 이주-비이주배경학생들이 함께 배우고 성장하는 교실 만들기 — 교육부",
     "경제협력개발기구(OECD) 교육지표 2026 결과 발표 — 교육부",
     "국가 공인 한국어시험 토픽, 2029년 평가 개편 및 인공지능·디지털 기반 체제로 전환 — 교육부",
-    "지역과 인재를 잇는 산학연, ‘2026 산학연협력 엑스포’에서 미래를 만나다 — 교육부",
-    "2027학년도 대학수학능력시험 9월 모의평가 채점 결과 — 교육부"
+    "지역과 인재를 잇는 산학연, ‘2026 산학연협력 엑스포’에서 미래를 만나다 — 교육부"
   ],
   "stats": {
-    "total": 75,
+    "total": 78,
     "official": 9,
-    "domestic": 59,
-    "foreign": 7
+    "domestic": 63,
+    "foreign": 6
   },
   "items": [
+    {
+      "id": "627fd23ad0c1",
+      "title": "2027학년도 공립 중등·특수(중등)·보건·영양·사서·전문상담교사 임용후보자 선정경쟁시험 모집공고 현황",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107319&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-09-30T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "교원·조직",
+      "policyRelevance": 100,
+      "score": 115
+    },
     {
       "id": "347adf1fc103",
       "title": "다름을 넘어, 이주-비이주배경학생들이 함께 배우고 성장하는 교실 만들기",
@@ -140,16 +152,17 @@
       "score": 90
     },
     {
-      "id": "25f27bdca053",
-      "title": "데이터로 읽는 우리 교육 제14호 발간 - 학교체육, 수업에서 일상으로",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107255&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-09-20T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
+      "id": "4bbd3fdd0b94",
+      "title": "최교진 교육부장관, 교육·상담·의료 전문가 12인 위촉…학생 마음건강 정책 현장 연계 강화",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92MlJjUmxFUk1rLWZseDBZV2dNOHdyWURqNEFRY3pDRmZHenM0am1DSHgwNW5kWFNaRjJ4RzlaSXU0RjlGNWlNX2JyZ2RpQ09pUldPQW1zSkw5aWFsTC1PdHVScGJoQ2RyVjUxNnlWS2Y?oc=5",
+      "source": "한국강사신문",
+      "kind": "domestic",
+      "publishedAt": "2026-09-30T00:52:49.000Z",
+      "description": "최교진 교육부장관, 교육·상담·의료 전문가 12인 위촉…학생 마음건강 정책 현장 연계 강화 한국강사신문",
       "category": "유·초중등",
-      "policyRelevance": 100,
-      "score": 90
+      "feedProvider": "google",
+      "policyRelevance": 75,
+      "score": 87
     },
     {
       "id": "cae7c7757792",
@@ -282,6 +295,19 @@
       "score": 81
     },
     {
+      "id": "74155fbb57d4",
+      "title": "AI 대전환에 국가교육과정도 바뀐다…평가원, 미래교육 논의",
+      "url": "https://www.newspim.com/news/view/20260929000211",
+      "source": "뉴스핌",
+      "kind": "domestic",
+      "publishedAt": "2026-09-28T17:34:00.000Z",
+      "description": "[서울=뉴스핌] 황혜영 기자 = 한국교육과정평가원이 인공지능(AI) 기술 발전에 대응한 미래 국가교육과정의 방향과 개편 과제를 논의한다.한국교육과정평가원은 오는 30일 서울 중구 프레지던트 호텔 모차르트홀에서 'AI 대전환 시대 국가교육과정 방향 설계'를 주제로 '20 ...",
+      "category": "AI·디지털",
+      "feedProvider": "bing",
+      "policyRelevance": 65,
+      "score": 80
+    },
+    {
       "id": "497c6ab33038",
       "title": "[기획특집] 서울시교육감·노동계, 교육재정교부금 개편에 한목소리로 ‘재검토’ 요구",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yODc2cjU2QTg3ZlAzakRSOHBTZkczSHBrSm80N09tdjFBcWNzMEtmMVUwYWZiMUpqRGkzazZ5RWFySk1hTUJHeU5XSWpIbGVXeGhjOFB0UnpQLVhaaE9Od09NeEFaZkZreHVxbm5n?oc=5",
@@ -345,6 +371,19 @@
       "feedProvider": "google",
       "policyRelevance": 47,
       "score": 78
+    },
+    {
+      "id": "efd208d6390a",
+      "title": "최교진 교육부장관, 특수교육 현장교원과 함께하는 ‘제8차 교육진담 간담회’ 개최",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UUzdsZ1p3WGFGZU9OVmNfQlo5UE9kajRCcXZObm15eXlqcWg4Um9zMDM0TUYtTXpCNTY0QWliMUZSYU5hQjZ6M1FhcTFDUDNQOGtTRlRmcHMtQVgxelpyek5aaw?oc=5",
+      "source": "대한민국교육신문",
+      "kind": "domestic",
+      "publishedAt": "2026-09-30T01:03:58.000Z",
+      "description": "최교진 교육부장관, 특수교육 현장교원과 함께하는 ‘제8차 교육진담 간담회’ 개최 대한민국교육신문",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 77
     },
     {
       "id": "e39cc427707c",
@@ -464,20 +503,20 @@
       "score": 75
     },
     {
-      "id": "2d7bbc18bddf",
+      "id": "b109c2179f30",
       "title": "Parliament seeks public views on six education reform bills in West Pokot",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR2Y5X01QbXBlOWdRYkpDMW1HVTJWeW1BS1pFRkYzTU0tNWV1NTkyTzdSN296aDVZUk95cS11dFcxVTNXYndlTlpRYXRPX3Z6eGF1UnZyWUZLeUQ0bDVwNmtKblhPNEtuVHNFTFNSYmhfS2hJb0FXY1BJUzRwUnlSOW9qcTRwcnI4dW5FeF9RaUo5ek5iQ2RldEF0ektMXzl3ZW5oTQ?oc=5",
-      "source": "Kenya News Agency",
+      "source": "kenyanews.go.ke",
       "kind": "foreign",
       "publishedAt": "2026-09-29T16:07:28.000Z",
-      "description": "Parliament seeks public views on six education reform bills in West Pokot Kenya News Agency",
+      "description": "Parliament seeks public views on six education reform bills in West Pokot kenyanews.go.ke",
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 53,
       "score": 75,
       "originalTitle": "Parliament seeks public views on six education reform bills in West Pokot",
       "titleKo": "웨스트포콧의 6개 교육 개혁 법안에 대한 대중의 견해를 구하는 의회",
-      "summaryKo": "의회는 West Pokot Kenya News Agency의 6 개 교육 개혁 법안에 대한 대중의 견해를 구합니다."
+      "summaryKo": "West Pokot kenyanews.go.ke의 6개 교육 개혁 법안에 대한 대중의 견해를 구하는 의회"
     },
     {
       "id": "fff4f7dd4cc7",
@@ -506,13 +545,13 @@
       "score": 73
     },
     {
-      "id": "fab1d88f597b",
+      "id": "793e2f27dc4e",
       "title": "권순기 교육감\"인내·배려·도전, 학생만의 덕목\" |",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZcmVjMjdObEFoZjhZZXBtUU9hVFFmMjFiN1Rmdk8xeU1acjVhXzRJaVpSV0hOYWhpbk9qNERyU01XbXVQYlB2ZUlMaGtDdUlmcmFDR0VzdUlWSnQ5T2ZmUlVvdHZBTUNhSXNybnR5SQ?oc=5",
-      "source": "hansbiz.co.kr",
+      "source": "한스경제",
       "kind": "domestic",
       "publishedAt": "2026-09-29T09:17:49.000Z",
-      "description": "권순기 교육감\"인내·배려·도전, 학생만의 덕목\" | hansbiz.co.kr",
+      "description": "권순기 교육감\"인내·배려·도전, 학생만의 덕목\" | 한스경제",
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 45,
@@ -532,13 +571,13 @@
       "score": 73
     },
     {
-      "id": "efd01ac65995",
+      "id": "a2d8520a991f",
       "title": "최교진 교육부 장관, 특수교육 교원단체와 간담회…현장 지원방안 논의",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVbUUtNEduQ3NRQmdfSHh0ZUUzVEM1T3dDdG1GcllvNXVpdWFJbTItZUROUXVIS25CM2xKbm1heENTQ3RtajBra3kzZlBUbE9YT1l3b3huMGZVRzFF?oc=5",
-      "source": "뉴스핌",
+      "source": "newspim.com",
       "kind": "domestic",
       "publishedAt": "2026-09-29T00:00:00.000Z",
-      "description": "최교진 교육부 장관, 특수교육 교원단체와 간담회…현장 지원방안 논의 뉴스핌",
+      "description": "최교진 교육부 장관, 특수교육 교원단체와 간담회…현장 지원방안 논의 newspim.com",
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 57,
@@ -571,13 +610,13 @@
       "score": 72
     },
     {
-      "id": "e4a7550e1774",
+      "id": "f64537a387d6",
       "title": "경북교육청, '사교육 부담 없는 지역·학교' 운영",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRk9fd3FDV0VIMmZybDdNeWJvcmpwWDE4eEEwcG0tRWdNUmVJR1lGZUw1Yk9KaURvQnlzRHF1SGg0Q2xpclc3VzdHNlk3czBjYVZBQjg0ZzBlVlEtcjZ0dmhkU2RZc0J6ZjFYczlGZG4tbi1LTHF5ZFBVTXV3U3dURjhvUEJOZkFXYU1ua3pxODJVT3ZXR2p1Z05ORXg4ZHl4Q2Y5Sm96Wm84cWc?oc=5",
-      "source": "안동MBC",
+      "source": "andongmbc.co.kr",
       "kind": "domestic",
       "publishedAt": "2026-09-28T01:54:02.000Z",
-      "description": "경북교육청, '사교육 부담 없는 지역·학교' 운영 안동MBC",
+      "description": "경북교육청, '사교육 부담 없는 지역·학교' 운영 andongmbc.co.kr",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
@@ -636,13 +675,26 @@
       "score": 72
     },
     {
-      "id": "87125e830cbf",
+      "id": "9adac05c21be",
+      "title": "최교진 교육장관, 학생 마음건강 정책자문단 12인 위촉",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TdndMR3BFLTNsa19WZmdXbmVLZGQ4eGpBQktwNTVQeU5ZVDYwYkY4YkpXTHdtQU5pU08zUGVNTXI4V1o0V0dUdklvS1owWVJmSmJQZDRjMHFSUU3SAWBBVV95cUxOaDBkc2ZtNmJ6V0pGQ19DZE9YdG5FM0R2R0YwWUtKVUF4X0lTZGtyS3hPX1pBRTBuQUp4U3FEaG5fUkViMXc5MnZrbGE2TjBJNzdEb2xXQVBxaVloOFcyNXM?oc=5",
+      "source": "연합뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-30T00:46:50.000Z",
+      "description": "최교진 교육장관, 학생 마음건강 정책자문단 12인 위촉 연합뉴스",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 71
+    },
+    {
+      "id": "38d70a0d5a2b",
       "title": "‘장애학생 방문치과진료 제도 마련’ 공감대 형성",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoT00yQU4tam5XNVRsNm1KU001SXpzSUJNVFU1cXduR0ZSSTQtVThwZFhQNkRyeGYtcVZyZk1fVVhHelNPTDQ5ZDdYajZLWHJZZ2U0eEtRUWhkcFJSM0lXVm1UMjVUR0ht?oc=5",
-      "source": "덴탈투데이",
+      "source": "dttoday.com",
       "kind": "domestic",
       "publishedAt": "2026-09-29T08:09:16.000Z",
-      "description": "‘장애학생 방문치과진료 제도 마련’ 공감대 형성 덴탈투데이",
+      "description": "‘장애학생 방문치과진료 제도 마련’ 공감대 형성 dttoday.com",
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -662,13 +714,13 @@
       "score": 71
     },
     {
-      "id": "306e967b7e48",
+      "id": "da49d0d18fce",
       "title": "[교육타파] 교사노조연맹 \"교능평 폐지, 이름만 바꿔 부활\"…교원역량개발지원제도 개정안 전면 재설계 촉구",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RdmFwSFpLYkdWRUJyWFFTdXlkMmVvQjdrWGVwTUxjOV96M3JDUGZweE9VUnBEVklwckNLWTZBXzMwRGtmbDlxd1M2ZThwTFFHdV9HOWs5N2hydF9hdWs0?oc=5",
-      "source": "edujb.com",
+      "source": "전북미래교육신문",
       "kind": "domestic",
       "publishedAt": "2026-09-29T00:25:59.000Z",
-      "description": "[교육타파] 교사노조연맹 \"교능평 폐지, 이름만 바꿔 부활\"…교원역량개발지원제도 개정안 전면 재설계 촉구 edujb.com",
+      "description": "[교육타파] 교사노조연맹 \"교능평 폐지, 이름만 바꿔 부활\"…교원역량개발지원제도 개정안 전면 재설계 촉구 전북미래교육신문",
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 52,
@@ -688,13 +740,13 @@
       "score": 70
     },
     {
-      "id": "0962efb1d455",
+      "id": "3ee04a189849",
       "title": "정근식·민주노총 “학생 줄어도 교육비 못 줄여”…교부금 개편 비판[세상&]",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Vb3RGNmVUY1FveUs0d1ZQR2FxanlUbUc0MmttSHNTcnRQdjFKRzVQNlpyTHBaTWpuZmV1Z01fMmNRVFd5SjBsTzlqNzctZ0VIU2Rua2tB?oc=5",
-      "source": "biz.heraldcorp.com",
+      "source": "헤럴드경제",
       "kind": "domestic",
       "publishedAt": "2026-09-28T06:33:51.000Z",
-      "description": "정근식·민주노총 “학생 줄어도 교육비 못 줄여”…교부금 개편 비판[세상&] biz.heraldcorp.com",
+      "description": "정근식·민주노총 “학생 줄어도 교육비 못 줄여”…교부금 개편 비판[세상&] 헤럴드경제",
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -792,13 +844,13 @@
       "score": 66
     },
     {
-      "id": "798ad80b6860",
+      "id": "4ee7e846786d",
       "title": "최교진, 특수교육 교원 만나 의견 청취…현장 지원·정책 방안 논의",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tYjdUR3g5RWpWNExPOC1qT3hfc29VNmZJU05kUzhGUERISW94Vll3SnVNME9HWjYzNV9MVVNFRGMxbEhxVWZLR1Vzd21SSjRia3pIdE00NWR1Z9IBX0FVX3lxTFBlWG5lNFdyeXdyN2hnVVNpR3gxRmRhcWpubk5jZGx3cXo1Q2RXdzRvMlFaVURWUDdiY2gycll2UTBnbk1oamxtX1RNV2NTZ0JGOUlBY3RGRVF6SnotaC1Z?oc=5",
-      "source": "news1.kr",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlWG5lNFdyeXdyN2hnVVNpR3gxRmRhcWpubk5jZGx3cXo1Q2RXdzRvMlFaVURWUDdiY2gycll2UTBnbk1oamxtX1RNV2NTZ0JGOUlBY3RGRVF6SnotaC1Z0gFfQVVfeXFMUGVYbmU0V3J5d3I3aGdVU2lHeDFGZGFxam5uTmNkbHdxejVDZFd3NG8yUVpVRFZQN2JjaDJyWXZRMGduTWhqbG1fVE1XY1NnQkY5SUFjdEZFUXpKei1oLVk?oc=5",
+      "source": "뉴스1",
       "kind": "domestic",
       "publishedAt": "2026-09-28T23:30:33.000Z",
-      "description": "최교진, 특수교육 교원 만나 의견 청취…현장 지원·정책 방안 논의 news1.kr",
+      "description": "최교진, 특수교육 교원 만나 의견 청취…현장 지원·정책 방안 논의 뉴스1",
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -825,19 +877,6 @@
       "kind": "domestic",
       "publishedAt": "2026-09-28T09:50:29.000Z",
       "description": "교육부, 한국과 멕시코, 청년 교류 확대를 위해 힘을 모은다 누리일보",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 47,
-      "score": 64
-    },
-    {
-      "id": "5da863b78ec7",
-      "title": "이재명 대통령 저서 방학 추천 논란…교육부, 도서 선정 절차 손본다",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LbXVmYWJfM2Jxb3BIUVhCSDdjVElUZldKaEU1dkJNT243Uks3ZUhGektPcW9YWHl0emtISkxfMDVXN3NXVklxWkMzdlRVbm9WdkFkTzR0aGRrSGVGbTBPQ3pFNmNidkZw?oc=5",
-      "source": "더쎈뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-09-27T01:00:47.000Z",
-      "description": "이재명 대통령 저서 방학 추천 논란…교육부, 도서 선정 절차 손본다 더쎈뉴스",
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 47,
@@ -896,13 +935,13 @@
       "score": 63
     },
     {
-      "id": "77a1b890e7d2",
+      "id": "851728e47ed1",
       "title": "KEDI, 학생맞춤통합지원 첫 학기 점검 토론회…\"행정부담 줄이고 전담체계 필요\"",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ncFdoMkdTUG9zSVI1WEdKZ1Y1SElLXzM5a2FuRWJPcjBvd2JIZ0VldE1GYU93bGpVSXQtdVNqR3NOc1JveGlBdjlxa1RWeXQ1ZUNxNWVIRDFUemVP?oc=5",
-      "source": "뉴스핌",
+      "source": "newspim.com",
       "kind": "domestic",
       "publishedAt": "2026-09-28T00:15:00.000Z",
-      "description": "KEDI, 학생맞춤통합지원 첫 학기 점검 토론회…\"행정부담 줄이고 전담체계 필요\" 뉴스핌",
+      "description": "KEDI, 학생맞춤통합지원 첫 학기 점검 토론회…\"행정부담 줄이고 전담체계 필요\" newspim.com",
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 45,
@@ -920,6 +959,19 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 55
+    },
+    {
+      "id": "5da863b78ec7",
+      "title": "이재명 대통령 저서 방학 추천 논란…교육부, 도서 선정 절차 손본다",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LbXVmYWJfM2Jxb3BIUVhCSDdjVElUZldKaEU1dkJNT243Uks3ZUhGektPcW9YWHl0emtISkxfMDVXN3NXVklxWkMzdlRVbm9WdkFkTzR0aGRrSGVGbTBPQ3pFNmNidkZw?oc=5",
+      "source": "더쎈뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-27T01:00:47.000Z",
+      "description": "이재명 대통령 저서 방학 추천 논란…교육부, 도서 선정 절차 손본다 더쎈뉴스",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 47,
+      "score": 54
     },
     {
       "id": "2ec75f1f73ea",
@@ -952,17 +1004,17 @@
       "summaryKo": "세종대학교는 오는 10월 1일 서울캠퍼스에서 제8회 국제학생미래 (ISF) 고등교육포럼을 개최하여..."
     },
     {
-      "id": "02f6e34324aa",
-      "title": "Exclusive: Ministry of Education recommends teachers resign for elections, restrict SNS politics",
-      "url": "https://www.msn.com/en-xl/news/other/exclusive-ministry-of-education-recommends-teachers-resign-for-elections-restrict-sns-politics/ar-AA2cRXd2",
+      "id": "7399a3ad95fd",
+      "title": "Exclusive: Ministry recommends teachers resign for National Assembly, restrict student-linked SNS politics",
+      "url": "https://www.msn.com/en-xl/money/general/exclusive-ministry-recommends-teachers-resign-for-national-assembly-restrict-student-linked-sns-politics/ar-AA2cRXd2",
       "source": "The Chosun Ilbo on MSN",
       "kind": "foreign",
       "publishedAt": "2026-09-27T19:00:45.000Z",
       "description": "A policy study by the Ministry of Education, conducted to advance the current government’s national task of “expanding teachers’ political basic rights,” concluded that teachers should be restricted ...",
       "category": "교원·조직",
       "score": 30,
-      "originalTitle": "Exclusive: Ministry of Education recommends teachers resign for elections, restrict SNS politics",
-      "titleKo": "독점: 교육부는 교사가 선거를 위해 사직하고, SNS 정치를 제한할 것을 권장합니다.",
+      "originalTitle": "Exclusive: Ministry recommends teachers resign for National Assembly, restrict student-linked SNS politics",
+      "titleKo": "독점: 교육부는 교사가 국회에서 사퇴하고, 학생 연계 SNS 정치를 제한할 것을 권장합니다.",
       "summaryKo": "현 정부의 국정과제인 '교원의 정치적 기본권 확대' 를 추진하기 위해 실시된 교육부의 정책연구는 교사를 제한해야 한다는 결론을 내렸다..."
     },
     {
@@ -978,20 +1030,6 @@
       "originalTitle": "Scholar calls academy integration key to South Korea's future military",
       "titleKo": "학자는 한국의 미래 군대에 아카데미 통합 열쇠를 호출",
       "summaryKo": "한국의 국방 학자는 군사 아카데미를 통합하면 미래 전쟁을 위한 공동 작전, 다양성 및 장교 교육을 향상시킬 수 있다고 말합니다."
-    },
-    {
-      "id": "41ceb72ae532",
-      "title": "South Korea’s unification education is asking the wrong question about peace",
-      "url": "https://www.dailynk.com/english/unification-education-peace-wind-week-reality/",
-      "source": "Daily NK",
-      "kind": "foreign",
-      "publishedAt": "2026-09-17T03:30:00.000Z",
-      "description": "As Peace Wind Week launches, a columnist asks whether South Korea's unification education still teaches today's real North Korea.",
-      "category": "기타",
-      "score": 30,
-      "originalTitle": "South Korea’s unification education is asking the wrong question about peace",
-      "titleKo": "한국의 통일교육은 평화에 대해 잘못된 질문을 던지고 있다.",
-      "summaryKo": "피스 윈드 위크 (Peace Wind Week) 가 시작되면서 칼럼니스트는 한국의 통일 교육이 오늘날의 진정한 북한을 여전히 가르치고 있는지 묻습니다."
     },
     {
       "id": "f3eb03e57f3f",
@@ -1015,13 +1053,15 @@
     "throughDate": "2026-09-30",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-09-28T15:00:00.000Z",
-    "windowEnd": "2026-09-30T00:39:05.940Z",
+    "windowEnd": "2026-09-30T01:21:31.032Z",
     "itemIds": [
+      "627fd23ad0c1",
       "347adf1fc103",
       "82a23cbece5c",
       "8b76c0632c38",
       "67885450a875",
       "0ca71abaee78",
+      "4bbd3fdd0b94",
       "cae7c7757792",
       "c0a3d9f2631b",
       "8ff0f1d3013b",
@@ -1030,53 +1070,56 @@
       "2fa9501fff8c",
       "af4a2b33a30f",
       "a260bde2a35a",
+      "74155fbb57d4",
       "9815e5beed77",
+      "efd208d6390a",
       "6f4c77300a70",
       "a297e702aabf",
       "fad1e3df896a",
       "793a5c9eb5dc",
       "4d8dd08559dc",
       "84c5635950fb",
-      "2d7bbc18bddf",
+      "b109c2179f30",
       "fff4f7dd4cc7",
       "a5b7785d08ed",
-      "fab1d88f597b",
+      "793e2f27dc4e",
       "0ded7376abf2",
-      "efd01ac65995",
-      "87125e830cbf",
+      "a2d8520a991f",
+      "9adac05c21be",
+      "38d70a0d5a2b",
       "70ca9bc21a98",
-      "306e967b7e48",
+      "da49d0d18fce",
       "4b095b8ae021",
       "970c45ba7a1a",
-      "798ad80b6860"
+      "4ee7e846786d"
     ],
     "stats": {
-      "total": 32,
-      "official": 4,
-      "domestic": 27,
+      "total": 37,
+      "official": 5,
+      "domestic": 31,
       "foreign": 1
     },
     "headline": "오늘 아침 교육뉴스는 교원·조직·유·초중등·입시·사교육 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 32건이 확인됐습니다. 교육부는 다름을 넘어, 이주-비이주배경학생들이 함께 배우고 성장하는 교실 만들기, 경제협력개발기구(OECD) 교육지표 2026 결과 발표와 국가 공인 한국어시험 토픽, 2029년 평가 개편 및 인공지능·디지털 기반 체제로 전환 등을 공식 발표했습니다. 국내 언론에서는 최교진, 학생 마음건강·자살예방 정책 자문단 첫 회의 개최와 최교진 교육장관, 학생 마음건강 자문단 12명 위촉…자살예방 정책 점검 등이 주요하게 다뤄졌습니다. 해외에서는 웨스트포콧의 6개 교육 개혁 법안에 대한 대중의 견해를 구하는 의회 관련 보도가 확인됐습니다. 전체적으로는 교원·조직·유·초중등·입시·사교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 37건이 확인됐습니다. 교육부는 2027학년도 공립 중등·특수(중등)·보건·영양·사서·전문상담교사 임용후보자 선정경쟁시험 모집공고 현황, 다름을 넘어, 이주-비이주배경학생들이 함께 배우고 성장하는 교실 만들기와 경제협력개발기구(OECD) 교육지표 2026 결과 발표 등을 공식 발표했습니다. 국내 언론에서는 최교진, 학생 마음건강·자살예방 정책 자문단 첫 회의 개최와 최교진 교육부장관, 교육·상담·의료 전문가 12인 위촉…학생 마음건강 정책 현장 연계 강화 등이 주요하게 다뤄졌습니다. 해외에서는 웨스트포콧의 6개 교육 개혁 법안에 대한 대중의 견해를 구하는 의회 관련 보도가 확인됐습니다. 전체적으로는 교원·조직·유·초중등·입시·사교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "교원·조직",
-        "summary": "권순기 경남교육감, 6급 행정리더들과 교육정책 현안 공유 · 경상남도교육청 “정책을 나누고, 현장을 잇다”... 교육감과 6급 행정리더의 만남 · 전북교육 정책, 현장 교원과 함께 만들고 다듬는다...",
+        "summary": "2027학년도 공립 중등·특수(중등)·보건·영양·사서·전문상담교사 임용후보자 선정경쟁시험 모집공고 현황 · 권순기 경남교육감, 6급 행정리더들과 교육정책 현안 공유 · 경상남도교육청 “정책을 나누고, 현장을 잇다”... 교육감과 6급 행정리더의 만남",
         "why": "교원 업무·교권·인사와 직접 연결될 수 있어 현장 반응과 제도 운영상 쟁점을 살펴볼 필요가 있습니다.",
         "sources": [
+          "교육부",
           "브레이크뉴스",
-          "시사일보",
-          "아시아뉴스전북"
+          "시사일보"
         ]
       },
       {
         "title": "유·초중등",
-        "summary": "다름을 넘어, 이주-비이주배경학생들이 함께 배우고 성장하는 교실 만들기 · 최교진, 학생 마음건강·자살예방 정책 자문단 첫 회의 개최 · 최교진 교육장관, 학생 마음건강 자문단 12명 위촉…자살예방 정책 점검",
+        "summary": "다름을 넘어, 이주-비이주배경학생들이 함께 배우고 성장하는 교실 만들기 · 최교진, 학생 마음건강·자살예방 정책 자문단 첫 회의 개최 · 최교진 교육부장관, 교육·상담·의료 전문가 12인 위촉…학생 마음건강 정책 현장 연계 강화",
         "why": "학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
         "sources": [
           "교육부",
           "뉴시스 on MSN",
-          "뉴스핌"
+          "한국강사신문"
         ]
       },
       {
@@ -1090,11 +1133,12 @@
       },
       {
         "title": "AI·디지털",
-        "summary": "국가 공인 한국어시험 토픽, 2029년 평가 개편 및 인공지능·디지털 기반 체제로 전환 · AI 수학교육부터 보이스피싱 예방까지…평생의 AX파트너가 될 '에듀테크'를 만나고 왔어요",
+        "summary": "국가 공인 한국어시험 토픽, 2029년 평가 개편 및 인공지능·디지털 기반 체제로 전환 · AI 수학교육부터 보이스피싱 예방까지…평생의 AX파트너가 될 '에듀테크'를 만나고 왔어요 · AI 대전환에 국가교육과정도 바뀐다…평가원, 미래교육 논의",
         "why": "AI·디지털 전환 정책은 교육과정·교원역량·인프라와 연결되므로 실행 여건과 현장 적용성을 함께 봐야 합니다.",
         "sources": [
           "교육부",
-          "정책브리핑"
+          "정책브리핑",
+          "뉴스핌"
         ]
       }
     ],
