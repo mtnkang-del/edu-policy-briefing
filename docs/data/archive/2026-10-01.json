@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T00:40:15.526Z",
-  "generatedAtKST": "2026-10-01T09:40:13.180+09:00",
+  "generatedAt": "2026-10-01T01:21:40.991Z",
+  "generatedAtKST": "2026-10-01T10:21:38.394+09:00",
   "date": "2026-10-01",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
@@ -8,12 +8,12 @@
   "collectionHealth": {
     "officialLive": 10,
     "domesticBing": 21,
-    "domesticGoogle": 134,
+    "domesticGoogle": 139,
     "foreignBing": 3,
-    "foreignGoogle": 207,
-    "carried": 127,
-    "rawUnique": 358,
-    "policyRejected": 261,
+    "foreignGoogle": 209,
+    "carried": 203,
+    "rawUnique": 368,
+    "policyRejected": 267,
     "policyKept": 80
   },
   "briefing": [
@@ -177,17 +177,43 @@
       "score": 92
     },
     {
-      "id": "4bbd3fdd0b94",
-      "title": "최교진 교육부장관, 교육·상담·의료 전문가 12인 위촉…학생 마음건강 정책 현장 연계 강화",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92MlJjUmxFUk1rLWZseDBZV2dNOHdyWURqNEFRY3pDRmZHenM0am1DSHgwNW5kWFNaRjJ4RzlaSXU0RjlGNWlNX2JyZ2RpQ09pUldPQW1zSkw5aWFsTC1PdHVScGJoQ2RyVjUxNnlWS2Y?oc=5",
-      "source": "한국강사신문",
+      "id": "dabab45be0c9",
+      "title": "전문대교협 전문여대/한국여성정책연구원 업무협약.. 여성 고등직업교육 고도화 '앞장'",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MTW14U2lCeGR6R0t3aHpGamlQbjZGQ3NSSHdPWWhSODJ4eXcxcFYzTi0xbkU1em8xUUFXZkR0QkhpanNvVVFRX01ubHB0VFZBbkYxOVJucVlUUVhYemllWmI0LXVQaU9rcUs4MA?oc=5",
+      "source": "veritas-a.com",
       "kind": "domestic",
-      "publishedAt": "2026-09-30T00:52:49.000Z",
-      "description": "최교진 교육부장관, 교육·상담·의료 전문가 12인 위촉…학생 마음건강 정책 현장 연계 강화 한국강사신문",
-      "category": "유·초중등",
+      "publishedAt": "2026-10-01T00:44:00.000Z",
+      "description": "전문대교협 전문여대/한국여성정책연구원 업무협약.. 여성 고등직업교육 고도화 '앞장' veritas-a.com",
+      "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 75,
       "score": 87
+    },
+    {
+      "id": "db597d77499e",
+      "title": "충북교육연구정보원, 25종 SW·AI 교구 무료 대여…초중고 교원 지원 확대",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3710086",
+      "source": "국제뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-09-30T12:09:00.000Z",
+      "description": "(청주=국제뉴스) 이재기 기자 = 충북 초·중·고 교원들이 소프트웨어(SW)와 인공지능(AI) 교육을 위한 교구를 무료로 활용할 수 있는 지원이 확대된다.충청북도교육청 산하 교육연구정보원은 교원의 수업 활용도를 높이고 학교 현장의 SW·AI 교육을 지원하기 위해 소프트웨어 교육용 교구 대여 사업을 운영 중이라고 밝혔다.이 사업은 도내 초·중·고 교원이 수업 ...",
+      "category": "AI·디지털",
+      "feedProvider": "bing",
+      "policyRelevance": 57,
+      "score": 87
+    },
+    {
+      "id": "f2f8eafcc9b4",
+      "title": "대전시교육청, 수업혁신·AI교육 정책 아이디어 찾는다",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TcU5UWDhwSDFGUzBwR1NfTE12VjZKMVo0RGE5aFVlT2gxVjg3Sy01N3RzY3NZeFl2aURDNmVYMFJYSTQ0Wm95Vnh2RVJKaHN5V2tMWA?oc=5",
+      "source": "타임뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-10-01T00:48:37.000Z",
+      "description": "대전시교육청, 수업혁신·AI교육 정책 아이디어 찾는다 타임뉴스",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 86
     },
     {
       "id": "ab5ad35cf945",
@@ -203,17 +229,17 @@
       "score": 86
     },
     {
-      "id": "86d3b8225106",
-      "title": "'수시 먹통' 전 원서접수 예산 34% 삭감…교육부, 시스템 변경도 몰랐다",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBoZHhvMVdYMWJYNDcwRi1nbXRpN25FdWF2WHc2WE4zb3BwN09iVHZtb1d2dUtocnFrTkpwY1BXejFUdmcySmc?oc=5",
-      "source": "v.daum.net",
+      "id": "6cc66a883b7b",
+      "title": "서울교육청, 일드프랑스교육청과 MOU 갱신… '디지털·AI교육' 협력 확대",
+      "url": "https://www.metroseoul.co.kr/article/20261001500071",
+      "source": "메트로신문",
       "kind": "domestic",
-      "publishedAt": "2026-09-30T00:41:00.000Z",
-      "description": "'수시 먹통' 전 원서접수 예산 34% 삭감…교육부, 시스템 변경도 몰랐다 v.daum.net",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 86
+      "publishedAt": "2026-09-30T18:21:00.000Z",
+      "description": "서울시교육청과 일드프랑스교육청이 디지털·AI 기반 교육으로 협력 범위를 넓힌다. 서울시교육청은 오는 2일 프랑스 파리에서 일드프랑스교육청과 교육 협력 업무협약(MOU)을 체결한다고 1일 밝혔다. 2015년 처음 체결한 업무협약을 갱신하는 것이다. 양 교육청은 학생들의 ...",
+      "category": "AI·디지털",
+      "feedProvider": "bing",
+      "policyRelevance": 57,
+      "score": 83
     },
     {
       "id": "6527facf4226",
@@ -437,16 +463,16 @@
       "score": 80
     },
     {
-      "id": "efd208d6390a",
-      "title": "최교진 교육부장관, 특수교육 현장교원과 함께하는 ‘제8차 교육진담 간담회’ 개최",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UUzdsZ1p3WGFGZU9OVmNfQlo5UE9kajRCcXZObm15eXlqcWg4Um9zMDM0TUYtTXpCNTY0QWliMUZSYU5hQjZ6M1FhcTFDUDNQOGtTRlRmcHMtQVgxelpyek5aaw?oc=5",
-      "source": "대한민국교육신문",
+      "id": "4bbd3fdd0b94",
+      "title": "최교진 교육부장관, 교육·상담·의료 전문가 12인 위촉…학생 마음건강 정책 현장 연계 강화",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92MlJjUmxFUk1rLWZseDBZV2dNOHdyWURqNEFRY3pDRmZHenM0am1DSHgwNW5kWFNaRjJ4RzlaSXU0RjlGNWlNX2JyZ2RpQ09pUldPQW1zSkw5aWFsTC1PdHVScGJoQ2RyVjUxNnlWS2Y?oc=5",
+      "source": "한국강사신문",
       "kind": "domestic",
-      "publishedAt": "2026-09-30T01:03:58.000Z",
-      "description": "최교진 교육부장관, 특수교육 현장교원과 함께하는 ‘제8차 교육진담 간담회’ 개최 대한민국교육신문",
-      "category": "교원·조직",
+      "publishedAt": "2026-09-30T00:52:49.000Z",
+      "description": "최교진 교육부장관, 교육·상담·의료 전문가 12인 위촉…학생 마음건강 정책 현장 연계 강화 한국강사신문",
+      "category": "유·초중등",
       "feedProvider": "google",
-      "policyRelevance": 45,
+      "policyRelevance": 75,
       "score": 77
     },
     {
@@ -500,6 +526,19 @@
       "feedProvider": "google",
       "policyRelevance": 75,
       "score": 77
+    },
+    {
+      "id": "86d3b8225106",
+      "title": "'수시 먹통' 전 원서접수 예산 34% 삭감…교육부, 시스템 변경도 몰랐다",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBoZHhvMVdYMWJYNDcwRi1nbXRpN25FdWF2WHc2WE4zb3BwN09iVHZtb1d2dUtocnFrTkpwY1BXejFUdmcySmc?oc=5",
+      "source": "v.daum.net",
+      "kind": "domestic",
+      "publishedAt": "2026-09-30T00:41:00.000Z",
+      "description": "'수시 먹통' 전 원서접수 예산 34% 삭감…교육부, 시스템 변경도 몰랐다 v.daum.net",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 76
     },
     {
       "id": "8ff0f1d3013b",
@@ -567,13 +606,26 @@
       "score": 75
     },
     {
-      "id": "ab2ca9a89332",
+      "id": "4cb32feaea40",
+      "title": "대전시교육청, 기후변화 생태전환교육 수업자료 현장 적용 확대",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UNU1fbGdWZFdrV3NCUVJrakxLR3BheGxYSlB1WFdfVjdrWVJLX1BCeTFGWFRXTjB5SU9tNm8tWHNIdGRYYTVfY09aOHBCVUt6a1YwM2tNUlBaZkVLWGRHak1pNkJGZWUzQVVzeklyOWJmSnpsdGZJ0gF3QVVfeXFMTlQ1TV9sZ1ZkV2tXc0JRUmtqTEtHcGF4bFhKUHVYV19WN2tZUktfUEJ5MUZYVFdOMHlJT202by1Yc0h0ZFhhNV9jT1o4cEJVS3prVjAza01SUFpmRUtYZEdqTWk2QkZlZTNBVXN6SXI5YmZKemx0Zkk?oc=5",
+      "source": "뉴스프리존",
+      "kind": "domestic",
+      "publishedAt": "2026-09-30T03:27:08.000Z",
+      "description": "대전시교육청, 기후변화 생태전환교육 수업자료 현장 적용 확대 뉴스프리존",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 47,
+      "score": 74
+    },
+    {
+      "id": "51f97dd39c09",
       "title": "고려대 '실험실창업 활성화 우수대학' 교육부 장관 표창.. '2022년 이어 두 번째 수상'",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rMXJ0M3RJR29sNWxFdWh4d1RkRE9pbUF4MWRXSkdRbDRUd0txMjRYTWNBdkRJQ2JBWnp0amk4dVR0T1piWTNjQVpFV1JFb21UQzNCaDdRYlN0WGs3QjJheTE1V2Y0c3Y4cG9HSA?oc=5",
-      "source": "베리타스알파",
+      "source": "veritas-a.com",
       "kind": "domestic",
       "publishedAt": "2026-09-30T07:03:14.000Z",
-      "description": "고려대 '실험실창업 활성화 우수대학' 교육부 장관 표창.. '2022년 이어 두 번째 수상' 베리타스알파",
+      "description": "고려대 '실험실창업 활성화 우수대학' 교육부 장관 표창.. '2022년 이어 두 번째 수상' veritas-a.com",
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 45,
@@ -697,13 +749,13 @@
       "score": 71
     },
     {
-      "id": "da5dd17a500c",
+      "id": "5504e98b5c4c",
       "title": "‘수시 먹통’에 80개 대학 평균 경쟁률 0.22% 상승",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FSjNuUDkwSlpzakQyT0h6SzlBSlN5QU5hSVp1Q3FLX0laLU9BeEpYMWpxZGEwdEJDM3hmTDlmMWFNRVVqcldPVmRWblNGOXBEMDJyONIBVEFVX3lxTE1FSjNuUDkwSlpzakQyT0h6SzlBSlN5QU5hSVp1Q3FLX0laLU9BeEpYMWpxZGEwdEJDM3hmTDlmMWFNRVVqcldPVmRWblNGOXBEMDJyOA?oc=5",
-      "source": "segye.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Ea1NqaXNJdlRVcGdYUmhINGt2STN6YUxxS19DY3RlTjNnaDA0VE9MMkdMLTVZdU41eG5qbDN2U0pXUlJ5TUR2aEFoWVNJLXdLam1FRHpNbW7SAVRBVV95cUxNRUozblA5MEpac2pEMk9Ieks5QUpTeUFOYUladUNxS19JWi1PQXhKWDFqcWRhMHRCQzN4Zkw5ZjFhTUVVanJXT1ZkVm5TRjlwRDAycjg?oc=5",
+      "source": "세계일보",
       "kind": "domestic",
       "publishedAt": "2026-09-30T09:53:42.000Z",
-      "description": "‘수시 먹통’에 80개 대학 평균 경쟁률 0.22% 상승 segye.com",
+      "description": "‘수시 먹통’에 80개 대학 평균 경쟁률 0.22% 상승 세계일보",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -788,6 +840,19 @@
       "score": 70
     },
     {
+      "id": "3ab1a2924d4c",
+      "title": "교육부, 이주·비이주배경학생 ‘함께 참여하는’ 다문화교육 캠페인 추진",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B5%90%EC%9C%A1%EB%B6%80-%EC%9D%B4%EC%A3%BC-%EB%B9%84%EC%9D%B4%EC%A3%BC%EB%B0%B0%EA%B2%BD%ED%95%99%EC%83%9D-%ED%95%A8%EA%BB%98-%EC%B0%B8%EC%97%AC%ED%95%98%EB%8A%94-%EB%8B%A4%EB%AC%B8%ED%99%94%EA%B5%90%EC%9C%A1-%EC%BA%A0%ED%8E%98%EC%9D%B8-%EC%B6%94%EC%A7%84/ar-AA2df1Vu",
+      "source": "조선에듀 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-09-29T18:52:29.000Z",
+      "description": "교육부와 국가평생교육진흥원이 9월부터 내년 2월까지 ‘2026년 다문화 친화적 학교문화 조성 캠페인’을 추진한다.이번 캠페인은 다문화교육을 다른 문화와 배경을 이해하는 데 그치지 않고, 학교 수업과 창의적 체험활동 등에서 이주배경학생과 비이주배경학생 ...",
+      "category": "유·초중등",
+      "feedProvider": "bing",
+      "policyRelevance": 57,
+      "score": 69
+    },
+    {
       "id": "3ee04a189849",
       "title": "정근식·민주노총 “학생 줄어도 교육비 못 줄여”…교부금 개편 비판[세상&]",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Vb3RGNmVUY1FveUs0d1ZQR2FxanlUbUc0MmttSHNTcnRQdjFKRzVQNlpyTHBaTWpuZmV1Z01fMmNRVFd5SjBsTzlqNzctZ0VIU2Rua2tB?oc=5",
@@ -801,17 +866,30 @@
       "score": 69
     },
     {
-      "id": "9815e5beed77",
+      "id": "d72514cad73e",
       "title": "교육부 ｢경제협력개발기구(OECD) 교육지표 2026｣ 결과 발표",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iQmptZmlyZE1pY3NmaGZCVTBsSXhfQ3RYWGlZeC1RU1R0ei1nVnBFd05UdXVyWDZXSHRSTVkybTJCOHBmQUlDQjB1NWM4dzN3Z2l4cEQxZHJEdDN3?oc=5",
-      "source": "누리일보",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PVGFjZGo5S0V0Y2QwYnFuaWVOWlJQdVBZUDhXWmQtbU1oSjgtLVlwc0dpWHliWEhoT0xaTVcycHlINGFQWkRuYU1KOW5zR2VEdHI4MGR5Vl9DZGlyUmtSM2pORkdCNUJHd0pQU1pYODMxRlVf0gF0QVVfeXFMTU9UYWNkajlLRXRjZDBicW5pZU5aUlB1UFlQOFdaZC1tTWhKOC0tWXBzR2lYeWJYSGhPTFpNVzJweUg0YVBaRG5hTUo5bnNHZUR0cjgwZHlWX0NkaXJSa1Izak5GR0I1Qkd3SlBTWlg4MzFGVV8?oc=5",
+      "source": "경남열린신문",
       "kind": "domestic",
-      "publishedAt": "2026-09-29T10:10:36.000Z",
-      "description": "교육부 ｢경제협력개발기구(OECD) 교육지표 2026｣ 결과 발표 누리일보",
+      "publishedAt": "2026-09-29T10:20:51.000Z",
+      "description": "교육부 ｢경제협력개발기구(OECD) 교육지표 2026｣ 결과 발표 경남열린신문",
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 47,
       "score": 68
+    },
+    {
+      "id": "efd208d6390a",
+      "title": "최교진 교육부장관, 특수교육 현장교원과 함께하는 ‘제8차 교육진담 간담회’ 개최",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UUzdsZ1p3WGFGZU9OVmNfQlo5UE9kajRCcXZObm15eXlqcWg4Um9zMDM0TUYtTXpCNTY0QWliMUZSYU5hQjZ6M1FhcTFDUDNQOGtTRlRmcHMtQVgxelpyek5aaw?oc=5",
+      "source": "대한민국교육신문",
+      "kind": "domestic",
+      "publishedAt": "2026-09-30T01:03:58.000Z",
+      "description": "최교진 교육부장관, 특수교육 현장교원과 함께하는 ‘제8차 교육진담 간담회’ 개최 대한민국교육신문",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 67
     },
     {
       "id": "4b095b8ae021",
@@ -905,13 +983,13 @@
       "score": 65
     },
     {
-      "id": "3375f6297f42",
+      "id": "fad1e3df896a",
       "title": "전북교육 정책, 현장 교원과 함께 만들고 다듬는다...",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wbTJDTmpCYlZyeHpSc091ZE1ZclNOdmtIaUJPMXprNVFqZmM4eEhQakJVOGFReEhIaVlqNF82NTRleEpXdnlUeEJVckJDQjUweWhXMWFBU1g1Z0tmc3REanV3Z0pFdy1ZUmtodjJR0gFuQVVfeXFMTzBtMkNOakJiVnJ4elJzT3VkTVlyU052a0hpQk8xems1UWpmYzh4SFBqQlU4YVF4SEhpWWo0XzY1NGV4Sld2eVR4QlVyQkNCNTB5aFcxYUFTWDVnS2ZzdERqdXdnSkV3LVlSa2h2MlE?oc=5",
-      "source": "mjeonbuk.com",
+      "source": "아시아뉴스전북",
       "kind": "domestic",
       "publishedAt": "2026-09-29T05:39:20.000Z",
-      "description": "전북교육 정책, 현장 교원과 함께 만들고 다듬는다... mjeonbuk.com",
+      "description": "전북교육 정책, 현장 교원과 함께 만들고 다듬는다... 아시아뉴스전북",
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -970,19 +1048,6 @@
       "score": 65
     },
     {
-      "id": "4ee7e846786d",
-      "title": "최교진, 특수교육 교원 만나 의견 청취…현장 지원·정책 방안 논의",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlWG5lNFdyeXdyN2hnVVNpR3gxRmRhcWpubk5jZGx3cXo1Q2RXdzRvMlFaVURWUDdiY2gycll2UTBnbk1oamxtX1RNV2NTZ0JGOUlBY3RGRVF6SnotaC1Z0gFfQVVfeXFMUGVYbmU0V3J5d3I3aGdVU2lHeDFGZGFxam5uTmNkbHdxejVDZFd3NG8yUVpVRFZQN2JjaDJyWXZRMGduTWhqbG1fVE1XY1NnQkY5SUFjdEZFUXpKei1oLVk?oc=5",
-      "source": "뉴스1",
-      "kind": "domestic",
-      "publishedAt": "2026-09-28T23:30:33.000Z",
-      "description": "최교진, 특수교육 교원 만나 의견 청취…현장 지원·정책 방안 논의 뉴스1",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 65
-    },
-    {
       "id": "2d7bbc18bddf",
       "title": "Parliament seeks public views on six education reform bills in West Pokot",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR2Y5X01QbXBlOWdRYkpDMW1HVTJWeW1BS1pFRkYzTU0tNWV1NTkyTzdSN296aDVZUk95cS11dFcxVTNXYndlTlpRYXRPX3Z6eGF1UnZyWUZLeUQ0bDVwNmtKblhPNEtuVHNFTFNSYmhfS2hJb0FXY1BJUzRwUnlSOW9qcTRwcnI4dW5FeF9RaUo5ek5iQ2RldEF0ektMXzl3ZW5oTQ?oc=5",
@@ -997,71 +1062,6 @@
       "originalTitle": "Parliament seeks public views on six education reform bills in West Pokot",
       "titleKo": "웨스트포콧의 6개 교육 개혁 법안에 대한 대중의 견해를 구하는 의회",
       "summaryKo": "의회는 West Pokot Kenya News Agency의 6 개 교육 개혁 법안에 대한 대중의 견해를 구합니다."
-    },
-    {
-      "id": "4cb32feaea40",
-      "title": "대전시교육청, 기후변화 생태전환교육 수업자료 현장 적용 확대",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwYmhGel9GNXFiekxvTFR1TXVuZEhSaERfbGQ3WnhJcmxMMDg4SjJ1ZDJISWRSdHRQVVlBSEpnZDJkTXU1MEhQZm1EQmtMcS1Wd05UaHg5SFRNUW1DQnpFMFppUnJBaDRRb1ZpTnMtb01DY1HSAXdBVV95cUxOVDVNX2xnVmRXa1dzQlFSa2pMS0dwYXhsWEpQdVhXX1Y3a1lSS19QQnkxRlhUV04weUlPbTZvLVhzSHRkWGE1X2NPWjhwQlVLemtWMDNrTVJQWmZFS1hkR2pNaTZCRmVlM0FVc3pJcjliZkp6bHRmSQ?oc=5",
-      "source": "뉴스프리존",
-      "kind": "domestic",
-      "publishedAt": "2026-09-30T00:38:03.000Z",
-      "description": "대전시교육청, 기후변화 생태전환교육 수업자료 현장 적용 확대 뉴스프리존",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 47,
-      "score": 64
-    },
-    {
-      "id": "0ce14f1ff791",
-      "title": "교육부, 한국과 멕시코, 청년 교류 확대를 위해 힘을 모은다",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81Wm9ld2d2SklUTEFlMk1HRzRlY1luOW1IWXQtVFJxdnBvUkd2d29vdGZmMW0xSlhiRzBGSzljQUxpemh5TC1fdmM4aDIwN0tYY0FoeEF2TTNzLWZX?oc=5",
-      "source": "누리일보",
-      "kind": "domestic",
-      "publishedAt": "2026-09-28T09:50:29.000Z",
-      "description": "교육부, 한국과 멕시코, 청년 교류 확대를 위해 힘을 모은다 누리일보",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 47,
-      "score": 64
-    },
-    {
-      "id": "fff4f7dd4cc7",
-      "title": "캘리포니아 교육부, '이민자 학생 포용' 세 번째 웨비나 개최…교실·행정실 즉시 적용 실천법 공유",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBNeEZWd0FPaEU3c0I4SGZnN0JoSzRtRGRnbmNySnZRTUN4TW9kUVBQUXN6c3lXX2VGV3MtOUJLbE9SMnM?oc=5",
-      "source": "대한청년일보",
-      "kind": "domestic",
-      "publishedAt": "2026-09-30T00:23:13.000Z",
-      "description": "캘리포니아 교육부, '이민자 학생 포용' 세 번째 웨비나 개최…교실·행정실 즉시 적용 실천법 공유 대한청년일보",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 63
-    },
-    {
-      "id": "a5b7785d08ed",
-      "title": "고등교육 학생 1인당 공교육비 12% 늘었지만…OECD 평균 하회",
-      "url": "https://www.msn.com/ko-kr/news/other/%EA%B3%A0%EB%93%B1%EA%B5%90%EC%9C%A1-%ED%95%99%EC%83%9D-1%EC%9D%B8%EB%8B%B9-%EA%B3%B5%EA%B5%90%EC%9C%A1%EB%B9%84-12-%EB%8A%98%EC%97%88%EC%A7%80%EB%A7%8C-oecd-%ED%8F%89%EA%B7%A0-%ED%95%98%ED%9A%8C/ar-AA2dbSOt",
-      "source": "전자신문 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-09-29T11:00:00.000Z",
-      "description": "우리나라 고등교육 학생 1인당 공교육비가 1년 새 12% 넘게 증가했지만 여전히 경제협력개발기구(OECD) 평균에는 미치지 못한 것으로 나타났다. 초·중학교의 교사 1인당 학생 수와 학급당 학생 수는 OECD 평균을 웃돌았다. 청년층 고등교육 이수율은 71.1%로 OECD 회원국 중 가장 높았다. 교육부와 한국교육개발원은 29일 이같은 내용의 'OECD 교 ...",
-      "category": "교원·조직",
-      "feedProvider": "bing",
-      "policyRelevance": 45,
-      "score": 63
-    },
-    {
-      "id": "793e2f27dc4e",
-      "title": "권순기 교육감\"인내·배려·도전, 학생만의 덕목\" |",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZcmVjMjdObEFoZjhZZXBtUU9hVFFmMjFiN1Rmdk8xeU1acjVhXzRJaVpSV0hOYWhpbk9qNERyU01XbXVQYlB2ZUlMaGtDdUlmcmFDR0VzdUlWSnQ5T2ZmUlVvdHZBTUNhSXNybnR5SQ?oc=5",
-      "source": "한스경제",
-      "kind": "domestic",
-      "publishedAt": "2026-09-29T09:17:49.000Z",
-      "description": "권순기 교육감\"인내·배려·도전, 학생만의 덕목\" | 한스경제",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 63
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -1071,7 +1071,7 @@
     "throughDate": "2026-10-01",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-09-29T15:00:00.000Z",
-    "windowEnd": "2026-10-01T00:40:15.526Z",
+    "windowEnd": "2026-10-01T01:21:40.991Z",
     "itemIds": [
       "abef227d91b0",
       "74890a5183a1",
@@ -1079,9 +1079,11 @@
       "347adf1fc103",
       "6a4b10a7cda7",
       "9adac05c21be",
-      "4bbd3fdd0b94",
+      "dabab45be0c9",
+      "db597d77499e",
+      "f2f8eafcc9b4",
       "ab5ad35cf945",
-      "86d3b8225106",
+      "6cc66a883b7b",
       "6527facf4226",
       "bfa4057e70e0",
       "e1c260f22d4b",
@@ -1094,28 +1096,30 @@
       "0ca71abaee78",
       "097cbf0e5538",
       "aa7c284a941c",
-      "efd208d6390a",
+      "4bbd3fdd0b94",
       "cae7c7757792",
       "e7cc9d51d65c",
+      "86d3b8225106",
       "9f663457a4d7",
       "be2df3291cc9",
-      "ab2ca9a89332",
+      "4cb32feaea40",
+      "51f97dd39c09",
       "d4edad809709",
       "b89588ad5312",
-      "da5dd17a500c",
+      "5504e98b5c4c",
       "bee4bfa50524",
-      "2d7bbc18bddf",
-      "4cb32feaea40",
-      "fff4f7dd4cc7"
+      "3ab1a2924d4c",
+      "efd208d6390a",
+      "2d7bbc18bddf"
     ],
     "stats": {
-      "total": 34,
+      "total": 38,
       "official": 4,
-      "domestic": 29,
+      "domestic": 33,
       "foreign": 1
     },
     "headline": "오늘 아침 교육뉴스는 유·초중등·입시·사교육·고등교육 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 34건이 확인됐습니다. 교육부는 2027학년도 수시모집 원서접수 마감시간 연장에 따른 추가 접수 현황 분석 및 향후 대응계획, 서로 협력하는 건강한 학교 문화 확산을 위한 ‘함께학교 마음동행’ 참여 행사 운영와 2027학년도 공립 중등·특수(중등)·보건·영양·사서·전문상담교사 임용후보자 선정경쟁시험 모집공고 현황 등을 공식 발표했습니다. 국내 언론에서는 간호·보건 넘어 AI·친환경으로… 여자전문대, 신산업 여성 인재 키운다와 최교진 교육장관, 학생 마음건강 정책자문단 12인 위촉 등이 주요하게 다뤄졌습니다. 해외에서는 웨스트포콧의 6개 교육 개혁 법안에 대한 대중의 견해를 구하는 의회 관련 보도가 확인됐습니다. 전체적으로는 유·초중등·입시·사교육·고등교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 38건이 확인됐습니다. 교육부는 2027학년도 수시모집 원서접수 마감시간 연장에 따른 추가 접수 현황 분석 및 향후 대응계획, 서로 협력하는 건강한 학교 문화 확산을 위한 ‘함께학교 마음동행’ 참여 행사 운영와 2027학년도 공립 중등·특수(중등)·보건·영양·사서·전문상담교사 임용후보자 선정경쟁시험 모집공고 현황 등을 공식 발표했습니다. 국내 언론에서는 간호·보건 넘어 AI·친환경으로… 여자전문대, 신산업 여성 인재 키운다와 최교진 교육장관, 학생 마음건강 정책자문단 12인 위촉 등이 주요하게 다뤄졌습니다. 해외에서는 웨스트포콧의 6개 교육 개혁 법안에 대한 대중의 견해를 구하는 의회 관련 보도가 확인됐습니다. 전체적으로는 유·초중등·입시·사교육·고등교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "유·초중등",
@@ -1128,32 +1132,32 @@
       },
       {
         "title": "입시·사교육",
-        "summary": "2027학년도 수시모집 원서접수 마감시간 연장에 따른 추가 접수 현황 분석 및 향후 대응계획 · '수시 먹통' 전 원서접수 예산 34% 삭감…교육부, 시스템 변경도 몰랐다 · [단독] 4년제 '수시 먹통'에 놀란 교육부…전문대 경쟁률 공개도 늦춘다",
+        "summary": "2027학년도 수시모집 원서접수 마감시간 연장에 따른 추가 접수 현황 분석 및 향후 대응계획 · [단독] 4년제 '수시 먹통'에 놀란 교육부…전문대 경쟁률 공개도 늦춘다 · 국힘 \"수능 서·논술형 서두르면 안 돼\"…단계 도입 제안",
         "why": "대입·수능·사교육 이슈는 학생·학부모 체감도가 높고 후속 안내와 현장 반응 점검이 중요합니다.",
         "sources": [
           "교육부",
-          "v.daum.net",
-          "이투데이 on MSN"
+          "이투데이 on MSN",
+          "edaily.co.kr"
         ]
       },
       {
         "title": "고등교육",
-        "summary": "대학노조 “단계적 대학 무상교육 확대·「고등교육재정교부금법」 제정” 촉구 · 대학노조 “대학 무상교육 실현, 고등교육재정교부금법 제정 촉구” · 고려대 '실험실창업 활성화 우수대학' 교육부 장관 표창.. '2022년 이어 두 번째 수상'",
+        "summary": "전문대교협 전문여대/한국여성정책연구원 업무협약.. 여성 고등직업교육 고도화 '앞장' · 대학노조 “단계적 대학 무상교육 확대·「고등교육재정교부금법」 제정” 촉구 · 대학노조 “대학 무상교육 실현, 고등교육재정교부금법 제정 촉구”",
         "why": "대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다.",
         "sources": [
+          "veritas-a.com",
           "대학지성 In&Out",
-          "뉴스Q",
-          "베리타스알파"
+          "뉴스Q"
         ]
       },
       {
-        "title": "교원·조직",
-        "summary": "2027학년도 공립 중등·특수(중등)·보건·영양·사서·전문상담교사 임용후보자 선정경쟁시험 모집공고 현황 · 권순기 경남교육감, 6급 행정리더들과 ‘정책 대화’…현장 실행역량 키운다 · 최교진 교육부장관, 특수교육 현장교원과 함께하는 ‘제8차 교육진담 간담회’ 개최",
-        "why": "교원 업무·교권·인사와 직접 연결될 수 있어 현장 반응과 제도 운영상 쟁점을 살펴볼 필요가 있습니다.",
+        "title": "AI·디지털",
+        "summary": "간호·보건 넘어 AI·친환경으로… 여자전문대, 신산업 여성 인재 키운다 · 충북교육연구정보원, 25종 SW·AI 교구 무료 대여…초중고 교원 지원 확대 · 안민석 교육감 \"용인을 AI 교육 중심으로\"… 현장 소통하며 정책 행보",
+        "why": "AI·디지털 전환 정책은 교육과정·교원역량·인프라와 연결되므로 실행 여건과 현장 적용성을 함께 봐야 합니다.",
         "sources": [
-          "교육부",
-          "뉴스프리존",
-          "대한민국교육신문"
+          "파이낸셜뉴스 on MSN",
+          "국제뉴스",
+          "오마이뉴스 on MSN"
         ]
       }
     ],
