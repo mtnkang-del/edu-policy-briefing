@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T00:59:53.445Z",
+  "generatedAt": "2026-10-02T01:43:59.593Z",
   "retentionDays": 30,
   "days": [
     "2026-10-02",
@@ -34,6 +34,48 @@
     "2026-09-03"
   ],
   "items": [
+    {
+      "id": "b865b11344a0",
+      "title": "경북교육청, AI디지털교육과 신설 등 2027년 조직개편안 입법예고",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tQmg0Ymd2UURjcm5aaFllNnNLQ1pmQlNLZ2VEMWlpWU54b1NFUlZKOFQ0eXNvWmNnanlzYnZFWXN5bkFMTTZUR2pzUUVIM0VIczB3dGQ3VXVSN1Jpa2Y1OG4zM1lCRkYzc2FjRnNtVDc4Zw?oc=5",
+      "source": "webeconomy.co.kr",
+      "kind": "domestic",
+      "publishedAt": "2026-10-02T01:16:48.000Z",
+      "description": "경북교육청, AI디지털교육과 신설 등 2027년 조직개편안 입법예고 webeconomy.co.kr",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 90,
+      "snapshotDate": "2026-10-02"
+    },
+    {
+      "id": "9545c3540e51",
+      "title": "경북교육청, AI 시대 이끌 조직개편 추진...2일부터 입법예고",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nSUdBWjRkdENzb1NrVm5iUEFDZXU0RXpuQVd0YW1pVG9kUE5qRFZsaXAxWW5BYkpLWWxpV1p3bjJsUFNCLTZ0Vkh3N3RmZXZfejlGM0x3?oc=5",
+      "source": "위키트리",
+      "kind": "domestic",
+      "publishedAt": "2026-10-02T01:15:00.000Z",
+      "description": "경북교육청, AI 시대 이끌 조직개편 추진...2일부터 입법예고 위키트리",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 77,
+      "score": 96,
+      "snapshotDate": "2026-10-02"
+    },
+    {
+      "id": "c4f25eeb43e6",
+      "title": "AI 교육 전담과 만든다…경북교육청, 2027 조직개편",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NdXkzOXNtSGxSY0piMzVPcUZ3djFnRERPR0VPMDg5c1ZkMVhFR1c5UjVOcU1UbzhGSE5ybGtjaGl5U21WdUZRbG9ZdVB3UEdYNzNIVXpwRzI2M3Fmbi13StIBeEFVX3lxTE13N3dxQTRKNXpTRDY0Z0NhNER2RlFFd1A1Mi0yZTRTRnk1NjR2WVhjOC1XdmVqMk9iRXJjeUxYd1gtbjZCUmY5VUdRNDl2am1mWHRRaGQ3RDVsSXZFVHRtbjZUQlhYZUhJSkcxTkZrckkyMUlLdms0UA?oc=5",
+      "source": "뉴시스",
+      "kind": "domestic",
+      "publishedAt": "2026-10-02T00:53:10.000Z",
+      "description": "AI 교육 전담과 만든다…경북교육청, 2027 조직개편 뉴시스",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 90,
+      "snapshotDate": "2026-10-02"
+    },
     {
       "id": "405b9c982bc9",
       "title": "“AI 잘 쓰는 법만 가르쳐선 부족”…한국 AI교육 ‘활용 역량’ 치중",
@@ -74,6 +116,20 @@
       "feedProvider": "bing",
       "policyRelevance": 45,
       "score": 77,
+      "snapshotDate": "2026-10-02"
+    },
+    {
+      "id": "199d01bc9145",
+      "title": "“학교에서 느낀 불편·아이디어를 정책으로\"…대전교육청, 교육정책 공모",
+      "url": "https://www.msn.com/ko-kr/news/other/%ED%95%99%EA%B5%90%EC%97%90%EC%84%9C-%EB%8A%90%EB%82%80-%EB%B6%88%ED%8E%B8-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%A5%BC-%EC%A0%95%EC%B1%85%EC%9C%BC%EB%A1%9C-%EB%8C%80%EC%A0%84%EA%B5%90%EC%9C%A1%EC%B2%AD-%EA%B5%90%EC%9C%A1%EC%A0%95%EC%B1%85-%EA%B3%B5%EB%AA%A8/ar-AA2dkKEh",
+      "source": "중도일보 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-10-01T10:40:00.000Z",
+      "description": "대전교육 정책에 학생과 학부모, 교직원, 시민들의 목소리를 담기 위한 아이디어 공모가 진행된다. 대전교육청은 오는 13일까지 '2026 대전교육정책 아이디어 온라인 공모'를 진행한다고 밝혔다. 이번 공모는 교육현장에서 실제로 겪는 문..",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 87,
       "snapshotDate": "2026-10-02"
     },
     {
@@ -409,7 +465,7 @@
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 82,
+      "score": 72,
       "snapshotDate": "2026-10-02"
     },
     {
@@ -423,7 +479,7 @@
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 82,
+      "score": 72,
       "snapshotDate": "2026-10-02"
     },
     {
@@ -437,7 +493,7 @@
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 82,
+      "score": 72,
       "snapshotDate": "2026-10-02"
     },
     {
@@ -717,8 +773,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 65,
-      "snapshotDate": "2026-10-02"
+      "score": 75,
+      "snapshotDate": "2026-10-01"
     },
     {
       "id": "3ddb703afae8",
@@ -844,7 +900,7 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 67,
-      "snapshotDate": "2026-10-02"
+      "snapshotDate": "2026-10-01"
     },
     {
       "id": "4bbd3fdd0b94",
@@ -1098,7 +1154,7 @@
       "feedProvider": "google",
       "policyRelevance": 47,
       "score": 68,
-      "snapshotDate": "2026-10-02"
+      "snapshotDate": "2026-10-01"
     },
     {
       "id": "2fa9501fff8c",
@@ -1140,7 +1196,7 @@
       "feedProvider": "google",
       "policyRelevance": 52,
       "score": 66,
-      "snapshotDate": "2026-10-02"
+      "snapshotDate": "2026-10-01"
     },
     {
       "id": "793e2f27dc4e",
@@ -1710,8 +1766,8 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 75,
-      "score": 67,
-      "snapshotDate": "2026-10-02"
+      "score": 77,
+      "snapshotDate": "2026-10-01"
     },
     {
       "id": "bee2cf26c713",
@@ -1836,7 +1892,7 @@
       "category": "재정·법령",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-10-01"
+      "snapshotDate": "2026-10-02"
     },
     {
       "id": "3ec06ac9e1b7",
@@ -8389,62 +8445,6 @@
       "policyRelevance": 52,
       "score": 56,
       "snapshotDate": "2026-09-11"
-    },
-    {
-      "id": "f40d038bc599",
-      "title": "“지방사립대 빼놓고 국립대 무상교육 졸속추진…정부, 공론화 절차부터 마련하라”",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43eE1ZcEVsYTZsbDVaTVNFajFSc1o2OVAycUlUdVJ3QXNiMDBneTVCZ0dzMVl6WUxWSndqT1JtUEt5RW1NVlp6aENGdjFINE1abC1tRFdtUEg5dkdvUjEtUndpMFhrMnM?oc=5",
-      "source": "교수신문",
-      "kind": "domestic",
-      "publishedAt": "2026-09-07T01:13:49.000Z",
-      "description": "“지방사립대 빼놓고 국립대 무상교육 졸속추진…정부, 공론화 절차부터 마련하라” 교수신문",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 57,
-      "score": 59,
-      "snapshotDate": "2026-09-11"
-    },
-    {
-      "id": "aba703fb2868",
-      "title": "부산교육청, 돌봄부터 AI·급식까지 교육현장 혁신",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAySTJmRWFoazNudjcxSVpqaXZfY0hIWENwY2tBbjU0QmpPOEh2SC1OX2M4R2FXdWt3OHF4U1p1ZF81THRDNEtWaDZlTXo0STJ6SVFhRVpIYU5SVlk2SENNSnBQTGNoZEZ5Rk9OM1hVZEVuZw?oc=5",
-      "source": "인더스트리뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-09-07T00:56:37.000Z",
-      "description": "부산교육청, 돌봄부터 AI·급식까지 교육현장 혁신 인더스트리뉴스",
-      "category": "AI·디지털",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 66,
-      "snapshotDate": "2026-09-11"
-    },
-    {
-      "id": "91857efa8536",
-      "title": "교육부, 교부금 개편 논란에 “내년 10.1% 증가”",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzSzRQREh3c0E5SlctMkxRaDlRNl95d0tTb2N6VEp0WERQc29TRzNOR1pFYTdSWjN0cE1qN3l3bmhDdHR2WlJFcFU2T0dhVnBwSFBJTjZhQng4cDNwdGNFMmsyb1ZSZ2k1QVF5OQ?oc=5",
-      "source": "스페셜경제",
-      "kind": "domestic",
-      "publishedAt": "2026-09-07T00:49:38.000Z",
-      "description": "교육부, 교부금 개편 논란에 “내년 10.1% 증가” 스페셜경제",
-      "category": "재정·법령",
-      "feedProvider": "google",
-      "policyRelevance": 77,
-      "score": 76,
-      "snapshotDate": "2026-09-11"
-    },
-    {
-      "id": "ea9c66ec1794",
-      "title": "지방 국립대 '등록금 0원'에…사립대 교수들 \"차별 시정\"",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJYXl5ZzRULXRhN1RYS1ZTeklDWXR1ZmZPWDFPZ25GTWFTNS01TlJId2JmN1BQNWUxcmhQWFBWR3Y1dG9URGxMS0NUVm9NSWdnMGVDS2xRRUF5STZlb2IxUFNuLWVIRHNrWnlYSWQ4X2g2MHROUHBQR9IBeEFVX3lxTFBJYXl5ZzRULXRhN1RYS1ZTeklDWXR1ZmZPWDFPZ25GTWFTNS01TlJId2JmN1BQNWUxcmhQWFBWR3Y1dG9URGxMS0NUVm9NSWdnMGVDS2xRRUF5STZlb2IxUFNuLWVIRHNrWnlYSWQ4X2g2MHROUHBQRw?oc=5",
-      "source": "뉴시스",
-      "kind": "domestic",
-      "publishedAt": "2026-09-07T00:34:39.000Z",
-      "description": "지방 국립대 '등록금 0원'에…사립대 교수들 \"차별 시정\" 뉴시스",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 61,
-      "snapshotDate": "2026-09-09"
     }
   ]
 }
