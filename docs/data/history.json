@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T00:03:25.830Z",
+  "generatedAt": "2026-10-05T01:03:42.817Z",
   "retentionDays": 30,
   "days": [
     "2026-10-05",
@@ -35,13 +35,13 @@
   ],
   "items": [
     {
-      "id": "f86811468fdf",
+      "id": "708444bd0c97",
       "title": "'수시 먹통' 책임 어디까지…교육부, 국감서 대입 관리체계 검증대",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ubmxPY1VQVXJiR2Z2Y3hPclJyQ1VGYjZRVkwybWY1dmp4em1NQ3pNUVFmWjZmX2x1SVJ3eU0xajQyRkZCLTZEN05tRzZRdUxJNGxUOXhZd29SYzZVSHBNdUpTV3YxUGVaVGhGMzJIQnlkb3Mx?oc=5",
-      "source": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OY2ZSRXN6cW1qVjRnWVBEX2w2TnRuQ1RBRkp0N0VKeTZPTDNuMnBTaWtzM2MwWDh1WGRvdERKOElOa044M2FRMk0tQXZ6aGV0V2c0NA?oc=5",
+      "source": "etoday.co.kr",
       "kind": "domestic",
       "publishedAt": "2026-10-04T22:00:00.000Z",
-      "description": "'수시 먹통' 책임 어디까지…교육부, 국감서 대입 관리체계 검증대 이투데이",
+      "description": "'수시 먹통' 책임 어디까지…교육부, 국감서 대입 관리체계 검증대 etoday.co.kr",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
@@ -77,17 +77,31 @@
       "snapshotDate": "2026-10-05"
     },
     {
-      "id": "fe4797675367",
+      "id": "d87eea4006cc",
       "title": "인천광역시교육청, 콜롬비아에서 읽걷쓰AI 기반 교육 협력 추진 > 뉴스",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0wWHBTN3QyWEJvTHpRMm9QRWZxS2d6bnZkRlRlR19WWkV1aVNxbHRrbWZsZVhUU1AzRUxjWXR5R1BMMlU?oc=5",
-      "source": "thekorea.kr",
+      "source": "더코리아",
       "kind": "domestic",
       "publishedAt": "2026-10-03T14:10:00.000Z",
-      "description": "인천광역시교육청, 콜롬비아에서 읽걷쓰AI 기반 교육 협력 추진 > 뉴스 thekorea.kr",
+      "description": "인천광역시교육청, 콜롬비아에서 읽걷쓰AI 기반 교육 협력 추진 > 뉴스 더코리아",
       "category": "기타",
       "feedProvider": "google",
-      "policyRelevance": 63,
-      "score": 75,
+      "policyRelevance": 47,
+      "score": 68,
+      "snapshotDate": "2026-10-05"
+    },
+    {
+      "id": "4060050dc5a3",
+      "title": "경기도교육청, 에스토니아와 AI・디지털 교육 협력 공동 성명 발표",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoNFRyRF9iZnRMcXAwYlJtS2tQWklacHRsVWpEMFdPai1lN0VFV3pSREp0SVRULS1tYmQyZVB3TVVvVW9mYUcyWkVKclRsREhydFBENmxMWUpES2ZVU0h2MmJQWmg5NWhx?oc=5",
+      "source": "ggjapp.com",
+      "kind": "domestic",
+      "publishedAt": "2026-10-03T09:45:46.000Z",
+      "description": "경기도교육청, 에스토니아와 AI・디지털 교육 협력 공동 성명 발표 ggjapp.com",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 47,
+      "score": 72,
       "snapshotDate": "2026-10-05"
     },
     {
@@ -101,8 +115,8 @@
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 47,
-      "score": 72,
-      "snapshotDate": "2026-10-05"
+      "score": 82,
+      "snapshotDate": "2026-10-04"
     },
     {
       "id": "77bc4ff810e1",
@@ -133,20 +147,6 @@
       "snapshotDate": "2026-10-05"
     },
     {
-      "id": "ed3c9d4ce2da",
-      "title": "아이들의 행복한 성장을 잇다…인천교육청, 이음교육 정책협의회 개최 > 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43Wnd1al9LVWlUVFJMelJRaU42Z256aFpuSGlfdVR2dnY2eUlidWV4bnRYWGpua01FOUtVcF9wdjlpMlJDUkpqM1o1N183U1Y3ZjNHUzVMY3lIQUo5M2h1RVU4UnhDT0xPd1VWX0JpckM?oc=5",
-      "source": "thekorea.kr",
-      "kind": "domestic",
-      "publishedAt": "2026-10-03T01:53:00.000Z",
-      "description": "아이들의 행복한 성장을 잇다…인천교육청, 이음교육 정책협의회 개최 > 뉴스 thekorea.kr",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 93,
-      "score": 85,
-      "snapshotDate": "2026-10-05"
-    },
-    {
       "id": "8c3565e7c8d5",
       "title": "아이들의 행복한 성장을 잇다…인천교육청, 이음교육 정책협의회 개최 > 뉴스",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43Wnd1al9LVWlUVFJMelJRaU42Z256aFpuSGlfdVR2dnY2eUlidWV4bnRYWGpua01FOUtVcF9wdjlpMlJDUkpqM1o1N183U1Y3ZjNHUzVMY3lIQUo5M2h1RVU4UnhDT0xPd1VWX0JpckM?oc=5",
@@ -157,8 +157,8 @@
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 77,
-      "score": 88,
-      "snapshotDate": "2026-10-04"
+      "score": 78,
+      "snapshotDate": "2026-10-05"
     },
     {
       "id": "4aad56593b18",
@@ -173,6 +173,20 @@
       "policyRelevance": 47,
       "score": 82,
       "snapshotDate": "2026-10-03"
+    },
+    {
+      "id": "1352fdf89ca2",
+      "title": "우즈벡 부하라 국립사범대에 한국어학과 신설…매년 60명 교원 양성 - 키워드 뉴스 | 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVlZHNnduUnp6UW9GbXBtVld2eEJTV241dTlGRXlJQ3dTTl9LUm1Ock01YTJVdDlpUS1WYWt5cUR0VXVXc045U2huSUVrSldsTXJtSU9mTHBYNVk4TWxDSkV2b2oyZFdNRXJIemh3TlM3dUZDVTVWemgwQzhVTXE5TFBNdmNCektpYXZoOVVnYw?oc=5",
+      "source": "정책브리핑",
+      "kind": "domestic",
+      "publishedAt": "2026-10-02T21:29:33.000Z",
+      "description": "우즈벡 부하라 국립사범대에 한국어학과 신설…매년 60명 교원 양성 - 키워드 뉴스 | 뉴스 정책브리핑",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 65,
+      "snapshotDate": "2026-10-05"
     },
     {
       "id": "d6e794eb51d5",
@@ -217,13 +231,13 @@
       "snapshotDate": "2026-10-05"
     },
     {
-      "id": "0d7670b7d64d",
+      "id": "878013dd33ff",
       "title": "충남교육청, 온라인 교권 침해 사안 관리 카드 현장 모니터링단 위촉식 및 1차 협의회 개최",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92UkJwZlk2b2NIaTBjZG1KaGdtZHI5bmFYeWRkbWphOWpDR0pyc1AtZGd1c2RuNnp2UnFZOGhTVFBod2dZNjB0QlZ4Y2lRaFc1M1d5dWRyMEZKaHkx?oc=5",
-      "source": "누리일보",
+      "source": "nuriilbo.com",
       "kind": "domestic",
       "publishedAt": "2026-10-02T08:30:48.000Z",
-      "description": "충남교육청, 온라인 교권 침해 사안 관리 카드 현장 모니터링단 위촉식 및 1차 협의회 개최 누리일보",
+      "description": "충남교육청, 온라인 교권 침해 사안 관리 카드 현장 모니터링단 위촉식 및 1차 협의회 개최 nuriilbo.com",
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 77,
@@ -385,13 +399,13 @@
       "snapshotDate": "2026-10-05"
     },
     {
-      "id": "6805a8c98ce7",
+      "id": "cb40ae2988d0",
       "title": "인천광역시교육청, 직업계고 교장·교감 정책 연수 개최",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JbUR6UHR2R2tyZl9vWXVpdDUtZnJETUoxYVZ1X0ZETExoUFR6SUVRVTFVYUljT2dEa0lCZFVDSVhQdTNDa1NYZGYzR1RuYk5kYVg2UWpoS3AwSFNDd3NNeTg0U29KTE0?oc=5",
-      "source": "인천의소리",
+      "source": "voi.co.kr",
       "kind": "domestic",
       "publishedAt": "2026-10-02T02:27:46.000Z",
-      "description": "인천광역시교육청, 직업계고 교장·교감 정책 연수 개최 인천의소리",
+      "description": "인천광역시교육청, 직업계고 교장·교감 정책 연수 개최 voi.co.kr",
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 65,
@@ -413,20 +427,6 @@
       "snapshotDate": "2026-10-05"
     },
     {
-      "id": "a576158631b5",
-      "title": "[교육타파] 교육부 '학부모 참여 활성화' 정책제안 공모에 교사 반발 댓글 잇따라",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4enl2a2J2elo2eFdSeElyY1QtUVpIMjlJZ2g0aHpja0loZE5SZ3Z0cjdRdUtDQTNuU2k4YVJMUEZoS0hTVl9nZkZoOWk1bWVYYzFyY2hIOXppQlM0SEtJ?oc=5",
-      "source": "edujb.com",
-      "kind": "domestic",
-      "publishedAt": "2026-10-02T02:07:58.000Z",
-      "description": "[교육타파] 교육부 '학부모 참여 활성화' 정책제안 공모에 교사 반발 댓글 잇따라 edujb.com",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 87,
-      "score": 82,
-      "snapshotDate": "2026-10-05"
-    },
-    {
       "id": "e15f4fe2db77",
       "title": "[교육타파] 교육부 '학부모 참여 활성화' 정책제안 공모에 교사 반발 댓글 잇따라",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4enl2a2J2elo2eFdSeElyY1QtUVpIMjlJZ2g0aHpja0loZE5SZ3Z0cjdRdUtDQTNuU2k4YVJMUEZoS0hTVl9nZkZoOWk1bWVYYzFyY2hIOXppQlM0SEtJ?oc=5",
@@ -438,7 +438,21 @@
       "feedProvider": "google",
       "policyRelevance": 87,
       "score": 82,
-      "snapshotDate": "2026-10-04"
+      "snapshotDate": "2026-10-05"
+    },
+    {
+      "id": "a576158631b5",
+      "title": "[교육타파] 교육부 '학부모 참여 활성화' 정책제안 공모에 교사 반발 댓글 잇따라",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4enl2a2J2elo2eFdSeElyY1QtUVpIMjlJZ2g0aHpja0loZE5SZ3Z0cjdRdUtDQTNuU2k4YVJMUEZoS0hTVl9nZkZoOWk1bWVYYzFyY2hIOXppQlM0SEtJ?oc=5",
+      "source": "edujb.com",
+      "kind": "domestic",
+      "publishedAt": "2026-10-02T02:07:58.000Z",
+      "description": "[교육타파] 교육부 '학부모 참여 활성화' 정책제안 공모에 교사 반발 댓글 잇따라 edujb.com",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 87,
+      "score": 92,
+      "snapshotDate": "2026-10-03"
     },
     {
       "id": "6c20365a08cc",
@@ -493,7 +507,7 @@
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 80,
+      "score": 70,
       "snapshotDate": "2026-10-05"
     },
     {
@@ -507,7 +521,7 @@
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 80,
+      "score": 70,
       "snapshotDate": "2026-10-05"
     },
     {
@@ -521,7 +535,7 @@
       "category": "유·초중등",
       "feedProvider": "bing",
       "policyRelevance": 77,
-      "score": 82,
+      "score": 72,
       "snapshotDate": "2026-10-05"
     },
     {
@@ -553,6 +567,21 @@
       "snapshotDate": "2026-10-05"
     },
     {
+      "id": "535a9c944587",
+      "title": "South Korea's first national medical graduate school in Namwon",
+      "url": "https://www.msn.com/en-xl/news/other/south-koreas-first-national-medical-graduate-school-in-namwon/ar-AA2dlk3e",
+      "source": "The Chosun Ilbo on MSN",
+      "kind": "foreign",
+      "publishedAt": "2026-10-01T18:36:32.000Z",
+      "description": "The location of the National Medical Graduate School (National Medical Specialized Graduate School), a state-run institution for training public healthcare physicians, has been finalized as Namwon ...",
+      "category": "유·초중등",
+      "score": 30,
+      "originalTitle": "South Korea's first national medical graduate school in Namwon",
+      "titleKo": "남원에 있는 대한민국 최초의 국립 의과대학원",
+      "summaryKo": "공공의료의사 양성을 위한 국책기관인 국립의료대학원 (국립의료전문대학원) 의 소재지가 남원시로 최종 확정되었습니다...",
+      "snapshotDate": "2026-10-05"
+    },
+    {
       "id": "405b9c982bc9",
       "title": "“AI 잘 쓰는 법만 가르쳐선 부족”…한국 AI교육 ‘활용 역량’ 치중",
       "url": "https://www.msn.com/ko-kr/news/other/ai-%EC%9E%98-%EC%93%B0%EB%8A%94-%EB%B2%95%EB%A7%8C-%EA%B0%80%EB%A5%B4%EC%B3%90%EC%84%A0-%EB%B6%80%EC%A1%B1-%ED%95%9C%EA%B5%AD-ai%EA%B5%90%EC%9C%A1-%ED%99%9C%EC%9A%A9-%EC%97%AD%EB%9F%89-%EC%B9%98%EC%A4%91/ar-AA2dnzfp",
@@ -581,20 +610,6 @@
       "snapshotDate": "2026-10-05"
     },
     {
-      "id": "fc6bb82ce7f5",
-      "title": "서울시교육청·일드프랑스교육청 업무협약… AI·디지털 교육 협력 확대",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16VVI1NEd2YTk2OXFrZlVwTHNUZ19UQUpwRE5QaWFUYjBvTEg0M1lPS19WUTg1U3J4X1FpY2laTE54RTRmTVMtRVNhRFZZUHkzUmdJRHczSGhIYlZidGdaLTh0MDlwSHExLWEw?oc=5",
-      "source": "서울뉴스통신",
-      "kind": "domestic",
-      "publishedAt": "2026-10-01T14:26:58.000Z",
-      "description": "서울시교육청·일드프랑스교육청 업무협약… AI·디지털 교육 협력 확대 서울뉴스통신",
-      "category": "AI·디지털",
-      "feedProvider": "google",
-      "policyRelevance": 47,
-      "score": 58,
-      "snapshotDate": "2026-10-05"
-    },
-    {
       "id": "896e0cf00c12",
       "title": "서울시교육청·일드프랑스교육청 업무협약… AI·디지털 교육 협력 확대",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16VVI1NEd2YTk2OXFrZlVwTHNUZ19UQUpwRE5QaWFUYjBvTEg0M1lPS19WUTg1U3J4X1FpY2laTE54RTRmTVMtRVNhRFZZUHkzUmdJRHczSGhIYlZidGdaLTh0MDlwSHExLWEw?oc=5",
@@ -605,8 +620,22 @@
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 63,
-      "score": 75,
-      "snapshotDate": "2026-10-03"
+      "score": 65,
+      "snapshotDate": "2026-10-05"
+    },
+    {
+      "id": "fc6bb82ce7f5",
+      "title": "서울시교육청·일드프랑스교육청 업무협약… AI·디지털 교육 협력 확대",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16VVI1NEd2YTk2OXFrZlVwTHNUZ19UQUpwRE5QaWFUYjBvTEg0M1lPS19WUTg1U3J4X1FpY2laTE54RTRmTVMtRVNhRFZZUHkzUmdJRHczSGhIYlZidGdaLTh0MDlwSHExLWEw?oc=5",
+      "source": "서울뉴스통신",
+      "kind": "domestic",
+      "publishedAt": "2026-10-01T14:26:58.000Z",
+      "description": "서울시교육청·일드프랑스교육청 업무협약… AI·디지털 교육 협력 확대 서울뉴스통신",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 47,
+      "score": 68,
+      "snapshotDate": "2026-10-04"
     },
     {
       "id": "a68e51b1a0d3",
@@ -637,17 +666,18 @@
       "snapshotDate": "2026-10-05"
     },
     {
-      "id": "00c32d6b29ef",
-      "title": "대전교육청, 13일간 교육정책 아이디어 공모…“현장 목소리 담는다”",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43UXVqcmcwZGhmSDJEYnR1OFk2WlJaOVFTcEhnX2J3Y1UxZmt0QkdNdDVkRHIwNURJU3p2ZHhoSElELTVRdHZsTS1RZTBYX3BoWjRzY1haZ1NxYzBOWWUweC1rdHQ?oc=5",
-      "source": "충청탑뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-10-01T08:32:41.000Z",
-      "description": "대전교육청, 13일간 교육정책 아이디어 공모…“현장 목소리 담는다” 충청탑뉴스",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 62,
+      "id": "66494022e80f",
+      "title": "People before plants: South Korea trains its chipmakers first",
+      "url": "https://www.upi.com/Voices/2026/10/01/perspective-technical-high-schools/6111790879175/",
+      "source": "UPI",
+      "kind": "foreign",
+      "publishedAt": "2026-10-01T08:54:00.000Z",
+      "description": "Before a semiconductor fabrication plant rises, the government will train technicians through a hands-on program that recruits those in high school, ...",
+      "category": "AI·디지털",
+      "score": 30,
+      "originalTitle": "People before plants: South Korea trains its chipmakers first",
+      "titleKo": "공장 이전의 인력: 한국은 칩 제조사를 먼저 훈련시킵니다.",
+      "summaryKo": "반도체 제작 공장이 들어서기 전에 정부는 고등학교에서 기술자를 모집하는 실습 프로그램을 통해 기술자를 양성할 것입니다.",
       "snapshotDate": "2026-10-05"
     },
     {
@@ -661,8 +691,22 @@
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 72,
-      "snapshotDate": "2026-10-04"
+      "score": 62,
+      "snapshotDate": "2026-10-05"
+    },
+    {
+      "id": "00c32d6b29ef",
+      "title": "대전교육청, 13일간 교육정책 아이디어 공모…“현장 목소리 담는다”",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43UXVqcmcwZGhmSDJEYnR1OFk2WlJaOVFTcEhnX2J3Y1UxZmt0QkdNdDVkRHIwNURJU3p2ZHhoSElELTVRdHZsTS1RZTBYX3BoWjRzY1haZ1NxYzBOWWUweC1rdHQ?oc=5",
+      "source": "충청탑뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-10-01T08:32:41.000Z",
+      "description": "대전교육청, 13일간 교육정책 아이디어 공모…“현장 목소리 담는다” 충청탑뉴스",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 82,
+      "snapshotDate": "2026-10-02"
     },
     {
       "id": "c63d8a9bdb51",
@@ -693,6 +737,20 @@
       "snapshotDate": "2026-10-05"
     },
     {
+      "id": "fa72d4a69390",
+      "title": "“동남권 750만 인재 키울 대학인데 ‘서울대 10개’ 탈락”…경상국립대 국회 앞 1인 시위",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WLTlrQ3dNVGJDSlJWUUx4T0IxaGI0MkdlMm0yMVU5WFUtRmFhU0w1T2JqYkxwRFY5Wm0xbUQ5eUYwUHRSbHNaaGxQY3A5M2FWMnVqeUpXWHByLVh5Sk1RY3JYVElUUFk?oc=5",
+      "source": "kyosu.net",
+      "kind": "domestic",
+      "publishedAt": "2026-10-01T07:15:29.000Z",
+      "description": "“동남권 750만 인재 키울 대학인데 ‘서울대 10개’ 탈락”…경상국립대 국회 앞 1인 시위 kyosu.net",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 53,
+      "snapshotDate": "2026-10-05"
+    },
+    {
       "id": "fe28a87f7c9a",
       "title": "“동남권 750만 인재 키울 대학인데 ‘서울대 10개’ 탈락”…경상국립대 국회 앞 1인 시위",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WLTlrQ3dNVGJDSlJWUUx4T0IxaGI0MkdlMm0yMVU5WFUtRmFhU0w1T2JqYkxwRFY5Wm0xbUQ5eUYwUHRSbHNaaGxQY3A5M2FWMnVqeUpXWHByLVh5Sk1RY3JYVElUUFk?oc=5",
@@ -703,8 +761,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 53,
-      "snapshotDate": "2026-10-05"
+      "score": 63,
+      "snapshotDate": "2026-10-04"
     },
     {
       "id": "6a2171b4dded",
@@ -763,6 +821,20 @@
       "snapshotDate": "2026-10-03"
     },
     {
+      "id": "b30016aea747",
+      "title": "경상국립대 교수회장·총동문회장, 국회 앞 1인 시위…'서울대 10개 만들기 재검토' 촉구",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mSTUzdmtXQ050MXV2dzFxOWNJdHR5N1BidXZ4YnFHWWNaSDFrczR3SDBvQ2VDdjZpemlpY2xJWU55anhRU1RSblNXc2RfaTlaS1ZjM19wQjZ6cTUxTU9aTmxhMlowbDh60gFsQVVfeXFMUGNRM0ZsWHhxNE8xb1dsZUdHT3JGM1NsUFBwSVZfeDBYMkpqcHhuRmhYRU9aR29aSExacVpVc3ZJZV84RF9PUnktdmp0ZWlJQnNPeEVaX1F4Y2Zzbk9PMjhreWZQX3hHdGdVMGJU?oc=5",
+      "source": "진주신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-01T06:31:26.000Z",
+      "description": "경상국립대 교수회장·총동문회장, 국회 앞 1인 시위…'서울대 10개 만들기 재검토' 촉구 진주신문",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 53,
+      "snapshotDate": "2026-10-05"
+    },
+    {
       "id": "e1343614c0cc",
       "title": "대전시교육청, 교육정책 아이디어 온라인 공모",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RUmQ0ZzVBdUxFLTYyRncySWExNW1pYjlWNDVIaTBxZFl6YWE1Rkw2cm5DSmlXb0VnajBiS0Fzb1c1dnU3VVlocW9BT1A5RG5ndGVjMzA5MVdRWjA3eHM5V2UyLU1oNXRQQkE?oc=5",
@@ -801,8 +873,8 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 61,
-      "snapshotDate": "2026-10-04"
+      "score": 51,
+      "snapshotDate": "2026-10-05"
     },
     {
       "id": "fc2c1904e99d",
@@ -847,20 +919,6 @@
       "snapshotDate": "2026-10-05"
     },
     {
-      "id": "2faf9bc42a70",
-      "title": "교육부·복지부 “특수학교 방문치과진료 제도화 적극 협력”",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TMlZPeExoV3R0LWdtMmNEeE05U0JLLTdWWFVmQTFDTkRQZkRNbVpvZGVOOTR5NXlCaFEwOUVocm9YWVRROHZzTllpeXNfY0tmZWRKbVZTVkJtaEtTVDhaUmpLTnZrRE9B?oc=5",
-      "source": "dtissue.com",
-      "kind": "domestic",
-      "publishedAt": "2026-10-01T05:18:00.000Z",
-      "description": "교육부·복지부 “특수학교 방문치과진료 제도화 적극 협력” dtissue.com",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 62,
-      "snapshotDate": "2026-10-05"
-    },
-    {
       "id": "6ddd8eec4166",
       "title": "교육부·복지부 “특수학교 방문치과진료 제도화 적극 협력”",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TMlZPeExoV3R0LWdtMmNEeE05U0JLLTdWWFVmQTFDTkRQZkRNbVpvZGVOOTR5NXlCaFEwOUVocm9YWVRROHZzTllpeXNfY0tmZWRKbVZTVkJtaEtTVDhaUmpLTnZrRE9B?oc=5",
@@ -871,8 +929,8 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 72,
-      "snapshotDate": "2026-10-04"
+      "score": 62,
+      "snapshotDate": "2026-10-05"
     },
     {
       "id": "861b253ba642",
@@ -903,20 +961,6 @@
       "snapshotDate": "2026-10-04"
     },
     {
-      "id": "c4da7e25178f",
-      "title": "[속보] 전북교육청 부교육감 직무대리에 이영환 정책국장…후임자 인사절차 교육부 \"정해진 것은 없다\"",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EcnItUWJfVzBfbjRhdlNpZnpxZGtIX25fSGNtXzhPNTZubmIzdzVpTFFBTUpyOXlCaF9NcTRjb1pBXzZ5cDRubEZEa1lYYllfczJBdDV2SktwYmFVU3RB?oc=5",
-      "source": "edujb.com",
-      "kind": "domestic",
-      "publishedAt": "2026-10-01T05:00:54.000Z",
-      "description": "[속보] 전북교육청 부교육감 직무대리에 이영환 정책국장…후임자 인사절차 교육부 \"정해진 것은 없다\" edujb.com",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 62,
-      "snapshotDate": "2026-10-05"
-    },
-    {
       "id": "033a6e0f177a",
       "title": "[속보] 전북교육청 부교육감 직무대리에 이영환 정책국장…후임자 인사절차 교육부 \"정해진 것은 없다\"",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EcnItUWJfVzBfbjRhdlNpZnpxZGtIX25fSGNtXzhPNTZubmIzdzVpTFFBTUpyOXlCaF9NcTRjb1pBXzZ5cDRubEZEa1lYYllfczJBdDV2SktwYmFVU3RB?oc=5",
@@ -927,8 +971,22 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 65,
+      "score": 62,
+      "snapshotDate": "2026-10-05"
+    },
+    {
+      "id": "c4da7e25178f",
+      "title": "[속보] 전북교육청 부교육감 직무대리에 이영환 정책국장…후임자 인사절차 교육부 \"정해진 것은 없다\"",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EcnItUWJfVzBfbjRhdlNpZnpxZGtIX25fSGNtXzhPNTZubmIzdzVpTFFBTUpyOXlCaF9NcTRjb1pBXzZ5cDRubEZEa1lYYllfczJBdDV2SktwYmFVU3RB?oc=5",
+      "source": "edujb.com",
+      "kind": "domestic",
+      "publishedAt": "2026-10-01T05:00:54.000Z",
+      "description": "[속보] 전북교육청 부교육감 직무대리에 이영환 정책국장…후임자 인사절차 교육부 \"정해진 것은 없다\" edujb.com",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 65,
       "score": 72,
-      "snapshotDate": "2026-10-04"
+      "snapshotDate": "2026-10-03"
     },
     {
       "id": "23a37d5463bb",
@@ -945,6 +1003,20 @@
       "snapshotDate": "2026-10-05"
     },
     {
+      "id": "78c0438fb790",
+      "title": "전문대교협·여자전문대 7곳·여성정책연구원, 여성 인재 양성 MOU 체결",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93cXhWUld5MUZhRmRydzRoRWlGMFVrYmFHV2paVHJId0dRaG1ycVBJR2JTTUNHem5IVkxFRkw2VFRlNTZuRXI3SXZmb1E4TDJ6X2dRU1Vtb212V0JDaFF5X0dCQmhlTUU?oc=5",
+      "source": "kyosu.net",
+      "kind": "domestic",
+      "publishedAt": "2026-10-01T04:53:25.000Z",
+      "description": "전문대교협·여자전문대 7곳·여성정책연구원, 여성 인재 양성 MOU 체결 kyosu.net",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 53,
+      "score": 57,
+      "snapshotDate": "2026-10-05"
+    },
+    {
       "id": "816cde75896a",
       "title": "전문대교협·여자전문대 7곳·여성정책연구원, 여성 인재 양성 MOU 체결",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93cXhWUld5MUZhRmRydzRoRWlGMFVrYmFHV2paVHJId0dRaG1ycVBJR2JTTUNHem5IVkxFRkw2VFRlNTZuRXI3SXZmb1E4TDJ6X2dRU1Vtb212V0JDaFF5X0dCQmhlTUU?oc=5",
@@ -955,8 +1027,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 53,
-      "score": 57,
-      "snapshotDate": "2026-10-05"
+      "score": 67,
+      "snapshotDate": "2026-10-04"
     },
     {
       "id": "efeecc8d741b",
@@ -1081,8 +1153,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 61,
-      "snapshotDate": "2026-10-04"
+      "score": 51,
+      "snapshotDate": "2026-10-05"
     },
     {
       "id": "342f48d53f94",
@@ -1138,7 +1210,7 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 66,
-      "snapshotDate": "2026-10-05"
+      "snapshotDate": "2026-10-04"
     },
     {
       "id": "90c6896e1066",
@@ -1152,7 +1224,7 @@
       "feedProvider": "google",
       "policyRelevance": 75,
       "score": 67,
-      "snapshotDate": "2026-10-05"
+      "snapshotDate": "2026-10-04"
     },
     {
       "id": "dabab45be0c9",
@@ -1180,7 +1252,7 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 62,
-      "snapshotDate": "2026-10-05"
+      "snapshotDate": "2026-10-04"
     },
     {
       "id": "bfa4057e70e0",
@@ -1208,7 +1280,7 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 62,
-      "snapshotDate": "2026-10-05"
+      "snapshotDate": "2026-10-04"
     },
     {
       "id": "4743afe2b004",
@@ -1222,21 +1294,7 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 62,
-      "snapshotDate": "2026-10-05"
-    },
-    {
-      "id": "32cfe7239405",
-      "title": "대전시교육청, 대전교육정책 아이디어 온라인 공모",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NZkVMeUhjLVRzOFFSdnlUOUVlS21oT1ZtY2llNXNSMU83dnRVMVZOcWhyVnJQaURjZ0lHVm9RTmpLQVQ2cUMyQV9JcVBDM3paeDl6OTRlUlVqVElhcENCVjlndDdLSy1Va2ktbUhobDBrLVnSAXdBVV95cUxOSnBSdlBzb2t5a1pzU29wTHF2c2NFYmFtSWttSUNTTGdmTVZESnpialFBYXM2RWU0Vjh3NHhacnV2bnVyT1pxM1BxclZGbThHZ3ByVGtQaUxCVkwxTnNiSjMzSEd4UWQwTEVFM1dVNjR2Ym0xdlF0RQ?oc=5",
-      "source": "뉴스프리존",
-      "kind": "domestic",
-      "publishedAt": "2026-10-01T00:19:53.000Z",
-      "description": "대전시교육청, 대전교육정책 아이디어 온라인 공모 뉴스프리존",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 62,
-      "snapshotDate": "2026-10-05"
+      "snapshotDate": "2026-10-04"
     },
     {
       "id": "992935ceb855",
@@ -1251,6 +1309,20 @@
       "policyRelevance": 65,
       "score": 62,
       "snapshotDate": "2026-10-04"
+    },
+    {
+      "id": "32cfe7239405",
+      "title": "대전시교육청, 대전교육정책 아이디어 온라인 공모",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NZkVMeUhjLVRzOFFSdnlUOUVlS21oT1ZtY2llNXNSMU83dnRVMVZOcWhyVnJQaURjZ0lHVm9RTmpLQVQ2cUMyQV9JcVBDM3paeDl6OTRlUlVqVElhcENCVjlndDdLSy1Va2ktbUhobDBrLVnSAXdBVV95cUxOSnBSdlBzb2t5a1pzU29wTHF2c2NFYmFtSWttSUNTTGdmTVZESnpialFBYXM2RWU0Vjh3NHhacnV2bnVyT1pxM1BxclZGbThHZ3ByVGtQaUxCVkwxTnNiSjMzSEd4UWQwTEVFM1dVNjR2Ym0xdlF0RQ?oc=5",
+      "source": "뉴스프리존",
+      "kind": "domestic",
+      "publishedAt": "2026-10-01T00:19:53.000Z",
+      "description": "대전시교육청, 대전교육정책 아이디어 온라인 공모 뉴스프리존",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 72,
+      "snapshotDate": "2026-10-03"
     },
     {
       "id": "b89588ad5312",
@@ -1278,7 +1350,7 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 62,
-      "snapshotDate": "2026-10-05"
+      "snapshotDate": "2026-10-04"
     },
     {
       "id": "5ed89d740754",
@@ -2527,7 +2599,7 @@
       "originalTitle": "Sejong University to host International Student Future Higher Education Forum on Oct. 1",
       "titleKo": "세종대학교, 10월 1일 국제학생미래고등교육포럼 개최",
       "summaryKo": "세종대학교는 오는 10월 1일 서울캠퍼스에서 제8회 국제학생미래 (ISF) 고등교육포럼을 개최하여...",
-      "snapshotDate": "2026-09-30"
+      "snapshotDate": "2026-10-05"
     },
     {
       "id": "e4a7550e1774",
@@ -8379,76 +8451,6 @@
       "kind": "domestic",
       "publishedAt": "2026-09-08T08:27:10.000Z",
       "description": "'엘리트 대학을 건설하려면 네 가지 제도적 돌파구가 필요합니다.' Vietnam.vn",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 51,
-      "snapshotDate": "2026-09-12"
-    },
-    {
-      "id": "65df4884e7bb",
-      "title": "충북 교원단체들, 청소년단체 승진가산점 부활 추진 반발",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56YTQ3QzFwSkF4WndEY0Z1X1Noa0w0S1ZCUmozVmV0SEROdVNQbThBcGN0Z2VkUTVKYlhYdHpHNzFPWTdvTXhEcUlockVJLUtBLUkyZGJLakFrWnZjMmRmc2RnWUM3dWtLZ2ZaTWhOaEM?oc=5",
-      "source": "ccdailynews.com",
-      "kind": "domestic",
-      "publishedAt": "2026-09-08T08:00:36.000Z",
-      "description": "충북 교원단체들, 청소년단체 승진가산점 부활 추진 반발 ccdailynews.com",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 57,
-      "score": 67,
-      "snapshotDate": "2026-09-12"
-    },
-    {
-      "id": "96a601ca1cb5",
-      "title": "충북 교원단체들, 청소년단체 승진가산점 부활 추진 반발",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56YTQ3QzFwSkF4WndEY0Z1X1Noa0w0S1ZCUmozVmV0SEROdVNQbThBcGN0Z2VkUTVKYlhYdHpHNzFPWTdvTXhEcUlockVJLUtBLUkyZGJLakFrWnZjMmRmc2RnWUM3dWtLZ2ZaTWhOaEM?oc=5",
-      "source": "충청일보",
-      "kind": "domestic",
-      "publishedAt": "2026-09-08T08:00:36.000Z",
-      "description": "충북 교원단체들, 청소년단체 승진가산점 부활 추진 반발 충청일보",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 57,
-      "score": 73,
-      "snapshotDate": "2026-09-10"
-    },
-    {
-      "id": "21148c15899a",
-      "title": "韓 학생, 디지털 접근성 세계 1위…활용도 43개국 중 최하위",
-      "url": "https://www.msn.com/ko-kr/news/techandscience/%E9%9F%93-%ED%95%99%EC%83%9D-%EB%94%94%EC%A7%80%ED%84%B8-%EC%A0%91%EA%B7%BC%EC%84%B1-%EC%84%B8%EA%B3%84-1%EC%9C%84-%ED%99%9C%EC%9A%A9%EB%8F%84-43%EA%B0%9C%EA%B5%AD-%EC%A4%91-%EC%B5%9C%ED%95%98%EC%9C%84/ar-AA2bMn0d",
-      "source": "지디넷코리아 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-09-08T07:20:00.000Z",
-      "description": "(지디넷코리아=김미정 기자)학생이 인공지능(AI) 창작 역량을 기르려면 단순 기기·기술 보급뿐 아니라 창작을 지속적으로 경험할 수 있는 환경이 필요하다는 분석이 나왔다. 8일 코딧 사내 글로벌정책실증연구원이 공개한 'AI 시대 디지털 창작 역량 함양을 위한 초·중·고 교육 환경 정책 과제' 이슈페이퍼에 따르면 생성형 AI와 디지털 도구를 활용한 창작 중심 ...",
-      "category": "AI·디지털",
-      "feedProvider": "bing",
-      "policyRelevance": 40,
-      "score": 55,
-      "snapshotDate": "2026-09-12"
-    },
-    {
-      "id": "c5d29691a222",
-      "title": "[대전시교육청] 2026학년도 추진되는 주요 정책 발표",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oLUc1THp5VmFZVDAxTmFIQ0k1Z2Z4ZFNzTlBaN0stTGxoLThGWlVhaDNwaGVhQWF2Z3dYQl9WUThxdE9XWmtjWkdHUmJDSlVMbzVmU0RteUNkeEppYTdNQ0hWd2Y4QQ?oc=5",
-      "source": "유성매거진",
-      "kind": "domestic",
-      "publishedAt": "2026-09-08T07:00:00.000Z",
-      "description": "[대전시교육청] 2026학년도 추진되는 주요 정책 발표 유성매거진",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 77,
-      "score": 72,
-      "snapshotDate": "2026-09-12"
-    },
-    {
-      "id": "3ca3a900a31f",
-      "title": "경기도의회 유호준 의원, ‘지역혁신중심 대학지원체계(RISE)’ 위원회 구성에 합당한 기준 마련 촉구",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBSm0tNmtpbVpuRmgyeDdiTWIyY2VLYWFxeUJuNGNITUF6dWU2X0V5RmlvNUpWSlI0bnJPamF1OHBkT3RXQzByZjZScTdZTUJTVGtNOWJvSktiVWM5?oc=5",
-      "source": "누리일보",
-      "kind": "domestic",
-      "publishedAt": "2026-09-08T06:52:24.000Z",
-      "description": "경기도의회 유호준 의원, ‘지역혁신중심 대학지원체계(RISE)’ 위원회 구성에 합당한 기준 마련 촉구 누리일보",
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
