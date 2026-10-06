@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T01:59:02.791Z",
+  "generatedAt": "2026-10-06T02:30:09.908Z",
   "retentionDays": 30,
   "days": [
     "2026-10-06",
@@ -74,6 +74,20 @@
       "feedProvider": "google",
       "policyRelevance": 47,
       "score": 82,
+      "snapshotDate": "2026-10-06"
+    },
+    {
+      "id": "606bb7562f32",
+      "title": "김영훈 경기도의원 “경기도교육연구원, 연구성과 디지털 교육격차 해소의 실천 대안으로 연결해야”",
+      "url": "https://www.msn.com/ko-kr/news/other/%EA%B9%80%EC%98%81%ED%9B%88-%EA%B2%BD%EA%B8%B0%EB%8F%84%EC%9D%98%EC%9B%90-%EA%B2%BD%EA%B8%B0%EB%8F%84%EA%B5%90%EC%9C%A1%EC%97%B0%EA%B5%AC%EC%9B%90-%EC%97%B0%EA%B5%AC%EC%84%B1%EA%B3%BC-%EB%94%94%EC%A7%80%ED%84%B8-%EA%B5%90%EC%9C%A1%EA%B2%A9%EC%B0%A8-%ED%95%B4%EC%86%8C%EC%9D%98-%EC%8B%A4%EC%B2%9C-%EB%8C%80%EC%95%88%EC%9C%BC%EB%A1%9C-%EC%97%B0%EA%B2%B0%ED%95%B4%EC%95%BC/ar-AA2dDjkM",
+      "source": "서울신문 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-10-05T18:46:08.000Z",
+      "description": "경기도의회 교육기획위원회 김영훈 의원(더불어민주당, 시흥3)은 경기도교육연구원에서 받은 2023~2025년 정책 반영 실적과 지역별 분석, 종단연구, 연구협력관 운영 등 8건의 자료를 정밀 분석한 뒤, 그간 축적된 연구 성과를 학생들의 디지털 역량 강화와 지역·계층 ...",
+      "category": "AI·디지털",
+      "feedProvider": "bing",
+      "policyRelevance": 40,
+      "score": 71,
       "snapshotDate": "2026-10-06"
     },
     {
@@ -381,7 +395,7 @@
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 77,
-      "score": 78,
+      "score": 68,
       "snapshotDate": "2026-10-06"
     },
     {
@@ -441,17 +455,31 @@
       "snapshotDate": "2026-10-06"
     },
     {
-      "id": "f7d895dde5c2",
+      "id": "9af9b8a682f3",
       "title": "대전교육공동체 ‘2026 교육정책 아이디어’ 온라인 공모…오석진 교육감 “작은 의견이 큰 변화로”",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mV2lQNnJ2V0tiblR1bEFwQm5uaEFpS29pN2hKaHFjbnJXRWJ2cEVxQnpubXFNV2ttSlFBeXJna0JwMWoyUmpGYUJzR05uQkdoLURaX0lpZXFfanR4b2RKbVE2Vk42THU3LTUweXNKTU1jU0HSAXNBVV95cUxPZldpUDZydldLYm5UdWxBcEJubmhBaUtvaTdoSmhxY25yV0VidnBFcUJ6bm1xTVdrbUpRQXlyZ2tCcDFqMlJqRmFCc0dObkJHaC1EWl9JaWVxX2p0eG9kSm1RNlZONkx1Ny01MHlzSk1NY1NB?oc=5",
-      "source": "대전투데이",
+      "source": "daejeontoday.com",
       "kind": "domestic",
       "publishedAt": "2026-10-02T10:53:52.000Z",
-      "description": "대전교육공동체 ‘2026 교육정책 아이디어’ 온라인 공모…오석진 교육감 “작은 의견이 큰 변화로” 대전투데이",
+      "description": "대전교육공동체 ‘2026 교육정책 아이디어’ 온라인 공모…오석진 교육감 “작은 의견이 큰 변화로” daejeontoday.com",
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 62,
+      "snapshotDate": "2026-10-06"
+    },
+    {
+      "id": "356506a5d70f",
+      "title": "한국장총, ‘장애학생 진로탐색 안내서’ 장애인정책리포트 발간",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fOENPYWlfdHVTSC14NlpJSDJBc1BORXNfRTVybWo3dGdoVWJNYThqT1NrYmhQZ2RuZEZoTUhmXzItNXpQLUR3RDN4dzRrdWxDTmZ5aVZBeWpRazN1QUhkek5CZ0toUUpXOV9wYkVn0gFyQVVfeXFMTXQzMFV6dDdSQ2E1RVo5blZONndraEktY3hGbXBEbzNHWGo0cVFZdV9WQkcwNmlUN3pGMmlybjgzanRLaHE2NGt0bnN2RGtscy1fZllLSDJtZG9wQ0FlWHo2aTJoYXl5LTdRblNlTnowdzFn?oc=5",
+      "source": "에이블뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-10-02T08:35:00.000Z",
+      "description": "한국장총, ‘장애학생 진로탐색 안내서’ 장애인정책리포트 발간 에이블뉴스",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 51,
       "snapshotDate": "2026-10-06"
     },
     {
@@ -465,8 +493,8 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 51,
-      "snapshotDate": "2026-10-06"
+      "score": 61,
+      "snapshotDate": "2026-10-05"
     },
     {
       "id": "91f8c78d3a9c",
@@ -717,22 +745,8 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 77,
-      "score": 68,
-      "snapshotDate": "2026-10-06"
-    },
-    {
-      "id": "a576158631b5",
-      "title": "[교육타파] 교육부 '학부모 참여 활성화' 정책제안 공모에 교사 반발 댓글 잇따라",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4enl2a2J2elo2eFdSeElyY1QtUVpIMjlJZ2g0aHpja0loZE5SZ3Z0cjdRdUtDQTNuU2k4YVJMUEZoS0hTVl9nZkZoOWk1bWVYYzFyY2hIOXppQlM0SEtJ?oc=5",
-      "source": "edujb.com",
-      "kind": "domestic",
-      "publishedAt": "2026-10-02T02:07:58.000Z",
-      "description": "[교육타파] 교육부 '학부모 참여 활성화' 정책제안 공모에 교사 반발 댓글 잇따라 edujb.com",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 87,
-      "score": 72,
-      "snapshotDate": "2026-10-06"
+      "score": 78,
+      "snapshotDate": "2026-10-05"
     },
     {
       "id": "e15f4fe2db77",
@@ -747,6 +761,20 @@
       "policyRelevance": 87,
       "score": 82,
       "snapshotDate": "2026-10-05"
+    },
+    {
+      "id": "a576158631b5",
+      "title": "[교육타파] 교육부 '학부모 참여 활성화' 정책제안 공모에 교사 반발 댓글 잇따라",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4enl2a2J2elo2eFdSeElyY1QtUVpIMjlJZ2g0aHpja0loZE5SZ3Z0cjdRdUtDQTNuU2k4YVJMUEZoS0hTVl9nZkZoOWk1bWVYYzFyY2hIOXppQlM0SEtJ?oc=5",
+      "source": "edujb.com",
+      "kind": "domestic",
+      "publishedAt": "2026-10-02T02:07:58.000Z",
+      "description": "[교육타파] 교육부 '학부모 참여 활성화' 정책제안 공모에 교사 반발 댓글 잇따라 edujb.com",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 87,
+      "score": 92,
+      "snapshotDate": "2026-10-03"
     },
     {
       "id": "6c20365a08cc",
@@ -972,7 +1000,7 @@
       "originalTitle": "People before plants: South Korea trains its chipmakers first",
       "titleKo": "공장 이전의 인력: 한국은 칩 제조사를 먼저 훈련시킵니다.",
       "summaryKo": "반도체 제작 공장이 들어서기 전에 정부는 고등학교에서 기술자를 모집하는 실습 프로그램을 통해 기술자를 양성할 것입니다.",
-      "snapshotDate": "2026-10-05"
+      "snapshotDate": "2026-10-06"
     },
     {
       "id": "45c4e36670c6",
@@ -1015,6 +1043,21 @@
       "policyRelevance": 45,
       "score": 57,
       "snapshotDate": "2026-10-05"
+    },
+    {
+      "id": "39a1f13bbbc9",
+      "title": "South Korea's first national medical graduate school in Namwon",
+      "url": "https://www.msn.com/en-xl/news/other/south-korea-s-first-national-medical-graduate-school-in-namwon/ar-AA2dlk3e",
+      "source": "The Chosun Ilbo on MSN",
+      "kind": "foreign",
+      "publishedAt": "2026-10-01T07:22:25.000Z",
+      "description": "The location of the National Medical Graduate School (National Medical Specialized Graduate School), a state-run institution for training public healthcare physicians, has been finalized as Namwon ...",
+      "category": "유·초중등",
+      "score": 30,
+      "originalTitle": "South Korea's first national medical graduate school in Namwon",
+      "titleKo": "남원에 있는 대한민국 최초의 국립 의과대학원",
+      "summaryKo": "공공의료의사 양성을 위한 국책기관인 국립의료대학원 (국립의료전문대학원) 의 소재지가 남원시로 최종 확정되었습니다...",
+      "snapshotDate": "2026-10-06"
     },
     {
       "id": "4a63497735ce",
@@ -3555,20 +3598,6 @@
       "feedProvider": "google",
       "policyRelevance": 52,
       "score": 56,
-      "snapshotDate": "2026-09-27"
-    },
-    {
-      "id": "356506a5d70f",
-      "title": "한국장총, ‘장애학생 진로탐색 안내서’ 장애인정책리포트 발간",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fOENPYWlfdHVTSC14NlpJSDJBc1BORXNfRTVybWo3dGdoVWJNYThqT1NrYmhQZ2RuZEZoTUhmXzItNXpQLUR3RDN4dzRrdWxDTmZ5aVZBeWpRazN1QUhkek5CZ0toUUpXOV9wYkVn0gFyQVVfeXFMTXQzMFV6dDdSQ2E1RVo5blZONndraEktY3hGbXBEbzNHWGo0cVFZdV9WQkcwNmlUN3pGMmlybjgzanRLaHE2NGt0bnN2RGtscy1fZllLSDJtZG9wQ0FlWHo2aTJoYXl5LTdRblNlTnowdzFn?oc=5",
-      "source": "에이블뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-09-23T10:17:00.000Z",
-      "description": "한국장총, ‘장애학생 진로탐색 안내서’ 장애인정책리포트 발간 에이블뉴스",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 51,
       "snapshotDate": "2026-09-27"
     },
     {
@@ -8424,34 +8453,6 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 57,
-      "snapshotDate": "2026-09-13"
-    },
-    {
-      "id": "4a59daa5ae7f",
-      "title": "2031년 ‘3시 하교’ 검토…정작 교원은 돌봄 개선 기대 12%뿐",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4bjFUR3BpeXUwTE9oWWhwbGdMT3FKYXc1SmJyeURrYnp4cC1zbS1zem9CdmVpREhNRjRjMmxEZTFyWDYzeHY0cVpLcmdEb2cxajVxVXN3SjVaYy1neUJvR3pON1VrZGs?oc=5",
-      "source": "영남경제",
-      "kind": "domestic",
-      "publishedAt": "2026-09-09T05:52:20.000Z",
-      "description": "2031년 ‘3시 하교’ 검토…정작 교원은 돌봄 개선 기대 12%뿐 영남경제",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 55,
-      "snapshotDate": "2026-09-13"
-    },
-    {
-      "id": "210812cc77fd",
-      "title": "유학생 30만 시대…교육부, 외국인 유학생 정책 ‘양적 유치’에서 ‘질적 성장’으로 전환",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LbVNjaDJfQ0lCclRiNklpa2F3SzFENFVjVnQwS3hDWVJxRk1hMXplNmhjVmpRSUoySGVpRUVsNjFLaW80YkR5c180OVpMRE1LcE5mQU9hNXdfQy14RFViRDhzYnUwcXR5QUs3d2pGVnk?oc=5",
-      "source": "한국강사신문",
-      "kind": "domestic",
-      "publishedAt": "2026-09-09T05:08:00.000Z",
-      "description": "유학생 30만 시대…교육부, 외국인 유학생 정책 ‘양적 유치’에서 ‘질적 성장’으로 전환 한국강사신문",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 75,
-      "score": 67,
       "snapshotDate": "2026-09-13"
     }
   ]

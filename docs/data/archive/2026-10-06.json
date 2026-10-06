@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-06T01:49:26.815Z",
-  "generatedAtKST": "2026-10-06T10:49:24.350+09:00",
+  "generatedAt": "2026-10-06T02:21:36.600Z",
+  "generatedAtKST": "2026-10-06T11:21:33.655+09:00",
   "date": "2026-10-06",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
@@ -8,13 +8,13 @@
   "collectionHealth": {
     "officialLive": 10,
     "domesticBing": 6,
-    "domesticGoogle": 138,
-    "foreignBing": 8,
+    "domesticGoogle": 135,
+    "foreignBing": 7,
     "foreignGoogle": 240,
-    "carried": 61,
-    "rawUnique": 352,
+    "carried": 98,
+    "rawUnique": 351,
     "policyRejected": 300,
-    "policyKept": 52
+    "policyKept": 51
   },
   "briefing": [
     "[단독] '논서술형 수능', 중장기 국가교육발전계획 시안서 빠진다 — 조선일보 on MSN",
@@ -24,10 +24,10 @@
     "2027학년도 수시모집 원서접수 마감시간 연장에 따른 추가 접수 현황 분석 및 향후 대응계획 — 교육부"
   ],
   "stats": {
-    "total": 57,
+    "total": 58,
     "official": 10,
-    "domestic": 40,
-    "foreign": 7
+    "domestic": 39,
+    "foreign": 9
   },
   "items": [
     {
@@ -281,19 +281,6 @@
       "score": 78
     },
     {
-      "id": "8c3565e7c8d5",
-      "title": "아이들의 행복한 성장을 잇다…인천교육청, 이음교육 정책협의회 개최 > 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43Wnd1al9LVWlUVFJMelJRaU42Z256aFpuSGlfdVR2dnY2eUlidWV4bnRYWGpua01FOUtVcF9wdjlpMlJDUkpqM1o1N183U1Y3ZjNHUzVMY3lIQUo5M2h1RVU4UnhDT0xPd1VWX0JpckM?oc=5",
-      "source": "더코리아",
-      "kind": "domestic",
-      "publishedAt": "2026-10-03T01:53:00.000Z",
-      "description": "아이들의 행복한 성장을 잇다…인천교육청, 이음교육 정책협의회 개최 > 뉴스 더코리아",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 77,
-      "score": 78
-    },
-    {
       "id": "9a17fdb0e100",
       "title": "광주여대, ‘2026년도 제3차 광주·전남지역대학교 총장협의회’ 개최",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5aE1nYkQyTlR6SUV5WFQ2UGhELWk0X3hGUzUxZzRZMjlBYm5SLW1kREFaREFHRllZVjc2RWZuajR2OGYxZHV1QVYwNE9nNzhaOWkyMkNSRUNnel9GeldOQmIxYmI3TDg?oc=5",
@@ -385,17 +372,17 @@
       "score": 72
     },
     {
-      "id": "a576158631b5",
-      "title": "[교육타파] 교육부 '학부모 참여 활성화' 정책제안 공모에 교사 반발 댓글 잇따라",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4enl2a2J2elo2eFdSeElyY1QtUVpIMjlJZ2g0aHpja0loZE5SZ3Z0cjdRdUtDQTNuU2k4YVJMUEZoS0hTVl9nZkZoOWk1bWVYYzFyY2hIOXppQlM0SEtJ?oc=5",
-      "source": "edujb.com",
+      "id": "606bb7562f32",
+      "title": "김영훈 경기도의원 “경기도교육연구원, 연구성과 디지털 교육격차 해소의 실천 대안으로 연결해야”",
+      "url": "https://www.msn.com/ko-kr/news/other/%EA%B9%80%EC%98%81%ED%9B%88-%EA%B2%BD%EA%B8%B0%EB%8F%84%EC%9D%98%EC%9B%90-%EA%B2%BD%EA%B8%B0%EB%8F%84%EA%B5%90%EC%9C%A1%EC%97%B0%EA%B5%AC%EC%9B%90-%EC%97%B0%EA%B5%AC%EC%84%B1%EA%B3%BC-%EB%94%94%EC%A7%80%ED%84%B8-%EA%B5%90%EC%9C%A1%EA%B2%A9%EC%B0%A8-%ED%95%B4%EC%86%8C%EC%9D%98-%EC%8B%A4%EC%B2%9C-%EB%8C%80%EC%95%88%EC%9C%BC%EB%A1%9C-%EC%97%B0%EA%B2%B0%ED%95%B4%EC%95%BC/ar-AA2dDjkM",
+      "source": "서울신문 on MSN",
       "kind": "domestic",
-      "publishedAt": "2026-10-02T02:07:58.000Z",
-      "description": "[교육타파] 교육부 '학부모 참여 활성화' 정책제안 공모에 교사 반발 댓글 잇따라 edujb.com",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 87,
-      "score": 72
+      "publishedAt": "2026-10-05T18:46:08.000Z",
+      "description": "경기도의회 교육기획위원회 김영훈 의원(더불어민주당, 시흥3)은 경기도교육연구원에서 받은 2023~2025년 정책 반영 실적과 지역별 분석, 종단연구, 연구협력관 운영 등 8건의 자료를 정밀 분석한 뒤, 그간 축적된 연구 성과를 학생들의 디지털 역량 강화와 지역·계층 ...",
+      "category": "AI·디지털",
+      "feedProvider": "bing",
+      "policyRelevance": 40,
+      "score": 71
     },
     {
       "id": "22f6c80d7ea4",
@@ -463,6 +450,19 @@
       "score": 68
     },
     {
+      "id": "8c3565e7c8d5",
+      "title": "아이들의 행복한 성장을 잇다…인천교육청, 이음교육 정책협의회 개최 > 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43Wnd1al9LVWlUVFJMelJRaU42Z256aFpuSGlfdVR2dnY2eUlidWV4bnRYWGpua01FOUtVcF9wdjlpMlJDUkpqM1o1N183U1Y3ZjNHUzVMY3lIQUo5M2h1RVU4UnhDT0xPd1VWX0JpckM?oc=5",
+      "source": "더코리아",
+      "kind": "domestic",
+      "publishedAt": "2026-10-03T01:53:00.000Z",
+      "description": "아이들의 행복한 성장을 잇다…인천교육청, 이음교육 정책협의회 개최 > 뉴스 더코리아",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 77,
+      "score": 68
+    },
+    {
       "id": "0d7670b7d64d",
       "title": "충남교육청, 온라인 교권 침해 사안 관리 카드 현장 모니터링단 위촉식 및 1차 협의회 개최",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92UkJwZlk2b2NIaTBjZG1KaGdtZHI5bmFYeWRkbWphOWpDR0pyc1AtZGd1c2RuNnp2UnFZOGhTVFBod2dZNjB0QlZ4Y2lRaFc1M1d5dWRyMEZKaHkx?oc=5",
@@ -484,19 +484,6 @@
       "publishedAt": "2026-10-02T06:51:44.000Z",
       "description": "인천광역시교육청, 이음교육 시·도 담당자 정책협의회 성료 엔디엔뉴스",
       "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 77,
-      "score": 68
-    },
-    {
-      "id": "ed21b820cd2c",
-      "title": "인천시교육청, 전국 이음교육 담당자 정책협의회...5세 유아 초등 전환 지원 논의",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56UkFjRnI4cnotZUUzQm5oQWdua2hnSzJ3bkczdG1IT3JoVXRMMVVyNWZldWphWC05VFZqSmdlbWFTVWx4Q3UybkN0eFdDSG5UZ1VLaXMwQ1Q3SWY2Q19kU2RZOUd5OGVD?oc=5",
-      "source": "kmaeil.com",
-      "kind": "domestic",
-      "publishedAt": "2026-10-02T02:10:44.000Z",
-      "description": "인천시교육청, 전국 이음교육 담당자 정책협의회...5세 유아 초등 전환 지원 논의 kmaeil.com",
-      "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 77,
       "score": 68
@@ -580,13 +567,13 @@
       "score": 66
     },
     {
-      "id": "f7d895dde5c2",
+      "id": "9af9b8a682f3",
       "title": "대전교육공동체 ‘2026 교육정책 아이디어’ 온라인 공모…오석진 교육감 “작은 의견이 큰 변화로”",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mV2lQNnJ2V0tiblR1bEFwQm5uaEFpS29pN2hKaHFjbnJXRWJ2cEVxQnpubXFNV2ttSlFBeXJna0JwMWoyUmpGYUJzR05uQkdoLURaX0lpZXFfanR4b2RKbVE2Vk42THU3LTUweXNKTU1jU0HSAXNBVV95cUxPZldpUDZydldLYm5UdWxBcEJubmhBaUtvaTdoSmhxY25yV0VidnBFcUJ6bm1xTVdrbUpRQXlyZ2tCcDFqMlJqRmFCc0dObkJHaC1EWl9JaWVxX2p0eG9kSm1RNlZONkx1Ny01MHlzSk1NY1NB?oc=5",
-      "source": "대전투데이",
+      "source": "daejeontoday.com",
       "kind": "domestic",
       "publishedAt": "2026-10-02T10:53:52.000Z",
-      "description": "대전교육공동체 ‘2026 교육정책 아이디어’ 온라인 공모…오석진 교육감 “작은 의견이 큰 변화로” 대전투데이",
+      "description": "대전교육공동체 ‘2026 교육정책 아이디어’ 온라인 공모…오석진 교육감 “작은 의견이 큰 변화로” daejeontoday.com",
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 65,
@@ -690,13 +677,13 @@
       "score": 51
     },
     {
-      "id": "fd29f9438805",
+      "id": "356506a5d70f",
       "title": "한국장총, ‘장애학생 진로탐색 안내서’ 장애인정책리포트 발간",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fOENPYWlfdHVTSC14NlpJSDJBc1BORXNfRTVybWo3dGdoVWJNYThqT1NrYmhQZ2RuZEZoTUhmXzItNXpQLUR3RDN4dzRrdWxDTmZ5aVZBeWpRazN1QUhkek5CZ0toUUpXOV9wYkVn0gFyQVVfeXFMTXQzMFV6dDdSQ2E1RVo5blZONndraEktY3hGbXBEbzNHWGo0cVFZdV9WQkcwNmlUN3pGMmlybjgzanRLaHE2NGt0bnN2RGtscy1fZllLSDJtZG9wQ0FlWHo2aTJoYXl5LTdRblNlTnowdzFn?oc=5",
-      "source": "ablenews.co.kr",
+      "source": "에이블뉴스",
       "kind": "domestic",
       "publishedAt": "2026-10-02T08:35:00.000Z",
-      "description": "한국장총, ‘장애학생 진로탐색 안내서’ 장애인정책리포트 발간 ablenews.co.kr",
+      "description": "한국장총, ‘장애학생 진로탐색 안내서’ 장애인정책리포트 발간 에이블뉴스",
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -715,6 +702,34 @@
       "originalTitle": "Inside South Korea’s push to bring IB into mainstream schools",
       "titleKo": "IB를 주류 학교로 끌어들이려는 한국의 노력",
       "summaryKo": "윌슨 샹 (Wilson Shang) 은 한국이 국제 교육과정을 주류 국가 교육에 포함시키는 세계에서 가장 저명한 시험대 중 하나로 부상한 방법을 탐구합니다."
+    },
+    {
+      "id": "66494022e80f",
+      "title": "People before plants: South Korea trains its chipmakers first",
+      "url": "https://www.upi.com/Voices/2026/10/01/perspective-technical-high-schools/6111790879175/",
+      "source": "UPI",
+      "kind": "foreign",
+      "publishedAt": "2026-10-01T08:54:00.000Z",
+      "description": "Before a semiconductor fabrication plant rises, the government will train technicians through a hands-on program that recruits those in high school, ...",
+      "category": "AI·디지털",
+      "score": 30,
+      "originalTitle": "People before plants: South Korea trains its chipmakers first",
+      "titleKo": "공장 이전의 인력: 한국은 칩 제조사를 먼저 훈련시킵니다.",
+      "summaryKo": "반도체 제작 공장이 들어서기 전에 정부는 고등학교에서 기술자를 모집하는 실습 프로그램을 통해 기술자를 양성할 것입니다."
+    },
+    {
+      "id": "39a1f13bbbc9",
+      "title": "South Korea's first national medical graduate school in Namwon",
+      "url": "https://www.msn.com/en-xl/news/other/south-korea-s-first-national-medical-graduate-school-in-namwon/ar-AA2dlk3e",
+      "source": "The Chosun Ilbo on MSN",
+      "kind": "foreign",
+      "publishedAt": "2026-10-01T07:22:25.000Z",
+      "description": "The location of the National Medical Graduate School (National Medical Specialized Graduate School), a state-run institution for training public healthcare physicians, has been finalized as Namwon ...",
+      "category": "유·초중등",
+      "score": 30,
+      "originalTitle": "South Korea's first national medical graduate school in Namwon",
+      "titleKo": "남원에 있는 대한민국 최초의 국립 의과대학원",
+      "summaryKo": "공공의료의사 양성을 위한 국책기관인 국립의료대학원 (국립의료전문대학원) 의 소재지가 남원시로 최종 확정되었습니다..."
     },
     {
       "id": "ef9964cecfef",
@@ -780,7 +795,7 @@
     "throughDate": "2026-10-06",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-10-04T15:00:00.000Z",
-    "windowEnd": "2026-10-06T01:49:26.815Z",
+    "windowEnd": "2026-10-06T02:21:36.600Z",
     "itemIds": [
       "8d4f13e4b57d",
       "fc4a964d366a",
@@ -796,17 +811,18 @@
       "f86811468fdf",
       "66d5e9c57c14",
       "9a286dcfd3fe",
+      "606bb7562f32",
       "f904bd5cdae3",
       "98623cd333c9"
     ],
     "stats": {
-      "total": 16,
+      "total": 17,
       "official": 1,
-      "domestic": 14,
+      "domestic": 15,
       "foreign": 1
     },
     "headline": "오늘 아침 교육뉴스는 AI·디지털·입시·사교육·교원·조직 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 16건이 확인됐습니다. 교육부는 데이터로 읽는 우리 교육 제15호 발간 등을 공식 발표했습니다. 국내 언론에서는 [단독] '논서술형 수능', 중장기 국가교육발전계획 시안서 빠진다와 경북교육청, AI 시대 이끌 2027년 조직개편 추진 등이 주요하게 다뤄졌습니다. 해외에서는 IB를 주류 학교로 끌어들이려는 한국의 노력 관련 보도가 확인됐습니다. 전체적으로는 AI·디지털·입시·사교육·교원·조직 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 17건이 확인됐습니다. 교육부는 데이터로 읽는 우리 교육 제15호 발간 등을 공식 발표했습니다. 국내 언론에서는 [단독] '논서술형 수능', 중장기 국가교육발전계획 시안서 빠진다와 경북교육청, AI 시대 이끌 2027년 조직개편 추진 등이 주요하게 다뤄졌습니다. 해외에서는 IB를 주류 학교로 끌어들이려는 한국의 노력 관련 보도가 확인됐습니다. 전체적으로는 AI·디지털·입시·사교육·교원·조직 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "AI·디지털",
