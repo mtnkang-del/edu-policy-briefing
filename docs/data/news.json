@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-09T01:19:00.704Z",
-  "generatedAtKST": "2026-10-09T10:18:57.954+09:00",
+  "generatedAt": "2026-10-09T02:19:36.870Z",
+  "generatedAtKST": "2026-10-09T11:19:34.445+09:00",
   "date": "2026-10-09",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 27,
+    "domesticBing": 28,
     "domesticGoogle": 156,
     "foreignBing": 10,
-    "foreignGoogle": 195,
-    "carried": 85,
-    "rawUnique": 369,
-    "policyRejected": 272,
+    "foreignGoogle": 191,
+    "carried": 158,
+    "rawUnique": 365,
+    "policyRejected": 265,
     "policyKept": 80
   },
   "briefing": [
@@ -209,6 +209,19 @@
       "score": 94
     },
     {
+      "id": "d433732a525e",
+      "title": "교육교부금 개편 논쟁…\"연동제 유지\" vs \"재정 효율화\"",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B5%90%EC%9C%A1%EA%B5%90%EB%B6%80%EA%B8%88-%EA%B0%9C%ED%8E%B8-%EB%85%BC%EC%9F%81-%EC%97%B0%EB%8F%99%EC%A0%9C-%EC%9C%A0%EC%A7%80-vs-%EC%9E%AC%EC%A0%95-%ED%9A%A8%EC%9C%A8%ED%99%94/ar-AA2dOH6Z",
+      "source": "이데일리 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-10-08T01:32:24.000Z",
+      "description": "[세종=이데일리 하상렬 기자] 기획예산처 국정감사에서 미래대응기금 신설과 연계된 ‘지방교육재정교부금(교육교부금)’ 개편 방향을 두고 뚜렷한 시각차가 드러났다. 교육계는 현장 소통 부족과 예산 축소 우려를 표명하며 반대 목소리를 냈지만, 여당과 정부는 교육재정의 비효율을 지적하며 제도 개선이 시급하다고 맞섰다. [이데일리 노진환 기자] 박홍근 기획예산처 장관 ...",
+      "category": "재정·법령",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
+      "score": 90
+    },
+    {
       "id": "5262ce61bb69",
       "title": "AI 안경 쓰고 수능 부정행위하면 2년 응시 금지... 교육부 적발 매뉴얼 만든다",
       "url": "https://www.msn.com/ko-kr/news/other/ai-%EC%95%88%EA%B2%BD-%EC%93%B0%EA%B3%A0-%EC%88%98%EB%8A%A5-%EB%B6%80%EC%A0%95%ED%96%89%EC%9C%84%ED%95%98%EB%A9%B4-2%EB%85%84-%EC%9D%91%EC%8B%9C-%EA%B8%88%EC%A7%80-%EA%B5%90%EC%9C%A1%EB%B6%80-%EC%A0%81%EB%B0%9C-%EB%A7%A4%EB%89%B4%EC%96%BC-%EB%A7%8C%EB%93%A0%EB%8B%A4/ar-AA2dMWbE",
@@ -397,6 +410,19 @@
       "feedProvider": "bing",
       "policyRelevance": 65,
       "score": 84
+    },
+    {
+      "id": "bf5f01a7bfd2",
+      "title": "정덕영 시장, 교육부 장관 만나 “특수학교 설립·교육재정 지원해 달라”",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMjFjVk1OV3IzQUYwd2pFVVhQRndiaDg2YjJsT0VBdGlsMVVpT19jZ0VZbWlhME9mX0JyS2EwVmhJMGoyS3gwUHNVOUkySVZkV2xOZDNVRkE1V3BsYi1YNUpnZFU4V3Y2UG5aZXM4WFBrUVV1bDkzRldnQXhKd0FVbGRn?oc=5",
+      "source": "아시아경제",
+      "kind": "domestic",
+      "publishedAt": "2026-10-08T12:43:00.000Z",
+      "description": "정덕영 시장, 교육부 장관 만나 “특수학교 설립·교육재정 지원해 달라” 아시아경제",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 82
     },
     {
       "id": "becf719d5581",
@@ -620,6 +646,19 @@
       "score": 81
     },
     {
+      "id": "a0b6746c36c9",
+      "title": "안민석 “국가 교육투자 줄이는 '지방교육재정교부금 개편' 단호히 반대”",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%95%88%EB%AF%BC%EC%84%9D-%EA%B5%AD%EA%B0%80-%EA%B5%90%EC%9C%A1%ED%88%AC%EC%9E%90-%EC%A4%84%EC%9D%B4%EB%8A%94-%EC%A7%80%EB%B0%A9%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95%EA%B5%90%EB%B6%80%EA%B8%88-%EA%B0%9C%ED%8E%B8-%EB%8B%A8%ED%98%B8%ED%9E%88-%EB%B0%98%EB%8C%80/ar-AA2dJx9U",
+      "source": "쿠키뉴스 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-10-06T22:54:22.000Z",
+      "description": "안민석 경기도교육감이 경기도 유·초·중등 교육을 책임지는 교육감으로서 국가의 교육 투자를 줄이는 지방교육재정교부금 개편에 대해 단호한 반대 입장을 공식 표명했다. 안 교육감은 취임 100일을 맞아 7일 청사에서 개최한 기자회견에서 이같이 밝히며 ‘지방교육재정교부금 개편으로 인한 교육 재정의 불안’을 경기도청이 당면한 가장 심각한 문제로 꼽았다. 안 교육감은 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 65,
+      "score": 80
+    },
+    {
       "id": "ea27c3f78dd2",
       "title": "AI 교육·역기능 예방 한 부서로…경북교육청, 2027년 조직개편 예고",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zUFRNbXlpdDNjNU5EeW1BX3VhZFljMkRoVGhqUm5PaHlDLVN3Q0hYazBMTzVVRng3dWxMZEMxal81VTZmd2NPejZRSUt2dkZYSEhwMlh1NEdhbF9qbGphWnF3UkVoUQ?oc=5",
@@ -644,19 +683,6 @@
       "feedProvider": "bing",
       "policyRelevance": 57,
       "score": 79
-    },
-    {
-      "id": "3c05b47f49dc",
-      "title": "대전시교육청 오석진 교육감, 취임 100일 새로운 대전교육 비전 발표",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tdHEzQmJZR1ktRGV2Zk45YjRoLVUwZGx0MFVhbmE4TFF5dnBENVluUGs2a0p6NHlNR016YXRsa040cnlTM2VRZkcteHdtMVFNT3hySjJidnFHR2N3RzdJ?oc=5",
-      "source": "미래세종일보",
-      "kind": "domestic",
-      "publishedAt": "2026-10-08T02:08:02.000Z",
-      "description": "대전시교육청 오석진 교육감, 취임 100일 새로운 대전교육 비전 발표 미래세종일보",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 47,
-      "score": 78
     },
     {
       "id": "c2bc87779101",
@@ -971,6 +997,19 @@
       "score": 71
     },
     {
+      "id": "3c05b47f49dc",
+      "title": "대전시교육청 오석진 교육감, 취임 100일 새로운 대전교육 비전 발표",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tdHEzQmJZR1ktRGV2Zk45YjRoLVUwZGx0MFVhbmE4TFF5dnBENVluUGs2a0p6NHlNR016YXRsa040cnlTM2VRZkcteHdtMVFNT3hySjJidnFHR2N3RzdJ?oc=5",
+      "source": "미래세종일보",
+      "kind": "domestic",
+      "publishedAt": "2026-10-08T02:08:02.000Z",
+      "description": "대전시교육청 오석진 교육감, 취임 100일 새로운 대전교육 비전 발표 미래세종일보",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 47,
+      "score": 68
+    },
+    {
       "id": "b00157954796",
       "title": "최교진 교육부 장관, 태국 교육장관과 AI·디지털 교육 협력 확대 논의",
       "url": "https://www.newspim.com/news/view/20261007001195",
@@ -1021,45 +1060,6 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 66
-    },
-    {
-      "id": "050c48a80213",
-      "title": "고교 교사 10명 중 7명 “수능 서·논술형 반대”",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaTXlTUm9GV0xxSWg4WEFVSVBsUXp5NHhGY05yRHhvMl8zU0Yyd3I4XzRlanhEMUpCZmp6c3RoMHpuTnhrRVlOZE1HVEpfSDZBajRpNm1rOE9EWmtjUktORFJ6ZlE1R1NUcF8yOTBBeTTSAXBBVV95cUxQWk15U1JvRldMcUloOFhBVUlQbFF6eTR4RmNOckR4bzJfM1NGMndyOF80ZWp4RDFKQmZqenN0aDB6bk54a0VZTmRNR1RKX0g2QWo0aTZtazhPRFprY1JLTkRSemZRNUdTVHBfMjkwQXk0?oc=5",
-      "source": "충북인뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-10-07T06:53:43.000Z",
-      "description": "고교 교사 10명 중 7명 “수능 서·논술형 반대” 충북인뉴스",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 65
-    },
-    {
-      "id": "7a6bd68eb9b4",
-      "title": "“AI교육, 공교육이 맡는다”···안민석, 사교육비 절감 목표 제시",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00S0s2ZTFpbFFjclBjNElvSWZSZDVDSHJLdjh6U0d3c2taZUE3eXc5Mm8ySWNPWUZDNE5oWm9QaXB2VXJQS2JRMW1SWG5fTjFnaUc1OUF0NWhxZjBLbC1mNXdKSldha1ZsWExuWg?oc=5",
-      "source": "스마트비즈",
-      "kind": "domestic",
-      "publishedAt": "2026-10-07T06:32:37.000Z",
-      "description": "“AI교육, 공교육이 맡는다”···안민석, 사교육비 절감 목표 제시 스마트비즈",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 65
-    },
-    {
-      "id": "d01ec0a295d0",
-      "title": "[이로운체크] 지방 국립대 등록금 전액 지원부터 돌봄·AI까지...최교진, 교육위 국감서 정책 방향 제시",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXNlV1S3B4Ym5BNnZVOHBiNldiTWNaUDVyX0Nod1JIalVLSmx3TVBPbUpJUTZwY0stMXhEQlRpcVZUZUZpTGNoVlhLU0VuOWxiNmZvcVVpX096dGt0VktSeG5yMHdvUQ?oc=5",
-      "source": "이로운넷",
-      "kind": "domestic",
-      "publishedAt": "2026-10-07T02:34:12.000Z",
-      "description": "[이로운체크] 지방 국립대 등록금 전액 지원부터 돌봄·AI까지...최교진, 교육위 국감서 정책 방향 제시 이로운넷",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 65
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -1069,18 +1069,19 @@
     "throughDate": "2026-10-09",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-10-07T15:00:00.000Z",
-    "windowEnd": "2026-10-09T01:19:00.704Z",
+    "windowEnd": "2026-10-09T02:19:36.870Z",
     "itemIds": [
       "00d6c5ea0ea8",
       "b7cc1476e02e",
       "15b7d001e96c",
       "96162b57e086",
+      "d433732a525e",
       "5262ce61bb69",
       "8dae263c46ba",
       "061b5b75c6fb",
+      "bf5f01a7bfd2",
       "becf719d5581",
       "2a53cf53ab2b",
-      "3c05b47f49dc",
       "d9229806af37",
       "0355804ec446",
       "6d29fd19c899",
@@ -1088,16 +1089,17 @@
       "ad53912587f4",
       "2230482bec72",
       "c6cfffe41fa6",
+      "3c05b47f49dc",
       "fc26fbd938d7"
     ],
     "stats": {
-      "total": 18,
+      "total": 20,
       "official": 0,
-      "domestic": 18,
+      "domestic": 20,
       "foreign": 0
     },
     "headline": "오늘 아침 교육뉴스는 입시·사교육·AI·디지털·교원·조직 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 18건이 확인됐습니다. 국내 언론에서는 커지는 반대 목소리… 국교위, 3시 하교제 이어 서·논술형 수능 ‘난항’와 교원 3단체 “고교학점제 혼란 그대로인데 대입·서논술형 확대”…국교위·교육부에 3대 요구 등이 주요하게 다뤄졌습니다. 전체적으로는 입시·사교육·AI·디지털·교원·조직 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 20건이 확인됐습니다. 국내 언론에서는 커지는 반대 목소리… 국교위, 3시 하교제 이어 서·논술형 수능 ‘난항’와 교원 3단체 “고교학점제 혼란 그대로인데 대입·서논술형 확대”…국교위·교육부에 3대 요구 등이 주요하게 다뤄졌습니다. 전체적으로는 입시·사교육·AI·디지털·교원·조직 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "입시·사교육",
@@ -1129,11 +1131,12 @@
         ]
       },
       {
-        "title": "고등교육",
-        "summary": "한-이집트, 고등교육 협력 양해각서 개정…AI교육 협력 강화",
-        "why": "대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다.",
+        "title": "재정·법령",
+        "summary": "교육교부금 개편 논쟁…\"연동제 유지\" vs \"재정 효율화\" · \"아이들 배움의 기회 넓혀야\" 정덕영 양주시장, 교육부에 재정·정책 지원 건의",
+        "why": "예산·법령 변화는 정책 집행의 직접 근거가 되므로 세부 기준과 시행 일정 확인이 중요합니다.",
         "sources": [
-          "연합뉴스"
+          "이데일리 on MSN",
+          "위키트리"
         ]
       }
     ],

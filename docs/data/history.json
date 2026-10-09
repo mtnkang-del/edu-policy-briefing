@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T01:19:14.498Z",
+  "generatedAt": "2026-10-09T02:19:51.837Z",
   "retentionDays": 30,
   "days": [
     "2026-10-09",
@@ -59,6 +59,20 @@
       "feedProvider": "google",
       "policyRelevance": 87,
       "score": 100,
+      "snapshotDate": "2026-10-09"
+    },
+    {
+      "id": "bf5f01a7bfd2",
+      "title": "정덕영 시장, 교육부 장관 만나 “특수학교 설립·교육재정 지원해 달라”",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMjFjVk1OV3IzQUYwd2pFVVhQRndiaDg2YjJsT0VBdGlsMVVpT19jZ0VZbWlhME9mX0JyS2EwVmhJMGoyS3gwUHNVOUkySVZkV2xOZDNVRkE1V3BsYi1YNUpnZFU4V3Y2UG5aZXM4WFBrUVV1bDkzRldnQXhKd0FVbGRn?oc=5",
+      "source": "아시아경제",
+      "kind": "domestic",
+      "publishedAt": "2026-10-08T12:43:00.000Z",
+      "description": "정덕영 시장, 교육부 장관 만나 “특수학교 설립·교육재정 지원해 달라” 아시아경제",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 82,
       "snapshotDate": "2026-10-09"
     },
     {
@@ -184,7 +198,21 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 47,
-      "score": 78,
+      "score": 68,
+      "snapshotDate": "2026-10-09"
+    },
+    {
+      "id": "d433732a525e",
+      "title": "교육교부금 개편 논쟁…\"연동제 유지\" vs \"재정 효율화\"",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B5%90%EC%9C%A1%EA%B5%90%EB%B6%80%EA%B8%88-%EA%B0%9C%ED%8E%B8-%EB%85%BC%EC%9F%81-%EC%97%B0%EB%8F%99%EC%A0%9C-%EC%9C%A0%EC%A7%80-vs-%EC%9E%AC%EC%A0%95-%ED%9A%A8%EC%9C%A8%ED%99%94/ar-AA2dOH6Z",
+      "source": "이데일리 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-10-08T01:32:24.000Z",
+      "description": "[세종=이데일리 하상렬 기자] 기획예산처 국정감사에서 미래대응기금 신설과 연계된 ‘지방교육재정교부금(교육교부금)’ 개편 방향을 두고 뚜렷한 시각차가 드러났다. 교육계는 현장 소통 부족과 예산 축소 우려를 표명하며 반대 목소리를 냈지만, 여당과 정부는 교육재정의 비효율을 지적하며 제도 개선이 시급하다고 맞섰다. [이데일리 노진환 기자] 박홍근 기획예산처 장관 ...",
+      "category": "재정·법령",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
+      "score": 90,
       "snapshotDate": "2026-10-09"
     },
     {
@@ -604,8 +632,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 65,
-      "snapshotDate": "2026-10-09"
+      "score": 75,
+      "snapshotDate": "2026-10-08"
     },
     {
       "id": "c9a53f3c563e",
@@ -674,8 +702,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 65,
-      "snapshotDate": "2026-10-09"
+      "score": 75,
+      "snapshotDate": "2026-10-08"
     },
     {
       "id": "0018c5fb7b1a",
@@ -786,8 +814,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 65,
-      "snapshotDate": "2026-10-09"
+      "score": 75,
+      "snapshotDate": "2026-10-08"
     },
     {
       "id": "621d2eba9aa0",
@@ -1068,6 +1096,20 @@
       "policyRelevance": 40,
       "score": 65,
       "snapshotDate": "2026-10-08"
+    },
+    {
+      "id": "a0b6746c36c9",
+      "title": "안민석 “국가 교육투자 줄이는 '지방교육재정교부금 개편' 단호히 반대”",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%95%88%EB%AF%BC%EC%84%9D-%EA%B5%AD%EA%B0%80-%EA%B5%90%EC%9C%A1%ED%88%AC%EC%9E%90-%EC%A4%84%EC%9D%B4%EB%8A%94-%EC%A7%80%EB%B0%A9%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95%EA%B5%90%EB%B6%80%EA%B8%88-%EA%B0%9C%ED%8E%B8-%EB%8B%A8%ED%98%B8%ED%9E%88-%EB%B0%98%EB%8C%80/ar-AA2dJx9U",
+      "source": "쿠키뉴스 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-10-06T22:54:22.000Z",
+      "description": "안민석 경기도교육감이 경기도 유·초·중등 교육을 책임지는 교육감으로서 국가의 교육 투자를 줄이는 지방교육재정교부금 개편에 대해 단호한 반대 입장을 공식 표명했다. 안 교육감은 취임 100일을 맞아 7일 청사에서 개최한 기자회견에서 이같이 밝히며 ‘지방교육재정교부금 개편으로 인한 교육 재정의 불안’을 경기도청이 당면한 가장 심각한 문제로 꼽았다. 안 교육감은 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 65,
+      "score": 80,
+      "snapshotDate": "2026-10-09"
     },
     {
       "id": "0379829398c3",
@@ -8412,47 +8454,6 @@
       "policyRelevance": 100,
       "score": 95,
       "snapshotDate": "2026-09-18"
-    },
-    {
-      "id": "c3b7c5922adf",
-      "title": "폐교를 지역의 활력 거점으로, 교육부-행안부 폐교 활용 지원사업 7건 선정",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107204&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-09-14T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "지역·평생교육",
-      "policyRelevance": 100,
-      "score": 105,
-      "snapshotDate": "2026-09-17"
-    },
-    {
-      "id": "c36fe6bb9094",
-      "title": "[이재희 칼럼] 서·논술형 평가에 대한 반대와 우려를 반드시 극복해야",
-      "url": "https://www.msn.com/ko-kr/%EC%9D%BC%EB%B0%98/%EC%9D%BC%EB%B0%98/%EC%9D%B4%EC%9E%AC%ED%9D%AC-%EC%B9%BC%EB%9F%BC-%EC%84%9C-%EB%85%BC%EC%88%A0%ED%98%95-%ED%8F%89%EA%B0%80%EC%97%90-%EB%8C%80%ED%95%9C-%EB%B0%98%EB%8C%80%EC%99%80-%EC%9A%B0%EB%A0%A4%EB%A5%BC-%EB%B0%98%EB%93%9C%EC%8B%9C-%EA%B7%B9%EB%B3%B5%ED%95%B4%EC%95%BC/ar-AA2c9ea6",
-      "source": "아주경제 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-09-13T23:00:00.000Z",
-      "description": "2023년 12월 말 국가교육위원회(국교위)가 ‘2028 대학입시제도 개편안’을 최종 의결했고, 교육부는 이를 반영하여 2028 대학입시제도를 확정 발표했다. 이 개편된 대입제도의 핵심 내용은 수능 심화수학 제외와 내신 5등급제이다. 그리고 지난 ...",
-      "category": "입시·사교육",
-      "feedProvider": "bing",
-      "policyRelevance": 87,
-      "score": 88,
-      "snapshotDate": "2026-09-18"
-    },
-    {
-      "id": "d3f73f56af64",
-      "title": "[칼럼] 정부, 사립대 홀대…‘대학도 의무 교육하자’",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPcGxxeDFYRGllVklKMGo4cDB5QXZ0VmpmdVQzNlpaX2lrNzllVGN0bHVUd1ZmUUhQUklDeHZWa1VfckNoa2FEa2RhQTUta1FWbVhJMG8wOEpOSFlHcC05V1ZYdG53TjZoMHA5b3E2UUw?oc=5",
-      "source": "코리아리포트",
-      "kind": "domestic",
-      "publishedAt": "2026-09-13T21:47:13.000Z",
-      "description": "[칼럼] 정부, 사립대 홀대…‘대학도 의무 교육하자’ 코리아리포트",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 63,
-      "snapshotDate": "2026-09-16"
     }
   ]
 }
