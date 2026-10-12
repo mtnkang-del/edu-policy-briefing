@@ -1,7 +1,8 @@
 {
-  "generatedAt": "2026-10-11T00:19:16.889Z",
+  "generatedAt": "2026-10-12T00:40:56.138Z",
   "retentionDays": 30,
   "days": [
+    "2026-10-12",
     "2026-10-11",
     "2026-10-10",
     "2026-10-09",
@@ -29,10 +30,93 @@
     "2026-09-16",
     "2026-09-15",
     "2026-09-14",
-    "2026-09-13",
-    "2026-09-12"
+    "2026-09-13"
   ],
   "items": [
+    {
+      "id": "959ac1ac3016",
+      "title": "임종식 경북교육감 취임 100일 들여다 봤더니…학교 부담 줄이고 학생 성장에 집중",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBlZl9kSjZOamtDQXloLXozU0NMX2lMQ09nU0laZVQzYkxlNTZPb1ZsSXpnY1RBMDl3UkNfRC1KcFR6ZDNHUlNpVjNtZnM?oc=5",
+      "source": "아이뉴스24",
+      "kind": "domestic",
+      "publishedAt": "2026-10-12T00:22:44.000Z",
+      "description": "임종식 경북교육감 취임 100일 들여다 봤더니…학교 부담 줄이고 학생 성장에 집중 아이뉴스24",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 73,
+      "snapshotDate": "2026-10-12"
+    },
+    {
+      "id": "84333eb1312f",
+      "title": "‘불신의 제도화’, 멈추지 않는 대학 줄 세우기",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pdkF2WXpiaUpNLWo2aG1pTFQ0WnlONENOUzY3YnVrUnAxaEdReE1hUTh0OUl3NmZhV19pSVBvck1zY1BZY0Y1U1ZlSzlzWmF3Y3B4a0E0VXY5M0JiY3Fkbk1VaklUc2c?oc=5",
+      "source": "교수신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-11T22:32:02.000Z",
+      "description": "‘불신의 제도화’, 멈추지 않는 대학 줄 세우기 교수신문",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 71,
+      "snapshotDate": "2026-10-12"
+    },
+    {
+      "id": "b2576cf1f906",
+      "title": "세계의 대입은 어디로 가나④·[수능 30년, 우리는 무엇을 평가해왔나]",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHVGZiWkd1TGZpQ3NLWUhNdl9PNUcyRDVZNkd3VGFUX3VFb3p5NmF6R1hJeUFCc3RFdlJvR2MzakhCQjNYTmtndW1fSkJMd1VOVFdXSjZCaFNweEtSNWNwa05qVUZJUQ?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-11T20:55:00.000Z",
+      "description": "세계의 대입은 어디로 가나④·[수능 30년, 우리는 무엇을 평가해왔나] 한국대학신문",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 79,
+      "snapshotDate": "2026-10-12"
+    },
+    {
+      "id": "47c633b9d3c7",
+      "title": "[국감 이슈분석 ③·完 고등교육정책] 지역대학 지원 실효성 쟁점",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92eXV5N2xhdXpIRlZSZTFuamZXdUxjVlZ2UVZEempXR1g4MGpSTkJOb1dQQks1NFdxbUd6TVd4VkxFR0NRQUlwcWp6TFp2NWxWNGxKUFk5QTFXWm9nOC1z?oc=5",
+      "source": "한국교육신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-11T12:23:04.000Z",
+      "description": "[국감 이슈분석 ③·完 고등교육정책] 지역대학 지원 실효성 쟁점 한국교육신문",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 71,
+      "snapshotDate": "2026-10-12"
+    },
+    {
+      "id": "1aa9ac8f2b8b",
+      "title": "임종식 경북교육감, 취임 100일 밪아 미래 경북교육 청사진 발표",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wV0pvQl82RDF1aHNYc2doMTY2NzFvWDdzMDRzMWR4UTJ5LU82aUV2N3l0V09HSlh4bkVLUEVrZkE2YkNCdHdvU1NvVmJ1Z0pZa3R2VkF4UHZwWGo3S3dxem1sZE5wRE83aTNBTmNB?oc=5",
+      "source": "국제뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-10-11T10:18:39.000Z",
+      "description": "임종식 경북교육감, 취임 100일 밪아 미래 경북교육 청사진 발표 국제뉴스",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 47,
+      "score": 78,
+      "snapshotDate": "2026-10-12"
+    },
+    {
+      "id": "0aec28a71016",
+      "title": "임종식 경북교육감 취임 100일…AI 교육 대전환 본격 추진",
+      "url": "https://www.joongdo.co.kr/web/view.php?key=20261011010002315",
+      "source": "중도일보",
+      "kind": "domestic",
+      "publishedAt": "2026-10-11T01:36:00.000Z",
+      "description": "임종식 경북교육감(사진)이 8일 3기 취임 100일을 맞았다. 임 교육감은 정책사업 감축과 인공지능(AI) 교육 혁신, 학교 간 교육격차 완화 등을 중심으로 경북교육의 중장기 전환을 추진해 왔다. 경북교육청은 2030년까지의 교육 방향을 담은 '경북교육 2030 대전환 계획'을 수립하고 이를 조직과 예산에 반영하는 작업을 진행 중이다. 학교의 행정 부담을 ...",
+      "category": "AI·디지털",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
+      "score": 96,
+      "snapshotDate": "2026-10-12"
+    },
     {
       "id": "9c0d65ff7849",
       "title": "강삼영 강원교육감 취임 100일, ‘공교육 책임 학력 체계’로 강원교육 대수술 선언",
@@ -44,8 +128,8 @@
       "category": "교원·조직",
       "feedProvider": "bing",
       "policyRelevance": 87,
-      "score": 100,
-      "snapshotDate": "2026-10-11"
+      "score": 90,
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "64b2fb4fe802",
@@ -58,8 +142,8 @@
       "category": "고등교육",
       "feedProvider": "bing",
       "policyRelevance": 75,
-      "score": 87,
-      "snapshotDate": "2026-10-11"
+      "score": 77,
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "536970be9d0a",
@@ -72,8 +156,8 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 73,
-      "snapshotDate": "2026-10-11"
+      "score": 63,
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "ef10c7d1ec47",
@@ -86,8 +170,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 71,
-      "snapshotDate": "2026-10-11"
+      "score": 61,
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "a456d3c76dd3",
@@ -100,8 +184,22 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 71,
-      "snapshotDate": "2026-10-11"
+      "score": 61,
+      "snapshotDate": "2026-10-12"
+    },
+    {
+      "id": "308510254489",
+      "title": "[교육타파] 천호성표 조직개편 입법예고…3개 국 분장사무 조정, '도전교육' 신설·교원노조 업무는 행정국으로",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6WEV0a1k0dS03d3pVY1I5YkJkc2Y1dm1OMHhBdS1vQk9TXzFmcEZibzdIeGREaWVtNjh3MFZtNXhMaW9JajFyRUdONWhHWjNuS0lfcmRPZzNLNy1JTm9Z?oc=5",
+      "source": "전북미래교육신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-10T00:49:05.000Z",
+      "description": "[교육타파] 천호성표 조직개편 입법예고…3개 국 분장사무 조정, '도전교육' 신설·교원노조 업무는 행정국으로 전북미래교육신문",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 69,
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "dd26b596ba80",
@@ -115,7 +213,7 @@
       "feedProvider": "google",
       "policyRelevance": 75,
       "score": 77,
-      "snapshotDate": "2026-10-11"
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "e620b4b55beb",
@@ -129,7 +227,21 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 63,
-      "snapshotDate": "2026-10-11"
+      "snapshotDate": "2026-10-12"
+    },
+    {
+      "id": "0f38359a8a51",
+      "title": "교원 3단체, 교육활동보장법 개정 촉구 전국 교원 집회 [뉴시스Pic]",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xUnVxZEp5ajZYcERWRFNzWDhxeDNCN2VXQTB2S1pSM2pxUnRoeE8zSWswbEhPVmdvcXU3bnowSGxNUGJVTy1odE5VRkg0RFM4QmpNN3V3TkVFU2wtRE9zc9IBeEFVX3lxTE1jeXJSYlZ4T3RjVE1jeHBzSXR6bURmR1FEd09na2RGN25ndUhQOHZ5bW5ZMWo3SXlBQnNobXkta3MxVTMyZUhmcy1qdEJOTGJlVEM5YmhGeFItS3hTT09BTHpuV2pEUHJpNk05d2FkOGYyaFhaTk4yaA?oc=5",
+      "source": "뉴시스",
+      "kind": "domestic",
+      "publishedAt": "2026-10-09T08:18:07.000Z",
+      "description": "교원 3단체, 교육활동보장법 개정 촉구 전국 교원 집회 [뉴시스Pic] 뉴시스",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 65,
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "d9bfc013f156",
@@ -143,7 +255,7 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 65,
-      "snapshotDate": "2026-10-11"
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "5f045d53206e",
@@ -157,7 +269,22 @@
       "feedProvider": "bing",
       "policyRelevance": 77,
       "score": 82,
-      "snapshotDate": "2026-10-11"
+      "snapshotDate": "2026-10-12"
+    },
+    {
+      "id": "6e86c0930a98",
+      "title": "\"0 Won Tuition in South Korea, Scholarships in Japan\"!? Differences in Educational Policies Supporting University Enrollment",
+      "url": "https://note.com/shogakukinhensai/n/ne501f4108fea?hl=en",
+      "source": "note",
+      "kind": "foreign",
+      "publishedAt": "2026-10-08T19:35:00.000Z",
+      "description": "Regarding university education in South Korea, policies to make tuition free at regional national universities are being advanced.In news reported in September 2026, it was revealed that at 17 out of ...",
+      "category": "고등교육",
+      "score": 30,
+      "originalTitle": "\"0 Won Tuition in South Korea, Scholarships in Japan\"!? Differences in Educational Policies Supporting University Enrollment",
+      "titleKo": "\"한국은 0원, 일본은 장학금\"!? 대학 등록을 지원하는 교육 정책의 차이점",
+      "summaryKo": "한국의 대학교육과 관련하여, 지역 국립 대학의 등록금을 무료화하는 정책이 선진화되고 있습니다 .2026년 9월에 보도된 뉴스에서, 17세에...",
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "8dae263c46ba",
@@ -170,8 +297,8 @@
       "category": "AI·디지털",
       "feedProvider": "bing",
       "policyRelevance": 65,
-      "score": 76,
-      "snapshotDate": "2026-10-11"
+      "score": 66,
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "b7cc1476e02e",
@@ -184,22 +311,22 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 87,
-      "score": 90,
-      "snapshotDate": "2026-10-11"
+      "score": 80,
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "bf5f01a7bfd2",
       "title": "정덕영 시장, 교육부 장관 만나 “특수학교 설립·교육재정 지원해 달라”",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMjFjVk1OV3IzQUYwd2pFVVhQRndiaDg2YjJsT0VBdGlsMVVpT19jZ0VZbWlhME9mX0JyS2EwVmhJMGoyS3gwUHNVOUkySVZkV2xOZDNVRkE1V3BsYi1YNUpnZFU4V3Y2UG5aZXM4WFBrUVV1bDkzRldnQXhKd0FVbGRn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zUGh0U0ctZEhNVGtEQWxTaFNBNTB3S0s0eTB4VzExWk4tVng4VVI0ZU80V0R6ZkNGeVJaWkI2a3p0OTFVcF9ZTkkyQVdmdGlXVDdBNEtGMzhQeS1INnNCcg?oc=5",
       "source": "아시아경제",
       "kind": "domestic",
-      "publishedAt": "2026-10-08T12:43:00.000Z",
+      "publishedAt": "2026-10-08T13:13:09.000Z",
       "description": "정덕영 시장, 교육부 장관 만나 “특수학교 설립·교육재정 지원해 달라” 아시아경제",
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 72,
-      "snapshotDate": "2026-10-11"
+      "score": 62,
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "00d6c5ea0ea8",
@@ -212,8 +339,8 @@
       "category": "입시·사교육",
       "feedProvider": "bing",
       "policyRelevance": 87,
-      "score": 98,
-      "snapshotDate": "2026-10-11"
+      "score": 88,
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "c97b4d7c9ce1",
@@ -226,8 +353,8 @@
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 42,
-      "score": 72,
-      "snapshotDate": "2026-10-09"
+      "score": 52,
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "2a53cf53ab2b",
@@ -240,8 +367,8 @@
       "category": "교원·조직",
       "feedProvider": "bing",
       "policyRelevance": 57,
-      "score": 69,
-      "snapshotDate": "2026-10-11"
+      "score": 59,
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "becf719d5581",
@@ -254,8 +381,36 @@
       "category": "재정·법령",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 72,
-      "snapshotDate": "2026-10-11"
+      "score": 62,
+      "snapshotDate": "2026-10-12"
+    },
+    {
+      "id": "e005829bb07d",
+      "title": "교육부, 발달장애 학생 특성 고려 ‘AI·디지털 교육자료’ 신학기 보급",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVRWNQYThCU0JqeFFXY0tJSXJfZVZEbDJyWS1uZm9ZaTlmZGpTc1NvTEtQYTlVazExYS1pZ0dQV2huM2FaSUtEbWZMMFduOE1VMndKZWw0RTdGMDdCNGlleU1lOUQwYlVoX3E2Znp30gFyQVVfeXFMTWthdzJDdWM1MEtSSFdYQ0xWUnY3bEljTXU5a21LUDFqWTBuaFpOb1FHMzRYQllxRzQ3VmM4eTBiSUZsVjNPTDJqNGtsblpRWF80dlhfSkxmMWstU2hqODR6dkNuOEtSM1R4cXlhRG9ZOFNR?oc=5",
+      "source": "에이블뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-10-08T08:57:00.000Z",
+      "description": "교육부, 발달장애 학생 특성 고려 ‘AI·디지털 교육자료’ 신학기 보급 에이블뉴스",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 57,
+      "snapshotDate": "2026-10-12"
+    },
+    {
+      "id": "356506a5d70f",
+      "title": "한국장총, ‘장애학생 진로탐색 안내서’ 장애인정책리포트 발간",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fOENPYWlfdHVTSC14NlpJSDJBc1BORXNfRTVybWo3dGdoVWJNYThqT1NrYmhQZ2RuZEZoTUhmXzItNXpQLUR3RDN4dzRrdWxDTmZ5aVZBeWpRazN1QUhkek5CZ0toUUpXOV9wYkVn0gFyQVVfeXFMTXQzMFV6dDdSQ2E1RVo5blZONndraEktY3hGbXBEbzNHWGo0cVFZdV9WQkcwNmlUN3pGMmlybjgzanRLaHE2NGt0bnN2RGtscy1fZllLSDJtZG9wQ0FlWHo2aTJoYXl5LTdRblNlTnowdzFn?oc=5",
+      "source": "에이블뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-10-08T08:57:00.000Z",
+      "description": "한국장총, ‘장애학생 진로탐색 안내서’ 장애인정책리포트 발간 에이블뉴스",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 51,
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "4a590405fd6f",
@@ -268,8 +423,52 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 63,
-      "snapshotDate": "2026-10-11"
+      "score": 53,
+      "snapshotDate": "2026-10-12"
+    },
+    {
+      "id": "437add4c243e",
+      "title": "Greater opportunities for growth: South Korea plans new routes for students",
+      "url": "https://www.msn.com/en-xl/africa/nigeria/greater-opportunities-for-growth-south-korea-plans-new-routes-for-students/ar-AA2dPuo9",
+      "source": "Legit.ng on MSN",
+      "kind": "foreign",
+      "publishedAt": "2026-10-08T08:53:29.000Z",
+      "description": "South Korea plans to waive proof-of-funds rules for Korean-proficient students in 2026, with gap-year visas, easier work and new routes to jobs and residence.",
+      "category": "유·초중등",
+      "score": 30,
+      "originalTitle": "Greater opportunities for growth: South Korea plans new routes for students",
+      "titleKo": "성장 기회 확대: 한국은 학생들을 위한 새로운 경로를 계획하고 있습니다.",
+      "summaryKo": "한국은 갭이어 비자, 더 쉬운 취업, 일자리 및 거주지로의 새로운 경로를 통해 2026년에 한국인 학생에 대한 자금 증빙 규정을 면제할 계획입니다.",
+      "snapshotDate": "2026-10-12"
+    },
+    {
+      "id": "d8795d60b879",
+      "title": "Iran–Korea Chamber report highlights South Korea’s youth employment for knowledge exchange",
+      "url": "https://www.tehrantimes.com/news/530875/Iran-Korea-Chamber-report-highlights-South-Korea-s-youth-employment",
+      "source": "Tehran Times",
+      "kind": "foreign",
+      "publishedAt": "2026-10-08T07:08:00.000Z",
+      "description": "TEHRAN- The Iran–Korea Chamber of Commerce has released its fifth policy report, examining South Korea’s efforts to help young people move from education into employment. The report, “From Degrees to ...",
+      "category": "기타",
+      "score": 30,
+      "originalTitle": "Iran–Korea Chamber report highlights South Korea’s youth employment for knowledge exchange",
+      "titleKo": "이란-한국 상공회의소 보고서, 지식 교류를 위한 한국의 청년 고용 강조",
+      "summaryKo": "테헤란- 이란-한국 상공회의소는 젊은이들이 교육에서 취업으로 옮겨갈 수 있도록 돕는 한국의 노력을 조사한 다섯 번째 정책 보고서를 발표했다. 보고서, “학위에서...",
+      "snapshotDate": "2026-10-12"
+    },
+    {
+      "id": "2ca1876fd8fd",
+      "title": "안민석 경기교육감, “AI시대 교육 공교육이 책임져 사교육비 줄이겠다”",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fbEh6T0lfazJDam5CallFY1RUT3I3VE5jRnM3QndiRVdOVi14dkF3S3I2RE9yNEFQQkpzcmFYeG5BclhsS0lKM1VsRDVPNWhBTFg1THJNLUw0U1FHTkk1eTR2S3o3bkt6SFdpX2hvakY?oc=5",
+      "source": "한국강사신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-08T07:06:00.000Z",
+      "description": "안민석 경기교육감, “AI시대 교육 공교육이 책임져 사교육비 줄이겠다” 한국강사신문",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 75,
+      "score": 71,
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "061b5b75c6fb",
@@ -282,8 +481,36 @@
       "category": "고등교육",
       "feedProvider": "bing",
       "policyRelevance": 65,
-      "score": 76,
-      "snapshotDate": "2026-10-11"
+      "score": 66,
+      "snapshotDate": "2026-10-12"
+    },
+    {
+      "id": "5051d74f9423",
+      "title": "커지는 현장 반대 목소리…수능 서·논술형 도입 속도 조절하나",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTTks4T3k5c1pWZnhNOWFxOXdtN3c4YlEzc3VDaXdCdTFacnBMaUhXTjRMeUVJV3ktU3R2OTlrYm1COWRpZFRKTTN2V2hhWUNFUlBPbG5RUG9VZlQyOUZXcEFETTdFUTU3MTBmUWgwODk0TEw4?oc=5",
+      "source": "부산일보",
+      "kind": "domestic",
+      "publishedAt": "2026-10-08T06:58:10.000Z",
+      "description": "커지는 현장 반대 목소리…수능 서·논술형 도입 속도 조절하나 부산일보",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 42,
+      "score": 56,
+      "snapshotDate": "2026-10-12"
+    },
+    {
+      "id": "ee2d1ab00a56",
+      "title": "경기도교육청, 교장·원장·영양교사·영양사 참여…AI 활용 영양·식생활교육 역량 강화",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sSl91UlhxaGlLbC12RURyR2JWU1J1Vk9mTHR0MUc3azluM2xrRUt0clkyWTdLQ0lYWkx2ZHNIa2RFSEFQYXRDZjM5djZWYm1iS01KMzd3YmFrWm5sX2lNbVMwaG5NMUkyZkxUekpPSms?oc=5",
+      "source": "한국강사신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-08T06:08:00.000Z",
+      "description": "경기도교육청, 교장·원장·영양교사·영양사 참여…AI 활용 영양·식생활교육 역량 강화 한국강사신문",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 57,
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "cade297f5c6e",
@@ -296,8 +523,8 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 72,
-      "snapshotDate": "2026-10-11"
+      "score": 62,
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "8c1795ab3e3b",
@@ -310,8 +537,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 75,
-      "score": 81,
-      "snapshotDate": "2026-10-11"
+      "score": 71,
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "9d039257f7e0",
@@ -324,8 +551,22 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 63,
-      "snapshotDate": "2026-10-11"
+      "score": 53,
+      "snapshotDate": "2026-10-12"
+    },
+    {
+      "id": "25b173b8bab0",
+      "title": "대학 등록금은 끊임없이 오르고 있는데, 왜 많은 학교들은 여전히 ​​등록금이 '충분하지 않다'고 생각하는 걸까요?",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb3haaFpTSHhUWlNENzdZekhOTk5nd2RiaV96dWhYaDNVM0gwX2hxaFVsQm5Xck5Zd3o0cmtiNG9RWnZxOHcwWTRIMHZPR0dta0lWWHVBb1R5NTd0Rmx0bFAxYUpCRGM4b0xNR1VRVnhkUzFmMF9DWmFZRlBmSURrRGJrZ3o5VnZsd3E0bnZhc0xYVVZaTGc?oc=5",
+      "source": "Vietnam.vn",
+      "kind": "domestic",
+      "publishedAt": "2026-10-08T05:17:21.000Z",
+      "description": "대학 등록금은 끊임없이 오르고 있는데, 왜 많은 학교들은 여전히 ​​등록금이 '충분하지 않다'고 생각하는 걸까요? Vietnam.vn",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 51,
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "d9229806af37",
@@ -338,8 +579,36 @@
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 42,
-      "score": 66,
-      "snapshotDate": "2026-10-11"
+      "score": 56,
+      "snapshotDate": "2026-10-12"
+    },
+    {
+      "id": "647aeb25615b",
+      "title": "고교 교원 10명 중 7명 “수능 서·논술형 도입 반대”",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EYXhYRC00dDBPNXBEZnpoam9VeU9LVGIwOGJsd0FHcmRFRk9ZMzc5N3pDMEs2aGVKZks0UDZROUhzLXVWeXpJeXVVbW5nZUtGSmJ4TVNUSTBUU0VyYy1PcmpFV3ZMZngy?oc=5",
+      "source": "한국NGO신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-08T04:57:25.000Z",
+      "description": "고교 교원 10명 중 7명 “수능 서·논술형 도입 반대” 한국NGO신문",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 52,
+      "score": 64,
+      "snapshotDate": "2026-10-12"
+    },
+    {
+      "id": "3cf660164435",
+      "title": "학생 시간을 정책실험에 써선 안돼",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EbVNSM1VEMTkzNUhXbnNrdnVWT0xzVVRHMFVzTng5RzZnUEk2R1FCZHJhd2g0cmJzdEJjdE93TTl3MzdWYjA2X1hUYmVSVlRGbHdKNHhIWWliTkJsWTZJ?oc=5",
+      "source": "한국교육신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-08T04:41:59.000Z",
+      "description": "학생 시간을 정책실험에 써선 안돼 한국교육신문",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 51,
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "7364ddab86af",
@@ -352,8 +621,36 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 57,
-      "score": 69,
-      "snapshotDate": "2026-10-11"
+      "score": 59,
+      "snapshotDate": "2026-10-12"
+    },
+    {
+      "id": "1a1f1f913f4c",
+      "title": "경남교육청, 유치원·초등학교·특수학교 교사 임용시험 원서 접수 결과 발표",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4Umg2bGFCU1FVVk94bWJqcTRKQXh0R1ZHT0lDTkVQVTN1VGlzU3RRMVlPU2lKX3F1NlVYeWNWNXZob3hjQXhyNVM3UDc2VjhkU2RjdGNtTXN3YnEt?oc=5",
+      "source": "누리일보",
+      "kind": "domestic",
+      "publishedAt": "2026-10-08T03:10:17.000Z",
+      "description": "경남교육청, 유치원·초등학교·특수학교 교사 임용시험 원서 접수 결과 발표 누리일보",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 57,
+      "score": 63,
+      "snapshotDate": "2026-10-12"
+    },
+    {
+      "id": "5262ce61bb69",
+      "title": "AI 안경 쓰고 수능 부정행위하면 2년 응시 금지... 교육부 적발 매뉴얼 만든다",
+      "url": "https://www.msn.com/ko-kr/news/other/ai-%EC%95%88%EA%B2%BD-%EC%93%B0%EA%B3%A0-%EC%88%98%EB%8A%A5-%EB%B6%80%EC%A0%95%ED%96%89%EC%9C%84%ED%95%98%EB%A9%B4-2%EB%85%84-%EC%9D%91%EC%8B%9C-%EA%B8%88%EC%A7%80-%EA%B5%90%EC%9C%A1%EB%B6%80-%EC%A0%81%EB%B0%9C-%EB%A7%A4%EB%89%B4%EC%96%BC-%EB%A7%8C%EB%93%A0%EB%8B%A4/ar-AA2dMWbE",
+      "source": "인사이트 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-10-08T03:08:00.000Z",
+      "description": "최교진 교육부 장관이 수능 AI 안경 부정행위자에 대해 2년간 응시 자격 박탈을 밝히고 서울대 10개 만들기 사업 확대 및 대입 원서접수 공공 시스템 전환을 추진한다.",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
+      "score": 80,
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "15b7d001e96c",
@@ -366,8 +663,22 @@
       "category": "AI·디지털",
       "feedProvider": "bing",
       "policyRelevance": 87,
-      "score": 86,
-      "snapshotDate": "2026-10-11"
+      "score": 76,
+      "snapshotDate": "2026-10-12"
+    },
+    {
+      "id": "2bdda0d4720b",
+      "title": "안민석 교육감 “AI시대에 필요한 교육, 공교육 통해 사교육비 줄이겠다”",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NRTAtLXZYdGtJUmJXNmszemtTZGxRZU05X3laRWo4MWYwdi1XUkxUMXV4U19kaTNNX1RvN2Fiajd1dmwtX0I2b25fODVtYmJGdURLTWZBZTVmZWhVUFNaeUdsOEZPZUVOUVE?oc=5",
+      "source": "선데이광명",
+      "kind": "domestic",
+      "publishedAt": "2026-10-08T02:50:08.000Z",
+      "description": "안민석 교육감 “AI시대에 필요한 교육, 공교육 통해 사교육비 줄이겠다” 선데이광명",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 75,
+      "score": 71,
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "96162b57e086",
@@ -380,8 +691,8 @@
       "category": "AI·디지털",
       "feedProvider": "bing",
       "policyRelevance": 87,
-      "score": 86,
-      "snapshotDate": "2026-10-11"
+      "score": 76,
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "3c05b47f49dc",
@@ -394,8 +705,22 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 47,
-      "score": 68,
-      "snapshotDate": "2026-10-11"
+      "score": 58,
+      "snapshotDate": "2026-10-12"
+    },
+    {
+      "id": "b96af3f484cd",
+      "title": "안민석 경기교육감 취임 100일…교권 보호·교육격차 해소에 속도",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LeUJUSHh1bndUcENZMXdPdC1xSHN6T1o2Tmk5bjk5R0R3REp5NE81NXE3ajU5RFdNZVlrcFBmekZ4ajdPRU0wNXF2NGU4SUE?oc=5",
+      "source": "https://www.didimkorea.net/",
+      "kind": "domestic",
+      "publishedAt": "2026-10-08T01:59:59.000Z",
+      "description": "안민석 경기교육감 취임 100일…교권 보호·교육격차 해소에 속도 https://www.didimkorea.net/",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 81,
+      "score": 69,
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "d433732a525e",
@@ -408,8 +733,8 @@
       "category": "재정·법령",
       "feedProvider": "bing",
       "policyRelevance": 77,
-      "score": 90,
-      "snapshotDate": "2026-10-11"
+      "score": 80,
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "abc65cc46122",
@@ -506,20 +831,6 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 66,
-      "snapshotDate": "2026-10-11"
-    },
-    {
-      "id": "5262ce61bb69",
-      "title": "AI 안경 쓰고 수능 부정행위하면 2년 응시 금지... 교육부 적발 매뉴얼 만든다",
-      "url": "https://www.msn.com/ko-kr/news/other/ai-%EC%95%88%EA%B2%BD-%EC%93%B0%EA%B3%A0-%EC%88%98%EB%8A%A5-%EB%B6%80%EC%A0%95%ED%96%89%EC%9C%84%ED%95%98%EB%A9%B4-2%EB%85%84-%EC%9D%91%EC%8B%9C-%EA%B8%88%EC%A7%80-%EA%B5%90%EC%9C%A1%EB%B6%80-%EC%A0%81%EB%B0%9C-%EB%A7%A4%EB%89%B4%EC%96%BC-%EB%A7%8C%EB%93%A0%EB%8B%A4/ar-AA2dMWbE",
-      "source": "인사이트 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-10-07T18:08:22.000Z",
-      "description": "최교진 교육부 장관이 수능 AI 안경 부정행위자에 대해 2년간 응시 자격 박탈을 밝히고 서울대 10개 만들기 사업 확대 및 대입 원서접수 공공 시스템 전환을 추진한다.",
-      "category": "입시·사교육",
-      "feedProvider": "bing",
-      "policyRelevance": 77,
-      "score": 80,
       "snapshotDate": "2026-10-11"
     },
     {
@@ -731,6 +1042,21 @@
       "policyRelevance": 87,
       "score": 88,
       "snapshotDate": "2026-10-11"
+    },
+    {
+      "id": "827f1110ccc5",
+      "title": "South Korea plans to ease student visa rules, new gap-year track to woo foreign talent",
+      "url": "https://www.straitstimes.com/asia/east-asia/south-korea-plans-to-ease-student-visa-rules-new-gap-year-track-to-woo-foreign-talent",
+      "source": "The Straits Times",
+      "kind": "foreign",
+      "publishedAt": "2026-10-07T10:42:00.000Z",
+      "description": "Proposals include simpler part-time work permits and new pathways to employment and long-term residence. Read more at straitstimes.com.",
+      "category": "유·초중등",
+      "score": 30,
+      "originalTitle": "South Korea plans to ease student visa rules, new gap-year track to woo foreign talent",
+      "titleKo": "한국은 외국인 인재를 유치하기 위해 학생 비자 규정을 완화하고 새로운 갭 이어 트랙을 계획하고 있습니다.",
+      "summaryKo": "제안에는 더 간단한 아르바이트 허가와 고용 및 장기 거주를 위한 새로운 경로가 포함됩니다. 자세한 내용은 straitstimes.com에서 확인하세요.",
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "179e59b23061",
@@ -1025,6 +1351,21 @@
       "policyRelevance": 75,
       "score": 71,
       "snapshotDate": "2026-10-11"
+    },
+    {
+      "id": "cf49f4305eb9",
+      "title": "South Korea tightens foreign student visas, ties work rights to Korean",
+      "url": "https://biz.chosun.com/en/en-society/2026/10/07/YHABZBZRCNDG5BCGNRXXJY7GLQ/",
+      "source": "Chosunbiz",
+      "kind": "foreign",
+      "publishedAt": "2026-10-07T04:42:00.000Z",
+      "description": "The government will tighten checks on foreign students' finances to prevent them from overstaying or working illegally in Korea, and will suspend visa preference benefits if universities provide de ...",
+      "category": "유·초중등",
+      "score": 30,
+      "originalTitle": "South Korea tightens foreign student visas, ties work rights to Korean",
+      "titleKo": "한국은 외국인 학생 비자를 강화하고, 노동권을 한국과 연계한다.",
+      "summaryKo": "정부는 외국인 유학생들이 한국에서 과잉 체류하거나 불법적으로 일하는 것을 막기 위해 외국인 유학생 재정에 대한 점검을 강화하고, 대학이 비자 우대 혜택을 제공 할 경우 일시 중단 할 것입니다...",
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "102e978887b2",
@@ -1471,7 +1812,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-10-11"
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "e513f6fe5b54",
@@ -1484,7 +1825,7 @@
       "category": "유·초중등",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-10-11"
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "9a17fdb0e100",
@@ -1571,6 +1912,21 @@
       "snapshotDate": "2026-10-09"
     },
     {
+      "id": "7f1337e591b5",
+      "title": "South Korean science institutes draw record 33,000 applicants",
+      "url": "https://www.upi.com/Top_News/World-News/2026/10/05/education-semiconductors-university-admissions-ai/5021791234974/",
+      "source": "UPI",
+      "kind": "foreign",
+      "publishedAt": "2026-10-05T10:28:00.000Z",
+      "description": "Applications to South Korea's four major science and technology institutes surpassed 33,000 for the first time, rising 36.5% as new AI programs.",
+      "category": "기타",
+      "score": 30,
+      "originalTitle": "South Korean science institutes draw record 33,000 applicants",
+      "titleKo": "한국 과학 연구소는 기록적인 33,000명의 지원자를 확보했습니다.",
+      "summaryKo": "한국의 4대 과학기술기관에 대한 신청은 처음으로 3만 3천 건을 돌파하여 새로운 인공지능 프로그램으로 36.5% 증가했다.",
+      "snapshotDate": "2026-10-12"
+    },
+    {
       "id": "66d5e9c57c14",
       "title": "[송미나 칼럼] '수석교사가 초등교사 수업 시간을 낮췄다'는 교육부가 숨긴 것",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kekZxdmRpVmdfZnBLQUFPYTIwT25rMWFHUmwxVktIdVRRc3Y4ZnJydDQ2c1BwMlU1bDU2eFN3T0VDeHJ2YVEzQTFtNm4tOEs3N0pIT19DSXhETE56cDNMTWxpNTlHMmc?oc=5",
@@ -1583,6 +1939,21 @@
       "policyRelevance": 45,
       "score": 63,
       "snapshotDate": "2026-10-08"
+    },
+    {
+      "id": "df97c3d1712e",
+      "title": "Kids in South Korea Are Learning AI With Ethics First",
+      "url": "https://www.techloy.com/south-korea-ai-education-children-ai-ethics/",
+      "source": "Techloy",
+      "kind": "foreign",
+      "publishedAt": "2026-10-05T08:15:00.000Z",
+      "description": "As Artificial Intelligence reshapes the global economy, including education, South Korea is exposing children to AI at an earlier age while teaching them how to use the technology responsibly. An Al ...",
+      "category": "AI·디지털",
+      "score": 30,
+      "originalTitle": "Kids in South Korea Are Learning AI With Ethics First",
+      "titleKo": "한국의 어린이들은 윤리적으로 인공지능을 먼저 배우고 있습니다.",
+      "summaryKo": "인공 지능이 교육을 포함한 세계 경제를 재편함에 따라 한국은 어린 나이에 기술을 책임감있게 사용하는 방법을 가르치면서 어린이를 AI에 노출시키고 있습니다. 안 알...",
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "8001970bb0ad",
@@ -1639,7 +2010,7 @@
       "originalTitle": "Inside South Korea’s push to bring IB into mainstream schools",
       "titleKo": "IB를 주류 학교로 끌어들이려는 한국의 노력",
       "summaryKo": "윌슨 샹 (Wilson Shang) 은 한국이 국제 교육과정을 주류 국가 교육에 포함시키는 세계에서 가장 저명한 시험대 중 하나로 부상한 방법을 탐구합니다.",
-      "snapshotDate": "2026-10-06"
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "345ee5b3f82a",
@@ -1721,8 +2092,8 @@
       "description": "교육부 공식 보도자료",
       "category": "기타",
       "policyRelevance": 100,
-      "score": 95,
-      "snapshotDate": "2026-10-11"
+      "score": 90,
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "f86811468fdf",
@@ -1960,20 +2331,6 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 62,
-      "snapshotDate": "2026-10-06"
-    },
-    {
-      "id": "356506a5d70f",
-      "title": "한국장총, ‘장애학생 진로탐색 안내서’ 장애인정책리포트 발간",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fOENPYWlfdHVTSC14NlpJSDJBc1BORXNfRTVybWo3dGdoVWJNYThqT1NrYmhQZ2RuZEZoTUhmXzItNXpQLUR3RDN4dzRrdWxDTmZ5aVZBeWpRazN1QUhkek5CZ0toUUpXOV9wYkVn0gFyQVVfeXFMTXQzMFV6dDdSQ2E1RVo5blZONndraEktY3hGbXBEbzNHWGo0cVFZdV9WQkcwNmlUN3pGMmlybjgzanRLaHE2NGt0bnN2RGtscy1fZllLSDJtZG9wQ0FlWHo2aTJoYXl5LTdRblNlTnowdzFn?oc=5",
-      "source": "에이블뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-10-02T08:35:00.000Z",
-      "description": "한국장총, ‘장애학생 진로탐색 안내서’ 장애인정책리포트 발간 에이블뉴스",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 51,
       "snapshotDate": "2026-10-06"
     },
     {
@@ -3575,7 +3932,7 @@
       "category": "입시·사교육",
       "policyRelevance": 100,
       "score": 90,
-      "snapshotDate": "2026-10-11"
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "74890a5183a1",
@@ -3588,7 +3945,7 @@
       "category": "유·초중등",
       "policyRelevance": 100,
       "score": 90,
-      "snapshotDate": "2026-10-11"
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "627fd23ad0c1",
@@ -3601,7 +3958,7 @@
       "category": "교원·조직",
       "policyRelevance": 100,
       "score": 90,
-      "snapshotDate": "2026-10-11"
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "347adf1fc103",
@@ -3614,7 +3971,7 @@
       "category": "유·초중등",
       "policyRelevance": 100,
       "score": 90,
-      "snapshotDate": "2026-10-11"
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "cae7c7757792",
@@ -4053,7 +4410,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 94,
-      "snapshotDate": "2026-10-11"
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "67885450a875",
@@ -4066,7 +4423,7 @@
       "category": "지역·평생교육",
       "policyRelevance": 100,
       "score": 90,
-      "snapshotDate": "2026-10-11"
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "8b76c0632c38",
@@ -4430,7 +4787,7 @@
       "originalTitle": "Sejong University to host International Student Future Higher Education Forum on Oct. 1",
       "titleKo": "세종대학교, 10월 1일 국제학생미래고등교육포럼 개최",
       "summaryKo": "세종대학교는 오는 10월 1일 서울캠퍼스에서 제8회 국제학생미래 (ISF) 고등교육포럼을 개최하여...",
-      "snapshotDate": "2026-10-06"
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "e4a7550e1774",
@@ -4557,6 +4914,21 @@
       "snapshotDate": "2026-09-28"
     },
     {
+      "id": "7399a3ad95fd",
+      "title": "Exclusive: Ministry recommends teachers resign for National Assembly, restrict student-linked SNS politics",
+      "url": "https://www.msn.com/en-xl/money/general/exclusive-ministry-recommends-teachers-resign-for-national-assembly-restrict-student-linked-sns-politics/ar-AA2cRXd2",
+      "source": "The Chosun Ilbo on MSN",
+      "kind": "foreign",
+      "publishedAt": "2026-09-27T19:00:45.000Z",
+      "description": "A policy study by the Ministry of Education, conducted to advance the current government’s national task of “expanding teachers’ political basic rights,” concluded that teachers should be restricted ...",
+      "category": "교원·조직",
+      "score": 30,
+      "originalTitle": "Exclusive: Ministry recommends teachers resign for National Assembly, restrict student-linked SNS politics",
+      "titleKo": "독점: 교육부는 교사가 국회에서 사퇴하고, 학생 연계 SNS 정치를 제한할 것을 권장합니다.",
+      "summaryKo": "현 정부의 국정과제인 '교원의 정치적 기본권 확대' 를 추진하기 위해 실시된 교육부의 정책연구는 교사를 제한해야 한다는 결론을 내렸다...",
+      "snapshotDate": "2026-10-12"
+    },
+    {
       "id": "02f6e34324aa",
       "title": "Exclusive: Ministry of Education recommends teachers resign for elections, restrict SNS politics",
       "url": "https://www.msn.com/en-xl/news/other/exclusive-ministry-of-education-recommends-teachers-resign-for-elections-restrict-sns-politics/ar-AA2cRXd2",
@@ -4570,21 +4942,6 @@
       "titleKo": "독점: 교육부는 교사가 선거를 위해 사직하고, SNS 정치를 제한할 것을 권장합니다.",
       "summaryKo": "현 정부의 국정과제인 '교원의 정치적 기본권 확대' 를 추진하기 위해 실시된 교육부의 정책연구는 교사를 제한해야 한다는 결론을 내렸다...",
       "snapshotDate": "2026-10-06"
-    },
-    {
-      "id": "7399a3ad95fd",
-      "title": "Exclusive: Ministry recommends teachers resign for National Assembly, restrict student-linked SNS politics",
-      "url": "https://www.msn.com/en-xl/money/general/exclusive-ministry-recommends-teachers-resign-for-national-assembly-restrict-student-linked-sns-politics/ar-AA2cRXd2",
-      "source": "The Chosun Ilbo on MSN",
-      "kind": "foreign",
-      "publishedAt": "2026-09-27T19:00:45.000Z",
-      "description": "A policy study by the Ministry of Education, conducted to advance the current government’s national task of “expanding teachers’ political basic rights,” concluded that teachers should be restricted ...",
-      "category": "교원·조직",
-      "score": 30,
-      "originalTitle": "Exclusive: Ministry recommends teachers resign for National Assembly, restrict student-linked SNS politics",
-      "titleKo": "독점: 교육부는 교사가 국회에서 사퇴하고, 학생 연계 SNS 정치를 제한할 것을 권장합니다.",
-      "summaryKo": "현 정부의 국정과제인 '교원의 정치적 기본권 확대' 를 추진하기 위해 실시된 교육부의 정책연구는 교사를 제한해야 한다는 결론을 내렸다...",
-      "snapshotDate": "2026-09-30"
     },
     {
       "id": "005856fb0155",
@@ -6431,7 +6788,7 @@
       "originalTitle": "Scholar calls academy integration key to South Korea's future military",
       "titleKo": "학자는 한국의 미래 군대에 아카데미 통합 열쇠를 호출",
       "summaryKo": "한국의 국방 학자는 군사 아카데미를 통합하면 미래 전쟁을 위한 공동 작전, 다양성 및 장교 교육을 향상시킬 수 있다고 말합니다.",
-      "snapshotDate": "2026-09-30"
+      "snapshotDate": "2026-10-12"
     },
     {
       "id": "2c9d9bc36b3f",
@@ -8103,358 +8460,6 @@
       "policyRelevance": 40,
       "score": 61,
       "snapshotDate": "2026-09-17"
-    },
-    {
-      "id": "d66253c80fe2",
-      "title": "부산교육청, ‘읽는 교실’ 만든다…교원 700여 명 문해교육 특강",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oODFrblU1b2p5TXpBdExRY1cxMDl0RjNqX0JZWDF1UVRxeHZ3TllxN0RLRldyRDl1ZHhHMXJDTXF2ZTJDWVo2QTlycjlmSkEwcXU1QmRPQzlDZGVyN250UjVULVhCdkttbzhHYU9R?oc=5",
-      "source": "미디어인뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-09-15T03:06:07.000Z",
-      "description": "부산교육청, ‘읽는 교실’ 만든다…교원 700여 명 문해교육 특강 미디어인뉴스",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 67,
-      "snapshotDate": "2026-09-18"
-    },
-    {
-      "id": "51cd57198edb",
-      "title": "인천시, 요양보호사교육기관 6곳 신규 지정…돌봄 인력 양성 확대",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41bXhKT1FLRk1xLW5McnRoVGE5MUtHQjdETno3RGtIUGxHMHJWQjBNTk9XbGFlN2JYSW9mNnhRQTk5ZFFKWkZhLUJRNjNvNmRmWWtoTURVTGh2dFVrVXFxT0EyNG1fQQ?oc=5",
-      "source": "인천게릴라뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-09-15T00:05:30.000Z",
-      "description": "인천시, 요양보호사교육기관 6곳 신규 지정…돌봄 인력 양성 확대 인천게릴라뉴스",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 42,
-      "score": 62,
-      "snapshotDate": "2026-09-17"
-    },
-    {
-      "id": "6f87e5e34b2e",
-      "title": "교육부, ‘학생맞춤통합지원 지역 협력체계 공동연수’ 개최… 학생 지원 사각지대 해소",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtWkpaa0phMXhMNXZSbUJLUk9sZlZSUnN3Y21Ldk9reUoyWUlzYzlDQTVYeWJsSTZnVEVvRnQ4Z2hTTVEyU3FnX0xkZ0VEYU8zUHRuVkd5U2o2b1NCUHlILWdRTEdXUQ?oc=5",
-      "source": "한국대학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-09-15T00:01:02.000Z",
-      "description": "교육부, ‘학생맞춤통합지원 지역 협력체계 공동연수’ 개최… 학생 지원 사각지대 해소 한국대학신문",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 63,
-      "snapshotDate": "2026-09-17"
-    },
-    {
-      "id": "9e4c90861e18",
-      "title": "2027학년도 대학수학능력시험 9월 모의평가 이의신청 심사 결과 발표",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107212&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-09-15T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "입시·사교육",
-      "policyRelevance": 100,
-      "score": 99,
-      "snapshotDate": "2026-09-20"
-    },
-    {
-      "id": "24ba4ae8359b",
-      "title": "함께 만드는 안전한 학교 문화, 학교폭력 예방 어울림 더하기 선도학교 운영",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107210&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-09-15T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "유·초중등",
-      "policyRelevance": 100,
-      "score": 95,
-      "snapshotDate": "2026-09-20"
-    },
-    {
-      "id": "f46f7ada9984",
-      "title": "美법원, 트럼프 정부 ‘유학생 비자 4년 제한’ 시행 하루 전 제동",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03OXpSOFB2eXZ1dERyby02MjJ1RXZVbFVicENOVnYzdmJQZV8tUUdpVmdZNFFUVDR3WU5DampWNEhZQWxOWGRPUEl2NmNGT1k?oc=5",
-      "source": "v.daum.net",
-      "kind": "domestic",
-      "publishedAt": "2026-09-14T23:44:07.000Z",
-      "description": "美법원, 트럼프 정부 ‘유학생 비자 4년 제한’ 시행 하루 전 제동 v.daum.net",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 57,
-      "score": 73,
-      "snapshotDate": "2026-09-18"
-    },
-    {
-      "id": "6797fd954159",
-      "title": "美법원, 트럼프 행정부 '유학생·외신기자 비자 제한'에 제동",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XcUQ0VWF5bnVPNTJ2SnZMTG5YbWplWU03QVNjci05R3dqeE1pMDJnZ2JKc1JfQXhwM09DYTRiWC12QWZvRlIxSjNTN3k5b3ZYNENBU2puXzlSRVlkR09jSmxfcWtWVlZpaUh0cEprcXY?oc=5",
-      "source": "신아일보",
-      "kind": "domestic",
-      "publishedAt": "2026-09-14T23:27:33.000Z",
-      "description": "美법원, 트럼프 행정부 '유학생·외신기자 비자 제한'에 제동 신아일보",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 63,
-      "snapshotDate": "2026-09-17"
-    },
-    {
-      "id": "4bc93d311aaf",
-      "title": "'대입 원서 접수 시스템' 서버 불안정 처음 아냐…교육부 구제책에 형평성 논란도",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yS1hrWkp0RF81ZmIycTlkY3AtcGpoNmUwaC1JMmd6Ti1MWmlGRzhpbERUb1FhT3ZRLTVyUC1mWVA4YjJObGNPV3dEZlEzS3ZYSVN6enY2Q2dyX0ZKWk80akF3b2hpNEcxYU1sMlNrRdIBc0FVX3lxTFAxTDJZdWtyekdicEZLOE9YRlA5NmZBUnZSWF9CN3ZtOWtYcU8tbE5mNC0xbi1JZU5KbjlkazZsd3dSMUh0Qm4tUU5UdXlQa1c3Zi12TkpVcnpNbEZiSDEycnhucnltVVI5cDZoX1Y1QTRtNlE?oc=5",
-      "source": "대전일보",
-      "kind": "domestic",
-      "publishedAt": "2026-09-14T22:21:21.000Z",
-      "description": "'대입 원서 접수 시스템' 서버 불안정 처음 아냐…교육부 구제책에 형평성 논란도 대전일보",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 77,
-      "score": 72,
-      "snapshotDate": "2026-09-19"
-    },
-    {
-      "id": "0ceaed3ab164",
-      "title": "'입법예고 단 5일·독단적 밀실행정' 규탄…교육·시민사회 377개 단체 \"교육재정교부금 개편안 부결하라\"",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%9E%85%EB%B2%95%EC%98%88%EA%B3%A0-%EB%8B%A8-5%EC%9D%BC-%EB%8F%85%EB%8B%A8%EC%A0%81-%EB%B0%80%EC%8B%A4%ED%96%89%EC%A0%95-%EA%B7%9C%ED%83%84-%EA%B5%90%EC%9C%A1-%EC%8B%9C%EB%AF%BC%EC%82%AC%ED%9A%8C-377%EA%B0%9C-%EB%8B%A8%EC%B2%B4-%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95%EA%B5%90%EB%B6%80%EA%B8%88-%EA%B0%9C%ED%8E%B8%EC%95%88-%EB%B6%80%EA%B2%B0%ED%95%98%EB%9D%BC/ar-AA2ceTpI",
-      "source": "Aju Business Daily on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-09-14T22:20:49.000Z",
-      "description": "정부의 일방적인 지방교육재정교부금법 개편안에 대한 국회의 졸속 심의·의결을 즉각 중단해야 한다는 교육·노동·시민사회의 강력한 목소리가 터져 나왔다.전국 377개 교육·노동·학부모·학생&middo ...",
-      "category": "유·초중등",
-      "feedProvider": "bing",
-      "policyRelevance": 75,
-      "score": 75,
-      "snapshotDate": "2026-09-19"
-    },
-    {
-      "id": "47fef6d49ded",
-      "title": "학령인구 감소 시대, 2027학년도 공립 교원 선발 규모 확정…초등 2,821명·특수 692명 예비교원 진로 재편 예고",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1GTnlHem43UUhIdVI5ZFQ4M0JWTzY0VlZNVWJVQ21hQVVfQUFlaGU2ZFI1bGZlMUVYNm9JS3lvdmZ0ejBleWdrLXFB?oc=5",
-      "source": "뉴스N연합",
-      "kind": "domestic",
-      "publishedAt": "2026-09-14T22:17:11.000Z",
-      "description": "학령인구 감소 시대, 2027학년도 공립 교원 선발 규모 확정…초등 2,821명·특수 692명 예비교원 진로 재편 예고 뉴스N연합",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 65,
-      "snapshotDate": "2026-09-17"
-    },
-    {
-      "id": "369ca6cff9bd",
-      "title": "학령인구 감소 시대, 2027학년도 공립 교원 선발 규모 확정…초등 2,821명·특수 692명 예비교원 진로 재편 예고",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5WdW94el9OYlhqYVlJRTJwWUNXaXRmOXAtcVhtZHI3TDIyQ2xpaFVDWDdVMGtMN0JmVk9zUDFVT1lyNTliMXVjNVpn?oc=5",
-      "source": "얼리어답터뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-09-14T18:14:46.000Z",
-      "description": "학령인구 감소 시대, 2027학년도 공립 교원 선발 규모 확정…초등 2,821명·특수 692명 예비교원 진로 재편 예고 얼리어답터뉴스",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 75,
-      "snapshotDate": "2026-09-15"
-    },
-    {
-      "id": "feabbe3d43d3",
-      "title": "\"한국 대학사회, 국·공립시대 진입\"… 거점국립대-국가중심국립대 수시 고공행진",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rT2t3NVRMM21Sa0ZXcTlTT0JVSE83azU5a1dyMzViUFZiYWRyN0ctdWlmUW1ZSkRUV1gwa2FoalgxTWU5eWkwSGFMbXBEc0F1OFB2QjV1SFB6ZGdKVDJjanNUREI0QdIBaEFVX3lxTE1aLXlvbktQZW5vSnBDdGlfdC1lM2FFYjZSb19OaTZINWx2eTRDZ1M5NmN6RW16S2p5ZllCVVhNNjkteXdvLVFwNDJPXzlBdjhrblprX1FmN0pVWVp5YW5zRktXSWpHQV9C?oc=5",
-      "source": "usline.kr",
-      "kind": "domestic",
-      "publishedAt": "2026-09-14T17:57:39.000Z",
-      "description": "\"한국 대학사회, 국·공립시대 진입\"… 거점국립대-국가중심국립대 수시 고공행진 usline.kr",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 61,
-      "snapshotDate": "2026-09-17"
-    },
-    {
-      "id": "abc9b4fb45bc",
-      "title": "Ministry of Education misses its own curriculum deadline",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZGJZOWJ2WVZXU1VOYVlYSVZQbmUtQmNOV01JVmZQZzhuZk9EM1RvRWJXS2VmdGlHbzM0ak1HVjV5QUJEZVRwclM4UEhPYVlHUDlMaW1FMy1kRllpSG9wR25MOWtVeFduZlFZV25SUkE2YjBCOS1EQXNPanJDdmMzejEzNVlhenlCY3A2S3EySUN2aDdNRnE4bjlVTUwyVVU?oc=5",
-      "source": "thepost.co.nz",
-      "kind": "foreign",
-      "publishedAt": "2026-09-14T16:00:00.000Z",
-      "description": "Ministry of Education misses its own curriculum deadline thepost.co.nz",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 53,
-      "score": 46,
-      "originalTitle": "Ministry of Education misses its own curriculum deadline",
-      "titleKo": "교육부가 자체 커리큘럼 마감일을 놓침",
-      "summaryKo": "교육부가 자체 커리큘럼 마감일을 놓침 thepost.co.nz",
-      "snapshotDate": "2026-09-22"
-    },
-    {
-      "id": "e00e8064d7ca",
-      "title": "‘성과·경쟁’에 쏠린 정책… 국·공립대 교수 단체 “고등교육 청사진부터 세워야”",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BMHJKNWx5bDMyck5uc3BiUlljNlZGN3dvWkx1a0l2enRtRDNKU0tyeWhScEcwaXNZUThyZWNmVW1EQXZ2Q1FHaHJWUjZlOXVKaXk2QkthOXRBajhCMnNad1FKbWw4dw?oc=5",
-      "source": "한국대학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-09-14T14:51:09.000Z",
-      "description": "‘성과·경쟁’에 쏠린 정책… 국·공립대 교수 단체 “고등교육 청사진부터 세워야” 한국대학신문",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 61,
-      "snapshotDate": "2026-09-16"
-    },
-    {
-      "id": "d1e3e07d99c7",
-      "title": "서울교육미래정책포럼 “교육교부금 개편 즉각 중단하라”",
-      "url": "https://www.edupress.kr/news/articleView.html?idxno=30469",
-      "source": "에듀프레스",
-      "kind": "domestic",
-      "publishedAt": "2026-09-14T14:51:00.000Z",
-      "description": "에듀프레스 장재훈 기자 = 서울교육미래정책포럼이 정부의 지방교육재정교부금 개편안에 대해 “교육을 무시한 일방 행정”이라며 즉각 중단을 촉구했다. 포럼은 14일 성명을 내고 교육교부금 연동제 폐지는 55년간 유지돼 온 교육재정 체계를 흔드는 조치라며 강하게 반발했다. 이들은 “산식 조정이라는 명분을 내세우고 있지만 실제로는 교육재정을 대폭 줄이는 개편”이라고 ...",
-      "category": "재정·법령",
-      "feedProvider": "bing",
-      "policyRelevance": 77,
-      "score": 76,
-      "snapshotDate": "2026-09-18"
-    },
-    {
-      "id": "f08306748732",
-      "title": "육아정책연구소, ‘영유아정책 국제포럼’ 개최…AI 시대 기본교육으로서 영유아정책 방향 모색",
-      "url": "https://www.lecturernews.com/news/articleView.html?idxno=210591",
-      "source": "한국강사신문",
-      "kind": "domestic",
-      "publishedAt": "2026-09-14T10:07:00.000Z",
-      "description": "[한국강사신문 이미숙 기자] 육아정책연구소가 인공지능(AI) 시대를 맞아 영유아교육·보육 정책의 미래를 국내외 전문가들과 함께 논의하는 자리를 마련한다.육아정책연구소(소장 황옥경)는 오는 9월 18일(금) 오전 9시 30분 서울 더 플라자 호텔 22층 다이아몬드홀에서 교육부와 공동으로 ‘영유아정책 국제포럼’을 개최한다고 밝혔다.이번 포럼의 주제는 ‘AI 시 ...",
-      "category": "AI·디지털",
-      "feedProvider": "bing",
-      "policyRelevance": 65,
-      "score": 66,
-      "snapshotDate": "2026-09-18"
-    },
-    {
-      "id": "18c23ee76756",
-      "title": "수시 원서접수 ‘형평성 논란’ 대정부질문 도마",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3YnZJRjFOSld0dnBIVXZKdlVDel9tdE45d1NnVEgwVXdzSmZhQlNQd0lPSUF5OGVNZm9nM3VhLWVfdXR2Tm5kZElPeUVxRi1BT3hsVGdZZTJOUlU?oc=5",
-      "source": "경기일보",
-      "kind": "domestic",
-      "publishedAt": "2026-09-14T09:43:36.000Z",
-      "description": "수시 원서접수 ‘형평성 논란’ 대정부질문 도마 경기일보",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 77,
-      "score": 68,
-      "snapshotDate": "2026-09-18"
-    },
-    {
-      "id": "18d7633ca03e",
-      "title": "[사설] 민간에 맡긴 수시 접수, 학부모들은 진작부터 아찔했는데",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsYmpzeWZRelVXaHNIUWJSQ09GcFNIRnF5dkJyRkJoTFJmSkJ3bTRrMUVsX1pBMkZBeEwwYzdwb0d3bE9BTmpqUzhaMm9Ncmczak1EMlg2VQ?oc=5",
-      "source": "서울신문",
-      "kind": "domestic",
-      "publishedAt": "2026-09-14T09:43:16.000Z",
-      "description": "[사설] 민간에 맡긴 수시 접수, 학부모들은 진작부터 아찔했는데 서울신문",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 61,
-      "snapshotDate": "2026-09-16"
-    },
-    {
-      "id": "63801058e5e4",
-      "title": "Plan for literary translation graduate school delayed over regional development policy",
-      "url": "https://www.koreatimes.co.kr/lifestyle/books/20260914/plan-for-literary-translation-graduate-school-delayed-over-regional-development-policy",
-      "source": "The Korea Times",
-      "kind": "foreign",
-      "publishedAt": "2026-09-14T09:07:00.000Z",
-      "description": "A plan by the Literature Translation Institute of Korea (LTI Korea) to establish an independent graduate school dedicated to Korean literary ...",
-      "category": "유·초중등",
-      "score": 30,
-      "originalTitle": "Plan for literary translation graduate school delayed over regional development policy",
-      "titleKo": "지역개발정책보다 문학번역대학원 진학계획 지연",
-      "summaryKo": "한국문학번역원 (LTI Korea) 이 한국문학을 전담하는 독립적인 대학원을 설립하기 위한 계획...",
-      "snapshotDate": "2026-09-16"
-    },
-    {
-      "id": "fd14d82f03d1",
-      "title": "교육부, 수시 원서접수 시스템 전반 점검…대학 경쟁률 공개 시점, 사무 이관 방안도",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4MGluTzhhcGNEWTBjSlhkYmRVQTJiSm1LLTNiWHhzcmxseXBtalNKSU1GVDB3V1dmSXotelBpT2VXZWlKN1lMemVtbG05eGdTdUVsTXRGd3ZJRzg?oc=5",
-      "source": "경기일보",
-      "kind": "domestic",
-      "publishedAt": "2026-09-14T08:54:46.000Z",
-      "description": "교육부, 수시 원서접수 시스템 전반 점검…대학 경쟁률 공개 시점, 사무 이관 방안도 경기일보",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 75,
-      "score": 67,
-      "snapshotDate": "2026-09-18"
-    },
-    {
-      "id": "843c617a4fbd",
-      "title": "교육부가 짚은 영유아 사교육 판단 기준, ‘학습의 전이’와 놀이",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1ci1rM2Z3SmgzeW5WRlpvdzhyRTNfQzZNVExtSmNIRkdGN0JWTGpMY1Joel8tbG80c3hJanFia3ZYbjQ2WDNKRV80aklfbFJ1X2JfbGpCZXRmemFSdE9KN3F1LUo2Zw?oc=5",
-      "source": "교육을 비추다",
-      "kind": "domestic",
-      "publishedAt": "2026-09-14T08:46:09.000Z",
-      "description": "교육부가 짚은 영유아 사교육 판단 기준, ‘학습의 전이’와 놀이 교육을 비추다",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 72,
-      "snapshotDate": "2026-09-17"
-    },
-    {
-      "id": "f27fc34f0fbf",
-      "title": "서울시교육청, 3세 유아 학부모 부담 낮춘다",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53MEdrcl81RHFWQnRPT0Vwa21KVUUwdHh3bUNtT0VqQnU4U2VGV18waDhKYWFGaF9JcmlDUW43ek9HQzE3OWRkV0hKbzE4UzNkeVI0bmcxSnhZNC1xT3FvdnUyN1JuR1lDanNWcGJn0gFyQVVfeXFMTldRSnNFc3A3dUhnNWdiRm1oRURHRVJaLUFpV1BMeTkzQ0ZmQmkzbXlMczl3dU9HdmsyWE1BMlVJSzNsajRPbWk4WTU3aUxlbXAwRUJVTEFuSGVJUU5GMC10RGF5VUJGRmt3RXlWMkc5a2JR?oc=5",
-      "source": "eduplusnews.com",
-      "kind": "domestic",
-      "publishedAt": "2026-09-14T08:26:10.000Z",
-      "description": "서울시교육청, 3세 유아 학부모 부담 낮춘다 eduplusnews.com",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 63,
-      "snapshotDate": "2026-09-17"
-    },
-    {
-      "id": "ec89f17fcd41",
-      "title": "유웨이어플라이 장애에 수시 원서 ‘먹통’… 교육부 1200명 구제",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxQWFmZ0VxN1BBSHFILVhqOWg4NkVvMkFQM0ZIaklwd29Gb0p0dnl2eWVqanF3U2hQZDhCQVlaM1VjSk1SNmRub3p0eEkycEVQRVgxX0VuenppcWdaOWNCWW1wNTBBQQ?oc=5",
-      "source": "한국대학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-09-14T08:22:33.000Z",
-      "description": "유웨이어플라이 장애에 수시 원서 ‘먹통’… 교육부 1200명 구제 한국대학신문",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 75,
-      "score": 67,
-      "snapshotDate": "2026-09-18"
-    },
-    {
-      "id": "5ff835192a26",
-      "title": "수시 원서접수 구제 시작…교육부, 시스템 개선 의지 밝혔지만 논란 확산",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPbDNCRkUteGV5NXVOOG1KVFYxRldCM3lPQllPS3JFaTVxUjZyOVNHel9aSGF1SW9KcUNJRml3Q29uWGhud3J6MmktWDhnaEpPSjVKUXBnNzhfLXE2M2hveGY2N0RDLUxwczVSSm9sM1FEV256ODEwZmV1ZGhsYzVpdm41Vm5pdEN3SUlFUUdsNFI2RDV5bkQtRjZlSkNnVFl2WkNJTW5XaFdSbkEyaHRlOE9vYzViRGJMOV9CQ20xTHpvWTZFR3hKQ3h3aElhLV9ua3Y4ZFNIRmVTNm5sQzdhRF9qZmVOZDhNYzlmVWZRbmJSYXRkdTBEOU1UM00yaXg1amRrZURGd0tNdGhCaFppYTVqb25GWTRGZFRCVGptUUlVRnM?oc=5",
-      "source": "데일리안",
-      "kind": "domestic",
-      "publishedAt": "2026-09-14T08:14:00.000Z",
-      "description": "수시 원서접수 구제 시작…교육부, 시스템 개선 의지 밝혔지만 논란 확산 데일리안",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 77,
-      "score": 68,
-      "snapshotDate": "2026-09-18"
-    },
-    {
-      "id": "2b98eae66582",
-      "title": "[대정부 질문] 여야, 교육교부금 개편 우려 한목소리…“교육감과 다시 머리 맞대야”",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UQ1FvLWoycmc4SXFSYXFmQWlPQVo3TGQ5TlhZRGQtUWxDbUpON0JBX1JSek5FdVlLZHB2UGk5c01NYWVmc0tzeTdqM3plRm0zSGVTZHFYMHdTaWlYTUU1dkxCejFBR2c?oc=5",
-      "source": "교육플러스",
-      "kind": "domestic",
-      "publishedAt": "2026-09-14T08:02:51.000Z",
-      "description": "[대정부 질문] 여야, 교육교부금 개편 우려 한목소리…“교육감과 다시 머리 맞대야” 교육플러스",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 70,
-      "snapshotDate": "2026-09-18"
     }
   ]
 }
