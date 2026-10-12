@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-12T00:40:41.151Z",
-  "generatedAtKST": "2026-10-12T09:40:38.544+09:00",
+  "generatedAt": "2026-10-12T01:26:13.049Z",
+  "generatedAtKST": "2026-10-12T10:26:09.446+09:00",
   "date": "2026-10-12",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 10,
-    "domesticGoogle": 174,
-    "foreignBing": 10,
-    "foreignGoogle": 204,
-    "carried": 55,
-    "rawUnique": 347,
-    "policyRejected": 291,
-    "policyKept": 56
+    "domesticBing": 9,
+    "domesticGoogle": 179,
+    "foreignBing": 9,
+    "foreignGoogle": 209,
+    "carried": 109,
+    "rawUnique": 356,
+    "policyRejected": 295,
+    "policyKept": 61
   },
   "briefing": [
     "임종식 경북교육감 취임 100일…AI 교육 대전환 본격 추진 — 중도일보",
@@ -24,9 +24,9 @@
     "강삼영 강원교육감 취임 100일, ‘공교육 책임 학력 체계’로 강원교육 대수술 선언 — 브릿지경제 on MSN"
   ],
   "stats": {
-    "total": 67,
+    "total": 72,
     "official": 9,
-    "domestic": 47,
+    "domestic": 52,
     "foreign": 11
   },
   "items": [
@@ -191,6 +191,19 @@
       "score": 82
     },
     {
+      "id": "789e9129ea10",
+      "title": "말레이시아는 50년 넘게 시행되어 온 대학법을 개정할 준비를 하고 있다.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVZEQTVFb3pQRklnMlBsWXE0NGVMTmRFdEstX25wSjhUeGp1VDRycjVabXoxcW9VbVVxbUpZclZiZTV4ZUFZNWtKV2lBV1I1MU5zb3NySlJVeXk2bmlqQVNBdUVJdHpkU3hQdGpNZmJ6eHNZdVkzYV9qbVNtb0xkczVuV1NSaHM?oc=5",
+      "source": "Vietnam.vn",
+      "kind": "domestic",
+      "publishedAt": "2026-10-11T01:26:28.000Z",
+      "description": "말레이시아는 50년 넘게 시행되어 온 대학법을 개정할 준비를 하고 있다. Vietnam.vn",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 52,
+      "score": 80
+    },
+    {
       "id": "b7cc1476e02e",
       "title": "교원 3단체 “고교학점제 혼란 그대로인데 대입·서논술형 확대”…국교위·교육부에 3대 요구",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvUXVVY1JOMzd1a3JjaEZTT3NVWHQ5Qlh5eC1wVFFiWmVaZktJYTJUak1tbHZuVzF3QnNaYndKbGRhdTVGRllaWHdPdnA0NGRpOUozWnNaTk9hUlQxZlEw?oc=5",
@@ -308,6 +321,19 @@
       "score": 76
     },
     {
+      "id": "66c035d842a9",
+      "title": "경북교육청, ‘학생평가 대전환’ 현장 중심 지원 강화",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oQXU4VGJYclFvVVFNbWliVWFwX2V0NDJzU2F0RE1QeWo2U3g3czlXVHhjN0Z3WVp2NGRLaDFOakczZC1welhHMnhvR0lEMXpPWnBFZko4VVVpQm5YaEVn?oc=5",
+      "source": "누리일보",
+      "kind": "domestic",
+      "publishedAt": "2026-10-12T01:10:04.000Z",
+      "description": "경북교육청, ‘학생평가 대전환’ 현장 중심 지원 강화 누리일보",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 73
+    },
+    {
       "id": "959ac1ac3016",
       "title": "임종식 경북교육감 취임 100일 들여다 봤더니…학교 부담 줄이고 학생 성장에 집중",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBlZl9kSjZOamtDQXloLXozU0NMX2lMQ09nU0laZVQzYkxlNTZPb1ZsSXpnY1RBMDl3UkNfRC1KcFR6ZDNHUlNpVjNtZnM?oc=5",
@@ -319,6 +345,19 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 73
+    },
+    {
+      "id": "91447d23ddad",
+      "title": "교육감협의회 “내년 교부금 실질 증가 2.4조원…인건비 상승분 2.5조원도 감당 어려워”",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pR0JBV0ptc0dkZFBfQmdYdkJPWEZfdUxDb2Z1MDlKZmtsS0JtQmtSY1JNMzVmUjJzb1dvbVVDZ2tBUnBIRG01SVY4SnRZRVZWRGtOT1lja2xhQzl4eFo4?oc=5",
+      "source": "전북미래교육신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-08T13:24:57.000Z",
+      "description": "교육감협의회 “내년 교부금 실질 증가 2.4조원…인건비 상승분 2.5조원도 감당 어려워” 전북미래교육신문",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 77,
+      "score": 72
     },
     {
       "id": "84333eb1312f",
@@ -410,6 +449,19 @@
       "feedProvider": "google",
       "policyRelevance": 81,
       "score": 69
+    },
+    {
+      "id": "f1d571c42a38",
+      "title": "양주시, 교육부 장관에 ‘교육재정 확대’ 요청…특수학교 신설·유보통합 해법 찾는다",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Uakhub2hIWGpQVTlXU1d5TVR0OXdlOEtqY2NZZlJIdFhpSFgwZjRFX0EzTG14czVQd2s4ZnV6TnBrMjMtMGMwbXFKRVYyWTZFOVAwMUlPWmg3eXVL?oc=5",
+      "source": "선데이뉴스신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-09T00:41:47.000Z",
+      "description": "양주시, 교육부 장관에 ‘교육재정 확대’ 요청…특수학교 신설·유보통합 해법 찾는다 선데이뉴스신문",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 77,
+      "score": 68
     },
     {
       "id": "8dae263c46ba",
@@ -672,6 +724,19 @@
       "score": 56
     },
     {
+      "id": "aa231da6dd9b",
+      "title": "임종식 교육감 취임 100일…‘경북교육 2030 대전환’ 본격 추진",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EdkxQSXBHWEREeEk0X1hHY1BRTWNfMEt2TXZtN1ZkQjJaVkV3RlhmVXNJSUFPQ3dndktWYnpYeTc1a1JwUjJSbjE4OFRNUWlCeVRDdGRHX1B5NmpWVGlEWTJPUzJUSXRkZUHSAWxBVV95cUxPbWd3ZGFwcU1wYlE4SXBOQlNBYVM1T1ZxSE9ndHExNDBNQkVEaVYtS0M2akZmeDRTS193a2o1NEdJVkhLREhTNW5ZZm5Tb2Y2MGp3c0NkZHFFdEZydXp3U216TUd0S3hheXZfbGg?oc=5",
+      "source": "시사경제신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-08T12:13:19.000Z",
+      "description": "임종식 교육감 취임 100일…‘경북교육 2030 대전환’ 본격 추진 시사경제신문",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 47,
+      "score": 54
+    },
+    {
       "id": "4a590405fd6f",
       "title": "임종식 경북교육감 3기 100일…“사업은 줄이고, 학생의 배움은 넓힌다”",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaVpqVVZxWmxMZHN5OWl4ZHQ5c01PTXluNGhvTUZjZDNJd0RWWDZ5WXg4NkF2ckFib0wzUl9oSnJaaUZXS0RveHY2UjAzZ281Mk5CekhJWHJsaG5iZVk3cE5xV0NQNHFKTzYxSmNyY3hXbldRNjRsUlIyTjlBd3pKRg?oc=5",
@@ -911,24 +976,26 @@
     "throughDate": "2026-10-12",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-10-10T15:00:00.000Z",
-    "windowEnd": "2026-10-12T00:40:41.151Z",
+    "windowEnd": "2026-10-12T01:26:13.049Z",
     "itemIds": [
       "0aec28a71016",
       "9c0d65ff7849",
+      "789e9129ea10",
       "b2576cf1f906",
       "1aa9ac8f2b8b",
+      "66c035d842a9",
       "959ac1ac3016",
       "84333eb1312f",
       "47c633b9d3c7"
     ],
     "stats": {
-      "total": 7,
+      "total": 9,
       "official": 0,
-      "domestic": 7,
+      "domestic": 9,
       "foreign": 0
     },
     "headline": "오늘 아침 교육뉴스는 교원·조직·고등교육·AI·디지털 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 7건이 확인됐습니다. 국내 언론에서는 임종식 경북교육감 취임 100일…AI 교육 대전환 본격 추진와 강삼영 강원교육감 취임 100일, ‘공교육 책임 학력 체계’로 강원교육 대수술 선언 등이 주요하게 다뤄졌습니다. 전체적으로는 교원·조직·고등교육·AI·디지털 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 9건이 확인됐습니다. 국내 언론에서는 임종식 경북교육감 취임 100일…AI 교육 대전환 본격 추진와 강삼영 강원교육감 취임 100일, ‘공교육 책임 학력 체계’로 강원교육 대수술 선언 등이 주요하게 다뤄졌습니다. 전체적으로는 교원·조직·고등교육·AI·디지털 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "교원·조직",
@@ -942,9 +1009,10 @@
       },
       {
         "title": "고등교육",
-        "summary": "‘불신의 제도화’, 멈추지 않는 대학 줄 세우기 · [국감 이슈분석 ③·完 고등교육정책] 지역대학 지원 실효성 쟁점",
+        "summary": "말레이시아는 50년 넘게 시행되어 온 대학법을 개정할 준비를 하고 있다. · ‘불신의 제도화’, 멈추지 않는 대학 줄 세우기 · [국감 이슈분석 ③·完 고등교육정책] 지역대학 지원 실효성 쟁점",
         "why": "대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다.",
         "sources": [
+          "Vietnam.vn",
           "교수신문",
           "한국교육신문"
         ]

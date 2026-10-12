@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T00:40:56.138Z",
+  "generatedAt": "2026-10-12T01:26:28.953Z",
   "retentionDays": 30,
   "days": [
     "2026-10-12",
@@ -33,6 +33,20 @@
     "2026-09-13"
   ],
   "items": [
+    {
+      "id": "66c035d842a9",
+      "title": "경북교육청, ‘학생평가 대전환’ 현장 중심 지원 강화",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oQXU4VGJYclFvVVFNbWliVWFwX2V0NDJzU2F0RE1QeWo2U3g3czlXVHhjN0Z3WVp2NGRLaDFOakczZC1welhHMnhvR0lEMXpPWnBFZko4VVVpQm5YaEVn?oc=5",
+      "source": "누리일보",
+      "kind": "domestic",
+      "publishedAt": "2026-10-12T01:10:04.000Z",
+      "description": "경북교육청, ‘학생평가 대전환’ 현장 중심 지원 강화 누리일보",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 73,
+      "snapshotDate": "2026-10-12"
+    },
     {
       "id": "959ac1ac3016",
       "title": "임종식 경북교육감 취임 100일 들여다 봤더니…학교 부담 줄이고 학생 성장에 집중",
@@ -115,6 +129,20 @@
       "feedProvider": "bing",
       "policyRelevance": 77,
       "score": 96,
+      "snapshotDate": "2026-10-12"
+    },
+    {
+      "id": "789e9129ea10",
+      "title": "말레이시아는 50년 넘게 시행되어 온 대학법을 개정할 준비를 하고 있다.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVZEQTVFb3pQRklnMlBsWXE0NGVMTmRFdEstX25wSjhUeGp1VDRycjVabXoxcW9VbVVxbUpZclZiZTV4ZUFZNWtKV2lBV1I1MU5zb3NySlJVeXk2bmlqQVNBdUVJdHpkU3hQdGpNZmJ6eHNZdVkzYV9qbVNtb0xkczVuV1NSaHM?oc=5",
+      "source": "Vietnam.vn",
+      "kind": "domestic",
+      "publishedAt": "2026-10-11T01:26:28.000Z",
+      "description": "말레이시아는 50년 넘게 시행되어 온 대학법을 개정할 준비를 하고 있다. Vietnam.vn",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 52,
+      "score": 80,
       "snapshotDate": "2026-10-12"
     },
     {
@@ -272,6 +300,20 @@
       "snapshotDate": "2026-10-12"
     },
     {
+      "id": "f1d571c42a38",
+      "title": "양주시, 교육부 장관에 ‘교육재정 확대’ 요청…특수학교 신설·유보통합 해법 찾는다",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Uakhub2hIWGpQVTlXU1d5TVR0OXdlOEtqY2NZZlJIdFhpSFgwZjRFX0EzTG14czVQd2s4ZnV6TnBrMjMtMGMwbXFKRVYyWTZFOVAwMUlPWmg3eXVL?oc=5",
+      "source": "선데이뉴스신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-09T00:41:47.000Z",
+      "description": "양주시, 교육부 장관에 ‘교육재정 확대’ 요청…특수학교 신설·유보통합 해법 찾는다 선데이뉴스신문",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 77,
+      "score": 68,
+      "snapshotDate": "2026-10-12"
+    },
+    {
       "id": "6e86c0930a98",
       "title": "\"0 Won Tuition in South Korea, Scholarships in Japan\"!? Differences in Educational Policies Supporting University Enrollment",
       "url": "https://note.com/shogakukinhensai/n/ne501f4108fea?hl=en",
@@ -301,6 +343,20 @@
       "snapshotDate": "2026-10-12"
     },
     {
+      "id": "91447d23ddad",
+      "title": "교육감협의회 “내년 교부금 실질 증가 2.4조원…인건비 상승분 2.5조원도 감당 어려워”",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pR0JBV0ptc0dkZFBfQmdYdkJPWEZfdUxDb2Z1MDlKZmtsS0JtQmtSY1JNMzVmUjJzb1dvbVVDZ2tBUnBIRG01SVY4SnRZRVZWRGtOT1lja2xhQzl4eFo4?oc=5",
+      "source": "전북미래교육신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-08T13:24:57.000Z",
+      "description": "교육감협의회 “내년 교부금 실질 증가 2.4조원…인건비 상승분 2.5조원도 감당 어려워” 전북미래교육신문",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 77,
+      "score": 72,
+      "snapshotDate": "2026-10-12"
+    },
+    {
       "id": "b7cc1476e02e",
       "title": "교원 3단체 “고교학점제 혼란 그대로인데 대입·서논술형 확대”…국교위·교육부에 3대 요구",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvUXVVY1JOMzd1a3JjaEZTT3NVWHQ5Qlh5eC1wVFFiWmVaZktJYTJUak1tbHZuVzF3QnNaYndKbGRhdTVGRllaWHdPdnA0NGRpOUozWnNaTk9hUlQxZlEw?oc=5",
@@ -326,6 +382,20 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 62,
+      "snapshotDate": "2026-10-12"
+    },
+    {
+      "id": "aa231da6dd9b",
+      "title": "임종식 교육감 취임 100일…‘경북교육 2030 대전환’ 본격 추진",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EdkxQSXBHWEREeEk0X1hHY1BRTWNfMEt2TXZtN1ZkQjJaVkV3RlhmVXNJSUFPQ3dndktWYnpYeTc1a1JwUjJSbjE4OFRNUWlCeVRDdGRHX1B5NmpWVGlEWTJPUzJUSXRkZUHSAWxBVV95cUxPbWd3ZGFwcU1wYlE4SXBOQlNBYVM1T1ZxSE9ndHExNDBNQkVEaVYtS0M2akZmeDRTS193a2o1NEdJVkhLREhTNW5ZZm5Tb2Y2MGp3c0NkZHFFdEZydXp3U216TUd0S3hheXZfbGg?oc=5",
+      "source": "시사경제신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-08T12:13:19.000Z",
+      "description": "임종식 교육감 취임 100일…‘경북교육 2030 대전환’ 본격 추진 시사경제신문",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 47,
+      "score": 54,
       "snapshotDate": "2026-10-12"
     },
     {
@@ -8390,76 +8460,6 @@
       "policyRelevance": 75,
       "score": 71,
       "snapshotDate": "2026-09-19"
-    },
-    {
-      "id": "3aee0c1aac6f",
-      "title": "교육부, 인지과학으로 푸는 영유아 사교육 고민… 14일 학부모 이야기 마당 개최",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oWjBFZXZUbzJfWnJJZV81aDZqV0YwUjRMUktUc0MtQ2hkOVpfTjc3QTY4ZWR1TTJwYmxadUF6NjV2WkNIWjU4a3dROW9CTUVsTUlkNVMybEtJNTJsSUlKVTA5Qmc0dw?oc=5",
-      "source": "교육을 비추다",
-      "kind": "domestic",
-      "publishedAt": "2026-09-15T12:07:16.000Z",
-      "description": "교육부, 인지과학으로 푸는 영유아 사교육 고민… 14일 학부모 이야기 마당 개최 교육을 비추다",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 75,
-      "score": 67,
-      "snapshotDate": "2026-09-19"
-    },
-    {
-      "id": "ecd973eeeb7f",
-      "title": "전북도의회 예결위, 2025회계연도 도교육청 결산 및 2026년 도교육청 제2회 추경예산안 등 심사 돌입",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBSzhVa2ExU1c5OGFpSGNqMnRmZElxTnYyOEtaaDhMUXd1ajhmQWdyMnFOU0lSX1dyYzNTdXduUjhhRmNQcUQ4ZTd2SndUTWpCeEZPbWJXV2h3cHZQWHFrOUdMQkhSY1RzYzJz?oc=5",
-      "source": "전주일보",
-      "kind": "domestic",
-      "publishedAt": "2026-09-15T08:35:32.000Z",
-      "description": "전북도의회 예결위, 2025회계연도 도교육청 결산 및 2026년 도교육청 제2회 추경예산안 등 심사 돌입 전주일보",
-      "category": "재정·법령",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 66,
-      "snapshotDate": "2026-09-19"
-    },
-    {
-      "id": "70db213f3c5f",
-      "title": "\"사교육 넘는 공교육 면접망\"… 경북교육청, 대입 수시 원스톱 지원 |",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jcUJDdFVicERnbHE3NFNlYV9tdFNmZHdGNUJQZmhLTzB3WEtJeUZhazhZV09CaUZrejRydUN2WkxpQTJaXzd4WlBjN2pkV3ZfMnR5TGtLbThKVUxsSG9XTWZjY3B5TXlBcWVNN3liVy1mR1hO?oc=5",
-      "source": "이뉴스투데이",
-      "kind": "domestic",
-      "publishedAt": "2026-09-15T08:34:53.000Z",
-      "description": "\"사교육 넘는 공교육 면접망\"… 경북교육청, 대입 수시 원스톱 지원 | 이뉴스투데이",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 75,
-      "score": 71,
-      "snapshotDate": "2026-09-19"
-    },
-    {
-      "id": "8642a097d5c5",
-      "title": "인천 요양보호사교육기관 6곳 추가 지정…지역별 접근성 확대",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50YzZiOE5wYTBvYnd2OFlxV2pBV3ZxSWNiQ0Q0OFRWN1JmejktaVBCcFJiREZaQnRBeWZIU2ZUTHJEOW5vRktlZnM5TTBYMzZudkJpZw?oc=5",
-      "source": "v.daum.net",
-      "kind": "domestic",
-      "publishedAt": "2026-09-15T05:47:00.000Z",
-      "description": "인천 요양보호사교육기관 6곳 추가 지정…지역별 접근성 확대 v.daum.net",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 42,
-      "score": 62,
-      "snapshotDate": "2026-09-17"
-    },
-    {
-      "id": "529273bca636",
-      "title": "경상국립대, 2027학년도 신입생 수시모집 평균 경쟁률 8.09대 1",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZbGtKYWVuMHVkQ25GTExDb3lwRkxEeVJvZnZqLWNTeE9lWmFnNzhocFJkVnBGZ2lHMjQ1WFRjelQ3WFpQYmxOcTZ6cFNQZk5LdHVtNkc1cnBNS1d6TWFxQmlJRUF0NUtP?oc=5",
-      "source": "미디어팜",
-      "kind": "domestic",
-      "publishedAt": "2026-09-15T05:20:02.000Z",
-      "description": "경상국립대, 2027학년도 신입생 수시모집 평균 경쟁률 8.09대 1 미디어팜",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 61,
-      "snapshotDate": "2026-09-17"
     }
   ]
 }
