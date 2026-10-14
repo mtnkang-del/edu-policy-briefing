@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-14T00:27:15.169Z",
-  "generatedAtKST": "2026-10-14T09:27:12.334+09:00",
+  "generatedAt": "2026-10-14T01:17:36.411Z",
+  "generatedAtKST": "2026-10-14T10:17:33.671+09:00",
   "date": "2026-10-14",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 15,
-    "domesticGoogle": 189,
-    "foreignBing": 7,
-    "foreignGoogle": 208,
-    "carried": 71,
+    "domesticBing": 16,
+    "domesticGoogle": 191,
+    "foreignBing": 5,
+    "foreignGoogle": 206,
+    "carried": 138,
     "rawUnique": 396,
-    "policyRejected": 324,
-    "policyKept": 72
+    "policyRejected": 323,
+    "policyKept": 73
   },
   "briefing": [
     "부트캠프 학생들, 반도체와 미래차 산업 현장을 만나다 — 교육부",
@@ -26,8 +26,8 @@
   "stats": {
     "total": 80,
     "official": 9,
-    "domestic": 63,
-    "foreign": 8
+    "domestic": 64,
+    "foreign": 7
   },
   "items": [
     {
@@ -386,6 +386,19 @@
       "score": 78
     },
     {
+      "id": "5245104e1b27",
+      "title": "‘정답’에서 ‘생각’으로, 교육청 정책 추진 방식부터 바뀌어야 한다",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SQUdRclpJU3FGSm5lLW1ZMFhQSXRVaWYwQmYwVzMzdmNZeEVYRFpFY1VqNzkxWWVQbnVNYlZGODc1cVpEYzFjanhpei1KZ2xFbzJuSXo5RDZtdTZIR2lhMDhMN1M?oc=5",
+      "source": "매일일보",
+      "kind": "domestic",
+      "publishedAt": "2026-10-11T16:56:57.000Z",
+      "description": "‘정답’에서 ‘생각’으로, 교육청 정책 추진 방식부터 바뀌어야 한다 매일일보",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 77,
+      "score": 78
+    },
+    {
       "id": "5fd70792558a",
       "title": "전남광주특별시교육청, 서·논술형 평가, 교원･학부모 의견 반영 2027년까지 준비 기간 운영",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1X2NHWEhNNVFLWkhXNjA0NG11NkZfdW15RnJjYWJRak9STWZPeFZHSTNCNGhZSDlnNEFPbEpoTUF0bnNMVzJfSkU3ajl1c1VGeUw2Tk5wOXFqQmh3?oc=5",
@@ -711,6 +724,19 @@
       "score": 63
     },
     {
+      "id": "8d553aa05e0b",
+      "title": "김영도 전문대교협 회장 “기술 인재 양성할 직업교육법 필요”[2026 국감]",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mUHVUblA2TEh1VE84SklETTdHcWdvZ2RFMkcycWZvZW02QjFBTml4ZUJOZWRBeXpidDN5XzA3dWdFZVUwc19QcVJUZ29ONTJ5XzVpWHhSYzY2eGpWR2Z3U29JdjB6QQ?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-12T09:27:31.000Z",
+      "description": "김영도 전문대교협 회장 “기술 인재 양성할 직업교육법 필요”[2026 국감] 한국대학신문",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 63
+    },
+    {
       "id": "dba1942fc066",
       "title": "김영도 전문대교협 회장 “산업구조 빠르게 재편… 직업교육법 제정 시급”[2026 국감]",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mUHVUblA2TEh1VE84SklETTdHcWdvZ2RFMkcycWZvZW02QjFBTml4ZUJOZWRBeXpidDN5XzA3dWdFZVUwc19QcVJUZ29ONTJ5XzVpWHhSYzY2eGpWR2Z3U29JdjB6QQ?oc=5",
@@ -867,19 +893,6 @@
       "score": 61
     },
     {
-      "id": "308510254489",
-      "title": "[교육타파] 천호성표 조직개편 입법예고…3개 국 분장사무 조정, '도전교육' 신설·교원노조 업무는 행정국으로",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6WEV0a1k0dS03d3pVY1I5YkJkc2Y1dm1OMHhBdS1vQk9TXzFmcEZibzdIeGREaWVtNjh3MFZtNXhMaW9JajFyRUdONWhHWjNuS0lfcmRPZzNLNy1JTm9Z?oc=5",
-      "source": "전북미래교육신문",
-      "kind": "domestic",
-      "publishedAt": "2026-10-10T00:49:05.000Z",
-      "description": "[교육타파] 천호성표 조직개편 입법예고…3개 국 분장사무 조정, '도전교육' 신설·교원노조 업무는 행정국으로 전북미래교육신문",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 59
-    },
-    {
       "id": "536970be9d0a",
       "title": "국회의장: 학생들이 세계적인 지식에 접근할 수 있는 환경을 조성합니다.",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQmdLRHJ6TnVpSWNBQ0RVcjZSNHBQTEZueUxxWGZnS21wRXJ1eW5pRll1cHF5NzAxcHJ1YlNsM3d1blNmeGp3Y3dRalRjR1BNWm9vZXJvUjdmLXp4NDBqMGlNbXVGZEoyaDRVeGZvYlBwNTgzaGxfTk04Tk5Vc0Y1X29NM0xLOGNaWVF3Z1MtT1UzclVoWl8xaUJPcHB3Zw?oc=5",
@@ -972,32 +985,32 @@
       "summaryKo": "한국의 대학교육과 관련하여, 지역 국립 대학의 등록금을 무료화하는 정책이 선진화되고 있습니다 .2026년 9월에 보도된 뉴스에서, 17세에..."
     },
     {
-      "id": "d8795d60b879",
-      "title": "Iran–Korea Chamber report highlights South Korea’s youth employment for knowledge exchange",
-      "url": "https://www.tehrantimes.com/news/530875/Iran-Korea-Chamber-report-highlights-South-Korea-s-youth-employment",
-      "source": "Tehran Times",
+      "id": "437add4c243e",
+      "title": "Greater opportunities for growth: South Korea plans new routes for students",
+      "url": "https://www.msn.com/en-xl/africa/nigeria/greater-opportunities-for-growth-south-korea-plans-new-routes-for-students/ar-AA2dPuo9",
+      "source": "Legit.ng on MSN",
       "kind": "foreign",
-      "publishedAt": "2026-10-08T07:08:00.000Z",
-      "description": "TEHRAN- The Iran–Korea Chamber of Commerce has released its fifth policy report, examining South Korea’s efforts to help young people move from education into employment. The report, “From Degrees to ...",
-      "category": "기타",
-      "score": 30,
-      "originalTitle": "Iran–Korea Chamber report highlights South Korea’s youth employment for knowledge exchange",
-      "titleKo": "이란-한국 상공회의소 보고서, 지식 교류를 위한 한국의 청년 고용 강조",
-      "summaryKo": "테헤란- 이란-한국 상공회의소는 젊은이들이 교육에서 취업으로 옮겨갈 수 있도록 돕는 한국의 노력을 조사한 다섯 번째 정책 보고서를 발표했다. 보고서, “학위에서..."
-    },
-    {
-      "id": "827f1110ccc5",
-      "title": "South Korea plans to ease student visa rules, new gap-year track to woo foreign talent",
-      "url": "https://www.straitstimes.com/asia/east-asia/south-korea-plans-to-ease-student-visa-rules-new-gap-year-track-to-woo-foreign-talent",
-      "source": "The Straits Times",
-      "kind": "foreign",
-      "publishedAt": "2026-10-07T10:42:00.000Z",
-      "description": "Proposals include simpler part-time work permits and new pathways to employment and long-term residence. Read more at straitstimes.com.",
+      "publishedAt": "2026-10-08T08:53:29.000Z",
+      "description": "South Korea plans to waive proof-of-funds rules for Korean-proficient students in 2026, with gap-year visas, easier work and new routes to jobs and residence.",
       "category": "유·초중등",
       "score": 30,
-      "originalTitle": "South Korea plans to ease student visa rules, new gap-year track to woo foreign talent",
-      "titleKo": "한국은 외국인 인재를 유치하기 위해 학생 비자 규정을 완화하고 새로운 갭 이어 트랙을 계획하고 있습니다.",
-      "summaryKo": "제안에는 더 간단한 아르바이트 허가와 고용 및 장기 거주를 위한 새로운 경로가 포함됩니다. 자세한 내용은 straitstimes.com에서 확인하세요."
+      "originalTitle": "Greater opportunities for growth: South Korea plans new routes for students",
+      "titleKo": "성장 기회 확대: 한국은 학생들을 위한 새로운 경로를 계획하고 있습니다.",
+      "summaryKo": "한국은 갭이어 비자, 더 쉬운 취업, 일자리 및 거주지로의 새로운 경로를 통해 2026년에 한국인 학생에 대한 자금 증빙 규정을 면제할 계획입니다."
+    },
+    {
+      "id": "d08404a7c9a7",
+      "title": "S. Korea plans to ease student visa rules, new gap-year track to woo foreign talent",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/08/s-korea-plans-to-ease-student-visa-rules-new-gap-year-track-to-woo-foreign-talent",
+      "source": "The Star",
+      "kind": "foreign",
+      "publishedAt": "2026-10-08T04:11:00.000Z",
+      "description": "SEOUL: South Korea plans to waive proof-of-funds requirements for international students who meet Korean-language standards and introduce a visa pathway for gap-year study, the country's Justice ...",
+      "category": "유·초중등",
+      "score": 30,
+      "originalTitle": "S. Korea plans to ease student visa rules, new gap-year track to woo foreign talent",
+      "titleKo": "S. 한국은 외국인 인재를 구하기 위해 학생 비자 규정을 완화하고 새로운 갭 이어 트랙을 계획하고 있습니다.",
+      "summaryKo": "서울: 한국은 한국어 기준을 충족하는 유학생에 대한 기금 증빙 요건을 면제하고 갭 이어 학습을 위한 비자 경로를 도입할 계획입니다. 한국 법무부..."
     },
     {
       "id": "cf49f4305eb9",
@@ -1028,20 +1041,6 @@
       "summaryKo": "한국의 4대 과학기술기관에 대한 신청은 처음으로 3만 3천 건을 돌파하여 새로운 인공지능 프로그램으로 36.5% 증가했다."
     },
     {
-      "id": "df97c3d1712e",
-      "title": "Kids in South Korea Are Learning AI With Ethics First",
-      "url": "https://www.techloy.com/south-korea-ai-education-children-ai-ethics/",
-      "source": "Techloy",
-      "kind": "foreign",
-      "publishedAt": "2026-10-05T08:15:00.000Z",
-      "description": "As Artificial Intelligence reshapes the global economy, including education, South Korea is exposing children to AI at an earlier age while teaching them how to use the technology responsibly. An Al ...",
-      "category": "AI·디지털",
-      "score": 30,
-      "originalTitle": "Kids in South Korea Are Learning AI With Ethics First",
-      "titleKo": "한국의 어린이들은 윤리적으로 인공지능을 먼저 배우고 있습니다.",
-      "summaryKo": "인공 지능이 교육을 포함한 세계 경제를 재편함에 따라 한국은 어린 나이에 기술을 책임감있게 사용하는 방법을 가르치면서 어린이를 AI에 노출시키고 있습니다. 안 알..."
-    },
-    {
       "id": "98623cd333c9",
       "title": "Inside South Korea’s push to bring IB into mainstream schools",
       "url": "https://thepienews.com/inside-south-koreas-push-to-bring-ib-into-mainstream-schools/",
@@ -1056,18 +1055,18 @@
       "summaryKo": "윌슨 샹 (Wilson Shang) 은 한국이 국제 교육과정을 주류 국가 교육에 포함시키는 세계에서 가장 저명한 시험대 중 하나로 부상한 방법을 탐구합니다."
     },
     {
-      "id": "ef9964cecfef",
-      "title": "Sejong University to host International Student Future Higher Education Forum on Oct. 1",
-      "url": "https://www.koreatimes.co.kr/southkorea/education/20260928/sejong-university-to-host-international-student-future-higher-education-forum-on-oct-1",
-      "source": "The Korea Times",
+      "id": "66494022e80f",
+      "title": "People before plants: South Korea trains its chipmakers first",
+      "url": "https://www.upi.com/Voices/2026/10/01/perspective-technical-high-schools/6111790879175/",
+      "source": "UPI",
       "kind": "foreign",
-      "publishedAt": "2026-09-28T04:46:00.000Z",
-      "description": "Sejong University will host the 8th International Student Future (ISF) Higher Education Forum at its Seoul campus on Oct. 1 to discuss ways to ...",
-      "category": "고등교육",
+      "publishedAt": "2026-10-01T08:54:00.000Z",
+      "description": "Before a semiconductor fabrication plant rises, the government will train technicians through a hands-on program that recruits those in high school, ...",
+      "category": "AI·디지털",
       "score": 30,
-      "originalTitle": "Sejong University to host International Student Future Higher Education Forum on Oct. 1",
-      "titleKo": "세종대학교, 10월 1일 국제학생미래고등교육포럼 개최",
-      "summaryKo": "세종대학교는 오는 10월 1일 서울캠퍼스에서 제8회 국제학생미래 (ISF) 고등교육포럼을 개최하여..."
+      "originalTitle": "People before plants: South Korea trains its chipmakers first",
+      "titleKo": "공장 이전의 인력: 한국은 칩 제조사를 먼저 훈련시킵니다.",
+      "summaryKo": "반도체 제작 공장이 들어서기 전에 정부는 고등학교에서 기술자를 모집하는 실습 프로그램을 통해 기술자를 양성할 것입니다."
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -1077,7 +1076,7 @@
     "throughDate": "2026-10-14",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-10-12T15:00:00.000Z",
-    "windowEnd": "2026-10-14T00:27:15.169Z",
+    "windowEnd": "2026-10-14T01:17:36.411Z",
     "itemIds": [
       "1ae16fee0035",
       "44a4dbd83f76",
