@@ -1,32 +1,32 @@
 {
-  "generatedAt": "2026-10-15T23:44:25.885Z",
-  "generatedAtKST": "2026-10-16T08:44:22.678+09:00",
+  "generatedAt": "2026-10-16T00:30:57.425Z",
+  "generatedAtKST": "2026-10-16T09:30:34.878+09:00",
   "date": "2026-10-16",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
-    "officialLive": 10,
-    "domesticBing": 15,
-    "domesticGoogle": 211,
+    "officialLive": 0,
+    "domesticBing": 16,
+    "domesticGoogle": 208,
     "foreignBing": 4,
-    "foreignGoogle": 200,
-    "carried": 89,
-    "rawUnique": 410,
-    "policyRejected": 318,
+    "foreignGoogle": 202,
+    "carried": 157,
+    "rawUnique": 407,
+    "policyRejected": 319,
     "policyKept": 80
   },
   "briefing": [
     "어린이집·유치원 입소·입학 신청, 더 쉽고 편리해진다 — 교육부",
     "교육부는 유아 대상 레벨테스트 금지 제도가 현장에서 실효성 있게 작동하도록 점검 및 조치를 강화하겠습니다 — 교육부",
     "학교 태양광 설비 안전관리 강화를 위해 교육부-한국전기안전공사 손 맞잡는다 — 교육부",
-    "부트캠프 학생들, 반도체와 미래차 산업 현장을 만나다 — 교육부",
-    "교육감협의회 \"교부금 개편에 초·중등 재정 감소 우려\"…국회 설득 강화 — 뉴스1 on MSN"
+    "교육감협의회 \"교부금 개편에 초·중등 재정 감소 우려\"…국회 설득 강화 — 뉴스1 on MSN",
+    "시험 도중 바꿔치기도…수능 앞두고 ‘AI 안경’ 부정행위 비상 — 시사저널"
   ],
   "stats": {
     "total": 80,
-    "official": 9,
-    "domestic": 71,
+    "official": 4,
+    "domestic": 76,
     "foreign": 0
   },
   "items": [
@@ -40,7 +40,7 @@
       "description": "교육부 공식 보도자료",
       "category": "유·초중등",
       "policyRelevance": 100,
-      "score": 115
+      "score": 105
     },
     {
       "id": "2b9672d65a6c",
@@ -61,18 +61,6 @@
       "source": "교육부",
       "kind": "official",
       "publishedAt": "2026-10-14T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "유·초중등",
-      "policyRelevance": 100,
-      "score": 105
-    },
-    {
-      "id": "1ae16fee0035",
-      "title": "부트캠프 학생들, 반도체와 미래차 산업 현장을 만나다",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107402&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-10-13T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "유·초중등",
       "policyRelevance": 100,
@@ -118,39 +106,14 @@
       "score": 98
     },
     {
-      "id": "3b53bf37074a",
-      "title": "경남교육청, 교원 100여 명과 AI·디지털 교육 정책 방향 논의",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sSFliWEVCYUp6RWUwYkNqekJiLWg0NXQ3d2dac3RETzZGSVpsY2diU3laMjJZTi1yZGRBRmQxS1FycWd3akhSQTNzZHF4WElYUnMyMVU5VlVxcmlocTdXenJEMUN0WjU3?oc=5",
-      "source": "더쎈뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-10-14T23:54:12.000Z",
-      "description": "경남교육청, 교원 100여 명과 AI·디지털 교육 정책 방향 논의 더쎈뉴스",
-      "category": "AI·디지털",
-      "feedProvider": "google",
-      "policyRelevance": 75,
-      "score": 95
-    },
-    {
-      "id": "b177ec3e252c",
-      "title": "사립대학 특성화에 집중 투자, 2026년 특성화 선도대학 33개교 선정",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107396&lev=0&m=020402",
+      "id": "1ae16fee0035",
+      "title": "부트캠프 학생들, 반도체와 미래차 산업 현장을 만나다",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107402&lev=0&m=020402",
       "source": "교육부",
       "kind": "official",
-      "publishedAt": "2026-10-12T09:00:00+09:00",
+      "publishedAt": "2026-10-13T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
-      "category": "고등교육",
-      "policyRelevance": 100,
-      "score": 95
-    },
-    {
-      "id": "0179c65acb95",
-      "title": "새로운 행정으로 변화를 이끌어 내는 적극행정 우수공무원 시상",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107395&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-10-12T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "기타",
+      "category": "유·초중등",
       "policyRelevance": 100,
       "score": 95
     },
@@ -191,42 +154,6 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 90
-    },
-    {
-      "id": "886b79a2e0d8",
-      "title": "재외동포 어린이, 그림일기로 한국어 실력을 선보이다",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107378&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-10-06T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "기타",
-      "policyRelevance": 100,
-      "score": 90
-    },
-    {
-      "id": "e513f6fe5b54",
-      "title": "‘꿈을 향한 장애학생들의 도전과 희망’ 2026년 전국 장애학생 직업기능 경진대회 개최",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107377&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-10-06T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "유·초중등",
-      "policyRelevance": 100,
-      "score": 90
-    },
-    {
-      "id": "fc4a964d366a",
-      "title": "데이터로 읽는 우리 교육 제15호 발간",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107376&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-10-05T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "기타",
-      "policyRelevance": 100,
       "score": 90
     },
     {
@@ -280,6 +207,19 @@
       "feedProvider": "google",
       "policyRelevance": 87,
       "score": 86
+    },
+    {
+      "id": "3b53bf37074a",
+      "title": "경남교육청, 교원 100여 명과 AI·디지털 교육 정책 방향 논의",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sSFliWEVCYUp6RWUwYkNqekJiLWg0NXQ3d2dac3RETzZGSVpsY2diU3laMjJZTi1yZGRBRmQxS1FycWd3akhSQTNzZHF4WElYUnMyMVU5VlVxcmlocTdXenJEMUN0WjU3?oc=5",
+      "source": "더쎈뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-10-14T23:54:12.000Z",
+      "description": "경남교육청, 교원 100여 명과 AI·디지털 교육 정책 방향 논의 더쎈뉴스",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 75,
+      "score": 85
     },
     {
       "id": "d22f990beeb8",
@@ -633,6 +573,19 @@
       "score": 72
     },
     {
+      "id": "03b4bfd543cc",
+      "title": "케리스, ‘한국 ESG 혁신정책대상’ 사회 부문 우수상 수상",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91aVFhT1BZTDFJN3RXdWRBX04zOTdSeDRVYUNUQzY5U2RENnRubTZ4cHRzeGxWSTlFVTZMX19mXzVtd1FKTXRoUVVORVZaV1o0cVVyd1gzMUZmaVJXN3lOVEtKR1FoQQ?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-15T23:54:59.000Z",
+      "description": "케리스, ‘한국 ESG 혁신정책대상’ 사회 부문 우수상 수상 한국대학신문",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 71
+    },
+    {
       "id": "3a6fb74d7162",
       "title": "[부산소식] BISTEP, 지역대학 인재양성사업 국비 유치 지원 강화 등",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpSDhjOGUyT1ZmeFRLd1lJaWNRMVBnWkdteGdzTTRVTmxKQXdUQUZVNnZvekNHWGVRV0xUUnJiUnZuNTM1cXFhbm14ZFRYUzh0RDdRenJIcmVlbFMwM2t3RWVPN1Y1TWVnZkE?oc=5",
@@ -711,6 +664,19 @@
       "score": 69
     },
     {
+      "id": "3f323ff4705f",
+      "title": "안민석 교육감 \"대학과 벽깨기는 필수…경기교육 상생 협력 확대\"",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0MkxpczJVWjQzN29NUDhJNHRwVHIzX0QyemhjVXRVRFhBU3o1cFZKMXNxT0UwakJYX1U1MEgzWXNTX2VFYnNzdXpaOHcxeDBjVzVvMW54Y09JZFhQdXJqOFc4UVdtQm1fX1E?oc=5",
+      "source": "컨슈머타임스",
+      "kind": "domestic",
+      "publishedAt": "2026-10-13T21:26:00.000Z",
+      "description": "안민석 교육감 \"대학과 벽깨기는 필수…경기교육 상생 협력 확대\" 컨슈머타임스",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 57,
+      "score": 69
+    },
+    {
       "id": "c29f24c0c671",
       "title": "수시 논술시험장서 ‘AI 안경’ 또 적발… 수능 감독 체계 ‘경고등’",
       "url": "https://www.msn.com/ko-kr/news/other/%EC%88%98%EC%8B%9C-%EB%85%BC%EC%88%A0%EC%8B%9C%ED%97%98%EC%9E%A5%EC%84%9C-ai-%EC%95%88%EA%B2%BD-%EB%98%90-%EC%A0%81%EB%B0%9C-%EC%88%98%EB%8A%A5-%EA%B0%90%EB%8F%85-%EC%B2%B4%EA%B3%84-%EA%B2%BD%EA%B3%A0%EB%93%B1/ar-AA2e8fNn",
@@ -759,19 +725,6 @@
       "description": "【파이낸셜뉴스 제주=정용복 기자】 16년간 축적한 국제연수 경험과 디지털 협력 기반을 앞세운 제주가 '글로벌 AI 허브' 유치의 시험대에 오른다. 정부가 14일 입지 평가기준안을 공개할 예정인 가운데 국제기구 상주 여건과 공동사업 수행 역량을 얼마나 구체적으로 입증하느냐가 관건이다. 14일 글로벌 AI 허브 추진위원회 지원단에 따르면 이날 오전 10시 정부 ...",
       "category": "AI·디지털",
       "feedProvider": "bing",
-      "policyRelevance": 47,
-      "score": 68
-    },
-    {
-      "id": "16b8e1a8777c",
-      "title": "권순기 경남교육감, 취임 100일 책임·상생·미래교육 방향 발표",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zMEFhM1FneGtzNldyc2ZNT0tiU3R6WVJnTVFQN0tlVHFHbW5Sd2otMk1CZlBiLXBLcG5YeFBDdmt0ZFA1T1ViaDd1ZHNCWGs5RU1vdWJuTFpoN0xpLTdyeFBId3hFYm8zOUlwYkJ3?oc=5",
-      "source": "국제뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-10-13T00:10:25.000Z",
-      "description": "권순기 경남교육감, 취임 100일 책임·상생·미래교육 방향 발표 국제뉴스",
-      "category": "교원·조직",
-      "feedProvider": "google",
       "policyRelevance": 47,
       "score": 68
     },
@@ -1010,6 +963,19 @@
       "score": 59
     },
     {
+      "id": "16b8e1a8777c",
+      "title": "권순기 경남교육감, 취임 100일 책임·상생·미래교육 방향 발표",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zMEFhM1FneGtzNldyc2ZNT0tiU3R6WVJnTVFQN0tlVHFHbW5Sd2otMk1CZlBiLXBLcG5YeFBDdmt0ZFA1T1ViaDd1ZHNCWGs5RU1vdWJuTFpoN0xpLTdyeFBId3hFYm8zOUlwYkJ3?oc=5",
+      "source": "국제뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-10-13T00:10:25.000Z",
+      "description": "권순기 경남교육감, 취임 100일 책임·상생·미래교육 방향 발표 국제뉴스",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 47,
+      "score": 58
+    },
+    {
       "id": "c80297121062",
       "title": "대전시교육청 오석진 교육감, 취임 100일 새로운 대전교육 비전 발표",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1waWthMF9Zc1ZhTGFNbUFCVHZXZlU2YjRfUk56TDJxckNjd3U1OEJmM3l2VUoxdFF5dFhmZ2FhMEpDZVVqZmlOLS1BVmkxNllEdVBwcG1ITWlfVTdmWUFCYW9Bcw?oc=5",
@@ -1060,6 +1026,45 @@
       "feedProvider": "google",
       "policyRelevance": 42,
       "score": 56
+    },
+    {
+      "id": "48f2c8ea4406",
+      "title": "최교진 교육부 장관, 태국 교육부 장관과 교육협력 확대 방안 논의",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81OUEzMUxNQ19lUThyWnJPeGgwQ3U2aGNzc2Uyb0gtTDdNbUxueHA2WWhCQ3NvWlN2RXFEdHh6QjZDVmNKNnVrbkd5OFpBdi1CWFctblZrdnp1MUJQLWtaM1BiNA?oc=5",
+      "source": "대한민국교육신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-12T02:32:49.000Z",
+      "description": "최교진 교육부 장관, 태국 교육부 장관과 교육협력 확대 방안 논의 대한민국교육신문",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 47,
+      "score": 54
+    },
+    {
+      "id": "20352dc83f0b",
+      "title": "권순기 경남교육감 “학생 중심 교육으로 격차 해소”",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WVThuNllYd0hmdkd0dWxHaWFCX0xzTUNLcXdxV0phOWNfR0hpVTEyWWxaaWFmLWtrQ2JHTU5sTmNzdURZNW1QZmJSSklRRjlvSVRraEEtZm1lNWJZU0NrbGxLc0t2N3pMX0ZMbXFiUdIBb0FVX3lxTE9WVThuNllYd0hmdkd0dWxHaWFCX0xzTUNLcXdxV0phOWNfR0hpVTEyWWxaaWFmLWtrQ2JHTU5sTmNzdURZNW1QZmJSSklRRjlvSVRraEEtZm1lNWJZU0NrbGxLc0t2N3pMX0ZMbXFiUQ?oc=5",
+      "source": "경남연합일보",
+      "kind": "domestic",
+      "publishedAt": "2026-10-12T12:59:07.000Z",
+      "description": "권순기 경남교육감 “학생 중심 교육으로 격차 해소” 경남연합일보",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 53
+    },
+    {
+      "id": "2c49cdef9050",
+      "title": "교육위 국감, 유웨이 접수 장애 책임 추궁… 교육부 11월 개선안(종합)[2026 국감]",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZVVdXRzNvcEM5YVRzd05DMHRGRV9yYnE3MDZjUUVKd0FmbnhQaGZNZzM0VlpLLU1NaVg1dXlKYmFKVTI1cFJKazA4c0dSaXc4TkxCbHZVRjJTLXo5NXg4V2ZWU3ltUQ?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-12T10:25:26.000Z",
+      "description": "교육위 국감, 유웨이 접수 장애 책임 추궁… 교육부 11월 개선안(종합)[2026 국감] 한국대학신문",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 53
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -1069,17 +1074,17 @@
     "throughDate": "2026-10-16",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-10-14T15:00:00.000Z",
-    "windowEnd": "2026-10-15T23:44:25.885Z",
+    "windowEnd": "2026-10-16T00:30:57.425Z",
     "itemIds": [
       "c7699afdfb62",
       "cb072931b5af",
       "1608d1c18fbc",
-      "3b53bf37074a",
       "0f1dc939c42f",
       "d0ed8e15ebe0",
       "fef6efc30bee",
       "532770e352db",
       "7d77a0e5b798",
+      "3b53bf37074a",
       "e9aa4472fc42",
       "d8f7440cbd19",
       "5a737c051f35",
@@ -1095,17 +1100,18 @@
       "423762f94da7",
       "c97b4d7c9ce1",
       "1d426d4f13cb",
+      "03b4bfd543cc",
       "3a6fb74d7162",
       "d166edf5571c"
     ],
     "stats": {
-      "total": 26,
+      "total": 27,
       "official": 1,
-      "domestic": 25,
+      "domestic": 26,
       "foreign": 0
     },
     "headline": "오늘 아침 교육뉴스는 교원·조직·AI·디지털·고등교육 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 26건이 확인됐습니다. 교육부는 어린이집·유치원 입소·입학 신청, 더 쉽고 편리해진다 등을 공식 발표했습니다. 국내 언론에서는 교육감협의회 \"교부금 개편에 초·중등 재정 감소 우려\"…국회 설득 강화와 시험 도중 바꿔치기도…수능 앞두고 ‘AI 안경’ 부정행위 비상 등이 주요하게 다뤄졌습니다. 전체적으로는 교원·조직·AI·디지털·고등교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 27건이 확인됐습니다. 교육부는 어린이집·유치원 입소·입학 신청, 더 쉽고 편리해진다 등을 공식 발표했습니다. 국내 언론에서는 교육감협의회 \"교부금 개편에 초·중등 재정 감소 우려\"…국회 설득 강화와 시험 도중 바꿔치기도…수능 앞두고 ‘AI 안경’ 부정행위 비상 등이 주요하게 다뤄졌습니다. 전체적으로는 교원·조직·AI·디지털·고등교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "교원·조직",
@@ -1119,22 +1125,22 @@
       },
       {
         "title": "AI·디지털",
-        "summary": "경남교육청, 교원 100여 명과 AI·디지털 교육 정책 방향 논의 · 한국청소년성문화센터협의회, 국회서 AI·디지털 시대 청소년 성보호·권리·교육 논의 · AI·디지털 시대 성보호, \"청소년이 말하고 정책이 답하다\"…국회서 성보호 토론",
+        "summary": "한국청소년성문화센터협의회, 국회서 AI·디지털 시대 청소년 성보호·권리·교육 논의 · AI·디지털 시대 성보호, \"청소년이 말하고 정책이 답하다\"…국회서 성보호 토론 · “청소년이 말하고 정책이 답하다” 국회서 AI·디지털 시대 청소년 성보호·권리·교육 논의",
         "why": "AI·디지털 전환 정책은 교육과정·교원역량·인프라와 연결되므로 실행 여건과 현장 적용성을 함께 봐야 합니다.",
         "sources": [
-          "더쎈뉴스",
           "여성신문",
-          "팜뉴스 on MSN"
+          "팜뉴스 on MSN",
+          "베이비뉴스"
         ]
       },
       {
         "title": "고등교육",
-        "summary": "대학 시스템 강화를 위한 구조 개편. · 정부, PAUD에서 대학까지 무료 교육 계획을 마련 · [부산소식] BISTEP, 지역대학 인재양성사업 국비 유치 지원 강화 등",
+        "summary": "대학 시스템 강화를 위한 구조 개편. · 정부, PAUD에서 대학까지 무료 교육 계획을 마련 · 케리스, ‘한국 ESG 혁신정책대상’ 사회 부문 우수상 수상",
         "why": "대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다.",
         "sources": [
           "Vietnam.vn",
           "VOI.ID",
-          "서울파이낸스"
+          "한국대학신문"
         ]
       },
       {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T23:52:55.810Z",
+  "generatedAt": "2026-10-16T00:31:27.451Z",
   "retentionDays": 30,
   "days": [
     "2026-10-16",
@@ -32,6 +32,20 @@
     "2026-09-17"
   ],
   "items": [
+    {
+      "id": "03b4bfd543cc",
+      "title": "케리스, ‘한국 ESG 혁신정책대상’ 사회 부문 우수상 수상",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91aVFhT1BZTDFJN3RXdWRBX04zOTdSeDRVYUNUQzY5U2RENnRubTZ4cHRzeGxWSTlFVTZMX19mXzVtd1FKTXRoUVVORVZaV1o0cVVyd1gzMUZmaVJXN3lOVEtKR1FoQQ?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-15T23:54:59.000Z",
+      "description": "케리스, ‘한국 ESG 혁신정책대상’ 사회 부문 우수상 수상 한국대학신문",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 71,
+      "snapshotDate": "2026-10-16"
+    },
     {
       "id": "1f78783e1d31",
       "title": "대학 시스템 강화를 위한 구조 개편.",
@@ -336,7 +350,7 @@
       "description": "교육부 공식 보도자료",
       "category": "유·초중등",
       "policyRelevance": 100,
-      "score": 115,
+      "score": 105,
       "snapshotDate": "2026-10-16"
     },
     {
@@ -350,7 +364,7 @@
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 75,
-      "score": 95,
+      "score": 85,
       "snapshotDate": "2026-10-16"
     },
     {
@@ -559,6 +573,20 @@
       "category": "유·초중등",
       "policyRelevance": 100,
       "score": 105,
+      "snapshotDate": "2026-10-16"
+    },
+    {
+      "id": "3f323ff4705f",
+      "title": "안민석 교육감 \"대학과 벽깨기는 필수…경기교육 상생 협력 확대\"",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0MkxpczJVWjQzN29NUDhJNHRwVHIzX0QyemhjVXRVRFhBU3o1cFZKMXNxT0UwakJYX1U1MEgzWXNTX2VFYnNzdXpaOHcxeDBjVzVvMW54Y09JZFhQdXJqOFc4UVdtQm1fX1E?oc=5",
+      "source": "컨슈머타임스",
+      "kind": "domestic",
+      "publishedAt": "2026-10-13T21:26:00.000Z",
+      "description": "안민석 교육감 \"대학과 벽깨기는 필수…경기교육 상생 협력 확대\" 컨슈머타임스",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 57,
+      "score": 69,
       "snapshotDate": "2026-10-16"
     },
     {
@@ -838,7 +866,7 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 47,
-      "score": 68,
+      "score": 58,
       "snapshotDate": "2026-10-16"
     },
     {
@@ -851,7 +879,7 @@
       "description": "교육부 공식 보도자료",
       "category": "유·초중등",
       "policyRelevance": 100,
-      "score": 105,
+      "score": 95,
       "snapshotDate": "2026-10-16"
     },
     {
@@ -921,8 +949,8 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 63,
-      "snapshotDate": "2026-10-14"
+      "score": 53,
+      "snapshotDate": "2026-10-16"
     },
     {
       "id": "51d920fca63b",
@@ -949,8 +977,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 63,
-      "snapshotDate": "2026-10-14"
+      "score": 53,
+      "snapshotDate": "2026-10-16"
     },
     {
       "id": "1062c5d3f126",
@@ -1215,8 +1243,8 @@
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 47,
-      "score": 64,
-      "snapshotDate": "2026-10-14"
+      "score": 54,
+      "snapshotDate": "2026-10-16"
     },
     {
       "id": "9424d3af842d",
@@ -1270,8 +1298,8 @@
       "description": "교육부 공식 보도자료",
       "category": "고등교육",
       "policyRelevance": 100,
-      "score": 95,
-      "snapshotDate": "2026-10-16"
+      "score": 105,
+      "snapshotDate": "2026-10-14"
     },
     {
       "id": "0179c65acb95",
@@ -1283,8 +1311,8 @@
       "description": "교육부 공식 보도자료",
       "category": "기타",
       "policyRelevance": 100,
-      "score": 95,
-      "snapshotDate": "2026-10-16"
+      "score": 105,
+      "snapshotDate": "2026-10-14"
     },
     {
       "id": "84333eb1312f",
@@ -3192,7 +3220,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 90,
-      "snapshotDate": "2026-10-16"
+      "snapshotDate": "2026-10-14"
     },
     {
       "id": "e513f6fe5b54",
@@ -3205,7 +3233,7 @@
       "category": "유·초중등",
       "policyRelevance": 100,
       "score": 90,
-      "snapshotDate": "2026-10-16"
+      "snapshotDate": "2026-10-14"
     },
     {
       "id": "9a17fdb0e100",
@@ -3473,7 +3501,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 90,
-      "snapshotDate": "2026-10-16"
+      "snapshotDate": "2026-10-14"
     },
     {
       "id": "f86811468fdf",
@@ -8422,34 +8450,6 @@
       "policyRelevance": 87,
       "score": 76,
       "snapshotDate": "2026-09-22"
-    },
-    {
-      "id": "97cf4f6407fa",
-      "title": "서·논술형 수능, 걱정부터 쏟아졌다…중등교사노조 “2037년 도입 합의 아냐”[세상&]",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tdl90UVFwU3RhWnh1VkxPdjA5aWhrSkNibzZZalVvVU1hNEhhc2t1VldEbmhILVlFWG1xY21uNTVaTXBlbGlVSWRZY3ZBT0tGYlBMRW93?oc=5",
-      "source": "헤럴드경제",
-      "kind": "domestic",
-      "publishedAt": "2026-09-18T06:45:00.000Z",
-      "description": "서·논술형 수능, 걱정부터 쏟아졌다…중등교사노조 “2037년 도입 합의 아냐”[세상&] 헤럴드경제",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 87,
-      "score": 86,
-      "snapshotDate": "2026-09-20"
-    },
-    {
-      "id": "b5d25b3c8b28",
-      "title": "서·논술형 수능, 걱정부터 쏟아졌다…중등교사노조 “2037년 도입 합의 아냐”[세상&]",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tdl90UVFwU3RhWnh1VkxPdjA5aWhrSkNibzZZalVvVU1hNEhhc2t1VldEbmhILVlFWG1xY21uNTVaTXBlbGlVSWRZY3ZBT0tGYlBMRW93?oc=5",
-      "source": "biz.heraldcorp.com",
-      "kind": "domestic",
-      "publishedAt": "2026-09-18T06:45:00.000Z",
-      "description": "서·논술형 수능, 걱정부터 쏟아졌다…중등교사노조 “2037년 도입 합의 아냐”[세상&] biz.heraldcorp.com",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 87,
-      "score": 96,
-      "snapshotDate": "2026-09-19"
     }
   ]
 }
