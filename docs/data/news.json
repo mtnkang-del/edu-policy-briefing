@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-10-16T23:44:46.946Z",
-  "generatedAtKST": "2026-10-17T08:44:43.328+09:00",
+  "generatedAt": "2026-10-17T00:37:01.384Z",
+  "generatedAtKST": "2026-10-17T09:36:58.714+09:00",
   "date": "2026-10-17",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 15,
-    "domesticGoogle": 180,
+    "domesticBing": 14,
+    "domesticGoogle": 178,
     "foreignBing": 3,
     "foreignGoogle": 195,
-    "carried": 81,
+    "carried": 148,
     "rawUnique": 365,
-    "policyRejected": 285,
+    "policyRejected": 284,
     "policyKept": 80
   },
   "briefing": [
     "어린이집·유치원 입소·입학 신청, 더 쉽고 편리해진다 — 교육부",
+    "[2026 국감] 지방교육재정 산식 개편에 수도권 '수조 원 예산 펑크' 교육부는 \"법안 몰랐다\" — 아시아타임즈 on MSN",
     "교육부는 유아 대상 레벨테스트 금지 제도가 현장에서 실효성 있게 작동하도록 점검 및 조치를 강화하겠습니다 — 교육부",
     "학교 태양광 설비 안전관리 강화를 위해 교육부-한국전기안전공사 손 맞잡는다 — 교육부",
-    "[2026 국감] 지방교육재정 산식 개편에 수도권 '수조 원 예산 펑크' 교육부는 \"법안 몰랐다\" — 아시아타임즈 on MSN",
     "부트캠프 학생들, 반도체와 미래차 산업 현장을 만나다 — 교육부"
   ],
   "stats": {
@@ -43,30 +43,6 @@
       "score": 105
     },
     {
-      "id": "2b9672d65a6c",
-      "title": "교육부는 유아 대상 레벨테스트 금지 제도가 현장에서 실효성 있게 작동하도록 점검 및 조치를 강화하겠습니다",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107424&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-10-14T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "기타",
-      "policyRelevance": 100,
-      "score": 105
-    },
-    {
-      "id": "ab8985aab6c9",
-      "title": "학교 태양광 설비 안전관리 강화를 위해 교육부-한국전기안전공사 손 맞잡는다",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107422&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-10-14T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "유·초중등",
-      "policyRelevance": 100,
-      "score": 105
-    },
-    {
       "id": "330a7124815d",
       "title": "[2026 국감] 지방교육재정 산식 개편에 수도권 '수조 원 예산 펑크' 교육부는 \"법안 몰랐다\"",
       "url": "https://www.msn.com/ko-kr/news/other/2026-%EA%B5%AD%EA%B0%90-%EC%A7%80%EB%B0%A9%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95-%EC%82%B0%EC%8B%9D-%EA%B0%9C%ED%8E%B8%EC%97%90-%EC%88%98%EB%8F%84%EA%B6%8C-%EC%88%98%EC%A1%B0-%EC%9B%90-%EC%98%88%EC%82%B0-%ED%8E%91%ED%81%AC-%EA%B5%90%EC%9C%A1%EB%B6%80%EB%8A%94-%EB%B2%95%EC%95%88-%EB%AA%B0%EB%9E%90%EB%8B%A4/ar-AA2ecNJr",
@@ -78,6 +54,30 @@
       "feedProvider": "bing",
       "policyRelevance": 87,
       "score": 98
+    },
+    {
+      "id": "2b9672d65a6c",
+      "title": "교육부는 유아 대상 레벨테스트 금지 제도가 현장에서 실효성 있게 작동하도록 점검 및 조치를 강화하겠습니다",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107424&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-10-14T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "기타",
+      "policyRelevance": 100,
+      "score": 95
+    },
+    {
+      "id": "ab8985aab6c9",
+      "title": "학교 태양광 설비 안전관리 강화를 위해 교육부-한국전기안전공사 손 맞잡는다",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107422&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-10-14T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "유·초중등",
+      "policyRelevance": 100,
+      "score": 95
     },
     {
       "id": "1ae16fee0035",
@@ -320,6 +320,19 @@
       "score": 80
     },
     {
+      "id": "63b78113855a",
+      "title": "교육교부금 개편 놓고 격돌… \"내후년 서울교육 적자\" vs \"논리 오류\"",
+      "url": "https://www.msn.com/ko-kr/news/other/%EA%B5%90%EC%9C%A1%EA%B5%90%EB%B6%80%EA%B8%88-%EA%B0%9C%ED%8E%B8-%EB%86%93%EA%B3%A0-%EA%B2%A9%EB%8F%8C-%EB%82%B4%ED%9B%84%EB%85%84-%EC%84%9C%EC%9A%B8%EA%B5%90%EC%9C%A1-%EC%A0%81%EC%9E%90-vs-%EB%85%BC%EB%A6%AC-%EC%98%A4%EB%A5%98/ar-AA2ecl1E",
+      "source": "머니투데이 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-10-14T00:07:20.000Z",
+      "description": "[2026 국정감사](종합) 수도권 교육청 국정감사에서 정부의 지방교육재정교부금(교육교부금) 개편안을 둘러싼 공방이 벌어졌다. 정근식 서울시교육감은 개편이 시행되면 \"내후년 재정이 적자로 전환될 것\"이라며 재정 악화를 우려했다. 반면 고민정 더불어민주당 의원은 교육감들이 제시한 재정 감소 논리에 문제가 있다고 맞섰다. 14일 서울 여의도 국회에서 열린 교육 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
+      "score": 80
+    },
+    {
       "id": "44a4dbd83f76",
       "title": "대입 논술서 AI 안경 썼다가 ‘3년 응시 금지’…연세대서도 적발",
       "url": "https://www.msn.com/ko-kr/news/other/대입-논술서-ai-안경-썼다가-3년-응시-금지-연세대서도-적발/ar-AA2e6EeE",
@@ -476,6 +489,19 @@
       "score": 74
     },
     {
+      "id": "a02132eea1ef",
+      "title": "[EDU REPORT] 김석준 부산교육감, “공교육 공공성 강화…맞춤형 책임교육”",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LcFBsNmlscVJhbVNmZURybW4wclNUM1BBSTN1TjF2MDRLYnFFNXRXVHhLcTQ3aEtIa3JyM3ExV25jQUVxTXlISHMwZ2JLMm92bmV4QWZwNGE3cmZWMDJJalBaMTN2YTBlSnluN3BB0gFuQVVfeXFMT0twUGw2aWxxUmFtU2ZlRHJtbjByU1QzUEFJM3VOMXYwNEticUU1dFdUeEtxNDdoS0hrcnIzcTFXbmNBRXFNeUhIczBnYksyb3ZuZXhBZnA0YTdyZlYwMklqUFoxM3ZhMGVKeW43cEE?oc=5",
+      "source": "파이낸스뉴스 I 파이낸스뉴스TV",
+      "kind": "domestic",
+      "publishedAt": "2026-10-16T02:13:23.000Z",
+      "description": "[EDU REPORT] 김석준 부산교육감, “공교육 공공성 강화…맞춤형 책임교육” 파이낸스뉴스 I 파이낸스뉴스TV",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 73
+    },
+    {
       "id": "e9aa4472fc42",
       "title": "“청소년 목소리, 선언에 그쳐선 안 된다”… 국회서 성교육·디지털 보호 정책 개선 촉구",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4MTVPQjhMYWFXUTB6OG85OVNfR0NMa2Z1Sk5fQUx3ZFRlWHRXT1FNaHJWUUxKUzgxMy1vSGktUFZXWHNaZ1I2VDZvRnpkaWlNWm9wVUtyTGxTN0FLMkVvTHRMRFcxNVh4?oc=5",
@@ -543,25 +569,12 @@
     {
       "id": "bf48784cd27c",
       "title": "최정훈 전남광주통합특별시의회 교육위원장, “제4회 전남교육종단데이터 학술대회”서 “학생 성장 중심의 정책 실현” 강조",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oLXlpRWQ5OEtrUnp4SndKclNOLTVsV2NnOGl0T0twN0JYdHFYclFNWUxueXFOMVd4VmJGeXUyc0VDSVN0dm8yM0cxbEJidUtaeGIyeXZLZG9xaFB1YjJOeUVONVBhU3JmVzFqbzI2ZjA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QV3NLUVhObVBVd0NPSi1fbk9wNmtqQXNGZjdETmp4RlVSbUxYNzI5STdyRjMyZ1AzR1ZiaDVMTmVtNkJBeERDUzFLM3h5TnMwcGZQcVZldTE3aWpNZndTOTN6bEdnZzAtMksyalFYaE1PQQ?oc=5",
       "source": "프레스뉴스",
       "kind": "domestic",
       "publishedAt": "2026-10-16T07:15:16.000Z",
       "description": "최정훈 전남광주통합특별시의회 교육위원장, “제4회 전남교육종단데이터 학술대회”서 “학생 성장 중심의 정책 실현” 강조 프레스뉴스",
       "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 71
-    },
-    {
-      "id": "03b4bfd543cc",
-      "title": "케리스, ‘한국 ESG 혁신정책대상’ 사회 부문 우수상 수상",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91aVFhT1BZTDFJN3RXdWRBX04zOTdSeDRVYUNUQzY5U2RENnRubTZ4cHRzeGxWSTlFVTZMX19mXzVtd1FKTXRoUVVORVZaV1o0cVVyd1gzMUZmaVJXN3lOVEtKR1FoQQ?oc=5",
-      "source": "한국대학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-10-15T23:54:59.000Z",
-      "description": "케리스, ‘한국 ESG 혁신정책대상’ 사회 부문 우수상 수상 한국대학신문",
-      "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 71
@@ -840,6 +853,19 @@
       "score": 62
     },
     {
+      "id": "03b4bfd543cc",
+      "title": "케리스, ‘한국 ESG 혁신정책대상’ 사회 부문 우수상 수상",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91aVFhT1BZTDFJN3RXdWRBX04zOTdSeDRVYUNUQzY5U2RENnRubTZ4cHRzeGxWSTlFVTZMX19mXzVtd1FKTXRoUVVORVZaV1o0cVVyd1gzMUZmaVJXN3lOVEtKR1FoQQ?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-15T23:54:59.000Z",
+      "description": "케리스, ‘한국 ESG 혁신정책대상’ 사회 부문 우수상 수상 한국대학신문",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 61
+    },
+    {
       "id": "d166edf5571c",
       "title": "대학 취업교육, ‘프로그램’에서 ‘교육과정’으로 바뀌어야",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPTC04QWxYMV9WbVhDTjhxTkxRcTlVZTlkMmZVM1dLQkcxcG5kTjVYWXd1dVAxOUFPMEZpb2JXN0d3b1gyRUFZWEwwRm9UUkRTbUMtRFJ0VjViS29vMFdhUWtnb0QwRjRhRmI3S3pZWXR6WHlHblFaSl8wYVZKZ2NfTFZUU3RIRnFSX0N5OWhBVW52cWZyYjRaMGpZbzhOYjF5VU42V290MlJrRHd6Wl9DQ0stT2JzVHVBUWxsSkZRM25BLXp0emJadXVWeEc5YklFdEZnWTlQeENxaktVVGFJYUhEVldoRVZ6b0VoeHU2NVdDWXlsblpJMDNnajQ5YmZyY0dyY3FlZDZOTW83N0o1NGh3TF9tUQ?oc=5",
@@ -957,19 +983,6 @@
       "score": 58
     },
     {
-      "id": "16b8e1a8777c",
-      "title": "권순기 경남교육감, 취임 100일 책임·상생·미래교육 방향 발표",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zMEFhM1FneGtzNldyc2ZNT0tiU3R6WVJnTVFQN0tlVHFHbW5Sd2otMk1CZlBiLXBLcG5YeFBDdmt0ZFA1T1ViaDd1ZHNCWGs5RU1vdWJuTFpoN0xpLTdyeFBId3hFYm8zOUlwYkJ3?oc=5",
-      "source": "국제뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-10-13T00:10:25.000Z",
-      "description": "권순기 경남교육감, 취임 100일 책임·상생·미래교육 방향 발표 국제뉴스",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 47,
-      "score": 58
-    },
-    {
       "id": "5fd70792558a",
       "title": "전남광주특별시교육청, 서·논술형 평가, 교원･학부모 의견 반영 2027년까지 준비 기간 운영",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1X2NHWEhNNVFLWkhXNjA0NG11NkZfdW15RnJjYWJRak9STWZPeFZHSTNCNGhZSDlnNEFPbEpoTUF0bnNMVzJfSkU3ajl1c1VGeUw2Tk5wOXFqQmh3?oc=5",
@@ -1046,19 +1059,6 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 51
-    },
-    {
-      "id": "0d2bec3c1547",
-      "title": "[사교육의 재편①] 사교육비는 줄었는데, 학원 다니는 학생은 더 많이 쓴다",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GX1ZVR0JtVXRKLU1OYVN1a2NfeEtQTmJfUGszaWQ3c2NEWV90OFNwSVQ2V3V2dDl4NG42QjdCdmZfZHNMUm1aOVhIRFgza2tGdkxIUFpwbmY5by01SXZiVWpKMVo1Zw?oc=5",
-      "source": "교육을 비추다",
-      "kind": "domestic",
-      "publishedAt": "2026-10-13T05:21:38.000Z",
-      "description": "[사교육의 재편①] 사교육비는 줄었는데, 학원 다니는 학생은 더 많이 쓴다 교육을 비추다",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 51
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -1068,37 +1068,39 @@
     "throughDate": "2026-10-17",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-10-15T15:00:00.000Z",
-    "windowEnd": "2026-10-16T23:44:46.946Z",
+    "windowEnd": "2026-10-17T00:37:01.384Z",
     "itemIds": [
       "3a6fb74d7162",
       "89cd27272205",
       "49488363b62d",
       "33b43f494891",
+      "a02132eea1ef",
       "f19ad05cb466",
       "3564647fe08b",
       "bf48784cd27c",
-      "03b4bfd543cc",
       "81133f9ff47e",
       "8471333cf444",
       "1f78783e1d31",
-      "bec7596324d9"
+      "bec7596324d9",
+      "03b4bfd543cc"
     ],
     "stats": {
-      "total": 12,
+      "total": 13,
       "official": 0,
-      "domestic": 12,
+      "domestic": 13,
       "foreign": 0
     },
-    "headline": "오늘 아침 교육뉴스는 고등교육·유·초중등·지역·평생교육 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 12건이 확인됐습니다. 국내 언론에서는 [부산소식] BISTEP, 지역대학 인재양성사업 국비 유치 지원 강화 등와 [20년 전 그때] 노무현 대통령, 정책기획위원장에 김병준 전 교육부총리 내정 등이 주요하게 다뤄졌습니다. 전체적으로는 고등교육·유·초중등·지역·평생교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "headline": "오늘 아침 교육뉴스는 고등교육·유·초중등·교원·조직 이슈를 중심으로 형성됐습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 13건이 확인됐습니다. 국내 언론에서는 [부산소식] BISTEP, 지역대학 인재양성사업 국비 유치 지원 강화 등와 [20년 전 그때] 노무현 대통령, 정책기획위원장에 김병준 전 교육부총리 내정 등이 주요하게 다뤄졌습니다. 전체적으로는 고등교육·유·초중등·교원·조직 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "고등교육",
-        "summary": "[부산소식] BISTEP, 지역대학 인재양성사업 국비 유치 지원 강화 등 · 수도권 국립대 총장들 “지방국립대 등록금 지원 ‘역차별’”… 대학 재정 배분 형평성 문제제기(종합)[2026 국감] · 케리스, ‘한국 ESG 혁신정책대상’ 사회 부문 우수상 수상",
+        "summary": "[부산소식] BISTEP, 지역대학 인재양성사업 국비 유치 지원 강화 등 · 수도권 국립대 총장들 “지방국립대 등록금 지원 ‘역차별’”… 대학 재정 배분 형평성 문제제기(종합)[2026 국감] · 대학 시스템 강화를 위한 구조 개편.",
         "why": "대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다.",
         "sources": [
           "서울파이낸스",
-          "한국대학신문"
+          "한국대학신문",
+          "Vietnam.vn"
         ]
       },
       {
@@ -1112,26 +1114,27 @@
         ]
       },
       {
+        "title": "교원·조직",
+        "summary": "[EDU REPORT] 김석준 부산교육감, “공교육 공공성 강화…맞춤형 책임교육” · 부산교육청, 어린이집·유치원·초등 교원 160명 한자리에…'이음교육' 연수 개최",
+        "why": "교원 업무·교권·인사와 직접 연결될 수 있어 현장 반응과 제도 운영상 쟁점을 살펴볼 필요가 있습니다.",
+        "sources": [
+          "파이낸스뉴스 I 파이낸스뉴스TV",
+          "뉴스티앤티"
+        ]
+      },
+      {
         "title": "지역·평생교육",
         "summary": "제주특별자치도교육청, 지방공무원 5급 승진 임용 예정자 18명 발표",
         "why": "지역 격차와 평생학습 접근성에 영향을 줄 수 있어 지역별 집행 여건을 점검할 필요가 있습니다.",
         "sources": [
           "누리일보"
         ]
-      },
-      {
-        "title": "교원·조직",
-        "summary": "부산교육청, 어린이집·유치원·초등 교원 160명 한자리에…'이음교육' 연수 개최",
-        "why": "교원 업무·교권·인사와 직접 연결될 수 있어 현장 반응과 제도 운영상 쟁점을 살펴볼 필요가 있습니다.",
-        "sources": [
-          "뉴스티앤티"
-        ]
       }
     ],
     "watchpoints": [
       "고등교육: 대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다.",
       "유·초중등: 학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
-      "지역·평생교육: 지역 격차와 평생학습 접근성에 영향을 줄 수 있어 지역별 집행 여건을 점검할 필요가 있습니다."
+      "교원·조직: 교원 업무·교권·인사와 직접 연결될 수 있어 현장 반응과 제도 운영상 쟁점을 살펴볼 필요가 있습니다."
     ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T23:44:59.426Z",
+  "generatedAt": "2026-10-17T00:37:12.452Z",
   "retentionDays": 30,
   "days": [
     "2026-10-17",
@@ -105,7 +105,7 @@
     {
       "id": "bf48784cd27c",
       "title": "최정훈 전남광주통합특별시의회 교육위원장, “제4회 전남교육종단데이터 학술대회”서 “학생 성장 중심의 정책 실현” 강조",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oLXlpRWQ5OEtrUnp4SndKclNOLTVsV2NnOGl0T0twN0JYdHFYclFNWUxueXFOMVd4VmJGeXUyc0VDSVN0dm8yM0cxbEJidUtaeGIyeXZLZG9xaFB1YjJOeUVONVBhU3JmVzFqbzI2ZjA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QV3NLUVhObVBVd0NPSi1fbk9wNmtqQXNGZjdETmp4RlVSbUxYNzI5STdyRjMyZ1AzR1ZiaDVMTmVtNkJBeERDUzFLM3h5TnMwcGZQcVZldTE3aWpNZndTOTN6bEdnZzAtMksyalFYaE1PQQ?oc=5",
       "source": "프레스뉴스",
       "kind": "domestic",
       "publishedAt": "2026-10-16T07:15:16.000Z",
@@ -131,6 +131,20 @@
       "snapshotDate": "2026-10-17"
     },
     {
+      "id": "a02132eea1ef",
+      "title": "[EDU REPORT] 김석준 부산교육감, “공교육 공공성 강화…맞춤형 책임교육”",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LcFBsNmlscVJhbVNmZURybW4wclNUM1BBSTN1TjF2MDRLYnFFNXRXVHhLcTQ3aEtIa3JyM3ExV25jQUVxTXlISHMwZ2JLMm92bmV4QWZwNGE3cmZWMDJJalBaMTN2YTBlSnluN3BB0gFuQVVfeXFMT0twUGw2aWxxUmFtU2ZlRHJtbjByU1QzUEFJM3VOMXYwNEticUU1dFdUeEtxNDdoS0hrcnIzcTFXbmNBRXFNeUhIczBnYksyb3ZuZXhBZnA0YTdyZlYwMklqUFoxM3ZhMGVKeW43cEE?oc=5",
+      "source": "파이낸스뉴스 I 파이낸스뉴스TV",
+      "kind": "domestic",
+      "publishedAt": "2026-10-16T02:13:23.000Z",
+      "description": "[EDU REPORT] 김석준 부산교육감, “공교육 공공성 강화…맞춤형 책임교육” 파이낸스뉴스 I 파이낸스뉴스TV",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 73,
+      "snapshotDate": "2026-10-17"
+    },
+    {
       "id": "03b4bfd543cc",
       "title": "케리스, ‘한국 ESG 혁신정책대상’ 사회 부문 우수상 수상",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91aVFhT1BZTDFJN3RXdWRBX04zOTdSeDRVYUNUQzY5U2RENnRubTZ4cHRzeGxWSTlFVTZMX19mXzVtd1FKTXRoUVVORVZaV1o0cVVyd1gzMUZmaVJXN3lOVEtKR1FoQQ?oc=5",
@@ -141,7 +155,7 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 71,
+      "score": 61,
       "snapshotDate": "2026-10-17"
     },
     {
@@ -718,6 +732,20 @@
       "snapshotDate": "2026-10-17"
     },
     {
+      "id": "63b78113855a",
+      "title": "교육교부금 개편 놓고 격돌… \"내후년 서울교육 적자\" vs \"논리 오류\"",
+      "url": "https://www.msn.com/ko-kr/news/other/%EA%B5%90%EC%9C%A1%EA%B5%90%EB%B6%80%EA%B8%88-%EA%B0%9C%ED%8E%B8-%EB%86%93%EA%B3%A0-%EA%B2%A9%EB%8F%8C-%EB%82%B4%ED%9B%84%EB%85%84-%EC%84%9C%EC%9A%B8%EA%B5%90%EC%9C%A1-%EC%A0%81%EC%9E%90-vs-%EB%85%BC%EB%A6%AC-%EC%98%A4%EB%A5%98/ar-AA2ecl1E",
+      "source": "머니투데이 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-10-14T00:07:20.000Z",
+      "description": "[2026 국정감사](종합) 수도권 교육청 국정감사에서 정부의 지방교육재정교부금(교육교부금) 개편안을 둘러싼 공방이 벌어졌다. 정근식 서울시교육감은 개편이 시행되면 \"내후년 재정이 적자로 전환될 것\"이라며 재정 악화를 우려했다. 반면 고민정 더불어민주당 의원은 교육감들이 제시한 재정 감소 논리에 문제가 있다고 맞섰다. 14일 서울 여의도 국회에서 열린 교육 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
+      "score": 80,
+      "snapshotDate": "2026-10-17"
+    },
+    {
       "id": "2b9672d65a6c",
       "title": "교육부는 유아 대상 레벨테스트 금지 제도가 현장에서 실효성 있게 작동하도록 점검 및 조치를 강화하겠습니다",
       "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107424&lev=0&m=020402",
@@ -727,7 +755,7 @@
       "description": "교육부 공식 보도자료",
       "category": "기타",
       "policyRelevance": 100,
-      "score": 105,
+      "score": 95,
       "snapshotDate": "2026-10-17"
     },
     {
@@ -740,7 +768,7 @@
       "description": "교육부 공식 보도자료",
       "category": "유·초중등",
       "policyRelevance": 100,
-      "score": 105,
+      "score": 95,
       "snapshotDate": "2026-10-17"
     },
     {
@@ -1010,20 +1038,6 @@
       "snapshotDate": "2026-10-17"
     },
     {
-      "id": "0d2bec3c1547",
-      "title": "[사교육의 재편①] 사교육비는 줄었는데, 학원 다니는 학생은 더 많이 쓴다",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GX1ZVR0JtVXRKLU1OYVN1a2NfeEtQTmJfUGszaWQ3c2NEWV90OFNwSVQ2V3V2dDl4NG42QjdCdmZfZHNMUm1aOVhIRFgza2tGdkxIUFpwbmY5by01SXZiVWpKMVo1Zw?oc=5",
-      "source": "교육을 비추다",
-      "kind": "domestic",
-      "publishedAt": "2026-10-13T05:21:38.000Z",
-      "description": "[사교육의 재편①] 사교육비는 줄었는데, 학원 다니는 학생은 더 많이 쓴다 교육을 비추다",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 51,
-      "snapshotDate": "2026-10-17"
-    },
-    {
       "id": "290cf63668dc",
       "title": "조용식 울산교육감 \"교사정원 감축·교육재정 축소 중단해야\"",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLTHlqeWNCNkxIZU9uVEY2dTliN3dxSWt3cHB6NG9PSlFYNkltWUhENm85RnZ2cmJnVlI5bS1iSHZsaEhRSTNTbGhlSHJYUWdGZkhEZjNzSTRxVHZ2bk5GMdIBYEFVX3lxTFBLTHlqeWNCNkxIZU9uVEY2dTliN3dxSWt3cHB6NG9PSlFYNkltWUhENm85RnZ2cmJnVlI5bS1iSHZsaEhRSTNTbGhlSHJYUWdGZkhEZjNzSTRxVHZ2bk5GMQ?oc=5",
@@ -1063,7 +1077,7 @@
       "feedProvider": "google",
       "policyRelevance": 47,
       "score": 58,
-      "snapshotDate": "2026-10-17"
+      "snapshotDate": "2026-10-16"
     },
     {
       "id": "1ae16fee0035",
@@ -8435,20 +8449,6 @@
       "feedProvider": "google",
       "policyRelevance": 47,
       "score": 54,
-      "snapshotDate": "2026-09-22"
-    },
-    {
-      "id": "68330696900e",
-      "title": "제안에는 학교 순위 제도 폐지와 교장들에게 고정 수당을 지급하는 방안이 포함됩니다.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUkIwWlNqYnQtRTF6TVNMXzFYQzh3RUZlcTluUVE3b2k3Vzg1Mnd1RWxQajdoczRzbFFKWTNvTEU2SnZzUkJ3Z0k5UnRnd3ZZWnc3T0o1WWZRaWtOU1hkZ2IzSVBZd1hEWlhwSlpReW9nSmJzaHIyX1ZnaC0tUzBZR3prbTIxbHlaY3NVZEpOYXdaZFI5?oc=5",
-      "source": "Vietnam.vn",
-      "kind": "domestic",
-      "publishedAt": "2026-09-18T10:12:18.000Z",
-      "description": "제안에는 학교 순위 제도 폐지와 교장들에게 고정 수당을 지급하는 방안이 포함됩니다. Vietnam.vn",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 42,
-      "score": 52,
       "snapshotDate": "2026-09-22"
     }
   ]
