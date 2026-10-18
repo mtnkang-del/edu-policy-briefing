@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T23:17:47.406Z",
+  "generatedAt": "2026-10-18T00:07:34.672Z",
   "retentionDays": 30,
   "days": [
     "2026-10-18",
@@ -369,6 +369,21 @@
       "snapshotDate": "2026-10-18"
     },
     {
+      "id": "3d88039a8020",
+      "title": "South Korea Will Void Exams and Ban Students for a Year Over AI Smart Glasses in Suneung College Test",
+      "url": "https://www.ibtimes.com.au/south-korea-ai-smart-glasses-suneung-exam-ban-1876743",
+      "source": "International Business Times AU",
+      "kind": "foreign",
+      "publishedAt": "2026-10-15T09:40:00.000Z",
+      "description": "South Korea will cancel Suneung results and bar students from the following year's exam if they wear or possess AI-enabled smart glasses, amid rising cheating concerns.",
+      "category": "입시·사교육",
+      "score": 30,
+      "originalTitle": "South Korea Will Void Exams and Ban Students for a Year Over AI Smart Glasses in Suneung College Test",
+      "titleKo": "한국은 수릉대학 시험에서 인공지능 스마트 안경으로 1년간 시험을 무효화하고 학생들을 금지할 것입니다",
+      "summaryKo": "한국은 부정 행위 우려가 높아지는 가운데 AI 지원 스마트 안경을 착용하거나 소지한 경우 수릉 결과를 취소하고 다음 해 시험에서 학생들을 배제할 것입니다.",
+      "snapshotDate": "2026-10-18"
+    },
+    {
       "id": "dca34bc33f24",
       "title": "원광대학교병원, 최교진 교육부장관 현장 방문… 학생 마음건강 위기 대응 '우수 모범기관' 인정",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzU3RLOU1ocnVVTTFRbkwyUWpPY1ZxcThmZkEwc2N6N0R6aG1VZGptS3VIVDQyYVdBR2ExWFM3SWs2VGp1ZGNfMTRVQW5STm5pdUU5WnlkaTZ3akRDZkI5dEl6VkxrSGhVZ0ttTmxB?oc=5",
@@ -602,7 +617,7 @@
       "description": "교육부 공식 보도자료",
       "category": "유·초중등",
       "policyRelevance": 100,
-      "score": 105,
+      "score": 95,
       "snapshotDate": "2026-10-18"
     },
     {
@@ -616,13 +631,13 @@
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 75,
-      "score": 85,
+      "score": 75,
       "snapshotDate": "2026-10-18"
     },
     {
-      "id": "c054f930d369",
+      "id": "a2ee86224ebd",
       "title": "South Korea's population strategy demands long-term policy integration",
-      "url": "https://www.msn.com/en-xl/news/other/south-koreas-population-strategy-demands-long-term-policy-integration/ar-AA2eeQpU",
+      "url": "https://www.msn.com/en-xl/money/general/south-korea-s-population-strategy-demands-long-term-policy-integration/ar-AA2eeQpU",
       "source": "The Chosun Ilbo on MSN",
       "kind": "foreign",
       "publishedAt": "2026-10-14T18:57:08.000Z",
@@ -883,7 +898,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-10-18"
+      "snapshotDate": "2026-10-17"
     },
     {
       "id": "ab8985aab6c9",
@@ -896,7 +911,7 @@
       "category": "유·초중등",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-10-18"
+      "snapshotDate": "2026-10-17"
     },
     {
       "id": "3f323ff4705f",
@@ -1217,7 +1232,7 @@
       "category": "유·초중등",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-10-18"
+      "snapshotDate": "2026-10-17"
     },
     {
       "id": "aa8ffc55c11e",
@@ -1636,7 +1651,7 @@
       "category": "고등교육",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-10-18"
+      "snapshotDate": "2026-10-17"
     },
     {
       "id": "0179c65acb95",
@@ -1649,7 +1664,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-10-18"
+      "snapshotDate": "2026-10-17"
     },
     {
       "id": "84333eb1312f",
@@ -2184,7 +2199,7 @@
       "originalTitle": "Iran–Korea Chamber report highlights South Korea’s youth employment for knowledge exchange",
       "titleKo": "이란-한국 상공회의소 보고서, 지식 교류를 위한 한국의 청년 고용 강조",
       "summaryKo": "테헤란- 이란-한국 상공회의소는 젊은이들이 교육에서 취업으로 옮겨갈 수 있도록 돕는 한국의 노력을 조사한 다섯 번째 정책 보고서를 발표했다. 보고서, “학위에서...",
-      "snapshotDate": "2026-10-13"
+      "snapshotDate": "2026-10-18"
     },
     {
       "id": "2ca1876fd8fd",
@@ -2367,7 +2382,7 @@
       "originalTitle": "S. Korea plans to ease student visa rules, new gap-year track to woo foreign talent",
       "titleKo": "S. 한국은 외국인 인재를 구하기 위해 학생 비자 규정을 완화하고 새로운 갭 이어 트랙을 계획하고 있습니다.",
       "summaryKo": "서울: 한국은 한국어 기준을 충족하는 유학생에 대한 기금 증빙 요건을 면제하고 갭 이어 학습을 위한 비자 경로를 도입할 계획입니다. 한국 법무부...",
-      "snapshotDate": "2026-10-18"
+      "snapshotDate": "2026-10-14"
     },
     {
       "id": "1a1f1f913f4c",
@@ -2506,7 +2521,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 90,
-      "snapshotDate": "2026-10-18"
+      "snapshotDate": "2026-10-17"
     },
     {
       "id": "ad53912587f4",
@@ -3557,7 +3572,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 90,
-      "snapshotDate": "2026-10-18"
+      "snapshotDate": "2026-10-17"
     },
     {
       "id": "e513f6fe5b54",
@@ -3570,7 +3585,7 @@
       "category": "유·초중등",
       "policyRelevance": 100,
       "score": 90,
-      "snapshotDate": "2026-10-18"
+      "snapshotDate": "2026-10-17"
     },
     {
       "id": "9a17fdb0e100",
@@ -3669,7 +3684,7 @@
       "originalTitle": "South Korean science institutes draw record 33,000 applicants",
       "titleKo": "한국 과학 연구소는 기록적인 33,000명의 지원자를 확보했습니다.",
       "summaryKo": "한국의 4대 과학기술기관에 대한 신청은 처음으로 3만 3천 건을 돌파하여 새로운 인공지능 프로그램으로 36.5% 증가했다.",
-      "snapshotDate": "2026-10-18"
+      "snapshotDate": "2026-10-14"
     },
     {
       "id": "66d5e9c57c14",
@@ -3698,7 +3713,7 @@
       "originalTitle": "Kids in South Korea Are Learning AI With Ethics First",
       "titleKo": "한국의 어린이들은 윤리적으로 인공지능을 먼저 배우고 있습니다.",
       "summaryKo": "인공 지능이 교육을 포함한 세계 경제를 재편함에 따라 한국은 어린 나이에 기술을 책임감있게 사용하는 방법을 가르치면서 어린이를 AI에 노출시키고 있습니다. 안 알...",
-      "snapshotDate": "2026-10-13"
+      "snapshotDate": "2026-10-18"
     },
     {
       "id": "8001970bb0ad",
@@ -3838,7 +3853,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 90,
-      "snapshotDate": "2026-10-18"
+      "snapshotDate": "2026-10-17"
     },
     {
       "id": "f86811468fdf",
@@ -8436,20 +8451,6 @@
       "policyRelevance": 45,
       "score": 53,
       "snapshotDate": "2026-09-23"
-    },
-    {
-      "id": "8d797e2891bb",
-      "title": "수험생·학부모 국회 앞 집회…마감 후 원서 취소 요구",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LXy1zb1p6RjJlbHN3eTdaQlVDa0d0b2JhTG9BWFo5MW9JVU1TZG93Ml82Qllrakh4LTlKN0NPSzVHc1JFV3BaQmRyRHF4NDR2N2ZYazg3Z3Jjd1hhd3lXSEVFd09ycEdWVDFNZW1GMNIBb0FVX3lxTE9LXy1zb1p6RjJlbHN3eTdaQlVDa0d0b2JhTG9BWFo5MW9JVU1TZG93Ml82Qllrakh4LTlKN0NPSzVHc1JFV3BaQmRyRHF4NDR2N2ZYazg3Z3Jjd1hhd3lXSEVFd09ycEdWVDFNZW1GMA?oc=5",
-      "source": "hansbiz.co.kr",
-      "kind": "domestic",
-      "publishedAt": "2026-09-19T07:05:57.000Z",
-      "description": "수험생·학부모 국회 앞 집회…마감 후 원서 취소 요구 hansbiz.co.kr",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 73,
-      "snapshotDate": "2026-09-20"
     }
   ]
 }

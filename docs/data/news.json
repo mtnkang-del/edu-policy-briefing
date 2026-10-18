@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-10-17T23:17:36.184Z",
-  "generatedAtKST": "2026-10-18T08:17:33.484+09:00",
+  "generatedAt": "2026-10-18T00:07:01.380Z",
+  "generatedAtKST": "2026-10-18T09:06:38.843+09:00",
   "date": "2026-10-18",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
-    "officialLive": 10,
+    "officialLive": 0,
     "domesticBing": 12,
     "domesticGoogle": 166,
-    "foreignBing": 3,
+    "foreignBing": 4,
     "foreignGoogle": 190,
-    "carried": 91,
-    "rawUnique": 349,
+    "carried": 145,
+    "rawUnique": 340,
     "policyRejected": 283,
-    "policyKept": 66
+    "policyKept": 57
   },
   "briefing": [
     "어린이집·유치원 입소·입학 신청, 더 쉽고 편리해진다 — 교육부",
-    "교육부는 유아 대상 레벨테스트 금지 제도가 현장에서 실효성 있게 작동하도록 점검 및 조치를 강화하겠습니다 — 교육부",
-    "학교 태양광 설비 안전관리 강화를 위해 교육부-한국전기안전공사 손 맞잡는다 — 교육부",
-    "부트캠프 학생들, 반도체와 미래차 산업 현장을 만나다 — 교육부",
-    "사립대학 특성화에 집중 투자, 2026년 특성화 선도대학 33개교 선정 — 교육부"
+    "교육감협의회 \"교부금 개편에 초·중등 재정 감소 우려\"…국회 설득 강화 — 뉴스1 on MSN",
+    "시험 도중 바꿔치기도…수능 앞두고 ‘AI 안경’ 부정행위 비상 — 시사저널",
+    "[2026 국감] 지방교육재정 산식 개편에 수도권 '수조 원 예산 펑크' 교육부는 \"법안 몰랐다\" — 아시아타임즈 on MSN",
+    "한국청소년성문화센터협의회, 국회서 AI·디지털 시대 청소년 성보호·권리·교육 논의 — 여성신문"
   ],
   "stats": {
-    "total": 72,
-    "official": 10,
+    "total": 65,
+    "official": 1,
     "domestic": 56,
-    "foreign": 6
+    "foreign": 8
   },
   "items": [
     {
@@ -39,66 +39,6 @@
       "publishedAt": "2026-10-15T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "유·초중등",
-      "policyRelevance": 100,
-      "score": 105
-    },
-    {
-      "id": "2b9672d65a6c",
-      "title": "교육부는 유아 대상 레벨테스트 금지 제도가 현장에서 실효성 있게 작동하도록 점검 및 조치를 강화하겠습니다",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107424&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-10-14T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "기타",
-      "policyRelevance": 100,
-      "score": 95
-    },
-    {
-      "id": "ab8985aab6c9",
-      "title": "학교 태양광 설비 안전관리 강화를 위해 교육부-한국전기안전공사 손 맞잡는다",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107422&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-10-14T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "유·초중등",
-      "policyRelevance": 100,
-      "score": 95
-    },
-    {
-      "id": "1ae16fee0035",
-      "title": "부트캠프 학생들, 반도체와 미래차 산업 현장을 만나다",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107402&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-10-13T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "유·초중등",
-      "policyRelevance": 100,
-      "score": 95
-    },
-    {
-      "id": "b177ec3e252c",
-      "title": "사립대학 특성화에 집중 투자, 2026년 특성화 선도대학 33개교 선정",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107396&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-10-12T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "고등교육",
-      "policyRelevance": 100,
-      "score": 95
-    },
-    {
-      "id": "0179c65acb95",
-      "title": "새로운 행정으로 변화를 이끌어 내는 적극행정 우수공무원 시상",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107395&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-10-12T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "기타",
       "policyRelevance": 100,
       "score": 95
     },
@@ -114,54 +54,6 @@
       "feedProvider": "bing",
       "policyRelevance": 87,
       "score": 94
-    },
-    {
-      "id": "7950da81fd78",
-      "title": "한국과 이집트, 고등교육분야 국제협력 활성화의 새로운 장 연다",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107387&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-10-08T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "기타",
-      "policyRelevance": 100,
-      "score": 90
-    },
-    {
-      "id": "886b79a2e0d8",
-      "title": "재외동포 어린이, 그림일기로 한국어 실력을 선보이다",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107378&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-10-06T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "기타",
-      "policyRelevance": 100,
-      "score": 90
-    },
-    {
-      "id": "e513f6fe5b54",
-      "title": "‘꿈을 향한 장애학생들의 도전과 희망’ 2026년 전국 장애학생 직업기능 경진대회 개최",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107377&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-10-06T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "유·초중등",
-      "policyRelevance": 100,
-      "score": 90
-    },
-    {
-      "id": "fc4a964d366a",
-      "title": "데이터로 읽는 우리 교육 제15호 발간",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107376&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-10-05T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "기타",
-      "policyRelevance": 100,
-      "score": 90
     },
     {
       "id": "1608d1c18fbc",
@@ -188,19 +80,6 @@
       "feedProvider": "bing",
       "policyRelevance": 87,
       "score": 88
-    },
-    {
-      "id": "3b53bf37074a",
-      "title": "경남교육청, 교원 100여 명과 AI·디지털 교육 정책 방향 논의",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sSFliWEVCYUp6RWUwYkNqekJiLWg0NXQ3d2dac3RETzZGSVpsY2diU3laMjJZTi1yZGRBRmQxS1FycWd3akhSQTNzZHF4WElYUnMyMVU5VlVxcmlocTdXenJEMUN0WjU3?oc=5",
-      "source": "더쎈뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-10-14T23:54:12.000Z",
-      "description": "경남교육청, 교원 100여 명과 AI·디지털 교육 정책 방향 논의 더쎈뉴스",
-      "category": "AI·디지털",
-      "feedProvider": "google",
-      "policyRelevance": 75,
-      "score": 85
     },
     {
       "id": "0f1dc939c42f",
@@ -318,6 +197,19 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 76
+    },
+    {
+      "id": "3b53bf37074a",
+      "title": "경남교육청, 교원 100여 명과 AI·디지털 교육 정책 방향 논의",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sSFliWEVCYUp6RWUwYkNqekJiLWg0NXQ3d2dac3RETzZGSVpsY2diU3laMjJZTi1yZGRBRmQxS1FycWd3akhSQTNzZHF4WElYUnMyMVU5VlVxcmlocTdXenJEMUN0WjU3?oc=5",
+      "source": "더쎈뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-10-14T23:54:12.000Z",
+      "description": "경남교육청, 교원 100여 명과 AI·디지털 교육 정책 방향 논의 더쎈뉴스",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 75,
+      "score": 75
     },
     {
       "id": "f058d83e5c9f",
@@ -879,9 +771,23 @@
       "score": 51
     },
     {
-      "id": "c054f930d369",
+      "id": "3d88039a8020",
+      "title": "South Korea Will Void Exams and Ban Students for a Year Over AI Smart Glasses in Suneung College Test",
+      "url": "https://www.ibtimes.com.au/south-korea-ai-smart-glasses-suneung-exam-ban-1876743",
+      "source": "International Business Times AU",
+      "kind": "foreign",
+      "publishedAt": "2026-10-15T09:40:00.000Z",
+      "description": "South Korea will cancel Suneung results and bar students from the following year's exam if they wear or possess AI-enabled smart glasses, amid rising cheating concerns.",
+      "category": "입시·사교육",
+      "score": 30,
+      "originalTitle": "South Korea Will Void Exams and Ban Students for a Year Over AI Smart Glasses in Suneung College Test",
+      "titleKo": "한국은 수릉대학 시험에서 인공지능 스마트 안경으로 1년간 시험을 무효화하고 학생들을 금지할 것입니다",
+      "summaryKo": "한국은 부정 행위 우려가 높아지는 가운데 AI 지원 스마트 안경을 착용하거나 소지한 경우 수릉 결과를 취소하고 다음 해 시험에서 학생들을 배제할 것입니다."
+    },
+    {
+      "id": "a2ee86224ebd",
       "title": "South Korea's population strategy demands long-term policy integration",
-      "url": "https://www.msn.com/en-xl/news/other/south-koreas-population-strategy-demands-long-term-policy-integration/ar-AA2eeQpU",
+      "url": "https://www.msn.com/en-xl/money/general/south-korea-s-population-strategy-demands-long-term-policy-integration/ar-AA2eeQpU",
       "source": "The Chosun Ilbo on MSN",
       "kind": "foreign",
       "publishedAt": "2026-10-14T18:57:08.000Z",
@@ -907,18 +813,18 @@
       "summaryKo": "한국의 대학교육과 관련하여, 지역 국립 대학의 등록금을 무료화하는 정책이 선진화되고 있습니다 .2026년 9월에 보도된 뉴스에서, 17세에..."
     },
     {
-      "id": "d08404a7c9a7",
-      "title": "S. Korea plans to ease student visa rules, new gap-year track to woo foreign talent",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/08/s-korea-plans-to-ease-student-visa-rules-new-gap-year-track-to-woo-foreign-talent",
-      "source": "The Star",
+      "id": "d8795d60b879",
+      "title": "Iran–Korea Chamber report highlights South Korea’s youth employment for knowledge exchange",
+      "url": "https://www.tehrantimes.com/news/530875/Iran-Korea-Chamber-report-highlights-South-Korea-s-youth-employment",
+      "source": "Tehran Times",
       "kind": "foreign",
-      "publishedAt": "2026-10-08T04:11:00.000Z",
-      "description": "SEOUL: South Korea plans to waive proof-of-funds requirements for international students who meet Korean-language standards and introduce a visa pathway for gap-year study, the country's Justice ...",
-      "category": "유·초중등",
+      "publishedAt": "2026-10-08T07:08:00.000Z",
+      "description": "TEHRAN- The Iran–Korea Chamber of Commerce has released its fifth policy report, examining South Korea’s efforts to help young people move from education into employment. The report, “From Degrees to ...",
+      "category": "기타",
       "score": 30,
-      "originalTitle": "S. Korea plans to ease student visa rules, new gap-year track to woo foreign talent",
-      "titleKo": "S. 한국은 외국인 인재를 구하기 위해 학생 비자 규정을 완화하고 새로운 갭 이어 트랙을 계획하고 있습니다.",
-      "summaryKo": "서울: 한국은 한국어 기준을 충족하는 유학생에 대한 기금 증빙 요건을 면제하고 갭 이어 학습을 위한 비자 경로를 도입할 계획입니다. 한국 법무부..."
+      "originalTitle": "Iran–Korea Chamber report highlights South Korea’s youth employment for knowledge exchange",
+      "titleKo": "이란-한국 상공회의소 보고서, 지식 교류를 위한 한국의 청년 고용 강조",
+      "summaryKo": "테헤란- 이란-한국 상공회의소는 젊은이들이 교육에서 취업으로 옮겨갈 수 있도록 돕는 한국의 노력을 조사한 다섯 번째 정책 보고서를 발표했다. 보고서, “학위에서..."
     },
     {
       "id": "cf49f4305eb9",
@@ -935,18 +841,18 @@
       "summaryKo": "정부는 외국인 유학생들이 한국에서 과잉 체류하거나 불법적으로 일하는 것을 막기 위해 외국인 유학생 재정에 대한 점검을 강화하고, 대학이 비자 우대 혜택을 제공 할 경우 일시 중단 할 것입니다..."
     },
     {
-      "id": "7f1337e591b5",
-      "title": "South Korean science institutes draw record 33,000 applicants",
-      "url": "https://www.upi.com/Top_News/World-News/2026/10/05/education-semiconductors-university-admissions-ai/5021791234974/",
-      "source": "UPI",
+      "id": "df97c3d1712e",
+      "title": "Kids in South Korea Are Learning AI With Ethics First",
+      "url": "https://www.techloy.com/south-korea-ai-education-children-ai-ethics/",
+      "source": "Techloy",
       "kind": "foreign",
-      "publishedAt": "2026-10-05T10:28:00.000Z",
-      "description": "Applications to South Korea's four major science and technology institutes surpassed 33,000 for the first time, rising 36.5% as new AI programs.",
-      "category": "기타",
+      "publishedAt": "2026-10-05T08:15:00.000Z",
+      "description": "As Artificial Intelligence reshapes the global economy, including education, South Korea is exposing children to AI at an earlier age while teaching them how to use the technology responsibly. An Al ...",
+      "category": "AI·디지털",
       "score": 30,
-      "originalTitle": "South Korean science institutes draw record 33,000 applicants",
-      "titleKo": "한국 과학 연구소는 기록적인 33,000명의 지원자를 확보했습니다.",
-      "summaryKo": "한국의 4대 과학기술기관에 대한 신청은 처음으로 3만 3천 건을 돌파하여 새로운 인공지능 프로그램으로 36.5% 증가했다."
+      "originalTitle": "Kids in South Korea Are Learning AI With Ethics First",
+      "titleKo": "한국의 어린이들은 윤리적으로 인공지능을 먼저 배우고 있습니다.",
+      "summaryKo": "인공 지능이 교육을 포함한 세계 경제를 재편함에 따라 한국은 어린 나이에 기술을 책임감있게 사용하는 방법을 가르치면서 어린이를 AI에 노출시키고 있습니다. 안 알..."
     },
     {
       "id": "98623cd333c9",
@@ -961,6 +867,20 @@
       "originalTitle": "Inside South Korea’s push to bring IB into mainstream schools",
       "titleKo": "IB를 주류 학교로 끌어들이려는 한국의 노력",
       "summaryKo": "윌슨 샹 (Wilson Shang) 은 한국이 국제 교육과정을 주류 국가 교육에 포함시키는 세계에서 가장 저명한 시험대 중 하나로 부상한 방법을 탐구합니다."
+    },
+    {
+      "id": "ad87c43184a1",
+      "title": "Scholar calls academy integration key to South Korea's future military",
+      "url": "https://www.upi.com/Top_News/World-News/2026/09/18/military-academies-defense-reform-joint-operations/8971789773520/",
+      "source": "UPI",
+      "kind": "foreign",
+      "publishedAt": "2026-09-18T16:25:00.000Z",
+      "description": "A South Korean defense scholar says integrating military academies could improve joint operations, diversity and officer education for future warfare.",
+      "category": "기타",
+      "score": 30,
+      "originalTitle": "Scholar calls academy integration key to South Korea's future military",
+      "titleKo": "학자는 한국의 미래 군대에 아카데미 통합 열쇠를 호출",
+      "summaryKo": "한국의 국방 학자는 군사 아카데미를 통합하면 미래 전쟁을 위한 공동 작전, 다양성 및 장교 교육을 향상시킬 수 있다고 말합니다."
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -970,7 +890,7 @@
     "throughDate": "2026-10-18",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-10-16T15:00:00.000Z",
-    "windowEnd": "2026-10-17T23:17:36.184Z",
+    "windowEnd": "2026-10-18T00:07:01.380Z",
     "itemIds": [
       "e349be399e25"
     ],
