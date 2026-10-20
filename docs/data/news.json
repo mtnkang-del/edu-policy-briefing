@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-20T00:29:54.485Z",
-  "generatedAtKST": "2026-10-20T09:29:51.649+09:00",
+  "generatedAt": "2026-10-20T01:07:13.023Z",
+  "generatedAtKST": "2026-10-20T10:07:10.541+09:00",
   "date": "2026-10-20",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 11,
-    "domesticGoogle": 156,
-    "foreignBing": 6,
-    "foreignGoogle": 212,
-    "carried": 51,
-    "rawUnique": 346,
-    "policyRejected": 282,
-    "policyKept": 64
+    "domesticBing": 10,
+    "domesticGoogle": 160,
+    "foreignBing": 4,
+    "foreignGoogle": 220,
+    "carried": 109,
+    "rawUnique": 356,
+    "policyRejected": 290,
+    "policyKept": 66
   },
   "briefing": [
     "늦은 퇴근.휴일 근무 시 돌봄, ‘틈새돌봄 정보무늬(QR코드)‘로 확인하세요 — 교육부",
@@ -24,10 +24,10 @@
     "교육부, 수능 'AI 스마트 안경' 부정행위 차단 나선다 … \"적발 방법은 비공개\" — Queen"
   ],
   "stats": {
-    "total": 72,
+    "total": 75,
     "official": 10,
-    "domestic": 54,
-    "foreign": 8
+    "domestic": 55,
+    "foreign": 10
   },
   "items": [
     {
@@ -189,19 +189,6 @@
       "kind": "domestic",
       "publishedAt": "2026-10-19T01:57:59.000Z",
       "description": "수능 ‘AI 안경’ 부정행위 막는다…교육부 “적발 방법은 비공개” 동아일보",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 90
-    },
-    {
-      "id": "7468ec25f11a",
-      "title": "대전교육청 내신 5등급제·통합형 수능, 2028 대입 대비 설명회 개최",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1KWUZNZjdYYktRMHl1Mml2SVJYeW91QTRHeGpkeFl2M2VWNTdxZk9tenlBSGR4bUJfekQ0MFppS2UxaG14?oc=5",
-      "source": "뉴스파고",
-      "kind": "domestic",
-      "publishedAt": "2026-10-19T00:41:00.000Z",
-      "description": "대전교육청 내신 5등급제·통합형 수능, 2028 대입 대비 설명회 개최 뉴스파고",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
@@ -372,6 +359,19 @@
       "score": 81
     },
     {
+      "id": "7468ec25f11a",
+      "title": "대전교육청 내신 5등급제·통합형 수능, 2028 대입 대비 설명회 개최",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1KWUZNZjdYYktRMHl1Mml2SVJYeW91QTRHeGpkeFl2M2VWNTdxZk9tenlBSGR4bUJfekQ0MFppS2UxaG14?oc=5",
+      "source": "뉴스파고",
+      "kind": "domestic",
+      "publishedAt": "2026-10-19T00:41:00.000Z",
+      "description": "대전교육청 내신 5등급제·통합형 수능, 2028 대입 대비 설명회 개최 뉴스파고",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 80
+    },
+    {
       "id": "c61c2711f4d7",
       "title": "교사 ‘AI 교육 역량’ 강화한다더니… 예산은 2년새 2719억→982억 ‘뚝’",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuYTJFdEdqcGYxVUVLVGFXS0lnRnZEVjlWTUJKbnRmYzh4M3dBd3JGY0hJd0QxaXlrTlRaLWhrVS1sVUNrS0FYMDQxYUZIbjh6?oc=5",
@@ -383,6 +383,19 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 79
+    },
+    {
+      "id": "9d4b7bd9bfc4",
+      "title": "대전시교육청, IB 프로그램 교원 역량강화 연수 본격 운영",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tb1dmTjBYTTZZekJqc1VQQTN0ZXlody11NHBfZHlhM2hPckVISGV5ajZLb21JVVgxQWtQSzQydXM4UmIxLTdETWk1aEl0OTZ6d1duUkJvLWlEeW12cGhCWU1zVG9lOFZJYkVxejZ2OFM?oc=5",
+      "source": "모빅경제",
+      "kind": "domestic",
+      "publishedAt": "2026-10-20T00:28:46.000Z",
+      "description": "대전시교육청, IB 프로그램 교원 역량강화 연수 본격 운영 모빅경제",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 77
     },
     {
       "id": "2ac5938d0ce1",
@@ -437,6 +450,22 @@
       "score": 75
     },
     {
+      "id": "3e298f55fa67",
+      "title": "Education Ministry’s ‘optimistic’ modelling shows thousands more students failing new secondary curriculum",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWDhpMU4zZXJ2OEJWMWdyc0FJSnZFMGNrU09kWVRWbGdxT2FOazdmSlQzS0RPX25hSkpyTzhRT0ExamJjU1B2c1ZPRktRVlJJM1lNR21HVnkwbmloa2FZa3JoY2lUcXpmT25SVmU1cHg4bjR1V3RYUG0zaVQ4a2t0NzZhMDB3SXJ5WkhuelpTTFBDT1h2NTVPTFhQeUJZV0hHUEZCM3hfNVhhZ1pCc29hY1BKb0NIeHFoUDExS3FEMXFrNzc3SHBLNlJWWXJPa0RhVkE?oc=5",
+      "source": "Stuff.co.nz",
+      "kind": "foreign",
+      "publishedAt": "2026-10-19T16:00:00.000Z",
+      "description": "Education Ministry’s ‘optimistic’ modelling shows thousands more students failing new secondary curriculum Stuff.co.nz",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 53,
+      "score": 75,
+      "originalTitle": "Education Ministry’s ‘optimistic’ modelling shows thousands more students failing new secondary curriculum",
+      "titleKo": "교육부의 ‘낙관적‘ 모델링에 따르면 수천 명의 학생들이 새로운 중등 교육 과정에 실패했습니다.",
+      "summaryKo": "교육부의 ‘낙관적‘ 모델링에 따르면 수천 명의 학생들이 새로운 중등 교육 과정에 실패했습니다. Stuff.co.nz"
+    },
+    {
       "id": "153636697597",
       "title": "[교육타파] 천호성 교육감 \"개방형 교장공모제 확대\"…교육부 '내부형B 통합 산정' 지침과 맞물려 전북 공모제 폭 커질 전망",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XYm5ZRVM3eVpVRi1qSmtiMC1ySDdnb1hFZTMtUFJteWxHSnNJWDBwQ2xTQVM1VUplV0t2TDdoc2hLazh4S3BsY3pBM2VNanhqM19NcVVuOXI4MENmVkpZ?oc=5",
@@ -487,19 +516,6 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 73
-    },
-    {
-      "id": "1ba8eb643ae2",
-      "title": "프랑스 55만 명 시위, 대학 입시까지 번진 교육 갈등…104만 6,000명 지원 제도 손본다",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sUlJucGlXWWZMQkg4Z3A5NGpaMDZOcWl2cEZPVzRUZjhzRElHNTFOekt5dEhEXzhqb204YUhLNUlRZVd6WjUwZHJwU3dWV1pzSEh3N0hYSnNBdjRBUmltMTdETDh0NGd4elo4?oc=5",
-      "source": "산학뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-10-19T00:42:52.000Z",
-      "description": "프랑스 55만 명 시위, 대학 입시까지 번진 교육 갈등…104만 6,000명 지원 제도 손본다 산학뉴스",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 71
     },
     {
       "id": "19905df70cc8",
@@ -658,17 +674,17 @@
       "score": 62
     },
     {
-      "id": "3a317836cd21",
-      "title": "\"교육재정 근간 흔든다\" 세종 학교운영위원장協 정부안 비판",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9maUphSjhXVHYwWXBhYUU0UUtwWUN1Ukp2U3JXQ09TZDFyLWh6N2ptQVpha3RaNTlFaWpsVTlmVFBUUFJpYUJCMWxUT1hWaHAyRGFwZVc3UDlDSm5jZGwxTlN1WUpwa2pMUGNzbGRmTlp5cHNMeXRjatIBeEFVX3lxTE9maUphSjhXVHYwWXBhYUU0UUtwWUN1Ukp2U3JXQ09TZDFyLWh6N2ptQVpha3RaNTlFaWpsVTlmVFBUUFJpYUJCMWxUT1hWaHAyRGFwZVc3UDlDSm5jZGwxTlN1WUpwa2pMUGNzbGRmTlp5cHNMeXRjag?oc=5",
-      "source": "뉴시스",
+      "id": "1ba8eb643ae2",
+      "title": "프랑스 55만 명 시위, 대학 입시까지 번진 교육 갈등…104만 6,000명 지원 제도 손본다",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sUlJucGlXWWZMQkg4Z3A5NGpaMDZOcWl2cEZPVzRUZjhzRElHNTFOekt5dEhEXzhqb204YUhLNUlRZVd6WjUwZHJwU3dWV1pzSEh3N0hYSnNBdjRBUmltMTdETDh0NGd4elo4?oc=5",
+      "source": "산학뉴스",
       "kind": "domestic",
-      "publishedAt": "2026-10-16T00:31:16.000Z",
-      "description": "\"교육재정 근간 흔든다\" 세종 학교운영위원장協 정부안 비판 뉴시스",
-      "category": "유·초중등",
+      "publishedAt": "2026-10-19T00:42:52.000Z",
+      "description": "프랑스 55만 명 시위, 대학 입시까지 번진 교육 갈등…104만 6,000명 지원 제도 손본다 산학뉴스",
+      "category": "입시·사교육",
       "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 62
+      "policyRelevance": 40,
+      "score": 61
     },
     {
       "id": "def1a07d759f",
@@ -721,6 +737,19 @@
       "feedProvider": "google",
       "policyRelevance": 47,
       "score": 58
+    },
+    {
+      "id": "678eced34df1",
+      "title": "‘현 고1’ 2029수능 2028년 11월16일.. ‘통합형 수능 2년차’ 국수탐 선택과목 폐지, 탐구 영향력 주목",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10ZXdlbnJuamd2SWYwa201c1RodHdVR2NwRHBMUjBFcTU5SjJKTWdnRmlOd2ZDNkVyam16eDZzSjhRaDF6aXZzSTN1QkFrNVhtY2x1R2hJeXRTZWFYN2t2Z25CeDhSQ2gzS1NiRw?oc=5",
+      "source": "베리타스알파",
+      "kind": "domestic",
+      "publishedAt": "2026-10-16T08:19:00.000Z",
+      "description": "‘현 고1’ 2029수능 2028년 11월16일.. ‘통합형 수능 2년차’ 국수탐 선택과목 폐지, 탐구 영향력 주목 베리타스알파",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 42,
+      "score": 56
     },
     {
       "id": "c2700cb33dfa",
@@ -895,18 +924,32 @@
       "summaryKo": "대한민국 섬 해양교육 프로그램: KOEM과 전남대학교는 10월 13일 여수세계섬엑스포에서 섬 주민들을 공인 해양교육자로 양성하기 위한 협약을 체결하고,..."
     },
     {
-      "id": "a2ee86224ebd",
-      "title": "South Korea's population strategy demands long-term policy integration",
-      "url": "https://www.msn.com/en-xl/money/general/south-korea-s-population-strategy-demands-long-term-policy-integration/ar-AA2eeQpU",
-      "source": "The Chosun Ilbo on MSN",
+      "id": "6e86c0930a98",
+      "title": "\"0 Won Tuition in South Korea, Scholarships in Japan\"!? Differences in Educational Policies Supporting University Enrollment",
+      "url": "https://note.com/shogakukinhensai/n/ne501f4108fea?hl=en",
+      "source": "note",
       "kind": "foreign",
-      "publishedAt": "2026-10-14T18:57:08.000Z",
-      "description": "What has been the most powerful resource shaping South Korea today? Despite lacking capital and natural resources, the nation rose from the ruins of war to become a top-10 global economy, driven ...",
+      "publishedAt": "2026-10-08T19:35:00.000Z",
+      "description": "Regarding university education in South Korea, policies to make tuition free at regional national universities are being advanced.In news reported in September 2026, it was revealed that at 17 out of ...",
+      "category": "고등교육",
+      "score": 30,
+      "originalTitle": "\"0 Won Tuition in South Korea, Scholarships in Japan\"!? Differences in Educational Policies Supporting University Enrollment",
+      "titleKo": "\"한국은 0원, 일본은 장학금\"!? 대학 등록을 지원하는 교육 정책의 차이점",
+      "summaryKo": "한국의 대학교육과 관련하여, 지역 국립 대학의 등록금을 무료화하는 정책이 선진화되고 있습니다 .2026년 9월에 보도된 뉴스에서, 17세에..."
+    },
+    {
+      "id": "d8795d60b879",
+      "title": "Iran–Korea Chamber report highlights South Korea’s youth employment for knowledge exchange",
+      "url": "https://www.tehrantimes.com/news/530875/Iran-Korea-Chamber-report-highlights-South-Korea-s-youth-employment",
+      "source": "Tehran Times",
+      "kind": "foreign",
+      "publishedAt": "2026-10-08T07:08:00.000Z",
+      "description": "TEHRAN- The Iran–Korea Chamber of Commerce has released its fifth policy report, examining South Korea’s efforts to help young people move from education into employment. The report, “From Degrees to ...",
       "category": "기타",
       "score": 30,
-      "originalTitle": "South Korea's population strategy demands long-term policy integration",
-      "titleKo": "한국의 인구 전략은 장기적인 정책 통합을 요구합니다.",
-      "summaryKo": "오늘날 한국을 형성하는 가장 강력한 자원은 무엇이었습니까? 자본과 천연 자원이 부족했음에도 불구하고, 국가는 전쟁의 폐허에서 일어나 세계 10대 경제 대국이 되었다."
+      "originalTitle": "Iran–Korea Chamber report highlights South Korea’s youth employment for knowledge exchange",
+      "titleKo": "이란-한국 상공회의소 보고서, 지식 교류를 위한 한국의 청년 고용 강조",
+      "summaryKo": "테헤란- 이란-한국 상공회의소는 젊은이들이 교육에서 취업으로 옮겨갈 수 있도록 돕는 한국의 노력을 조사한 다섯 번째 정책 보고서를 발표했다. 보고서, “학위에서..."
     },
     {
       "id": "cf49f4305eb9",
@@ -972,7 +1015,7 @@
     "throughDate": "2026-10-20",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-10-18T15:00:00.000Z",
-    "windowEnd": "2026-10-20T00:29:54.485Z",
+    "windowEnd": "2026-10-20T01:07:13.023Z",
     "itemIds": [
       "ba221017464c",
       "1d52cbbc6001",
@@ -983,7 +1026,6 @@
       "bf2fe245c9eb",
       "c143b30758a2",
       "9758576cc052",
-      "7468ec25f11a",
       "3402132655a6",
       "e4d122e64b96",
       "9ed42578e9b2",
@@ -992,29 +1034,32 @@
       "e611c9139ee0",
       "71d33183e28c",
       "d83b3116313c",
+      "7468ec25f11a",
       "c61c2711f4d7",
+      "9d4b7bd9bfc4",
       "2ac5938d0ce1",
       "b3f41790daef",
       "19a23afb2c9e",
       "ec27baea1690",
+      "3e298f55fa67",
       "153636697597",
       "19f16559111a",
       "c6658ee8d0bb",
       "a81e63372ebf",
-      "1ba8eb643ae2",
       "7747f7958a84",
       "bf4583140015",
       "5f88886dbccb",
+      "1ba8eb643ae2",
       "def1a07d759f"
     ],
     "stats": {
-      "total": 32,
+      "total": 34,
       "official": 1,
-      "domestic": 31,
-      "foreign": 0
+      "domestic": 32,
+      "foreign": 1
     },
     "headline": "오늘 아침 교육뉴스는 입시·사교육·고등교육·교원·조직 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 32건이 확인됐습니다. 교육부는 늦은 퇴근.휴일 근무 시 돌봄, ‘틈새돌봄 정보무늬(QR코드)‘로 확인하세요 등을 공식 발표했습니다. 국내 언론에서는 전국 시도교육감, 간담회서 지방교육재정 개편·교원 보호 등 대응 논의와 교육부, 수능 ‘AI 안경’ 부정행위 대응 안내… 감독 방법 비공개 “공개 땐 회피 우려” 등이 주요하게 다뤄졌습니다. 전체적으로는 입시·사교육·고등교육·교원·조직 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 34건이 확인됐습니다. 교육부는 늦은 퇴근.휴일 근무 시 돌봄, ‘틈새돌봄 정보무늬(QR코드)‘로 확인하세요 등을 공식 발표했습니다. 국내 언론에서는 전국 시도교육감, 간담회서 지방교육재정 개편·교원 보호 등 대응 논의와 교육부, 수능 ‘AI 안경’ 부정행위 대응 안내… 감독 방법 비공개 “공개 땐 회피 우려” 등이 주요하게 다뤄졌습니다. 해외에서는 교육부의 ‘낙관적‘ 모델링에 따르면 수천 명의 학생들이 새로운 중등 교육 과정에 실패했습니다. 관련 보도가 확인됐습니다. 전체적으로는 입시·사교육·고등교육·교원·조직 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "입시·사교육",
@@ -1038,12 +1083,12 @@
       },
       {
         "title": "교원·조직",
-        "summary": "전국 시도교육감, 간담회서 지방교육재정 개편·교원 보호 등 대응 논의 · 교사 ‘AI 교육 역량’ 강화한다더니… 예산은 2년새 2719억→982억 ‘뚝’ · 대전교육청, ‘2026년 IB 프로그램 교원 역량강화 직무연수’ 운영",
+        "summary": "전국 시도교육감, 간담회서 지방교육재정 개편·교원 보호 등 대응 논의 · 교사 ‘AI 교육 역량’ 강화한다더니… 예산은 2년새 2719억→982억 ‘뚝’ · 대전시교육청, IB 프로그램 교원 역량강화 연수 본격 운영",
         "why": "교원 업무·교권·인사와 직접 연결될 수 있어 현장 반응과 제도 운영상 쟁점을 살펴볼 필요가 있습니다.",
         "sources": [
           "미디어생활",
           "문화일보",
-          "이코노믹포스트"
+          "모빅경제"
         ]
       },
       {

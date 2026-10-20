@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T00:30:07.159Z",
+  "generatedAt": "2026-10-20T01:07:26.904Z",
   "retentionDays": 30,
   "days": [
     "2026-10-20",
@@ -32,6 +32,20 @@
     "2026-09-21"
   ],
   "items": [
+    {
+      "id": "9d4b7bd9bfc4",
+      "title": "대전시교육청, IB 프로그램 교원 역량강화 연수 본격 운영",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tb1dmTjBYTTZZekJqc1VQQTN0ZXlody11NHBfZHlhM2hPckVISGV5ajZLb21JVVgxQWtQSzQydXM4UmIxLTdETWk1aEl0OTZ6d1duUkJvLWlEeW12cGhCWU1zVG9lOFZJYkVxejZ2OFM?oc=5",
+      "source": "모빅경제",
+      "kind": "domestic",
+      "publishedAt": "2026-10-20T00:28:46.000Z",
+      "description": "대전시교육청, IB 프로그램 교원 역량강화 연수 본격 운영 모빅경제",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 77,
+      "snapshotDate": "2026-10-20"
+    },
     {
       "id": "ec27baea1690",
       "title": "경기도의회 전자영 의원, \"대학 지원정책, 현장 목소리와 예산에 반영해야\"",
@@ -72,6 +86,23 @@
       "feedProvider": "bing",
       "policyRelevance": 75,
       "score": 91,
+      "snapshotDate": "2026-10-20"
+    },
+    {
+      "id": "3e298f55fa67",
+      "title": "Education Ministry’s ‘optimistic’ modelling shows thousands more students failing new secondary curriculum",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWDhpMU4zZXJ2OEJWMWdyc0FJSnZFMGNrU09kWVRWbGdxT2FOazdmSlQzS0RPX25hSkpyTzhRT0ExamJjU1B2c1ZPRktRVlJJM1lNR21HVnkwbmloa2FZa3JoY2lUcXpmT25SVmU1cHg4bjR1V3RYUG0zaVQ4a2t0NzZhMDB3SXJ5WkhuelpTTFBDT1h2NTVPTFhQeUJZV0hHUEZCM3hfNVhhZ1pCc29hY1BKb0NIeHFoUDExS3FEMXFrNzc3SHBLNlJWWXJPa0RhVkE?oc=5",
+      "source": "Stuff.co.nz",
+      "kind": "foreign",
+      "publishedAt": "2026-10-19T16:00:00.000Z",
+      "description": "Education Ministry’s ‘optimistic’ modelling shows thousands more students failing new secondary curriculum Stuff.co.nz",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 53,
+      "score": 75,
+      "originalTitle": "Education Ministry’s ‘optimistic’ modelling shows thousands more students failing new secondary curriculum",
+      "titleKo": "교육부의 ‘낙관적‘ 모델링에 따르면 수천 명의 학생들이 새로운 중등 교육 과정에 실패했습니다.",
+      "summaryKo": "교육부의 ‘낙관적‘ 모델링에 따르면 수천 명의 학생들이 새로운 중등 교육 과정에 실패했습니다. Stuff.co.nz",
       "snapshotDate": "2026-10-20"
     },
     {
@@ -379,7 +410,7 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 71,
+      "score": 61,
       "snapshotDate": "2026-10-20"
     },
     {
@@ -393,7 +424,7 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 90,
+      "score": 80,
       "snapshotDate": "2026-10-20"
     },
     {
@@ -676,6 +707,20 @@
       "snapshotDate": "2026-10-20"
     },
     {
+      "id": "678eced34df1",
+      "title": "‘현 고1’ 2029수능 2028년 11월16일.. ‘통합형 수능 2년차’ 국수탐 선택과목 폐지, 탐구 영향력 주목",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10ZXdlbnJuamd2SWYwa201c1RodHdVR2NwRHBMUjBFcTU5SjJKTWdnRmlOd2ZDNkVyam16eDZzSjhRaDF6aXZzSTN1QkFrNVhtY2x1R2hJeXRTZWFYN2t2Z25CeDhSQ2gzS1NiRw?oc=5",
+      "source": "베리타스알파",
+      "kind": "domestic",
+      "publishedAt": "2026-10-16T08:19:00.000Z",
+      "description": "‘현 고1’ 2029수능 2028년 11월16일.. ‘통합형 수능 2년차’ 국수탐 선택과목 폐지, 탐구 영향력 주목 베리타스알파",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 42,
+      "score": 56,
+      "snapshotDate": "2026-10-20"
+    },
+    {
       "id": "c2700cb33dfa",
       "title": "[2027전문대수시특집] 김영도 한국전문대학교육협의회 회장 “전문대학은 4년제 대안 아니라 실질적 직업교육 처음부터 다른 길”",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxbXZ2R3JMRzBlcnc2eTZtWmg5b0FvNlBTZzBTR2taV0VKNi1KeXRIT08zaVktOEdJX043STlXU0ZlWl9nbDJDYlNrTGZOVUJzbFJIekNEWTNrMDJONF8xeVNDOXdPWWVOdU55aw?oc=5",
@@ -840,8 +885,8 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 62,
-      "snapshotDate": "2026-10-20"
+      "score": 72,
+      "snapshotDate": "2026-10-19"
     },
     {
       "id": "03b4bfd543cc",
@@ -1361,7 +1406,7 @@
       "originalTitle": "South Korea's population strategy demands long-term policy integration",
       "titleKo": "한국의 인구 전략은 장기적인 정책 통합을 요구합니다.",
       "summaryKo": "오늘날 한국을 형성하는 가장 강력한 자원은 무엇이었습니까? 자본과 천연 자원이 부족했음에도 불구하고, 국가는 전쟁의 폐허에서 일어나 세계 10대 경제 대국이 되었다.",
-      "snapshotDate": "2026-10-20"
+      "snapshotDate": "2026-10-19"
     },
     {
       "id": "d166edf5571c",
@@ -2729,7 +2774,7 @@
       "originalTitle": "\"0 Won Tuition in South Korea, Scholarships in Japan\"!? Differences in Educational Policies Supporting University Enrollment",
       "titleKo": "\"한국은 0원, 일본은 장학금\"!? 대학 등록을 지원하는 교육 정책의 차이점",
       "summaryKo": "한국의 대학교육과 관련하여, 지역 국립 대학의 등록금을 무료화하는 정책이 선진화되고 있습니다 .2026년 9월에 보도된 뉴스에서, 17세에...",
-      "snapshotDate": "2026-10-18"
+      "snapshotDate": "2026-10-20"
     },
     {
       "id": "8dae263c46ba",
@@ -2913,7 +2958,7 @@
       "originalTitle": "Iran–Korea Chamber report highlights South Korea’s youth employment for knowledge exchange",
       "titleKo": "이란-한국 상공회의소 보고서, 지식 교류를 위한 한국의 청년 고용 강조",
       "summaryKo": "테헤란- 이란-한국 상공회의소는 젊은이들이 교육에서 취업으로 옮겨갈 수 있도록 돕는 한국의 노력을 조사한 다섯 번째 정책 보고서를 발표했다. 보고서, “학위에서...",
-      "snapshotDate": "2026-10-19"
+      "snapshotDate": "2026-10-20"
     },
     {
       "id": "2ca1876fd8fd",
@@ -8400,48 +8445,6 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 57,
-      "snapshotDate": "2026-09-26"
-    },
-    {
-      "id": "2f03b7968604",
-      "title": "한·싱가포르 교육장관 만난다…AI교육·학교정책 논의",
-      "url": "https://www.fnnews.com/news/202609220937180600",
-      "source": "파이낸셜뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-09-22T02:44:00.000Z",
-      "description": "한·싱가포르 교육장관 만난다…AI교육·학교정책 논의 (서울=연합뉴스) 노재현 기자 = 최교진 교육부 장관은 22일 서울 영등포구 한국교육시설안전원에서 데스먼드 리 싱가포르 교육부 장관과 교육정책 간담회를 연다고 교육부가 밝혔다. 이번 간담회는 지난 7월 ..",
-      "category": "유·초중등",
-      "feedProvider": "bing",
-      "policyRelevance": 65,
-      "score": 66,
-      "snapshotDate": "2026-09-26"
-    },
-    {
-      "id": "0a049a08701a",
-      "title": "평가원, 싱가포르 교육부와 교육정책 논의…에듀테크·미래인재 협력",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YamU2WThUVEtNZVZMX25oQkU2bGxMMUM2RlFRZ0dPejg0SXdyVHdISXJSUFhhME5DWm1Oa29qX2ZOd3RyWlBnLUFSUi1IMDNGVEU3RnB4aEt1NUpV?oc=5",
-      "source": "뉴스핌",
-      "kind": "domestic",
-      "publishedAt": "2026-09-22T01:38:00.000Z",
-      "description": "평가원, 싱가포르 교육부와 교육정책 논의…에듀테크·미래인재 협력 뉴스핌",
-      "category": "AI·디지털",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 82,
-      "snapshotDate": "2026-09-23"
-    },
-    {
-      "id": "8ab19522b105",
-      "title": "경상국립대 교수회·총동문회, 서울대 10개 만들기 정책 전면 재검토 촉구",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzc19JbkhRV0xhdHYxZnp2WTlhUndKWjlydW0tLTZOZjI0a3JjRmlEVHlaT2lUNGdfMUswcHN0UTd2YTV5UTFVME01UG1lWkxWbHFtNXl3bVp4LTkybU5EVzgwZlBjeTQtdkVBU0lR?oc=5",
-      "source": "gukjenews.com",
-      "kind": "domestic",
-      "publishedAt": "2026-09-22T01:33:44.000Z",
-      "description": "경상국립대 교수회·총동문회, 서울대 10개 만들기 정책 전면 재검토 촉구 gukjenews.com",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 51,
       "snapshotDate": "2026-09-26"
     }
   ]
