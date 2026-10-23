@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-23T00:03:35.354Z",
-  "generatedAtKST": "2026-10-23T09:03:32.885+09:00",
+  "generatedAt": "2026-10-23T00:45:11.193Z",
+  "generatedAtKST": "2026-10-23T09:45:08.436+09:00",
   "date": "2026-10-23",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 15,
-    "domesticGoogle": 165,
-    "foreignBing": 4,
-    "foreignGoogle": 211,
-    "carried": 100,
-    "rawUnique": 369,
-    "policyRejected": 264,
+    "domesticBing": 20,
+    "domesticGoogle": 159,
+    "foreignBing": 6,
+    "foreignGoogle": 207,
+    "carried": 166,
+    "rawUnique": 364,
+    "policyRejected": 260,
     "policyKept": 80
   },
   "briefing": [
@@ -177,6 +177,19 @@
       "score": 90
     },
     {
+      "id": "ea7ef756df10",
+      "title": "육아정책연구소 \"유보통합, 지원 확대 넘어 교육·보육 질적 격차 해소해야\"",
+      "url": "https://www.kgnews.co.kr/news/article.html?no=916349",
+      "source": "경기신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-22T10:42:00.000Z",
+      "description": "정부가 유치원과 어린이집의 교육·보육 체계를 통합하는 유보통합을 추진은 비용 부담 완화와 서비스 확대를 넘어 영유아가 실제로 교육·보육의 질적 격차를 해소해야 한다는 제언이 나왔다. 육아정책연구소는 22일 영유아교육·보육정책의 성과와 향후 과제를 담은 '육아정책포럼' 통권 제89호를 발간했다고 밝혔다. 이번 포럼은 정부책임형 유보통합의 추진 성과를 점검하고 ...",
+      "category": "고등교육",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
+      "score": 88
+    },
+    {
       "id": "54bba676b7a2",
       "title": "\"초·중등 편중 교육예산 바꿔야\"… 경기·인천 대학 총장들, 국회서 재정 개혁 촉구",
       "url": "https://www.kgnews.co.kr/news/article.html?no=915903",
@@ -216,6 +229,19 @@
       "score": 85
     },
     {
+      "id": "3d2c1fae2f44",
+      "title": "네이버, 교육 검색 대학·입시로 확대…수능 시험도 안내",
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%84%A4%EC%9D%B4%EB%B2%84-%EA%B5%90%EC%9C%A1-%EA%B2%80%EC%83%89-%EB%8C%80%ED%95%99-%EC%9E%85%EC%8B%9C%EB%A1%9C-%ED%99%95%EB%8C%80-%EC%88%98%EB%8A%A5-%EC%8B%9C%ED%97%98%EB%8F%84-%EC%95%88%EB%82%B4/ar-AA2fQYQI",
+      "source": "이투데이 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-10-22T17:21:06.000Z",
+      "description": "네이버가 교육 검색 서비스를 대학·학과와 입시 정보까지 확대했다. 네이버는 대학·학과 정보부터 입시 전형까지 수험생에게 필요한 정보를 한눈에 확인할 수 있도록 교육 검색 서비스를 개편했다고 23일 밝혔다. 이번 개편으로 이용자는 약 200개 대학, 7000여개 학과의 기본 정보와 전형, 취업률, 등록금 등을 검색할 수 있다. 대학 입학처와 학교 홈페이지, ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 52,
+      "score": 84
+    },
+    {
       "id": "4650ad8aef6b",
       "title": "교육부`초·중등교육법 시행령` 일부개정령안 국무회의 통과",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9xNTRocG1WUWwyQkUwV2J1d0ZDdXVTVEprSnJYWUlaMGp2UkUzbDNONjBYQ294Z3R1Z2k5Mk9GUzJDWElxWHlGci1R?oc=5",
@@ -226,19 +252,6 @@
       "category": "재정·법령",
       "feedProvider": "google",
       "policyRelevance": 77,
-      "score": 82
-    },
-    {
-      "id": "0887de2afa4c",
-      "title": "일본이 먼저 맞은 대학 위기…한국도 ‘정원 감축·기능 재편’ 피할 수 없다",
-      "url": "https://www.newsian.co.kr/news/articleView.html?idxno=97355",
-      "source": "뉴시안",
-      "kind": "domestic",
-      "publishedAt": "2026-10-20T07:00:00.000Z",
-      "description": "［뉴시안= 이태영 기자］일본이 학령인구 감소에도 대학 공급을 지속적으로 확대하면서 대학 공급과잉과 수도권 집중, 지방대학의 학생 미충원이라는 구조적 문제에 직면했다. 한국 역시 대학 규모의 적정화와 기능 재설계를 병행하고, ‘5극3특 국가균형성장 추진전략’과 연계해 지역인재 양성체계를 강화해야 한다는 제언이 나왔다.국회미래연구원(원장 김기식)은 20일 브리 ...",
-      "category": "고등교육",
-      "feedProvider": "bing",
-      "policyRelevance": 87,
       "score": 82
     },
     {
@@ -292,6 +305,19 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 80
+    },
+    {
+      "id": "fc738b0076d9",
+      "title": "경남교육청 '행복마을학교→지역사회학교거점센터' 전환",
+      "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EB%82%A8%EA%B5%90%EC%9C%A1%EC%B2%AD-%ED%96%89%EB%B3%B5%EB%A7%88%EC%9D%84%ED%95%99%EA%B5%90-%EC%A7%80%EC%97%AD%EC%82%AC%ED%9A%8C%ED%95%99%EA%B5%90%EA%B1%B0%EC%A0%90%EC%84%BC%ED%84%B0-%EC%A0%84%ED%99%98/ar-AA2fMxXO",
+      "source": "뉴시스 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-10-21T18:22:05.000Z",
+      "description": "경상남도교육청은 지역 교육 협력 경험을 바탕으로 기존 행복마을학교 사업을 ‘경남 지역사회학교거점센터’ 정책으로 전환하고, 신규 구축을 추진한다고 22일 밝혔다. 경남 지역사회학교거점센터의 핵심 기능은 지역 맞춤형 학교 교육과정 지원이다. 지역의 교육 자원을 체계적으로 발굴·관리하고, 지역 강사와 교육 프로그램 등을 학교의 수요에 맞게 연결해 학교가 지역의 ...",
+      "category": "유·초중등",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
+      "score": 78
     },
     {
       "id": "47e4da58e1fe",
@@ -499,19 +525,6 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 52,
-      "score": 74
-    },
-    {
-      "id": "aec738cc68d6",
-      "title": "대전광역시교육청 2028 대입 개편, 내신 5등급제와 통합형 수능 분석으로 대비한다",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UZzNKTl91cEVVOXFOLTAyYlZMZTh2V1dLdUF3eGVBNWtoc01URmFfaVQ1WllvVjgwajJKSGFDVC1oMjI5Nk9TODdpTUkySjU1R3NWNFVxUFduYUk?oc=5",
-      "source": "오픈뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-10-19T00:09:11.000Z",
-      "description": "대전광역시교육청 2028 대입 개편, 내신 5등급제와 통합형 수능 분석으로 대비한다 오픈뉴스",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 65,
       "score": 74
     },
     {
@@ -723,19 +736,6 @@
       "score": 70
     },
     {
-      "id": "7468ec25f11a",
-      "title": "대전교육청 내신 5등급제·통합형 수능, 2028 대입 대비 설명회 개최",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1KWUZNZjdYYktRMHl1Mml2SVJYeW91QTRHeGpkeFl2M2VWNTdxZk9tenlBSGR4bUJfekQ0MFppS2UxaG14?oc=5",
-      "source": "뉴스파고",
-      "kind": "domestic",
-      "publishedAt": "2026-10-19T00:41:00.000Z",
-      "description": "대전교육청 내신 5등급제·통합형 수능, 2028 대입 대비 설명회 개최 뉴스파고",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 70
-    },
-    {
       "id": "c05b5e372263",
       "title": "교육부, 사회정서교육 우수사례 첫 공모",
       "url": "https://www.msn.com/ko-kr/news/other/%EA%B5%90%EC%9C%A1%EB%B6%80-%EC%82%AC%ED%9A%8C%EC%A0%95%EC%84%9C%EA%B5%90%EC%9C%A1-%EC%9A%B0%EC%88%98%EC%82%AC%EB%A1%80-%EC%B2%AB-%EA%B3%B5%EB%AA%A8/ar-AA2fLERM",
@@ -918,6 +918,19 @@
       "score": 65
     },
     {
+      "id": "4d2d3a66c237",
+      "title": "전자영 경기도의원 “대학 지원정책, 현장 목소리 예산에 반영해야”",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tckU0U2VDUDM3eGdxWThxLW9wb3cwanRFS0xFWUhtNUNteXZMT0xfZzZVNWl3V1pfdDE4MVQ5QUljVkE0TjJMYl9MZ2xTMllyRlVrQS04TlF4T3lBbHRXdHNhbVpnVGJWVnc?oc=5",
+      "source": "천지일보",
+      "kind": "domestic",
+      "publishedAt": "2026-10-20T10:16:00.000Z",
+      "description": "전자영 경기도의원 “대학 지원정책, 현장 목소리 예산에 반영해야” 천지일보",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 65
+    },
+    {
       "id": "8d5fe39c5db8",
       "title": "내신 5등급·통합형 수능 시대…대학 가는 또 다른 길 '학사편입'",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92SG1oMUVEcVc4ckQ3MzllOVJ0YVcyaUVsZXJ2TFlFczNyNHYyVy11SHBQU1l2bmljcTJXMldGU05zeFB4QzdKN2tGSUg3WjVQWVg3X2UtREZpWWpCR2s3RGpuaWlYNkVaNHFF0gFvQVVfeXFMT2F0dnVzUEc4VF9mRFRkNzNiR1dQbnZBUy1URkowZ2lCODZYU3JoS2FhcUg0NWphVHZQQ1AyU2ZfLUdfdDRGaDQyU1hoZHZ3Rk9CSWhTR0dKTElQV0ZfWEdDdFVVekJEd2RMcXF5ckdB?oc=5",
@@ -1046,19 +1059,6 @@
       "feedProvider": "google",
       "policyRelevance": 42,
       "score": 62
-    },
-    {
-      "id": "01a7d6f2acad",
-      "title": "경남교육청, ‘2026 초등 수업나눔 한마당’ 개최",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB3RDRScnR3N3EwWjI2S0E3Mkpha2RuZzNtQ2xabURjVGNwUGFHMGYwQUxzN2stRTBIZDN1N2FMQWFRNGc?oc=5",
-      "source": "한국공공정책신문",
-      "kind": "domestic",
-      "publishedAt": "2026-10-19T15:11:48.000Z",
-      "description": "경남교육청, ‘2026 초등 수업나눔 한마당’ 개최 한국공공정책신문",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 62
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -1068,11 +1068,14 @@
     "throughDate": "2026-10-23",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-10-21T15:00:00.000Z",
-    "windowEnd": "2026-10-23T00:03:35.354Z",
+    "windowEnd": "2026-10-23T00:45:11.193Z",
     "itemIds": [
       "065c6c81e1fa",
       "3d35bda52e5f",
+      "ea7ef756df10",
+      "3d2c1fae2f44",
       "3f8bd2502ae8",
+      "fc738b0076d9",
       "eece1e8cf005",
       "a19a8e53230d",
       "bbbd4ceda7fd",
@@ -1087,13 +1090,13 @@
       "b3fb56dfa384"
     ],
     "stats": {
-      "total": 15,
+      "total": 18,
       "official": 2,
-      "domestic": 13,
+      "domestic": 16,
       "foreign": 0
     },
     "headline": "오늘 아침 교육뉴스는 교원·조직·고등교육·유·초중등 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 15건이 확인됐습니다. 교육부는 함께 한 땀방울, 하나된 열정! 제19회 전국 학교스포츠클럽 축전 개최와 “마음도 배워야 자란다” 2026년 한국형 사회정서교육 우수사례 공모전 개최 등을 공식 발표했습니다. 국내 언론에서는 국립특수교육원, 특수교육 실태조사·종단연구 심포지엄 개최와 경남교육청, 지역 자원 활용 교원 연수 연다 등이 주요하게 다뤄졌습니다. 전체적으로는 교원·조직·고등교육·유·초중등 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 18건이 확인됐습니다. 교육부는 함께 한 땀방울, 하나된 열정! 제19회 전국 학교스포츠클럽 축전 개최와 “마음도 배워야 자란다” 2026년 한국형 사회정서교육 우수사례 공모전 개최 등을 공식 발표했습니다. 국내 언론에서는 육아정책연구소 \"유보통합, 지원 확대 넘어 교육·보육 질적 격차 해소해야\"와 네이버, 교육 검색 대학·입시로 확대…수능 시험도 안내 등이 주요하게 다뤄졌습니다. 전체적으로는 교원·조직·고등교육·유·초중등 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "교원·조직",
@@ -1107,29 +1110,30 @@
       },
       {
         "title": "고등교육",
-        "summary": "부산 R&D 정책 어떻게 짜나…중국 옌타이서 찾아온 연구진 · 대학도 안 가보고 무슨 기준으로 뽑았나…국회 ‘서울대 10개’ 질타 · 류장수 국립부경대 교수, 교육부 ‘대학·지역 동반성장 지원위원회’ 부위원장 임명",
+        "summary": "육아정책연구소 \"유보통합, 지원 확대 넘어 교육·보육 질적 격차 해소해야\" · 부산 R&D 정책 어떻게 짜나…중국 옌타이서 찾아온 연구진 · 대학도 안 가보고 무슨 기준으로 뽑았나…국회 ‘서울대 10개’ 질타",
         "why": "대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다.",
         "sources": [
+          "경기신문",
           "더팩트",
-          "교수신문",
-          "부산일보"
+          "교수신문"
         ]
       },
       {
         "title": "유·초중등",
-        "summary": "함께 한 땀방울, 하나된 열정! 제19회 전국 학교스포츠클럽 축전 개최 · 서울시의회, \"학생 사고력 보호가 핵심\"...AI 교육 가이드라인 정책토론회 개최 · 교육부, 사회정서교육 우수사례 첫 공모",
+        "summary": "함께 한 땀방울, 하나된 열정! 제19회 전국 학교스포츠클럽 축전 개최 · 경남교육청 '행복마을학교→지역사회학교거점센터' 전환 · 서울시의회, \"학생 사고력 보호가 핵심\"...AI 교육 가이드라인 정책토론회 개최",
         "why": "학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
         "sources": [
           "교육부",
-          "뉴스피릿",
-          "파이낸셜뉴스 on MSN"
+          "뉴시스 on MSN",
+          "뉴스피릿"
         ]
       },
       {
         "title": "입시·사교육",
-        "summary": "내신 5등급제 앞두고 검정고시 대입 관심…”성적 환산·지원 자격 대학마다 달라\"",
+        "summary": "네이버, 교육 검색 대학·입시로 확대…수능 시험도 안내 · 내신 5등급제 앞두고 검정고시 대입 관심…”성적 환산·지원 자격 대학마다 달라\"",
         "why": "대입·수능·사교육 이슈는 학생·학부모 체감도가 높고 후속 안내와 현장 반응 점검이 중요합니다.",
         "sources": [
+          "이투데이 on MSN",
           "위키트리"
         ]
       }

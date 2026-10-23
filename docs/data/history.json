@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T00:03:44.408Z",
+  "generatedAt": "2026-10-23T00:45:20.856Z",
   "retentionDays": 30,
   "days": [
     "2026-10-23",
@@ -31,6 +31,34 @@
     "2026-09-24"
   ],
   "items": [
+    {
+      "id": "3d2c1fae2f44",
+      "title": "네이버, 교육 검색 대학·입시로 확대…수능 시험도 안내",
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%84%A4%EC%9D%B4%EB%B2%84-%EA%B5%90%EC%9C%A1-%EA%B2%80%EC%83%89-%EB%8C%80%ED%95%99-%EC%9E%85%EC%8B%9C%EB%A1%9C-%ED%99%95%EB%8C%80-%EC%88%98%EB%8A%A5-%EC%8B%9C%ED%97%98%EB%8F%84-%EC%95%88%EB%82%B4/ar-AA2fQYQI",
+      "source": "이투데이 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-10-22T17:21:06.000Z",
+      "description": "네이버가 교육 검색 서비스를 대학·학과와 입시 정보까지 확대했다. 네이버는 대학·학과 정보부터 입시 전형까지 수험생에게 필요한 정보를 한눈에 확인할 수 있도록 교육 검색 서비스를 개편했다고 23일 밝혔다. 이번 개편으로 이용자는 약 200개 대학, 7000여개 학과의 기본 정보와 전형, 취업률, 등록금 등을 검색할 수 있다. 대학 입학처와 학교 홈페이지, ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 52,
+      "score": 84,
+      "snapshotDate": "2026-10-23"
+    },
+    {
+      "id": "ea7ef756df10",
+      "title": "육아정책연구소 \"유보통합, 지원 확대 넘어 교육·보육 질적 격차 해소해야\"",
+      "url": "https://www.kgnews.co.kr/news/article.html?no=916349",
+      "source": "경기신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-22T10:42:00.000Z",
+      "description": "정부가 유치원과 어린이집의 교육·보육 체계를 통합하는 유보통합을 추진은 비용 부담 완화와 서비스 확대를 넘어 영유아가 실제로 교육·보육의 질적 격차를 해소해야 한다는 제언이 나왔다. 육아정책연구소는 22일 영유아교육·보육정책의 성과와 향후 과제를 담은 '육아정책포럼' 통권 제89호를 발간했다고 밝혔다. 이번 포럼은 정부책임형 유보통합의 추진 성과를 점검하고 ...",
+      "category": "고등교육",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
+      "score": 88,
+      "snapshotDate": "2026-10-23"
+    },
     {
       "id": "4b8e8ef717f9",
       "title": "부산 R&D 정책 어떻게 짜나…중국 옌타이서 찾아온 연구진",
@@ -195,6 +223,20 @@
       "feedProvider": "bing",
       "policyRelevance": 45,
       "score": 67,
+      "snapshotDate": "2026-10-23"
+    },
+    {
+      "id": "fc738b0076d9",
+      "title": "경남교육청 '행복마을학교→지역사회학교거점센터' 전환",
+      "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EB%82%A8%EA%B5%90%EC%9C%A1%EC%B2%AD-%ED%96%89%EB%B3%B5%EB%A7%88%EC%9D%84%ED%95%99%EA%B5%90-%EC%A7%80%EC%97%AD%EC%82%AC%ED%9A%8C%ED%95%99%EA%B5%90%EA%B1%B0%EC%A0%90%EC%84%BC%ED%84%B0-%EC%A0%84%ED%99%98/ar-AA2fMxXO",
+      "source": "뉴시스 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-10-21T18:22:05.000Z",
+      "description": "경상남도교육청은 지역 교육 협력 경험을 바탕으로 기존 행복마을학교 사업을 ‘경남 지역사회학교거점센터’ 정책으로 전환하고, 신규 구축을 추진한다고 22일 밝혔다. 경남 지역사회학교거점센터의 핵심 기능은 지역 맞춤형 학교 교육과정 지원이다. 지역의 교육 자원을 체계적으로 발굴·관리하고, 지역 강사와 교육 프로그램 등을 학교의 수요에 맞게 연결해 학교가 지역의 ...",
+      "category": "유·초중등",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
+      "score": 78,
       "snapshotDate": "2026-10-23"
     },
     {
@@ -464,6 +506,20 @@
       "snapshotDate": "2026-10-23"
     },
     {
+      "id": "4d2d3a66c237",
+      "title": "전자영 경기도의원 “대학 지원정책, 현장 목소리 예산에 반영해야”",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tckU0U2VDUDM3eGdxWThxLW9wb3cwanRFS0xFWUhtNUNteXZMT0xfZzZVNWl3V1pfdDE4MVQ5QUljVkE0TjJMYl9MZ2xTMllyRlVrQS04TlF4T3lBbHRXdHNhbVpnVGJWVnc?oc=5",
+      "source": "천지일보",
+      "kind": "domestic",
+      "publishedAt": "2026-10-20T10:16:00.000Z",
+      "description": "전자영 경기도의원 “대학 지원정책, 현장 목소리 예산에 반영해야” 천지일보",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 65,
+      "snapshotDate": "2026-10-23"
+    },
+    {
       "id": "4650ad8aef6b",
       "title": "교육부`초·중등교육법 시행령` 일부개정령안 국무회의 통과",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9xNTRocG1WUWwyQkUwV2J1d0ZDdXVTVEprSnJYWUlaMGp2UkUzbDNONjBYQ294Z3R1Z2k5Mk9GUzJDWElxWHlGci1R?oc=5",
@@ -544,8 +600,8 @@
       "category": "고등교육",
       "feedProvider": "bing",
       "policyRelevance": 87,
-      "score": 82,
-      "snapshotDate": "2026-10-23"
+      "score": 92,
+      "snapshotDate": "2026-10-21"
     },
     {
       "id": "f44fc9d76d81",
@@ -1019,8 +1075,8 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 62,
-      "snapshotDate": "2026-10-23"
+      "score": 72,
+      "snapshotDate": "2026-10-21"
     },
     {
       "id": "1d52cbbc6001",
@@ -1383,8 +1439,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 70,
-      "snapshotDate": "2026-10-23"
+      "score": 80,
+      "snapshotDate": "2026-10-21"
     },
     {
       "id": "bf4583140015",
@@ -1411,8 +1467,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 74,
-      "snapshotDate": "2026-10-23"
+      "score": 84,
+      "snapshotDate": "2026-10-21"
     },
     {
       "id": "ba221017464c",
@@ -8376,64 +8432,6 @@
       "policyRelevance": 75,
       "score": 71,
       "snapshotDate": "2026-10-01"
-    },
-    {
-      "id": "207ad980c3d0",
-      "title": "안민석 경기도교육감, OECD에 경기교육 ‘벽깨기’ 정책 소개",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0RFJ2OEpjVmdrenNoRkJfaS1fdG9EMU5ZTTg0M0JQU0NpN0pMaTlWVlc2OFpRTVVXdmtaX09KZ3BHdmJtblF4VXJfeHdWdVd2VEx0dHpoRXd5SEQyV2lRMkVIczdIR0hJUGc?oc=5",
-      "source": "비즈월드",
-      "kind": "domestic",
-      "publishedAt": "2026-09-27T22:26:00.000Z",
-      "description": "안민석 경기도교육감, OECD에 경기교육 ‘벽깨기’ 정책 소개 비즈월드",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 72,
-      "snapshotDate": "2026-09-30"
-    },
-    {
-      "id": "3ec06ac9e1b7",
-      "title": "세종시교육청 새 부교육감에 ‘AI 정책통’ 이윤홍…교육부 25년 경력",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11eGptQ1NBdHQwaFZ2VEd5ZGt6SlVMWmc5SzBsbl9QWVNsOXh2MGFweFdCNXZxaEhDZUVVOW1tQTdvWElJalNQMGJGa1hpYWlWZVA4Q2FnblBKY2kzbjRIN2MxeDZyYlNC?oc=5",
-      "source": "녹색경제신문",
-      "kind": "domestic",
-      "publishedAt": "2026-09-27T21:14:20.000Z",
-      "description": "세종시교육청 새 부교육감에 ‘AI 정책통’ 이윤홍…교육부 25년 경력 녹색경제신문",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 86,
-      "snapshotDate": "2026-09-28"
-    },
-    {
-      "id": "b2f5352a80b5",
-      "title": "Exclusive: Ministry recommends teachers resign for National Assembly, restrict student-linked SNS politics",
-      "url": "https://www.msn.com/en-xl/news/other/exclusive-ministry-recommends-teachers-resign-for-national-assembly-restrict-student-linked-sns-politics/ar-AA2cRXd2",
-      "source": "The Chosun Ilbo on MSN",
-      "kind": "foreign",
-      "publishedAt": "2026-09-27T19:00:45.000Z",
-      "description": "A policy study by the Ministry of Education, conducted to advance the current government’s national task of “expanding teachers’ political basic rights,” concluded that teachers should be restricted ...",
-      "category": "교원·조직",
-      "score": 30,
-      "originalTitle": "Exclusive: Ministry recommends teachers resign for National Assembly, restrict student-linked SNS politics",
-      "titleKo": "독점: 교육부는 교사가 국회에서 사퇴하고, 학생 연계 SNS 정치를 제한할 것을 권장합니다.",
-      "summaryKo": "현 정부의 국정과제인 '교원의 정치적 기본권 확대' 를 추진하기 위해 실시된 교육부의 정책연구는 교사를 제한해야 한다는 결론을 내렸다...",
-      "snapshotDate": "2026-10-13"
-    },
-    {
-      "id": "7399a3ad95fd",
-      "title": "Exclusive: Ministry recommends teachers resign for National Assembly, restrict student-linked SNS politics",
-      "url": "https://www.msn.com/en-xl/money/general/exclusive-ministry-recommends-teachers-resign-for-national-assembly-restrict-student-linked-sns-politics/ar-AA2cRXd2",
-      "source": "The Chosun Ilbo on MSN",
-      "kind": "foreign",
-      "publishedAt": "2026-09-27T19:00:45.000Z",
-      "description": "A policy study by the Ministry of Education, conducted to advance the current government’s national task of “expanding teachers’ political basic rights,” concluded that teachers should be restricted ...",
-      "category": "교원·조직",
-      "score": 30,
-      "originalTitle": "Exclusive: Ministry recommends teachers resign for National Assembly, restrict student-linked SNS politics",
-      "titleKo": "독점: 교육부는 교사가 국회에서 사퇴하고, 학생 연계 SNS 정치를 제한할 것을 권장합니다.",
-      "summaryKo": "현 정부의 국정과제인 '교원의 정치적 기본권 확대' 를 추진하기 위해 실시된 교육부의 정책연구는 교사를 제한해야 한다는 결론을 내렸다...",
-      "snapshotDate": "2026-10-12"
     }
   ]
 }
