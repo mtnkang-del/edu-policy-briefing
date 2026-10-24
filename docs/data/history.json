@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T23:54:39.677Z",
+  "generatedAt": "2026-10-24T00:50:50.519Z",
   "retentionDays": 30,
   "days": [
     "2026-10-24",
@@ -702,6 +702,20 @@
       "snapshotDate": "2026-10-24"
     },
     {
+      "id": "89c9ed3d4e43",
+      "title": "안민석 교육감 \"교육격차 해소 위해 자기주도학습센터 필요\"",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%95%88%EB%AF%BC%EC%84%9D-%EA%B5%90%EC%9C%A1%EA%B0%90-%EA%B5%90%EC%9C%A1%EA%B2%A9%EC%B0%A8-%ED%95%B4%EC%86%8C-%EC%9C%84%ED%95%B4-%EC%9E%90%EA%B8%B0%EC%A3%BC%EB%8F%84%ED%95%99%EC%8A%B5%EC%84%BC%ED%84%B0-%ED%95%84%EC%9A%94/ar-AA2fH4Og",
+      "source": "쿠키뉴스 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-10-20T19:57:25.000Z",
+      "description": "안민석 교육감이 경기도 내 각 지역을 순회하며 도의 주요 교육 정책 방향을 설명하고, 지역의 교육 현안에 대해 의견을 나누는 소통 행보를 이어가고 있다. 21일 경기도교육청에 따르면 안민석 경기도교육감은 지난 20일 양평·여주·이천에서 타운홀미팅 ‘찾아가는 교육감실’ 열고, 학부모들과 지역 교육 현안에 대한 의견을 나눴다. 안 교육감은 각 지역에서 진행한 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 67,
+      "snapshotDate": "2026-10-24"
+    },
+    {
       "id": "7db52a48770b",
       "title": "전자영 의원 \"대학 지원정책에 현장 목소리 담아야\"",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hU1pxOWYzRDZKZzhMMk82c0JXN083RTRkYnhoMjJYUmNqal9xQ0wtT1dYc2FIRC1NV2s5Z09JTmJEZzQzYV9hQk5EOFFjVzFIVDFwQ05WVGp3cTFXUGRUTWdhdWtiTFFGd3hIeUlB?oc=5",
@@ -908,8 +922,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 53,
-      "snapshotDate": "2026-10-24"
+      "score": 63,
+      "snapshotDate": "2026-10-23"
     },
     {
       "id": "e7cb0a39686c",
@@ -8419,20 +8433,6 @@
       "policyRelevance": 47,
       "score": 64,
       "snapshotDate": "2026-09-30"
-    },
-    {
-      "id": "5d9a84e779ad",
-      "title": "[이로운요구]서울시교육청-민주노총, 교부금 개편에 학교·학급·특수교육 수요 반영 요구",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XOWI2aS0yN2dObUxTekJhX0ZOWHZSMUo1QzI2dHlLdVIxU2JjMHpsVm9pdDg3aWtJT1h6ODNuSFd4TGFSZVc5VUdnQXEtTnQ1RHF5cjF5RkFidkZoaFdnSk5XOWZiQQ?oc=5",
-      "source": "이로운넷",
-      "kind": "domestic",
-      "publishedAt": "2026-09-28T07:23:19.000Z",
-      "description": "[이로운요구]서울시교육청-민주노총, 교부금 개편에 학교·학급·특수교육 수요 반영 요구 이로운넷",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 70,
-      "snapshotDate": "2026-10-02"
     }
   ]
 }

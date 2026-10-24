@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-23T23:54:29.102Z",
-  "generatedAtKST": "2026-10-24T08:54:26.166+09:00",
+  "generatedAt": "2026-10-24T00:50:39.050Z",
+  "generatedAtKST": "2026-10-24T09:50:36.067+09:00",
   "date": "2026-10-24",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 15,
-    "domesticGoogle": 165,
-    "foreignBing": 4,
-    "foreignGoogle": 201,
-    "carried": 99,
-    "rawUnique": 360,
-    "policyRejected": 270,
+    "domesticBing": 14,
+    "domesticGoogle": 166,
+    "foreignBing": 5,
+    "foreignGoogle": 204,
+    "carried": 161,
+    "rawUnique": 365,
+    "policyRejected": 274,
     "policyKept": 80
   },
   "briefing": [
@@ -606,6 +606,19 @@
       "score": 67
     },
     {
+      "id": "89c9ed3d4e43",
+      "title": "안민석 교육감 \"교육격차 해소 위해 자기주도학습센터 필요\"",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%95%88%EB%AF%BC%EC%84%9D-%EA%B5%90%EC%9C%A1%EA%B0%90-%EA%B5%90%EC%9C%A1%EA%B2%A9%EC%B0%A8-%ED%95%B4%EC%86%8C-%EC%9C%84%ED%95%B4-%EC%9E%90%EA%B8%B0%EC%A3%BC%EB%8F%84%ED%95%99%EC%8A%B5%EC%84%BC%ED%84%B0-%ED%95%84%EC%9A%94/ar-AA2fH4Og",
+      "source": "쿠키뉴스 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-10-20T19:57:25.000Z",
+      "description": "안민석 교육감이 경기도 내 각 지역을 순회하며 도의 주요 교육 정책 방향을 설명하고, 지역의 교육 현안에 대해 의견을 나누는 소통 행보를 이어가고 있다. 21일 경기도교육청에 따르면 안민석 경기도교육감은 지난 20일 양평·여주·이천에서 타운홀미팅 ‘찾아가는 교육감실’ 열고, 학부모들과 지역 교육 현안에 대한 의견을 나눴다. 안 교육감은 각 지역에서 진행한 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 67
+    },
+    {
       "id": "ec5c3e94e749",
       "title": "전남대학교 주관 고등교육 정책포럼 ‘대학 자체혁신, 정부 전폭지원’ 한목소리",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vSVRhTlN6elJHYnRETlNYMloyeENMZV9Ddkg1UE5SSkVyS01MTlJJeGM5U1NIWjUzdzRBRWpVZ3VWdFZoeXNSM2RQNWVwTTE3WVZHeVR6aEk?oc=5",
@@ -1049,19 +1062,6 @@
       "originalTitle": "Education Ministry’s ‘optimistic’ modelling shows thousands more students failing new secondary curriculum",
       "titleKo": "교육부의 ‘낙관적‘ 모델링에 따르면 수천 명의 학생들이 새로운 중등 교육 과정에 실패했습니다.",
       "summaryKo": "교육부의 ‘낙관적‘ 모델링에 따르면 수천 명의 학생들이 새로운 중등 교육 과정에 실패했습니다. Stuff.co.nz"
-    },
-    {
-      "id": "3be70a995ca6",
-      "title": "교육부, 대학·지역 동반성장 지원위원회 첫 회의[찰칵! 현장]",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96RENoMFg0aWVUb0FEWGxzSzdqRmdKOVZIODRDVnBvaS1zdFdZQnF5RFNYSllvdGVVVHBXTnc2cVl3T0FLRUpyZWxtWEdNSTF0bzY4bzlaam8xNVVyOTFPU1dXOFd1QQ?oc=5",
-      "source": "한국대학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-10-20T06:35:38.000Z",
-      "description": "교육부, 대학·지역 동반성장 지원위원회 첫 회의[찰칵! 현장] 한국대학신문",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 53
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -1071,7 +1071,7 @@
     "throughDate": "2026-10-24",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-10-22T15:00:00.000Z",
-    "windowEnd": "2026-10-23T23:54:29.102Z",
+    "windowEnd": "2026-10-24T00:50:39.050Z",
     "itemIds": [
       "0b2bb6fb92a8",
       "9b724217fec4",
