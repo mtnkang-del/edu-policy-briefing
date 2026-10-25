@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-10-24T23:31:04.632Z",
-  "generatedAtKST": "2026-10-25T08:31:02.282+09:00",
+  "generatedAt": "2026-10-25T00:23:37.593Z",
+  "generatedAtKST": "2026-10-25T09:23:34.832+09:00",
   "date": "2026-10-25",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 16,
-    "domesticGoogle": 172,
+    "domesticBing": 13,
+    "domesticGoogle": 164,
     "foreignBing": 5,
     "foreignGoogle": 198,
-    "carried": 79,
-    "rawUnique": 377,
-    "policyRejected": 296,
+    "carried": 151,
+    "rawUnique": 376,
+    "policyRejected": 295,
     "policyKept": 80
   },
   "briefing": [
-    "함께 한 땀방울, 하나된 열정! 제19회 전국 학교스포츠클럽 축전 개최 — 교육부",
-    "“마음도 배워야 자란다” 2026년 한국형 사회정서교육 우수사례 공모전 개최 — 교육부",
+    "인공지능 시대, ‘인문학은 질문합니다.’ — 교육부",
     "안정적인 2027학년도 수능 시행을 위해 모든 부처가 힘을 모아 지원합니다 — 교육부",
     "「초·중등교육법 시행령」 일부개정령안 국무회의 통과 — 교육부",
-    "교육부 ‘초·중등교육법' 시행령’ 개정… 학부모 지원·학교 민원 대응 강화 — 내외뉴스통신"
+    "교육부 ‘초·중등교육법' 시행령’ 개정… 학부모 지원·학교 민원 대응 강화 — 내외뉴스통신",
+    "함께 한 땀방울, 하나된 열정! 제19회 전국 학교스포츠클럽 축전 개최 — 교육부"
   ],
   "stats": {
     "total": 80,
@@ -31,28 +31,16 @@
   },
   "items": [
     {
-      "id": "065c6c81e1fa",
-      "title": "함께 한 땀방울, 하나된 열정! 제19회 전국 학교스포츠클럽 축전 개최",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107476&lev=0&m=020402",
+      "id": "d89ae4ac84a5",
+      "title": "인공지능 시대, ‘인문학은 질문합니다.’",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107483&lev=0&m=020402",
       "source": "교육부",
       "kind": "official",
-      "publishedAt": "2026-10-22T09:00:00+09:00",
+      "publishedAt": "2026-10-25T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
-      "category": "유·초중등",
+      "category": "AI·디지털",
       "policyRelevance": 100,
-      "score": 105
-    },
-    {
-      "id": "3d35bda52e5f",
-      "title": "“마음도 배워야 자란다” 2026년 한국형 사회정서교육 우수사례 공모전 개최",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107475&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-10-22T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "기타",
-      "policyRelevance": 100,
-      "score": 105
+      "score": 115
     },
     {
       "id": "289c4a068a08",
@@ -92,6 +80,30 @@
       "score": 96
     },
     {
+      "id": "065c6c81e1fa",
+      "title": "함께 한 땀방울, 하나된 열정! 제19회 전국 학교스포츠클럽 축전 개최",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107476&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-10-22T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "유·초중등",
+      "policyRelevance": 100,
+      "score": 95
+    },
+    {
+      "id": "3d35bda52e5f",
+      "title": "“마음도 배워야 자란다” 2026년 한국형 사회정서교육 우수사례 공모전 개최",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107475&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-10-22T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "기타",
+      "policyRelevance": 100,
+      "score": 95
+    },
+    {
       "id": "d5320a91f79c",
       "title": "「교과용 도서에 관한 규정」 일부개정령안 국무회의 통과",
       "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107460&lev=0&m=020402",
@@ -128,18 +140,6 @@
       "score": 95
     },
     {
-      "id": "c4bda7d25cb0",
-      "title": "데이터로 읽는 우리 교육 제16호 발간",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107440&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-10-18T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "기타",
-      "policyRelevance": 100,
-      "score": 95
-    },
-    {
       "id": "0b2bb6fb92a8",
       "title": "'대학 자율' 뒤에 숨은 '폐지론 단골' 교육부.. '정권마다 대입 갈아엎고 책임은 대교협'",
       "url": "https://www.veritas-a.com/news/articleView.html?idxno=633022",
@@ -166,6 +166,18 @@
       "score": 90
     },
     {
+      "id": "c4bda7d25cb0",
+      "title": "데이터로 읽는 우리 교육 제16호 발간",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107440&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-10-18T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "기타",
+      "policyRelevance": 100,
+      "score": 90
+    },
+    {
       "id": "c7699afdfb62",
       "title": "어린이집·유치원 입소·입학 신청, 더 쉽고 편리해진다",
       "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107428&lev=0&m=020402",
@@ -174,18 +186,6 @@
       "publishedAt": "2026-10-15T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "유·초중등",
-      "policyRelevance": 100,
-      "score": 90
-    },
-    {
-      "id": "2b9672d65a6c",
-      "title": "교육부는 유아 대상 레벨테스트 금지 제도가 현장에서 실효성 있게 작동하도록 점검 및 조치를 강화하겠습니다",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107424&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-10-14T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "기타",
       "policyRelevance": 100,
       "score": 90
     },
@@ -422,6 +422,19 @@
       "feedProvider": "bing",
       "policyRelevance": 52,
       "score": 74
+    },
+    {
+      "id": "8dc3c42596a5",
+      "title": "교육부, ‘제21회 인문주간’ 개최… 190여 개 프로그램 운영",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91SlRNSHBnWEZQQVNHMHkwVFFTeVlkVEdNd25lRGJSeTNRMGpDT0tVaFVTYVp6V3pROGZMX2lJdnhhakcxLVlfWGNVVGNGWDMybEdEaWRnV0ZaN2x1SlpjQnMwR2N2UQ?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-25T00:00:00.000Z",
+      "description": "교육부, ‘제21회 인문주간’ 개최… 190여 개 프로그램 운영 한국대학신문",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 73
     },
     {
       "id": "ccbb171155e7",
@@ -1049,19 +1062,6 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 51
-    },
-    {
-      "id": "30e9ac2b80b8",
-      "title": "청년이 지역에서 배우고 일하도록…충남 대학지원 정책 2년 연속 최우수",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zUTBzZmQxc3l0ME4yVk9tWEd2SXp2LXl0YW4xbXdob3FOUTdpcjZjTldvY1NDeTktSFpCaFJQUkR1UjlhRHN2MkEyaVNkdmFPeFBnUUhmQzJGcTMyU21PdE1iTVRBY2EyTnNr?oc=5",
-      "source": "충청시사신문",
-      "kind": "domestic",
-      "publishedAt": "2026-10-21T02:22:50.000Z",
-      "description": "청년이 지역에서 배우고 일하도록…충남 대학지원 정책 2년 연속 최우수 충청시사신문",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 51
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -1071,23 +1071,25 @@
     "throughDate": "2026-10-25",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-10-23T15:00:00.000Z",
-    "windowEnd": "2026-10-24T23:31:04.632Z",
+    "windowEnd": "2026-10-25T00:23:37.593Z",
     "itemIds": [
+      "d89ae4ac84a5",
       "d737b9b68886",
       "b7d99ce665da",
       "eecb33fecb30",
       "4ae527b2c26b",
       "c67692506759",
+      "8dc3c42596a5",
       "ccbb171155e7"
     ],
     "stats": {
-      "total": 6,
-      "official": 0,
-      "domestic": 6,
+      "total": 8,
+      "official": 1,
+      "domestic": 7,
       "foreign": 0
     },
-    "headline": "오늘 아침 교육뉴스는 입시·사교육·유·초중등·교원·조직 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 6건이 확인됐습니다. 국내 언론에서는 교육부 ‘초·중등교육법' 시행령’ 개정… 학부모 지원·학교 민원 대응 강화와 국회 교육위, 교육부·국교위 종합감사 종료… 대입 공정성·유보통합 집중 포화 등이 주요하게 다뤄졌습니다. 전체적으로는 입시·사교육·유·초중등·교원·조직 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "headline": "오늘 아침 교육뉴스는 입시·사교육·유·초중등·AI·디지털 이슈를 중심으로 형성됐습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 8건이 확인됐습니다. 교육부는 인공지능 시대, ‘인문학은 질문합니다.’ 등을 공식 발표했습니다. 국내 언론에서는 교육부 ‘초·중등교육법' 시행령’ 개정… 학부모 지원·학교 민원 대응 강화와 국회 교육위, 교육부·국교위 종합감사 종료… 대입 공정성·유보통합 집중 포화 등이 주요하게 다뤄졌습니다. 전체적으로는 입시·사교육·유·초중등·AI·디지털 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "입시·사교육",
@@ -1109,6 +1111,14 @@
         ]
       },
       {
+        "title": "AI·디지털",
+        "summary": "인공지능 시대, ‘인문학은 질문합니다.’",
+        "why": "AI·디지털 전환 정책은 교육과정·교원역량·인프라와 연결되므로 실행 여건과 현장 적용성을 함께 봐야 합니다.",
+        "sources": [
+          "교육부"
+        ]
+      },
+      {
         "title": "교원·조직",
         "summary": "경남에 '공공 스터디카페' 확대…권순기 교육감 공약 본격화",
         "why": "교원 업무·교권·인사와 직접 연결될 수 있어 현장 반응과 제도 운영상 쟁점을 살펴볼 필요가 있습니다.",
@@ -1120,7 +1130,7 @@
     "watchpoints": [
       "입시·사교육: 대입·수능·사교육 이슈는 학생·학부모 체감도가 높고 후속 안내와 현장 반응 점검이 중요합니다.",
       "유·초중등: 학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
-      "교원·조직: 교원 업무·교권·인사와 직접 연결될 수 있어 현장 반응과 제도 운영상 쟁점을 살펴볼 필요가 있습니다."
+      "AI·디지털: AI·디지털 전환 정책은 교육과정·교원역량·인프라와 연결되므로 실행 여건과 현장 적용성을 함께 봐야 합니다."
     ]
   }
 }

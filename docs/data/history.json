@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T23:31:18.884Z",
+  "generatedAt": "2026-10-25T00:23:49.907Z",
   "retentionDays": 30,
   "days": [
     "2026-10-25",
@@ -31,6 +31,33 @@
     "2026-09-26"
   ],
   "items": [
+    {
+      "id": "d89ae4ac84a5",
+      "title": "인공지능 시대, ‘인문학은 질문합니다.’",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107483&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-10-25T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "AI·디지털",
+      "policyRelevance": 100,
+      "score": 115,
+      "snapshotDate": "2026-10-25"
+    },
+    {
+      "id": "8dc3c42596a5",
+      "title": "교육부, ‘제21회 인문주간’ 개최… 190여 개 프로그램 운영",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91SlRNSHBnWEZQQVNHMHkwVFFTeVlkVEdNd25lRGJSeTNRMGpDT0tVaFVTYVp6V3pROGZMX2lJdnhhakcxLVlfWGNVVGNGWDMybEdEaWRnV0ZaN2x1SlpjQnMwR2N2UQ?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-25T00:00:00.000Z",
+      "description": "교육부, ‘제21회 인문주간’ 개최… 190여 개 프로그램 운영 한국대학신문",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 73,
+      "snapshotDate": "2026-10-25"
+    },
     {
       "id": "b7d99ce665da",
       "title": "국회 교육위, 교육부·국교위 종합감사 종료… 대입 공정성·유보통합 집중 포화",
@@ -657,7 +684,7 @@
       "description": "교육부 공식 보도자료",
       "category": "유·초중등",
       "policyRelevance": 100,
-      "score": 105,
+      "score": 95,
       "snapshotDate": "2026-10-25"
     },
     {
@@ -670,7 +697,7 @@
       "description": "교육부 공식 보도자료",
       "category": "기타",
       "policyRelevance": 100,
-      "score": 105,
+      "score": 95,
       "snapshotDate": "2026-10-25"
     },
     {
@@ -1021,20 +1048,6 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 57,
-      "snapshotDate": "2026-10-25"
-    },
-    {
-      "id": "30e9ac2b80b8",
-      "title": "청년이 지역에서 배우고 일하도록…충남 대학지원 정책 2년 연속 최우수",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zUTBzZmQxc3l0ME4yVk9tWEd2SXp2LXl0YW4xbXdob3FOUTdpcjZjTldvY1NDeTktSFpCaFJQUkR1UjlhRHN2MkEyaVNkdmFPeFBnUUhmQzJGcTMyU21PdE1iTVRBY2EyTnNr?oc=5",
-      "source": "충청시사신문",
-      "kind": "domestic",
-      "publishedAt": "2026-10-21T02:22:50.000Z",
-      "description": "청년이 지역에서 배우고 일하도록…충남 대학지원 정책 2년 연속 최우수 충청시사신문",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 51,
       "snapshotDate": "2026-10-25"
     },
     {
@@ -2249,7 +2262,7 @@
       "description": "교육부 공식 보도자료",
       "category": "기타",
       "policyRelevance": 100,
-      "score": 95,
+      "score": 90,
       "snapshotDate": "2026-10-25"
     },
     {
@@ -3358,7 +3371,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 90,
-      "snapshotDate": "2026-10-25"
+      "snapshotDate": "2026-10-24"
     },
     {
       "id": "ab8985aab6c9",
@@ -8422,20 +8435,6 @@
       "policyRelevance": 65,
       "score": 66,
       "snapshotDate": "2026-10-03"
-    },
-    {
-      "id": "af4a2b33a30f",
-      "title": "국회 교육위, 다음달 7일부터 국정감사…‘수시 먹통’ 유웨이 대표 증인 채택",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81UnFld2lqYkU5RHhnc2JlM1h4dDFadmNkQlFYOVZhM0VOT0xVN2lfS2Mzd2FQQU95WEJvb0ZmUGRwY00xemRISzN0V1JQX2dkM2RHLTdTUkJGRFhHV2V0N1lxbEx6OGs?oc=5",
-      "source": "교수신문",
-      "kind": "domestic",
-      "publishedAt": "2026-09-29T06:09:15.000Z",
-      "description": "국회 교육위, 다음달 7일부터 국정감사…‘수시 먹통’ 유웨이 대표 증인 채택 교수신문",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 72,
-      "snapshotDate": "2026-10-02"
     }
   ]
 }
