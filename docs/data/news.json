@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-25T23:25:13.790Z",
-  "generatedAtKST": "2026-10-26T08:25:11.277+09:00",
+  "generatedAt": "2026-10-26T00:29:57.485Z",
+  "generatedAtKST": "2026-10-26T09:29:55.098+09:00",
   "date": "2026-10-26",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
@@ -8,13 +8,13 @@
   "collectionHealth": {
     "officialLive": 10,
     "domesticBing": 12,
-    "domesticGoogle": 177,
+    "domesticGoogle": 176,
     "foreignBing": 6,
     "foreignGoogle": 215,
-    "carried": 90,
-    "rawUnique": 384,
-    "policyRejected": 310,
-    "policyKept": 74
+    "carried": 152,
+    "rawUnique": 382,
+    "policyRejected": 305,
+    "policyKept": 77
   },
   "briefing": [
     "인공지능 시대, ‘인문학은 질문합니다.’ — 교육부",
@@ -26,8 +26,8 @@
   "stats": {
     "total": 80,
     "official": 10,
-    "domestic": 63,
-    "foreign": 7
+    "domestic": 66,
+    "foreign": 4
   },
   "items": [
     {
@@ -40,7 +40,7 @@
       "description": "교육부 공식 보도자료",
       "category": "AI·디지털",
       "policyRelevance": 100,
-      "score": 115
+      "score": 105
     },
     {
       "id": "289c4a068a08",
@@ -115,18 +115,6 @@
       "score": 95
     },
     {
-      "id": "ba221017464c",
-      "title": "늦은 퇴근.휴일 근무 시 돌봄, ‘틈새돌봄 정보무늬(QR코드)‘로 확인하세요",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107447&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-10-19T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "유·초중등",
-      "policyRelevance": 100,
-      "score": 95
-    },
-    {
       "id": "0b2bb6fb92a8",
       "title": "'대학 자율' 뒤에 숨은 '폐지론 단골' 교육부.. '정권마다 대입 갈아엎고 책임은 대교협'",
       "url": "https://www.veritas-a.com/news/articleView.html?idxno=633022",
@@ -150,6 +138,18 @@
       "category": "입시·사교육",
       "feedProvider": "bing",
       "policyRelevance": 87,
+      "score": 90
+    },
+    {
+      "id": "ba221017464c",
+      "title": "늦은 퇴근.휴일 근무 시 돌봄, ‘틈새돌봄 정보무늬(QR코드)‘로 확인하세요",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107447&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-10-19T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "유·초중등",
+      "policyRelevance": 100,
       "score": 90
     },
     {
@@ -203,19 +203,6 @@
       "score": 86
     },
     {
-      "id": "af2ee138fdba",
-      "title": "교육부 대입 정시 경쟁률 익일 마감 대책에… 수험번호 부여 방식부터 개선해야",
-      "url": "https://www.msn.com/ko-kr/news/other/%EA%B5%90%EC%9C%A1%EB%B6%80-%EB%8C%80%EC%9E%85-%EC%A0%95%EC%8B%9C-%EA%B2%BD%EC%9F%81%EB%A5%A0-%EC%9D%B5%EC%9D%BC-%EB%A7%88%EA%B0%90-%EB%8C%80%EC%B1%85%EC%97%90-%EC%88%98%ED%97%98%EB%B2%88%ED%98%B8-%EB%B6%80%EC%97%AC-%EB%B0%A9%EC%8B%9D%EB%B6%80%ED%84%B0-%EA%B0%9C%EC%84%A0%ED%95%B4%EC%95%BC/ar-AA2fTkHc",
-      "source": "뉴스1 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-10-22T23:29:50.000Z",
-      "description": "[국감 현장] 정시 경쟁률 익일 오전 9시 조정…수험번호 난수화 등 추진190개 대학 중 22%가 접수 순서대로 수험번호 부여 (서울=뉴스1) 조수빈 한민아 기자 = 2027학년도 대입 정시모집부터 최종 경쟁률 공개 시점을 원서접수 마감 다음 날 오전 9시로 늦추기로 한 교육부의 대책을 두고 수험번호 부여 방식부터 ...",
-      "category": "입시·사교육",
-      "feedProvider": "bing",
-      "policyRelevance": 87,
-      "score": 86
-    },
-    {
       "id": "11c4a7d25fca",
       "title": "반도체·AI 인재 키우는 전문대, 역할 확대 뒷받침할 ‘직업교육법’①[전문대교협·한국대학신문 공동기획]",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LRjdwWUFXckRJWms0Nng0TXpfOXFoN1I5ME9PclN0LTN1NlRXZ0JzTC1lNFE3YlBNWG91bno1b1YxS3dyV0o2d1FVZWJFeTg5SEhVVDlIZnpKV1M3ZnZmSDRsS3RQZw?oc=5",
@@ -227,6 +214,19 @@
       "feedProvider": "google",
       "policyRelevance": 57,
       "score": 83
+    },
+    {
+      "id": "8578c972dddc",
+      "title": "도성훈 인천교육감, '읽걷쓰AI' 공유…학생 주도 AI교육 방향 제시",
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%8F%84%EC%84%B1%ED%9B%88-%EC%9D%B8%EC%B2%9C%EA%B5%90%EC%9C%A1%EA%B0%90-%EC%9D%BD%EA%B1%B7%EC%93%B0ai-%EA%B3%B5%EC%9C%A0-%ED%95%99%EC%83%9D-%EC%A3%BC%EB%8F%84-ai%EA%B5%90%EC%9C%A1-%EB%B0%A9%ED%96%A5-%EC%A0%9C%EC%8B%9C/ar-AA2g0l6r",
+      "source": "베타뉴스 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-10-24T22:03:07.000Z",
+      "description": "도성훈 인천시교육감이 인공지능(AI) 활용 과정에서 학생의 사고와 책임을 우선하는 인천의 교육정책 ‘읽걷쓰AI’를 국내외 교육 관계자들에게 소개했다. 도 교육감은 지난 22일 서울 구글 스타트업 캠퍼스에서 열린 ‘리더 시리즈 코리아 2026(K12)’에 참석해 ‘정책에서 교실 실천으로-인천 AI교육’을 주제로 패널토론을 진행했다. 한양대 조병영 교수, 청라 ...",
+      "category": "AI·디지털",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 81
     },
     {
       "id": "a75045074289",
@@ -398,6 +398,19 @@
       "score": 76
     },
     {
+      "id": "af2ee138fdba",
+      "title": "교육부 대입 정시 경쟁률 익일 마감 대책에… 수험번호 부여 방식부터 개선해야",
+      "url": "https://www.msn.com/ko-kr/news/other/%EA%B5%90%EC%9C%A1%EB%B6%80-%EB%8C%80%EC%9E%85-%EC%A0%95%EC%8B%9C-%EA%B2%BD%EC%9F%81%EB%A5%A0-%EC%9D%B5%EC%9D%BC-%EB%A7%88%EA%B0%90-%EB%8C%80%EC%B1%85%EC%97%90-%EC%88%98%ED%97%98%EB%B2%88%ED%98%B8-%EB%B6%80%EC%97%AC-%EB%B0%A9%EC%8B%9D%EB%B6%80%ED%84%B0-%EA%B0%9C%EC%84%A0%ED%95%B4%EC%95%BC/ar-AA2fTkHc",
+      "source": "뉴스1 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-10-22T23:29:50.000Z",
+      "description": "[국감 현장] 정시 경쟁률 익일 오전 9시 조정…수험번호 난수화 등 추진190개 대학 중 22%가 접수 순서대로 수험번호 부여 (서울=뉴스1) 조수빈 한민아 기자 = 2027학년도 대입 정시모집부터 최종 경쟁률 공개 시점을 원서접수 마감 다음 날 오전 9시로 늦추기로 한 교육부의 대책을 두고 수험번호 부여 방식부터 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 87,
+      "score": 76
+    },
+    {
       "id": "0a9c1f99a9f1",
       "title": "[단독] 전북교육청 23일 조직개편 조례 설명회…’도전민주시민교육과' 개편 유력, 교원노조 업무는 이원화 전망",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaOXp6TENFUHJkZW50Y2RXOUQ3YjZlSHRka2RONkllN2dGaFVhWVprQmtwbFV5aTZBVS1RVG5ieURaUkE5cEpubmhIYVBnQTVIYUJkem1DS21TYVBCeDM4?oc=5",
@@ -431,19 +444,6 @@
       "kind": "domestic",
       "publishedAt": "2026-10-25T21:45:00.000Z",
       "description": "최교진 교육부 장관 “대학마다 특화 분야로 경쟁력 높여야… 정부도 적극 지원”[창간특별대담-교육부 장관에게 듣는다] 한국대학신문",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 73
-    },
-    {
-      "id": "8dc3c42596a5",
-      "title": "교육부, ‘제21회 인문주간’ 개최… 190여 개 프로그램 운영",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91SlRNSHBnWEZQQVNHMHkwVFFTeVlkVEdNd25lRGJSeTNRMGpDT0tVaFVTYVp6V3pROGZMX2lJdnhhakcxLVlfWGNVVGNGWDMybEdEaWRnV0ZaN2x1SlpjQnMwR2N2UQ?oc=5",
-      "source": "한국대학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-10-25T00:00:00.000Z",
-      "description": "교육부, ‘제21회 인문주간’ 개최… 190여 개 프로그램 운영 한국대학신문",
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 45,
@@ -723,6 +723,19 @@
       "score": 64
     },
     {
+      "id": "8dc3c42596a5",
+      "title": "교육부, ‘제21회 인문주간’ 개최… 190여 개 프로그램 운영",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91SlRNSHBnWEZQQVNHMHkwVFFTeVlkVEdNd25lRGJSeTNRMGpDT0tVaFVTYVp6V3pROGZMX2lJdnhhakcxLVlfWGNVVGNGWDMybEdEaWRnV0ZaN2x1SlpjQnMwR2N2UQ?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-25T00:00:00.000Z",
+      "description": "교육부, ‘제21회 인문주간’ 개최… 190여 개 프로그램 운영 한국대학신문",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 63
+    },
+    {
       "id": "ccbb171155e7",
       "title": "경남교육청, 고성 꿈이 자기주도학습센터 개소…중학생 학습 지원",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0MUljcHljNEpCUDBtS25senM3OWd5VEdkZVE4Ql91a3hHMGhuaVI1b1BCSjJMMlpwUzhzbUFLSWp5dDZsbnNvRzQ1S1ZibTJNTDJiM2F2QVlvZW1qWU1IaVFLOGtsdC1X?oc=5",
@@ -734,6 +747,19 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 63
+    },
+    {
+      "id": "cfb19e830034",
+      "title": "한병도, ‘대학도시’로 지역 성장동력 키운다… 정책자료집 발간",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JMF9Rck1ueUhzV0lZRnhtRHdBdDJxSFk1cDI0QV84ZGN0VTBNUWU1c2c0ZXF5SkFJY0gzVXFVRFp5Vy1ScjlVY09HRVJsemxtTVpDQXV1akJHMWF0QW1fMzlmczlnNHNhR2tzUjZB0gFyQVVfeXFMUDNyTUduRmZadjIxeFFjRGFaQUZPR0ZET0tHZlpOSHAwd1BsUXJFdUpjTWhOTkF2aGQzX1V5c1VOcjZkVzNmRTJpcGtYTUNaM0ZYa3l2UkczNXFsdlQ5cGdSNG9Wc1JPekR5THlBdE9oaTJn?oc=5",
+      "source": "라이브제주 LIVEJEJU",
+      "kind": "domestic",
+      "publishedAt": "2026-10-23T12:32:10.000Z",
+      "description": "한병도, ‘대학도시’로 지역 성장동력 키운다… 정책자료집 발간 라이브제주 LIVEJEJU",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 61
     },
     {
       "id": "8ba94b4046cc",
@@ -947,6 +973,19 @@
       "score": 53
     },
     {
+      "id": "b86f1a3bfc95",
+      "title": "BISTEP, 중국 옌타이시와 과학기술 정책 교류… 글로벌 협력 확대",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9INjRJRGxubGJOMHZfTS1FWG53b2hucUdMMWRfdnNuSm9NX2hZaTFqVDJRRjV5UU55WEZIcWdRU2RMZW9uTnVjaXBqWThmSnFuVURFc0xocGtaVTl2NFdXcw?oc=5",
+      "source": "아시아경제",
+      "kind": "domestic",
+      "publishedAt": "2026-10-22T00:47:00.000Z",
+      "description": "BISTEP, 중국 옌타이시와 과학기술 정책 교류… 글로벌 협력 확대 아시아경제",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 42,
+      "score": 52
+    },
+    {
       "id": "2c4d45d794a7",
       "title": "BISTEP, 中 옌타이시와 과학기술 정책 교류…\"글로벌 협력 확대 모색\"",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14YldZQUZaQlJBR2QtMGFJT0hyb2lqTXhIWVgwVmxqOTdGWTFYS3g2ZkhyU0poSTRPUWlKVmsxdENmbEVYcmhxRWRYcGhkZzQ4MlpDR0s4QmhES2pncVY2dGJUMTBmVXc3YzBHSlp3?oc=5",
@@ -1000,20 +1039,6 @@
       "summaryKo": "한국에서는 매년 11월 목요일에 수험생들을 위해 전국민이 숨을 고르고 있습니다. 영어 듣기 섹션이 시작되면 공항 이륙 및 착륙..."
     },
     {
-      "id": "ce41b2c47112",
-      "title": "Korea's int'l student boom puts universities to new test",
-      "url": "https://www.koreatimes.co.kr/southkorea/education/k-universities/policy-trends/20261022/koreas-intl-student-boom-puts-universities-to-new-test",
-      "source": "The Korea Times",
-      "kind": "foreign",
-      "publishedAt": "2026-10-21T23:59:00.000Z",
-      "description": "SINGAPORE, LONDON, SEOUL — Korea reached its goal of attracting 300,000 international students ahead of schedule. Now comes the harder part. As ...",
-      "category": "유·초중등",
-      "score": 30,
-      "originalTitle": "Korea's int'l student boom puts universities to new test",
-      "titleKo": "한국의 국제 학생 붐은 대학을 새로운 시험대에 올려 놓습니다",
-      "summaryKo": "싱가포르, 런던, 서울 — 한국은 예정보다 빨리 30만 명의 유학생을 유치한다는 목표를 달성했습니다. 이제 더 어려운 부분이 온다. As..."
-    },
-    {
       "id": "e8e61b7119b8",
       "title": "[Alternative Schools in South Korea Part 3] 10 Years of Institutionalization and the Contradictions of \"Accreditation\" — 1998–2007",
       "url": "https://note.com/beerbeer4125/n/n0d179dd40328?hl=en",
@@ -1028,46 +1053,18 @@
       "summaryKo": "이것은 \"한국의 대안 학교: 기원에서 제도화까지\" 시리즈의 세 번째 작품입니다. \"Chronology of Institutionalization 1998: Institutionalization of Specialized High..."
     },
     {
-      "id": "bfcd2947d743",
-      "title": "[Alternative Schools in South Korea ①] Not a \"School for Truancy\"? First, Clarifying the Terms and the Big Picture",
-      "url": "https://note.com/beerbeer4125/n/n2e8174b56c80?hl=en",
-      "source": "note",
+      "id": "a2ee86224ebd",
+      "title": "South Korea's population strategy demands long-term policy integration",
+      "url": "https://www.msn.com/en-xl/money/general/south-korea-s-population-strategy-demands-long-term-policy-integration/ar-AA2eeQpU",
+      "source": "The Chosun Ilbo on MSN",
       "kind": "foreign",
-      "publishedAt": "2026-10-16T21:54:00.000Z",
-      "description": "This is the first installment of the 9-part series \"Alternative Schools in South Korea: From Origins to Institutionalization.\"I visited Busan, South Korea, in September 2026. While organizing what I ...",
-      "category": "유·초중등",
-      "score": 30,
-      "originalTitle": "[Alternative Schools in South Korea ①] Not a \"School for Truancy\"? First, Clarifying the Terms and the Big Picture",
-      "titleKo": "[대한민국의 대안학교 ①] \"무질서한 학교\" 가 아니다? 첫째, 약관과 주요 내용을 명확히 하는 것",
-      "summaryKo": "이것은 9부작 시리즈 \"한국의 대안 학교: 기원에서 제도화까지\" 의 첫 번째 작품입니다. \"저는 2026년 9월에 한국 부산을 방문했습니다. 내가 정리하는 동안..."
-    },
-    {
-      "id": "3d88039a8020",
-      "title": "South Korea Will Void Exams and Ban Students for a Year Over AI Smart Glasses in Suneung College Test",
-      "url": "https://www.ibtimes.com.au/south-korea-ai-smart-glasses-suneung-exam-ban-1876743",
-      "source": "International Business Times AU",
-      "kind": "foreign",
-      "publishedAt": "2026-10-15T09:40:00.000Z",
-      "description": "South Korea will cancel Suneung results and bar students from the following year's exam if they wear or possess AI-enabled smart glasses, amid rising cheating concerns.",
-      "category": "입시·사교육",
-      "score": 30,
-      "originalTitle": "South Korea Will Void Exams and Ban Students for a Year Over AI Smart Glasses in Suneung College Test",
-      "titleKo": "한국은 수릉대학 시험에서 인공지능 스마트 안경으로 1년간 시험을 무효화하고 학생들을 금지할 것입니다",
-      "summaryKo": "한국은 부정 행위 우려가 높아지는 가운데 AI 지원 스마트 안경을 착용하거나 소지한 경우 수릉 결과를 취소하고 다음 해 시험에서 학생들을 배제할 것입니다."
-    },
-    {
-      "id": "893b769b8706",
-      "title": "South Korea turns island residents into marine educators at Yeosu Expo",
-      "url": "https://www.msn.com/en-us/news/other/south-korea-turns-island-residents-into-marine-educators-at-yeosu-expo/ar-AA2ehoWn",
-      "source": "Tech Times on MSN",
-      "kind": "foreign",
-      "publishedAt": "2026-10-14T23:10:00.000Z",
-      "description": "South Korea island marine education program: KOEM and Chonnam National University signed an agreement October 13 at the Yeosu World Island Expo to train island residents as certified marine educators, ...",
+      "publishedAt": "2026-10-14T18:57:08.000Z",
+      "description": "What has been the most powerful resource shaping South Korea today? Despite lacking capital and natural resources, the nation rose from the ruins of war to become a top-10 global economy, driven ...",
       "category": "기타",
       "score": 30,
-      "originalTitle": "South Korea turns island residents into marine educators at Yeosu Expo",
-      "titleKo": "한국은 여수 엑스포에서 섬 주민들을 해양 교육자로 변모시킵니다.",
-      "summaryKo": "대한민국 섬 해양교육 프로그램: KOEM과 전남대학교는 10월 13일 여수세계섬엑스포에서 섬 주민들을 공인 해양교육자로 양성하기 위한 협약을 체결하고,..."
+      "originalTitle": "South Korea's population strategy demands long-term policy integration",
+      "titleKo": "한국의 인구 전략은 장기적인 정책 통합을 요구합니다.",
+      "summaryKo": "오늘날 한국을 형성하는 가장 강력한 자원은 무엇이었습니까? 자본과 천연 자원이 부족했음에도 불구하고, 국가는 전쟁의 폐허에서 일어나 세계 10대 경제 대국이 되었다."
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -1077,34 +1074,44 @@
     "throughDate": "2026-10-26",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-10-24T15:00:00.000Z",
-    "windowEnd": "2026-10-25T23:25:13.790Z",
+    "windowEnd": "2026-10-26T00:29:57.485Z",
     "itemIds": [
       "d89ae4ac84a5",
       "36aa74560d8e",
       "11c4a7d25fca",
+      "8578c972dddc",
       "a75045074289",
       "b7d99ce665da",
       "eb0a3603e107",
-      "8dc3c42596a5",
       "de0c5b911a71",
       "541b6d31a085",
-      "afdf197a2c8a"
+      "afdf197a2c8a",
+      "8dc3c42596a5"
     ],
     "stats": {
-      "total": 10,
+      "total": 11,
       "official": 1,
-      "domestic": 9,
+      "domestic": 10,
       "foreign": 0
     },
-    "headline": "오늘 아침 교육뉴스는 고등교육·입시·사교육·AI·디지털 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 10건이 확인됐습니다. 교육부는 인공지능 시대, ‘인문학은 질문합니다.’ 등을 공식 발표했습니다. 국내 언론에서는 [기획②] 방과후교육·돌봄, 교육부 중심에서 광역교육청 주도로…'사회공공형' 체제 전환 제안와 반도체·AI 인재 키우는 전문대, 역할 확대 뒷받침할 ‘직업교육법’①[전문대교협·한국대학신문 공동기획] 등이 주요하게 다뤄졌습니다. 전체적으로는 고등교육·입시·사교육·AI·디지털 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "headline": "오늘 아침 교육뉴스는 고등교육·AI·디지털·입시·사교육 이슈를 중심으로 형성됐습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 11건이 확인됐습니다. 교육부는 인공지능 시대, ‘인문학은 질문합니다.’ 등을 공식 발표했습니다. 국내 언론에서는 [기획②] 방과후교육·돌봄, 교육부 중심에서 광역교육청 주도로…'사회공공형' 체제 전환 제안와 반도체·AI 인재 키우는 전문대, 역할 확대 뒷받침할 ‘직업교육법’①[전문대교협·한국대학신문 공동기획] 등이 주요하게 다뤄졌습니다. 전체적으로는 고등교육·AI·디지털·입시·사교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "고등교육",
-        "summary": "반도체·AI 인재 키우는 전문대, 역할 확대 뒷받침할 ‘직업교육법’①[전문대교협·한국대학신문 공동기획] · 최교진 교육부 장관 “대학마다 특화 분야로 경쟁력 높여야… 정부도 적극 지원”[창간특별대담-교육부 장관에게 듣는다] · 교육부, ‘제21회 인문주간’ 개최… 190여 개 프로그램 운영",
+        "summary": "반도체·AI 인재 키우는 전문대, 역할 확대 뒷받침할 ‘직업교육법’①[전문대교협·한국대학신문 공동기획] · 최교진 교육부 장관 “대학마다 특화 분야로 경쟁력 높여야… 정부도 적극 지원”[창간특별대담-교육부 장관에게 듣는다] · 부산앵커센터 “한국대학신문, 고등교육 정책과 대학 현장 이해하는 창구”[창간특별기획-구독 우수기관을 가다]",
         "why": "대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다.",
         "sources": [
           "한국대학신문"
+        ]
+      },
+      {
+        "title": "AI·디지털",
+        "summary": "인공지능 시대, ‘인문학은 질문합니다.’ · 도성훈 인천교육감, '읽걷쓰AI' 공유…학생 주도 AI교육 방향 제시",
+        "why": "AI·디지털 전환 정책은 교육과정·교원역량·인프라와 연결되므로 실행 여건과 현장 적용성을 함께 봐야 합니다.",
+        "sources": [
+          "교육부",
+          "베타뉴스 on MSN"
         ]
       },
       {
@@ -1114,14 +1121,6 @@
         "sources": [
           "불탑뉴스",
           "서울시티"
-        ]
-      },
-      {
-        "title": "AI·디지털",
-        "summary": "인공지능 시대, ‘인문학은 질문합니다.’",
-        "why": "AI·디지털 전환 정책은 교육과정·교원역량·인프라와 연결되므로 실행 여건과 현장 적용성을 함께 봐야 합니다.",
-        "sources": [
-          "교육부"
         ]
       },
       {
@@ -1135,8 +1134,8 @@
     ],
     "watchpoints": [
       "고등교육: 대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다.",
-      "입시·사교육: 대입·수능·사교육 이슈는 학생·학부모 체감도가 높고 후속 안내와 현장 반응 점검이 중요합니다.",
-      "AI·디지털: AI·디지털 전환 정책은 교육과정·교원역량·인프라와 연결되므로 실행 여건과 현장 적용성을 함께 봐야 합니다."
+      "AI·디지털: AI·디지털 전환 정책은 교육과정·교원역량·인프라와 연결되므로 실행 여건과 현장 적용성을 함께 봐야 합니다.",
+      "입시·사교육: 대입·수능·사교육 이슈는 학생·학부모 체감도가 높고 후속 안내와 현장 반응 점검이 중요합니다."
     ]
   }
 }
