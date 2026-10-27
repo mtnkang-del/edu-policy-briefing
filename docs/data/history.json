@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T00:40:12.164Z",
+  "generatedAt": "2026-10-27T01:32:25.982Z",
   "retentionDays": 30,
   "days": [
     "2026-10-27",
@@ -57,6 +57,20 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 71,
+      "snapshotDate": "2026-10-27"
+    },
+    {
+      "id": "66844f0ea1eb",
+      "title": "[부산교육청 소식] 시민·교육공동체 대상 정책 여론조사",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EB%B6%80%EC%82%B0%EA%B5%90%EC%9C%A1%EC%B2%AD-%EC%86%8C%EC%8B%9D-%EC%8B%9C%EB%AF%BC-%EA%B5%90%EC%9C%A1%EA%B3%B5%EB%8F%99%EC%B2%B4-%EB%8C%80%EC%83%81-%EC%A0%95%EC%B1%85-%EC%97%AC%EB%A1%A0%EC%A1%B0%EC%82%AC/ar-AA2g8kgj",
+      "source": "동행미디어 시대 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-10-26T18:03:06.000Z",
+      "description": "부산광역시교육청이 주요 교육정책에 대한 시민과 교육공동체의 의견 수렴에 나선다. 부산시교육청은 오는 29일부터 14일간 시민과 교육공동체를 대상으로 부산교육정책 여론조사와 모니터링을 실시한다고 27일 밝혔다.여론조사는 부산에 거주하는 만 18세 이상 시민을 대상으로 대면 면접조사 방식으로 진행한다. 덕도예술마루 설립, 피지컬 AI 교육, 부산해양 AI 교육 ...",
+      "category": "AI·디지털",
+      "feedProvider": "bing",
+      "policyRelevance": 65,
+      "score": 86,
       "snapshotDate": "2026-10-27"
     },
     {
@@ -252,22 +266,7 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 73,
-      "snapshotDate": "2026-10-27"
-    },
-    {
-      "id": "f37fb3868300",
-      "title": "South Korean youth trapped in unstable secondary jobs",
-      "url": "https://www.msn.com/en-xl/news/other/south-korean-youth-trapped-in-unstable-secondary-jobs/ar-AA2g3Jhd",
-      "source": "The Chosun Ilbo on MSN",
-      "kind": "foreign",
-      "publishedAt": "2026-10-26T00:39:50.000Z",
-      "description": "A Bank of Korea research team’s report has revealed that South Korea’s youth are increasingly being pushed into unstable “secondary jobs” as they abandon stable, high-quality employment opportunities.",
-      "category": "기타",
-      "score": 30,
-      "originalTitle": "South Korean youth trapped in unstable secondary jobs",
-      "titleKo": "불안정한 2차 일자리에 갇힌 대한민국 청년들",
-      "summaryKo": "한국은행 연구팀의 보고서에 따르면 한국의 청년들은 안정적이고 양질의 고용 기회를 포기하면서 불안정한 '부차적 일자리' 에 점점 더 밀려나고 있다.",
+      "score": 63,
       "snapshotDate": "2026-10-27"
     },
     {
@@ -1011,6 +1010,20 @@
       "snapshotDate": "2026-10-27"
     },
     {
+      "id": "c263182aef58",
+      "title": "안성교육지원청, '찾아가는 교육감실' 개최…학부모 200여 명과 교육현안 논의",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Xbkp0cXJUcWN2NVRsZ1l1SjRoZzlWcWZ1RlpHZWhWQ1dNR2JEaFNDUmZ1ckNlR1ZEU2tyaEtNNmRRYmxhdlc3MWFZdw?oc=5",
+      "source": "아이뉴스24",
+      "kind": "domestic",
+      "publishedAt": "2026-10-23T02:37:04.000Z",
+      "description": "안성교육지원청, '찾아가는 교육감실' 개최…학부모 200여 명과 교육현안 논의 아이뉴스24",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 53,
+      "snapshotDate": "2026-10-27"
+    },
+    {
       "id": "ef82cac2cedb",
       "title": "네이버, 교육 검색 개편...대학·학과부터 수능 등급컷까지 확인",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQNWdKaDczWFhOd3EweEdwQjUtdWJ0TFNqLWpJOENCSFdmMXlGd2VKOUl0V1k3MWNiZHpmcnh6bUlPdEVQNkM5cUlLd2dIR1BXSVlaRU8zdng1Yk5UNjI4bU1ZZGZRUEd6Wk1sVHZjV1NFVkRMMGxWdk93VlE?oc=5",
@@ -1077,8 +1090,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 75,
-      "score": 67,
-      "snapshotDate": "2026-10-27"
+      "score": 77,
+      "snapshotDate": "2026-10-26"
     },
     {
       "id": "af2ee138fdba",
@@ -8412,20 +8425,6 @@
       "kind": "domestic",
       "publishedAt": "2026-10-01T00:25:27.000Z",
       "description": "대전교육청, 13일까지 '교육정책 아이디어' 온라인 공모 뉴시스",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 62,
-      "snapshotDate": "2026-10-04"
-    },
-    {
-      "id": "992935ceb855",
-      "title": "대전시교육청, 대전교육정책 아이디어 온라인 공모",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NZkVMeUhjLVRzOFFSdnlUOUVlS21oT1ZtY2llNXNSMU83dnRVMVZOcWhyVnJQaURjZ0lHVm9RTmpLQVQ2cUMyQV9JcVBDM3paeDl6OTRlUlVqVElhcENCVjlndDdLSy1Va2ktbUhobDBrLVnSAXdBVV95cUxOSnBSdlBzb2t5a1pzU29wTHF2c2NFYmFtSWttSUNTTGdmTVZESnpialFBYXM2RWU0Vjh3NHhacnV2bnVyT1pxM1BxclZGbThHZ3ByVGtQaUxCVkwxTnNiSjMzSEd4UWQwTEVFM1dVNjR2Ym0xdlF0RQ?oc=5",
-      "source": "newsfreezone.co.kr",
-      "kind": "domestic",
-      "publishedAt": "2026-10-01T00:19:53.000Z",
-      "description": "대전시교육청, 대전교육정책 아이디어 온라인 공모 newsfreezone.co.kr",
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 65,

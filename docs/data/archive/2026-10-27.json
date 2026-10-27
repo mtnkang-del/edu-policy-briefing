@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-27T00:39:59.587Z",
-  "generatedAtKST": "2026-10-27T09:39:57.534+09:00",
+  "generatedAt": "2026-10-27T01:32:13.209Z",
+  "generatedAtKST": "2026-10-27T10:32:09.762+09:00",
   "date": "2026-10-27",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
@@ -8,13 +8,13 @@
   "collectionHealth": {
     "officialLive": 10,
     "domesticBing": 12,
-    "domesticGoogle": 157,
+    "domesticGoogle": 155,
     "foreignBing": 7,
-    "foreignGoogle": 174,
-    "carried": 91,
-    "rawUnique": 339,
-    "policyRejected": 260,
-    "policyKept": 79
+    "foreignGoogle": 157,
+    "carried": 161,
+    "rawUnique": 319,
+    "policyRejected": 239,
+    "policyKept": 80
   },
   "briefing": [
     "싱가포르 과학교사 22명, 한국 교육 현장에서 미래 수업의 해법 찾는다 — 교육부",
@@ -26,8 +26,8 @@
   "stats": {
     "total": 80,
     "official": 10,
-    "domestic": 68,
-    "foreign": 2
+    "domestic": 69,
+    "foreign": 1
   },
   "items": [
     {
@@ -175,6 +175,19 @@
       "feedProvider": "google",
       "policyRelevance": 75,
       "score": 87
+    },
+    {
+      "id": "66844f0ea1eb",
+      "title": "[부산교육청 소식] 시민·교육공동체 대상 정책 여론조사",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EB%B6%80%EC%82%B0%EA%B5%90%EC%9C%A1%EC%B2%AD-%EC%86%8C%EC%8B%9D-%EC%8B%9C%EB%AF%BC-%EA%B5%90%EC%9C%A1%EA%B3%B5%EB%8F%99%EC%B2%B4-%EB%8C%80%EC%83%81-%EC%A0%95%EC%B1%85-%EC%97%AC%EB%A1%A0%EC%A1%B0%EC%82%AC/ar-AA2g8kgj",
+      "source": "동행미디어 시대 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-10-26T18:03:06.000Z",
+      "description": "부산광역시교육청이 주요 교육정책에 대한 시민과 교육공동체의 의견 수렴에 나선다. 부산시교육청은 오는 29일부터 14일간 시민과 교육공동체를 대상으로 부산교육정책 여론조사와 모니터링을 실시한다고 27일 밝혔다.여론조사는 부산에 거주하는 만 18세 이상 시민을 대상으로 대면 면접조사 방식으로 진행한다. 덕도예술마루 설립, 피지컬 AI 교육, 부산해양 AI 교육 ...",
+      "category": "AI·디지털",
+      "feedProvider": "bing",
+      "policyRelevance": 65,
+      "score": 86
     },
     {
       "id": "bf4ae02291f8",
@@ -411,19 +424,6 @@
       "score": 73
     },
     {
-      "id": "9ba5ee4a4772",
-      "title": "[창간 38주년 축사] 차정인 국가교육위원회 위원장 “고등교육 혁신과 교육강국의 시작, 함께해 주길”",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWYkQ3X21sbkpFaWpEdHVIVjI4SUtvaHlidW52SEYybkc4RENvVWdacjE2ZjhkWTdTS3NBTS1KVy1lZ2VGMHZodVM5OXpRZjZnRnZ0Ny1Ec3J0ckFtNkg2akhrTzI0UQ?oc=5",
-      "source": "한국대학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-10-26T01:25:00.000Z",
-      "description": "[창간 38주년 축사] 차정인 국가교육위원회 위원장 “고등교육 혁신과 교육강국의 시작, 함께해 주길” 한국대학신문",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 73
-    },
-    {
       "id": "11c4a7d25fca",
       "title": "반도체·AI 인재 키우는 전문대, 역할 확대 뒷받침할 ‘직업교육법’①[전문대교협·한국대학신문 공동기획]",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LRjdwWUFXckRJWms0Nng0TXpfOXFoN1I5ME9PclN0LTN1NlRXZ0JzTC1lNFE3YlBNWG91bno1b1YxS3dyV0o2d1FVZWJFeTg5SEhVVDlIZnpKV1M3ZnZmSDRsS3RQZw?oc=5",
@@ -606,19 +606,6 @@
       "score": 67
     },
     {
-      "id": "65522817b6fc",
-      "title": "한병도 국회의원, '대학을 지역의 심장으로' 대학 자원 활용한 ‘대학도시’ 정책자료집 발간",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkby1JSTBJOUwtRElsTTRtbXpQS3VyVTdzYW5GR290dk56aS04Y0NrTER1QlpxVWE3MnpQV3VLYnRiQ3V5c0R3ZTFZd0VqOTF3YWhkZDRqWWhsOUl4YjNOWUpJNkc4MThoY1FWQTFn?oc=5",
-      "source": "이슈&전북",
-      "kind": "domestic",
-      "publishedAt": "2026-10-23T00:45:58.000Z",
-      "description": "한병도 국회의원, '대학을 지역의 심장으로' 대학 자원 활용한 ‘대학도시’ 정책자료집 발간 이슈&전북",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 75,
-      "score": 67
-    },
-    {
       "id": "40aa39ca5f54",
       "title": "초·중등교육법 개정 10월 29일 시행…교권 보호 강화, 학교장 권한만으로 충분한가",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCMmQ5eE5zZThyQ1d3SDMxWEFrU2VpVExnd25Nc2ZIQ1RvSmgtYVJEdUFOajNET3I3OVdHMHRTc3ZtQ3RFcFo0TjBWU25ubURLRHM5eE1GVXRQZ1pNdkhFX0hxUm81N1JtOGIyY09UcUxEYkRxYUNF?oc=5",
@@ -721,6 +708,19 @@
       "feedProvider": "bing",
       "policyRelevance": 52,
       "score": 64
+    },
+    {
+      "id": "9ba5ee4a4772",
+      "title": "[창간 38주년 축사] 차정인 국가교육위원회 위원장 “고등교육 혁신과 교육강국의 시작, 함께해 주길”",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWYkQ3X21sbkpFaWpEdHVIVjI4SUtvaHlidW52SEYybkc4RENvVWdacjE2ZjhkWTdTS3NBTS1KVy1lZ2VGMHZodVM5OXpRZjZnRnZ0Ny1Ec3J0ckFtNkg2akhrTzI0UQ?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-26T01:25:00.000Z",
+      "description": "[창간 38주년 축사] 차정인 국가교육위원회 위원장 “고등교육 혁신과 교육강국의 시작, 함께해 주길” 한국대학신문",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 63
     },
     {
       "id": "eb0a3603e107",
@@ -970,6 +970,19 @@
       "score": 55
     },
     {
+      "id": "c263182aef58",
+      "title": "안성교육지원청, '찾아가는 교육감실' 개최…학부모 200여 명과 교육현안 논의",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Xbkp0cXJUcWN2NVRsZ1l1SjRoZzlWcWZ1RlpHZWhWQ1dNR2JEaFNDUmZ1ckNlR1ZEU2tyaEtNNmRRYmxhdlc3MWFZdw?oc=5",
+      "source": "아이뉴스24",
+      "kind": "domestic",
+      "publishedAt": "2026-10-23T02:37:04.000Z",
+      "description": "안성교육지원청, '찾아가는 교육감실' 개최…학부모 200여 명과 교육현안 논의 아이뉴스24",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 53
+    },
+    {
       "id": "cfb19e830034",
       "title": "한병도, ‘대학도시’로 지역 성장동력 키운다… 정책자료집 발간",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JMF9Rck1ueUhzV0lZRnhtRHdBdDJxSFk1cDI0QV84ZGN0VTBNUWU1c2c0ZXF5SkFJY0gzVXFVRFp5Vy1ScjlVY09HRVJsemxtTVpDQXV1akJHMWF0QW1fMzlmczlnNHNhR2tzUjZB0gFyQVVfeXFMUDNyTUduRmZadjIxeFFjRGFaQUZPR0ZET0tHZlpOSHAwd1BsUXJFdUpjTWhOTkF2aGQzX1V5c1VOcjZkVzNmRTJpcGtYTUNaM0ZYa3l2UkczNXFsdlQ5cGdSNG9Wc1JPekR5THlBdE9oaTJn?oc=5",
@@ -1049,20 +1062,6 @@
       "originalTitle": "Education Ministry’s ‘optimistic’ modelling shows thousands more students failing new secondary curriculum",
       "titleKo": "교육부의 ‘낙관적‘ 모델링에 따르면 수천 명의 학생들이 새로운 중등 교육 과정에 실패했습니다.",
       "summaryKo": "교육부의 ‘낙관적‘ 모델링에 따르면 수천 명의 학생들이 새로운 중등 교육 과정에 실패했습니다. Stuff.co.nz"
-    },
-    {
-      "id": "f37fb3868300",
-      "title": "South Korean youth trapped in unstable secondary jobs",
-      "url": "https://www.msn.com/en-xl/news/other/south-korean-youth-trapped-in-unstable-secondary-jobs/ar-AA2g3Jhd",
-      "source": "The Chosun Ilbo on MSN",
-      "kind": "foreign",
-      "publishedAt": "2026-10-26T00:39:50.000Z",
-      "description": "A Bank of Korea research team’s report has revealed that South Korea’s youth are increasingly being pushed into unstable “secondary jobs” as they abandon stable, high-quality employment opportunities.",
-      "category": "기타",
-      "score": 30,
-      "originalTitle": "South Korean youth trapped in unstable secondary jobs",
-      "titleKo": "불안정한 2차 일자리에 갇힌 대한민국 청년들",
-      "summaryKo": "한국은행 연구팀의 보고서에 따르면 한국의 청년들은 안정적이고 양질의 고용 기회를 포기하면서 불안정한 '부차적 일자리' 에 점점 더 밀려나고 있다."
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -1072,12 +1071,13 @@
     "throughDate": "2026-10-27",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-10-25T15:00:00.000Z",
-    "windowEnd": "2026-10-27T00:39:59.587Z",
+    "windowEnd": "2026-10-27T01:32:13.209Z",
     "itemIds": [
       "def670093e99",
       "06b07ac172f8",
       "b252901b7478",
       "c1d5085c2f78",
+      "66844f0ea1eb",
       "bf4ae02291f8",
       "f47d9432c6d0",
       "80eb26093278",
@@ -1087,28 +1087,27 @@
       "bb7a77aac3cb",
       "7d2c9f2c25d4",
       "5c0d6bd63004",
-      "9ba5ee4a4772",
       "11c4a7d25fca",
       "bf6e564dc323",
       "570a4e51bf72",
       "ef2efff772e0",
       "e339066f7adb",
       "0e509e9f28bf",
+      "9ba5ee4a4772",
       "eb0a3603e107",
       "de0c5b911a71",
       "541b6d31a085",
       "617a3e9afa73",
-      "afdf197a2c8a",
-      "f37fb3868300"
+      "afdf197a2c8a"
     ],
     "stats": {
       "total": 26,
       "official": 2,
-      "domestic": 23,
-      "foreign": 1
+      "domestic": 24,
+      "foreign": 0
     },
     "headline": "오늘 아침 교육뉴스는 고등교육·입시·사교육·유·초중등 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 26건이 확인됐습니다. 교육부는 싱가포르 과학교사 22명, 한국 교육 현장에서 미래 수업의 해법 찾는다와 태국 학생들, 한국어로 한국전쟁 참전용사를 기억하다 등을 공식 발표했습니다. 국내 언론에서는 안민석 교육감, 안성 학부모와 마주 앉았다… 교육현안 직접 답변와 [창간 38주년 축사] 김문희 한국교육과정평가원장 “교육의 미래 지원하는 고등교육 전문언론” 등이 주요하게 다뤄졌습니다. 해외에서는 불안정한 2차 일자리에 갇힌 대한민국 청년들 관련 보도가 확인됐습니다. 전체적으로는 고등교육·입시·사교육·유·초중등 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 26건이 확인됐습니다. 교육부는 싱가포르 과학교사 22명, 한국 교육 현장에서 미래 수업의 해법 찾는다와 태국 학생들, 한국어로 한국전쟁 참전용사를 기억하다 등을 공식 발표했습니다. 국내 언론에서는 안민석 교육감, 안성 학부모와 마주 앉았다… 교육현안 직접 답변와 [창간 38주년 축사] 김문희 한국교육과정평가원장 “교육의 미래 지원하는 고등교육 전문언론” 등이 주요하게 다뤄졌습니다. 전체적으로는 고등교육·입시·사교육·유·초중등 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "고등교육",
@@ -1139,12 +1138,13 @@
         ]
       },
       {
-        "title": "교원·조직",
-        "summary": "싱가포르 과학교사 22명, 한국 교육 현장에서 미래 수업의 해법 찾는다 · 장애 영유아 예산’ 63억 투입됐는데 특수교사는 0명...왜?",
-        "why": "교원 업무·교권·인사와 직접 연결될 수 있어 현장 반응과 제도 운영상 쟁점을 살펴볼 필요가 있습니다.",
+        "title": "AI·디지털",
+        "summary": "안민석 교육감, 안성 학부모와 마주 앉았다… 교육현안 직접 답변 · [부산교육청 소식] 시민·교육공동체 대상 정책 여론조사 · 대전시교육청, 충청권 교육감들과 'AI·교권보호' 4년 공동협력",
+        "why": "AI·디지털 전환 정책은 교육과정·교원역량·인프라와 연결되므로 실행 여건과 현장 적용성을 함께 봐야 합니다.",
         "sources": [
-          "교육부",
-          "더에듀"
+          "경기신문",
+          "동행미디어 시대 on MSN",
+          "로컬투데이"
         ]
       }
     ],
