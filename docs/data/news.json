@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-10-28T00:38:07.904Z",
-  "generatedAtKST": "2026-10-28T09:38:03.607+09:00",
+  "generatedAt": "2026-10-28T01:29:17.957Z",
+  "generatedAtKST": "2026-10-28T10:29:15.055+09:00",
   "date": "2026-10-28",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 8,
-    "domesticGoogle": 118,
+    "domesticBing": 10,
+    "domesticGoogle": 112,
     "foreignBing": 4,
-    "foreignGoogle": 174,
-    "carried": 66,
-    "rawUnique": 300,
-    "policyRejected": 233,
-    "policyKept": 67
+    "foreignGoogle": 195,
+    "carried": 131,
+    "rawUnique": 307,
+    "policyRejected": 239,
+    "policyKept": 68
   },
   "briefing": [
     "「고등교육법 시행령」 및 「대학 등록금에 관한 규칙」 입법예고 — 교육부",
     "세계가 인정하는 케이(K)-직업계고기술인재의 숙련기술 — 교육부",
     "싱가포르 과학교사 22명, 한국 교육 현장에서 미래 수업의 해법 찾는다 — 교육부",
     "태국 학생들, 한국어로 한국전쟁 참전용사를 기억하다 — 교육부",
-    "AI안경 부정행위 중·고서도 적발…교육부, 교원단체들 만나 대응책 논의 — 중앙일보 on MSN"
+    "수능 앞두고 ‘AI 안경’ 비상…교원단체 “감독교사 추가 배치 요구” — 동아일보"
   ],
   "stats": {
-    "total": 73,
+    "total": 72,
     "official": 10,
-    "domestic": 56,
-    "foreign": 7
+    "domestic": 57,
+    "foreign": 5
   },
   "items": [
     {
@@ -79,19 +79,6 @@
       "score": 105
     },
     {
-      "id": "50378d0762dc",
-      "title": "AI안경 부정행위 중·고서도 적발…교육부, 교원단체들 만나 대응책 논의",
-      "url": "https://www.msn.com/ko-kr/news/national/ai%EC%95%88%EA%B2%BD-%EB%B6%80%EC%A0%95%ED%96%89%EC%9C%84-%EC%A4%91-%EA%B3%A0%EC%84%9C%EB%8F%84-%EC%A0%81%EB%B0%9C-%EA%B5%90%EC%9C%A1%EB%B6%80-%EA%B5%90%EC%9B%90%EB%8B%A8%EC%B2%B4%EB%93%A4-%EB%A7%8C%EB%82%98-%EB%8C%80%EC%9D%91%EC%B1%85-%EB%85%BC%EC%9D%98/ar-AA2g9jkE",
-      "source": "중앙일보 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-10-27T01:28:39.000Z",
-      "description": "2027학년도 대학수학능력시험을 20여 일 앞둔 27일 정부와 교원단체가 수능 AI 안경 부정행위 대응책을 긴급 논의했다. 교사들은 부정행위 방지를 위한 전문인력 충원과 감독관 보호 대책, 수험생을 대상으로 한 부정행위 예방 교육과 사전 안내 강화 등을 요구하고 나섰다. 사진은 이날 서울 시내의 한 이동통신 대리점에 전시된 AI 스마트 안경. 뉴스1 대입 ...",
-      "category": "입시·사교육",
-      "feedProvider": "bing",
-      "policyRelevance": 75,
-      "score": 103
-    },
-    {
       "id": "20753d13d61e",
       "title": "수능 앞두고 ‘AI 안경’ 비상…교원단체 “감독교사 추가 배치 요구”",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13dzJWc1AyU0dzclFHYlcyMDlWNC1Cb2xRMWh5em1pUXk1WW54dEFRWXlMNGswaEFEd0NZUW9SanVwX3FMRWN0OFNlQk9pTEhvbW9aQlQ2OHBrazF6dUE1NW80Q3RHellDYzFsVm9UZ1RuNl9STGfSAWZBVV95cUxQajliWms2aDV2X3lSNTgzMjBaTXppZnVXb3hHR0dBZUx4UkZmWG5sTE1hUGJZS2FIOE0zcklqdi14eGd4bWo4ejN2Z3FUSWM1d2dWbnp6c0VRUVk3RXRoOVpoUXhXaVE?oc=5",
@@ -141,6 +128,19 @@
       "feedProvider": "google",
       "policyRelevance": 87,
       "score": 96
+    },
+    {
+      "id": "5a0213af9f9e",
+      "title": "교원단체 “수능 스마트 안경 적발, 감독관한테 책임 미뤄선 안돼”",
+      "url": "https://www.msn.com/ko-kr/news/national/%EA%B5%90%EC%9B%90%EB%8B%A8%EC%B2%B4-%EC%88%98%EB%8A%A5-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%95%88%EA%B2%BD-%EC%A0%81%EB%B0%9C-%EA%B0%90%EB%8F%85%EA%B4%80%ED%95%9C%ED%85%8C-%EC%B1%85%EC%9E%84-%EB%AF%B8%EB%A4%84%EC%84%A0-%EC%95%88%EB%8F%BC/ar-AA2g8BZN",
+      "source": "한겨레 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-10-27T08:59:00.000Z",
+      "description": "교육부와 잇따라 면담 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 95
     },
     {
       "id": "d89ae4ac84a5",
@@ -242,19 +242,6 @@
       "score": 86
     },
     {
-      "id": "5a0213af9f9e",
-      "title": "교원단체 수능 스마트 안경 적발, 감독관한테 책임 미뤄선 안돼",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B5%90%EC%9B%90%EB%8B%A8%EC%B2%B4-%EC%88%98%EB%8A%A5-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%95%88%EA%B2%BD-%EC%A0%81%EB%B0%9C-%EA%B0%90%EB%8F%85%EA%B4%80%ED%95%9C%ED%85%8C-%EC%B1%85%EC%9E%84-%EB%AF%B8%EB%A4%84%EC%84%A0-%EC%95%88%EB%8F%BC/ar-AA2g8BZN",
-      "source": "한겨레 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-10-26T23:10:35.000Z",
-      "description": "교육부와 잇따라 면담 ...",
-      "category": "입시·사교육",
-      "feedProvider": "bing",
-      "policyRelevance": 75,
-      "score": 85
-    },
-    {
       "id": "505692dfd482",
       "title": "대전교육청, 학교급식 정책선도학교 운영",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82YlFZbDlYVm5KZFJXVTNDajdwTjFpNXNwaGRWVUo3NURDVGZfaUVWMHNHYnlwOHA3d2h2NjhxUi1NZlRnaGFkU1ZnUVZZbHAxV3U3b2xSckNxbEJTSXlzbkNITHk1QQ?oc=5",
@@ -305,6 +292,19 @@
       "feedProvider": "google",
       "policyRelevance": 87,
       "score": 82
+    },
+    {
+      "id": "ef311be03906",
+      "title": "‘AI안경 부정행위’ 중·고서도 적발…교육부, 교원단체들 만나 대응책 논의",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95THJET3lxTHVseS1xTExsdF81Q1QwSzQ3anU4Y2lWQS1qVldrX2NxcUd1OGNXby1iU0ZxQWs3czlkT0N2TThyb190OUUwdXNkdkR0VTZn?oc=5",
+      "source": "중앙일보",
+      "kind": "domestic",
+      "publishedAt": "2026-10-27T08:28:39.000Z",
+      "description": "‘AI안경 부정행위’ 중·고서도 적발…교육부, 교원단체들 만나 대응책 논의 중앙일보",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 81
     },
     {
       "id": "36aa74560d8e",
@@ -559,10 +559,10 @@
     {
       "id": "a75045074289",
       "title": "정부, 17개국 선박 탈탄소 지원·AI 해양법 국제협력 확대",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FSzg3aDFrUHRKc1F0akJMR0tORW5UeFF6X3ZxaTNVaDAxT0VNYzU1bHhSTHJEcTYtcDNpMFNSVDNvYnd5LUYxYU45VnJkMFMzZFhJcVgyS1RmTnpmSUhaa1VBQWpITFVUX1HSAW5BVV95cUxOYUhCa0xWd3llOVJmZXFqSnNZQmZIMmlsWHJMMnNLVTd5S1ZRck5ZekRaOUY1b1JuNi1FXy1mUWpQeEFuaS15VHhOMjZ1angwNGJ5b3AxbjRxMzA4QXoycTlWTXRZQ0FGQ2piYjRmQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hSEJrTFZ3eWU5UmZlcWpKc1lCZkgyaWxYckwyc0tVN3lLVlFyTll6RFo5RjVvUm42LUVfLWZRalB4QW5pLXlUeE4yNnVqeDA0YnlvcDFuNHEzMDhBejJxOVZNdFlDQUZDamJiNGZB0gFuQVVfeXFMTmFIQmtMVnd5ZTlSZmVxakpzWUJmSDJpbFhyTDJzS1U3eUtWUXJOWXpEWjlGNW9SbjYtRV8tZlFqUHhBbmkteVR4TjI2dWp4MDRieW9wMW40cTMwOEF6MnE5Vk10WUNBRkNqYmI0ZkE?oc=5",
       "source": "넷제로뉴스",
       "kind": "domestic",
-      "publishedAt": "2026-10-25T04:13:21.000Z",
+      "publishedAt": "2026-10-25T10:40:51.000Z",
       "description": "정부, 17개국 선박 탈탄소 지원·AI 해양법 국제협력 확대 넷제로뉴스",
       "category": "기타",
       "feedProvider": "google",
@@ -572,7 +572,7 @@
     {
       "id": "04b78a06ba2c",
       "title": "[에듀 경기] 교육지원청·연천군·EBS 뭉쳐 스스로 공부하는 학생 환경 만든다",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%97%90%EB%93%80-%EA%B2%BD%EA%B8%B0-%EA%B5%90%EC%9C%A1%EC%A7%80%EC%9B%90%EC%B2%AD-%EC%97%B0%EC%B2%9C%EA%B5%B0-ebs-%EB%AD%89%EC%B3%90-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%ED%95%99%EC%83%9D-%ED%99%98%EA%B2%BD-%EB%A7%8C%EB%93%A0%EB%8B%A4/ar-AA2g21PY",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%97%90%EB%93%80-%EA%B2%BD%EA%B8%B0-%EA%B5%90%EC%9C%A1%EC%A7%80%EC%9B%90%EC%B2%AD-%EC%97%B0%EC%B2%9C%EA%B5%B0-ebs-%EB%AD%89%EC%B3%90-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%ED%95%99%EC%83%9D-%ED%99%98%EA%B2%BD-%EB%A7%8C%EB%93%A0%EB%8B%A4/ar-AA2g21PY",
       "source": "경인일보 on MSN",
       "kind": "domestic",
       "publishedAt": "2026-10-25T04:50:37.000Z",
@@ -734,6 +734,19 @@
       "publishedAt": "2026-10-25T21:45:00.000Z",
       "description": "최교진 교육부 장관 “대학마다 특화 분야로 경쟁력 높여야… 정부도 적극 지원”[창간특별대담-교육부 장관에게 듣는다] 한국대학신문",
       "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 63
+    },
+    {
+      "id": "0d030513bbb8",
+      "title": "안성 학부모 200여 명, 안민석 경기도교육감과 지역 교육현안 논의",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HQW1aQnJIMDVLa1lULVpvYjFCZjNYTTRMbUlXUGNKYXEteXo5MFFHZncwaGtvQ2F1R1dDQ29nLXRfNkdxN19xYTZlOGc2Y0JiX05zc1hLNWhTZ0xoY29oQURlV1lLZw?oc=5",
+      "source": "안성뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-10-25T07:00:00.000Z",
+      "description": "안성 학부모 200여 명, 안민석 경기도교육감과 지역 교육현안 논의 안성뉴스",
+      "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 63
@@ -923,46 +936,18 @@
       "summaryKo": "한국에서는 매년 11월 목요일에 수험생들을 위해 전국민이 숨을 고르고 있습니다. 영어 듣기 섹션이 시작되면 공항 이륙 및 착륙..."
     },
     {
-      "id": "ce41b2c47112",
-      "title": "Korea's int'l student boom puts universities to new test",
-      "url": "https://www.koreatimes.co.kr/southkorea/education/k-universities/policy-trends/20261022/koreas-intl-student-boom-puts-universities-to-new-test",
-      "source": "The Korea Times",
+      "id": "e8e61b7119b8",
+      "title": "[Alternative Schools in South Korea Part 3] 10 Years of Institutionalization and the Contradictions of \"Accreditation\" — 1998–2007",
+      "url": "https://note.com/beerbeer4125/n/n0d179dd40328?hl=en",
+      "source": "note",
       "kind": "foreign",
-      "publishedAt": "2026-10-21T23:59:00.000Z",
-      "description": "SINGAPORE, LONDON, SEOUL — Korea reached its goal of attracting 300,000 international students ahead of schedule. Now comes the harder part. As ...",
+      "publishedAt": "2026-10-21T05:32:00.000Z",
+      "description": "This is the third installment of the series \"Alternative Schools in South Korea: From Origins to Institutionalization.\"Chronology of Institutionalization 1998: Institutionalization of Specialized High ...",
       "category": "유·초중등",
       "score": 30,
-      "originalTitle": "Korea's int'l student boom puts universities to new test",
-      "titleKo": "한국의 국제 학생 붐은 대학을 새로운 시험대에 올려 놓습니다",
-      "summaryKo": "싱가포르, 런던, 서울 — 한국은 예정보다 빨리 30만 명의 유학생을 유치한다는 목표를 달성했습니다. 이제 더 어려운 부분이 온다. As..."
-    },
-    {
-      "id": "4fe71b5f2d90",
-      "title": "South Korea Turns Island Residents into Marine Educators at Yeosu Expo",
-      "url": "https://www.techtimes.com/articles/329075/20261015/south-korea-turns-island-residents-marine-educators-yeosu-expo.htm",
-      "source": "Tech Times",
-      "kind": "foreign",
-      "publishedAt": "2026-10-14T23:10:00.000Z",
-      "description": "KOEM and Chonnam National University signed an agreement October 13 at the Yeosu World Island Expo to train island residents as certified marine educators, pairing conservation education with a struct ...",
-      "category": "기타",
-      "score": 30,
-      "originalTitle": "South Korea Turns Island Residents into Marine Educators at Yeosu Expo",
-      "titleKo": "한국, 여수 엑스포에서 섬 주민을 해양 교육자로 변모시키다",
-      "summaryKo": "KOEM과 전남대학교는 10월 13일 여수세계섬엑스포에서 섬 주민들을 공인 해양교육자로 양성하기 위한 협약을 체결하고 보존교육과 구조..."
-    },
-    {
-      "id": "7f1337e591b5",
-      "title": "South Korean science institutes draw record 33,000 applicants",
-      "url": "https://www.upi.com/Top_News/World-News/2026/10/05/education-semiconductors-university-admissions-ai/5021791234974/",
-      "source": "UPI",
-      "kind": "foreign",
-      "publishedAt": "2026-10-05T10:28:00.000Z",
-      "description": "Applications to South Korea's four major science and technology institutes surpassed 33,000 for the first time, rising 36.5% as new AI programs.",
-      "category": "기타",
-      "score": 30,
-      "originalTitle": "South Korean science institutes draw record 33,000 applicants",
-      "titleKo": "한국 과학 연구소는 기록적인 33,000명의 지원자를 확보했습니다.",
-      "summaryKo": "한국의 4대 과학기술기관에 대한 신청은 처음으로 3만 3천 건을 돌파하여 새로운 인공지능 프로그램으로 36.5% 증가했다."
+      "originalTitle": "[Alternative Schools in South Korea Part 3] 10 Years of Institutionalization and the Contradictions of \"Accreditation\" — 1998–2007",
+      "titleKo": "[한국의 대안학교 3부] 제도화 10년과 \"인증\" 의 모순 — 1998–2007",
+      "summaryKo": "이것은 \"한국의 대안 학교: 기원에서 제도화까지\" 시리즈의 세 번째 작품입니다. \"Chronology of Institutionalization 1998: Institutionalization of Specialized High..."
     },
     {
       "id": "ef9964cecfef",
@@ -986,19 +971,19 @@
     "throughDate": "2026-10-28",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-10-26T15:00:00.000Z",
-    "windowEnd": "2026-10-28T00:38:07.904Z",
+    "windowEnd": "2026-10-28T01:29:17.957Z",
     "itemIds": [
       "90442c73be51",
       "4c5ea21001e7",
-      "50378d0762dc",
       "20753d13d61e",
       "5f25202702b0",
       "3bb39b041bea",
-      "ddc2cfe33bdd",
       "5a0213af9f9e",
+      "ddc2cfe33bdd",
       "505692dfd482",
       "2ff93515a7d5",
       "81aa648b1d25",
+      "ef311be03906",
       "f3626a86e9b0",
       "40aa39ca5f54",
       "66844f0ea1eb",
@@ -1020,7 +1005,7 @@
       "foreign": 1
     },
     "headline": "오늘 아침 교육뉴스는 고등교육·입시·사교육·유·초중등 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 24건이 확인됐습니다. 교육부는 「고등교육법 시행령」 및 「대학 등록금에 관한 규칙」 입법예고와 세계가 인정하는 케이(K)-직업계고기술인재의 숙련기술 등을 공식 발표했습니다. 국내 언론에서는 AI안경 부정행위 중·고서도 적발…교육부, 교원단체들 만나 대응책 논의와 수능 앞두고 ‘AI 안경’ 비상…교원단체 “감독교사 추가 배치 요구” 등이 주요하게 다뤄졌습니다. 해외에서는 프랑스는 대학 입학 시스템을 대체 할 것을 약속합니다. 관련 보도가 확인됐습니다. 전체적으로는 고등교육·입시·사교육·유·초중등 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 24건이 확인됐습니다. 교육부는 「고등교육법 시행령」 및 「대학 등록금에 관한 규칙」 입법예고와 세계가 인정하는 케이(K)-직업계고기술인재의 숙련기술 등을 공식 발표했습니다. 국내 언론에서는 수능 앞두고 ‘AI 안경’ 비상…교원단체 “감독교사 추가 배치 요구”와 교원단체 “수능 ‘AI 안경’ 적발, 감독관한테 책임 미뤄선 안돼” 등이 주요하게 다뤄졌습니다. 해외에서는 프랑스는 대학 입학 시스템을 대체 할 것을 약속합니다. 관련 보도가 확인됐습니다. 전체적으로는 고등교육·입시·사교육·유·초중등 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "고등교육",
@@ -1034,12 +1019,12 @@
       },
       {
         "title": "입시·사교육",
-        "summary": "AI안경 부정행위 중·고서도 적발…교육부, 교원단체들 만나 대응책 논의 · 수능 앞두고 ‘AI 안경’ 비상…교원단체 “감독교사 추가 배치 요구” · 교원단체 “수능 ‘AI 안경’ 적발, 감독관한테 책임 미뤄선 안돼”",
+        "summary": "수능 앞두고 ‘AI 안경’ 비상…교원단체 “감독교사 추가 배치 요구” · 교원단체 “수능 ‘AI 안경’ 적발, 감독관한테 책임 미뤄선 안돼” · 교원단체 “수능 스마트 안경 적발, 감독관한테 책임 미뤄선 안돼”",
         "why": "대입·수능·사교육 이슈는 학생·학부모 체감도가 높고 후속 안내와 현장 반응 점검이 중요합니다.",
         "sources": [
-          "중앙일보 on MSN",
           "동아일보",
-          "한겨레"
+          "한겨레",
+          "한겨레 on MSN"
         ]
       },
       {
@@ -1054,12 +1039,12 @@
       },
       {
         "title": "교원·조직",
-        "summary": "옥천교육청, 초등 교원 대상 수업나눔축제 운영 · 초·중등교육법 개정 10월 29일 시행…교권 보호 강화, 학교장 권한만으로 충분한가 · [교육타파] 1정 성적 삭제 반대 교사들 교육부 앞 집회…14개 시도 1,616명 탄원서 전달",
+        "summary": "‘AI안경 부정행위’ 중·고서도 적발…교육부, 교원단체들 만나 대응책 논의 · 옥천교육청, 초등 교원 대상 수업나눔축제 운영 · 초·중등교육법 개정 10월 29일 시행…교권 보호 강화, 학교장 권한만으로 충분한가",
         "why": "교원 업무·교권·인사와 직접 연결될 수 있어 현장 반응과 제도 운영상 쟁점을 살펴볼 필요가 있습니다.",
         "sources": [
+          "중앙일보",
           "국제뉴스",
-          "진주인터넷뉴스",
-          "전북미래교육신문"
+          "진주인터넷뉴스"
         ]
       }
     ],
