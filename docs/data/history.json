@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T01:07:54.843Z",
+  "generatedAt": "2026-10-29T01:53:00.771Z",
   "retentionDays": 30,
   "days": [
     "2026-10-29",
@@ -32,6 +32,20 @@
   ],
   "items": [
     {
+      "id": "f052c40cd3d5",
+      "title": "교육부 “수능서 스마트안경 사용하면 형사처벌 추진”",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ1RReThXekh3dTJKNXdjbjNTNEo5NzF0SFRGLWlXbVBDR3FEelNnX01aci1jMEpxcWZDc0FXdG5ndk9xUnFJY1JMeFhNZDh6WXY0YnRad3ViXy1RRlVjUjhaelBCYXpSQmpWT0NOS25qZ2JDS242ejdzeGlaM3UzMk5PQzFWejF4R2fSAZ4BQVVfeXFMT1lTZU5IYUdFcWhkVldhMFJzOVZMc3hVTVNXVXZ1Wnlfall4YVBacHZaYzlkcDRaelVocnBFSnROSlg3eG1HaHlIVXRXQzd3WldXZXdxNW1KRmxXXzFYYUoxc01oZkFiWkdfWmF5aUJ3UWMzSlhKcWFtOWZSdGQtTHl4bmN4LXZBSnZyLS14b21pelJVcnFtLWY5ZkdXalE?oc=5",
+      "source": "Chosunbiz",
+      "kind": "domestic",
+      "publishedAt": "2026-10-29T01:38:00.000Z",
+      "description": "교육부 “수능서 스마트안경 사용하면 형사처벌 추진” Chosunbiz",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 77,
+      "score": 92,
+      "snapshotDate": "2026-10-29"
+    },
+    {
       "id": "cb4aa7d89362",
       "title": "세종시교육청, 전국 교육국장 협의회 개최",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VdkxLeEU1eVI5S3VkWWFPVks1NlBiYVluNEhUNmJydVR1M2lPQThuZHh1UlVrMmdaalRlYkRuVHNfUEt0TzBYd1l2OHVTUURPUzFQLV9iNjN4QS0xSEdXaUlhN3hTNEV1Z284UQ?oc=5",
@@ -43,6 +57,33 @@
       "feedProvider": "google",
       "policyRelevance": 47,
       "score": 74,
+      "snapshotDate": "2026-10-29"
+    },
+    {
+      "id": "4040a0facd56",
+      "title": "경북교육청, 교육부 평가 3년 연속 전 지표 통과…교육정책 추진 역량 입증",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CREcwOEJ0SlhRZzVDRmd3WldlNlBLd0VjM1ZPcWdPQ3ZzdGlxaU56Z3NESW16MW5jdDRULVhINGljYjFCcDI0UDIxWm40RDZ1TFhv?oc=5",
+      "source": "유스연합",
+      "kind": "domestic",
+      "publishedAt": "2026-10-29T00:35:30.000Z",
+      "description": "경북교육청, 교육부 평가 3년 연속 전 지표 통과…교육정책 추진 역량 입증 유스연합",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 77,
+      "score": 88,
+      "snapshotDate": "2026-10-29"
+    },
+    {
+      "id": "305dbaa072ec",
+      "title": "[보도참고자료] 대학수학능력시험 스마트안경 활용 부정행위 관련 대응계획",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107520&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-10-29T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "입시·사교육",
+      "policyRelevance": 100,
+      "score": 115,
       "snapshotDate": "2026-10-29"
     },
     {
@@ -144,6 +185,20 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 82,
+      "snapshotDate": "2026-10-29"
+    },
+    {
+      "id": "e69d23d56223",
+      "title": "전국 교육청, 세종서 AI교육·기초학력 대책 논의",
+      "url": "https://www.naewoeilbo.com/news/articleView.html?idxno=2441415",
+      "source": "내외일보",
+      "kind": "domestic",
+      "publishedAt": "2026-10-28T13:04:00.000Z",
+      "description": "김명숙 세종시교육청 교육국장은 “시·도교육청의 다양한 정책과 현장 경험을 나누고 함께 해결해야 할 교육 현안의 실질적인 해법을 모색했다”며 “교육청 간 협력과 연대를 통해 모든 학생의 성장과 미래교육 발전을 위해 노력하겠다”고 말했다.",
+      "category": "유·초중등",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 91,
       "snapshotDate": "2026-10-29"
     },
     {
@@ -887,7 +942,7 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 63,
-      "snapshotDate": "2026-10-29"
+      "snapshotDate": "2026-10-28"
     },
     {
       "id": "c1d5085c2f78",
@@ -900,7 +955,7 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 75,
-      "score": 77,
+      "score": 67,
       "snapshotDate": "2026-10-29"
     },
     {
@@ -915,7 +970,7 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 65,
-      "snapshotDate": "2026-10-29"
+      "snapshotDate": "2026-10-28"
     },
     {
       "id": "9ba5ee4a4772",
@@ -929,7 +984,7 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 63,
-      "snapshotDate": "2026-10-29"
+      "snapshotDate": "2026-10-28"
     },
     {
       "id": "ceb1fe46678f",
@@ -1031,7 +1086,7 @@
     {
       "id": "f47d9432c6d0",
       "title": "교육교부금 연동 폐지·구직급여 주 7→6일…내년 예산 44.2조 효율화",
-      "url": "https://www.msn.com/ko-kr/money/topstories/%EA%B5%90%EC%9C%A1%EA%B5%90%EB%B6%80%EA%B8%88-%EC%97%B0%EB%8F%99-%ED%8F%90%EC%A7%80-%EA%B5%AC%EC%A7%81%EA%B8%89%EC%97%AC-%EC%A3%BC-7-6%EC%9D%BC-%EB%82%B4%EB%85%84-%EC%98%88%EC%82%B0-442%EC%A1%B0-%ED%9A%A8%EC%9C%A8%ED%99%94/ar-AA2g4geu",
+      "url": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%EA%B5%90%EC%9C%A1%EA%B5%90%EB%B6%80%EA%B8%88-%EC%97%B0%EB%8F%99-%ED%8F%90%EC%A7%80-%EA%B5%AC%EC%A7%81%EA%B8%89%EC%97%AC-%EC%A3%BC-7-6%EC%9D%BC-%EB%82%B4%EB%85%84-%EC%98%88%EC%82%B0-44-2%EC%A1%B0-%ED%9A%A8%EC%9C%A8%ED%99%94/ar-AA2g4geu",
       "source": "뉴시스 on MSN",
       "kind": "domestic",
       "publishedAt": "2026-10-25T22:00:00.000Z",
@@ -1041,6 +1096,20 @@
       "policyRelevance": 77,
       "score": 76,
       "snapshotDate": "2026-10-29"
+    },
+    {
+      "id": "f47d9432c6d0",
+      "title": "교육교부금 연동 폐지·구직급여 주 7→6일…내년 예산 44.2조 효율화",
+      "url": "https://www.msn.com/ko-kr/money/topstories/%EA%B5%90%EC%9C%A1%EA%B5%90%EB%B6%80%EA%B8%88-%EC%97%B0%EB%8F%99-%ED%8F%90%EC%A7%80-%EA%B5%AC%EC%A7%81%EA%B8%89%EC%97%AC-%EC%A3%BC-7-6%EC%9D%BC-%EB%82%B4%EB%85%84-%EC%98%88%EC%82%B0-442%EC%A1%B0-%ED%9A%A8%EC%9C%A8%ED%99%94/ar-AA2g4geu",
+      "source": "뉴시스 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-10-25T22:00:00.000Z",
+      "description": "정부가 지방교육재정교부금의 내국세 연동 구조를 폐지하고 구직급여 지급일수를 주 7일에서 6일로 조정하는 등 내년 예산안에 44조2000억원 규모의 지출 효율화 방안을 반영했다. 17개 부처에 흩어진 중소기업 지원사업도 절반 가량을 통폐합하거나 축소했다. 다음 달부터는 지출효율화 TF를 조기 가동해 2028년 예산안에 반영할 추가 과제를 발굴한다. 기획예산처 ...",
+      "category": "재정·법령",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
+      "score": 86,
+      "snapshotDate": "2026-10-28"
     },
     {
       "id": "eb0a3603e107",
@@ -2171,8 +2240,8 @@
       "description": "교육부 공식 보도자료",
       "category": "기타",
       "policyRelevance": 100,
-      "score": 90,
-      "snapshotDate": "2026-10-29"
+      "score": 95,
+      "snapshotDate": "2026-10-28"
     },
     {
       "id": "c05b5e372263",
@@ -8361,76 +8430,6 @@
       "feedProvider": "google",
       "policyRelevance": 77,
       "score": 86,
-      "snapshotDate": "2026-10-05"
-    },
-    {
-      "id": "c4f25eeb43e6",
-      "title": "AI 교육 전담과 만든다…경북교육청, 2027 조직개편",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NdXkzOXNtSGxSY0piMzVPcUZ3djFnRERPR0VPMDg5c1ZkMVhFR1c5UjVOcU1UbzhGSE5ybGtjaGl5U21WdUZRbG9ZdVB3UEdYNzNIVXpwRzI2M3Fmbi13StIBeEFVX3lxTE13N3dxQTRKNXpTRDY0Z0NhNER2RlFFd1A1Mi0yZTRTRnk1NjR2WVhjOC1XdmVqMk9iRXJjeUxYd1gtbjZCUmY5VUdRNDl2am1mWHRRaGQ3RDVsSXZFVHRtbjZUQlhYZUhJSkcxTkZrckkyMUlLdms0UA?oc=5",
-      "source": "뉴시스",
-      "kind": "domestic",
-      "publishedAt": "2026-10-02T00:53:10.000Z",
-      "description": "AI 교육 전담과 만든다…경북교육청, 2027 조직개편 뉴시스",
-      "category": "AI·디지털",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 70,
-      "snapshotDate": "2026-10-05"
-    },
-    {
-      "id": "0a20dcdcbd48",
-      "title": "경북교육청, AI 교육 중심으로 조직 바꾼다···2027년 조직개편안 공개",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hallBbk1HYXZwMzdOWTh3cHRCZWdhWFlKZmYxUVM2MUV0bUhyMzVWNk9tek9lcGtJcXM0MzFQeE9RQXIzbnZQdHZRcnZXU0F2S2RSNXh6S1RzQ0hJR2pvd3FTMnlMVy1FWUVsTGNiajM?oc=5",
-      "source": "프라임경제",
-      "kind": "domestic",
-      "publishedAt": "2026-10-02T00:49:18.000Z",
-      "description": "경북교육청, AI 교육 중심으로 조직 바꾼다···2027년 조직개편안 공개 프라임경제",
-      "category": "AI·디지털",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 70,
-      "snapshotDate": "2026-10-05"
-    },
-    {
-      "id": "14881fafe4d5",
-      "title": "與 한정애 '영유아 교육 재원 확보' 지방교육 재정교부금법 개정안 발의",
-      "url": "https://www.msn.com/ko-kr/news/politics/%E8%88%87-%ED%95%9C%EC%A0%95%EC%95%A0-%EC%98%81%EC%9C%A0%EC%95%84-%EA%B5%90%EC%9C%A1-%EC%9E%AC%EC%9B%90-%ED%99%95%EB%B3%B4-%EC%A7%80%EB%B0%A9%EA%B5%90%EC%9C%A1-%EC%9E%AC%EC%A0%95%EA%B5%90%EB%B6%80%EA%B8%88%EB%B2%95-%EA%B0%9C%EC%A0%95%EC%95%88-%EB%B0%9C%EC%9D%98/ar-AA2dovhK",
-      "source": "뉴시스 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-10-02T00:09:33.000Z",
-      "description": "더불어민주당 사무총장인 한정애 의원이 2일 유보통합에 따른 영유아 보육·교육 재원을 확보하기 위한 '지방교육 재정교부금법 일부개정법률안'을 대표발의했다. 이번 개정안은 지방교육 재정교부금의 사용 대상을 어린이집까지 확대하고, 교부금 재원인 내국세 연동 교부율을 현행 20.79%에서 21.79%로 인상하는 내용이 골자다. 현재 정부가 추진 중인 유보통합으로 ...",
-      "category": "유·초중등",
-      "feedProvider": "bing",
-      "policyRelevance": 77,
-      "score": 72,
-      "snapshotDate": "2026-10-05"
-    },
-    {
-      "id": "a68e51b1a0d3",
-      "title": "교육부, 학생·교원·학부모가 함께 만드는 건강한 학교문화 ‘함께학교 마음동행’ 운영",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55N3NoRkVBZGktWGpPblVtTzJ3djNmc21wWFQ5cnNoX0hCY2t0SndCbjJHVWFjQXBKdnI5ZVM3LU81Skl0WkhLUkQ5N3VGdFVOeUVYN0NpUjFUaVpRbUdNRTRYNDlQalc4cGhVSk85TU4?oc=5",
-      "source": "한국강사신문",
-      "kind": "domestic",
-      "publishedAt": "2026-10-02T00:02:00.000Z",
-      "description": "교육부, 학생·교원·학부모가 함께 만드는 건강한 학교문화 ‘함께학교 마음동행’ 운영 한국강사신문",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 57,
-      "snapshotDate": "2026-10-05"
-    },
-    {
-      "id": "02fdabfc3a07",
-      "title": "대전시교육청, 학생·학부모·교직원·시민 의견 듣는다 ‘2026 대전교육정책 아이디어 공모’",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxenotYUozV3lpaXFnNWNFbGd0QnRVeFNWamNuZ1lxdzl0Q2ZEal9YSkxRdS1HVTA1UnZHVUM4dTV0bkZ2dXhGVDhaZkc4a2pNMUVYUHNlcElJOGZMR1pwalNiMHJRemxCUFhLRGhzdzI?oc=5",
-      "source": "한국강사신문",
-      "kind": "domestic",
-      "publishedAt": "2026-10-01T22:43:00.000Z",
-      "description": "대전시교육청, 학생·학부모·교직원·시민 의견 듣는다 ‘2026 대전교육정책 아이디어 공모’ 한국강사신문",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 75,
-      "score": 67,
       "snapshotDate": "2026-10-05"
     }
   ]

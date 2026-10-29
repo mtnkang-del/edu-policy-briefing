@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-10-29T01:07:42.302Z",
-  "generatedAtKST": "2026-10-29T10:07:39.139+09:00",
+  "generatedAt": "2026-10-29T01:52:47.413Z",
+  "generatedAtKST": "2026-10-29T10:52:43.573+09:00",
   "date": "2026-10-29",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 15,
+    "domesticBing": 16,
     "domesticGoogle": 102,
-    "foreignBing": 4,
-    "foreignGoogle": 129,
-    "carried": 97,
-    "rawUnique": 259,
-    "policyRejected": 173,
+    "foreignBing": 5,
+    "foreignGoogle": 193,
+    "carried": 174,
+    "rawUnique": 323,
+    "policyRejected": 234,
     "policyKept": 80
   },
   "briefing": [
+    "[보도참고자료] 대학수학능력시험 스마트안경 활용 부정행위 관련 대응계획 — 교육부",
     "「고등교육법 시행령」 및 「대학 등록금에 관한 규칙」 입법예고 — 교육부",
     "바이오 부트캠프 학생들, 부트캠프 출신 현직자에게 취업 비결을 전수받다 — 교육부",
     "2026 대한민국 청소년 창업경진대회 결선 대회 개최 — 교육부",
-    "지역과 함께 성장하는 ‘2026 농어촌 참 좋은 학교’를 소개합니다 — 교육부",
-    "세계가 인정하는 케이(K)-직업계고기술인재의 숙련기술 — 교육부"
+    "지역과 함께 성장하는 ‘2026 농어촌 참 좋은 학교’를 소개합니다 — 교육부"
   ],
   "stats": {
     "total": 80,
@@ -30,6 +30,18 @@
     "foreign": 3
   },
   "items": [
+    {
+      "id": "305dbaa072ec",
+      "title": "[보도참고자료] 대학수학능력시험 스마트안경 활용 부정행위 관련 대응계획",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107520&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-10-29T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "입시·사교육",
+      "policyRelevance": 100,
+      "score": 115
+    },
     {
       "id": "90442c73be51",
       "title": "「고등교육법 시행령」 및 「대학 등록금에 관한 규칙」 입법예고",
@@ -140,6 +152,19 @@
       "score": 95
     },
     {
+      "id": "f052c40cd3d5",
+      "title": "교육부 “수능서 스마트안경 사용하면 형사처벌 추진”",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ1RReThXekh3dTJKNXdjbjNTNEo5NzF0SFRGLWlXbVBDR3FEelNnX01aci1jMEpxcWZDc0FXdG5ndk9xUnFJY1JMeFhNZDh6WXY0YnRad3ViXy1RRlVjUjhaelBCYXpSQmpWT0NOS25qZ2JDS242ejdzeGlaM3UzMk5PQzFWejF4R2fSAZ4BQVVfeXFMT1lTZU5IYUdFcWhkVldhMFJzOVZMc3hVTVNXVXZ1Wnlfall4YVBacHZaYzlkcDRaelVocnBFSnROSlg3eG1HaHlIVXRXQzd3WldXZXdxNW1KRmxXXzFYYUoxc01oZkFiWkdfWmF5aUJ3UWMzSlhKcWFtOWZSdGQtTHl4bmN4LXZBSnZyLS14b21pelJVcnFtLWY5ZkdXalE?oc=5",
+      "source": "Chosunbiz",
+      "kind": "domestic",
+      "publishedAt": "2026-10-29T01:38:00.000Z",
+      "description": "교육부 “수능서 스마트안경 사용하면 형사처벌 추진” Chosunbiz",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 77,
+      "score": 92
+    },
+    {
       "id": "11a7731b2594",
       "title": "[동정] 최교진 교육장관, 두바이 문화예술청장 면담",
       "url": "https://www.msn.com/ko-kr/news/other/%EB%8F%99%EC%A0%95-%EC%B5%9C%EA%B5%90%EC%A7%84-%EA%B5%90%EC%9C%A1%EC%9E%A5%EA%B4%80-%EB%91%90%EB%B0%94%EC%9D%B4-%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%B2%AD%EC%9E%A5-%EB%A9%B4%EB%8B%B4/ar-AA2gi48K",
@@ -151,6 +176,19 @@
       "feedProvider": "bing",
       "policyRelevance": 87,
       "score": 92
+    },
+    {
+      "id": "e69d23d56223",
+      "title": "전국 교육청, 세종서 AI교육·기초학력 대책 논의",
+      "url": "https://www.naewoeilbo.com/news/articleView.html?idxno=2441415",
+      "source": "내외일보",
+      "kind": "domestic",
+      "publishedAt": "2026-10-28T13:04:00.000Z",
+      "description": "김명숙 세종시교육청 교육국장은 “시·도교육청의 다양한 정책과 현장 경험을 나누고 함께 해결해야 할 교육 현안의 실질적인 해법을 모색했다”며 “교육청 간 협력과 연대를 통해 모든 학생의 성장과 미래교육 발전을 위해 노력하겠다”고 말했다.",
+      "category": "유·초중등",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 91
     },
     {
       "id": "d40a99bda766",
@@ -174,18 +212,6 @@
       "publishedAt": "2026-10-22T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "유·초중등",
-      "policyRelevance": 100,
-      "score": 90
-    },
-    {
-      "id": "3d35bda52e5f",
-      "title": "“마음도 배워야 자란다” 2026년 한국형 사회정서교육 우수사례 공모전 개최",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107475&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-10-22T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "기타",
       "policyRelevance": 100,
       "score": 90
     },
@@ -214,6 +240,19 @@
       "feedProvider": "google",
       "policyRelevance": 75,
       "score": 89
+    },
+    {
+      "id": "4040a0facd56",
+      "title": "경북교육청, 교육부 평가 3년 연속 전 지표 통과…교육정책 추진 역량 입증",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CREcwOEJ0SlhRZzVDRmd3WldlNlBLd0VjM1ZPcWdPQ3ZzdGlxaU56Z3NESW16MW5jdDRULVhINGljYjFCcDI0UDIxWm40RDZ1TFhv?oc=5",
+      "source": "유스연합",
+      "kind": "domestic",
+      "publishedAt": "2026-10-29T00:35:30.000Z",
+      "description": "경북교육청, 교육부 평가 3년 연속 전 지표 통과…교육정책 추진 역량 입증 유스연합",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 77,
+      "score": 88
     },
     {
       "id": "f7aa2b93242f",
@@ -427,19 +466,6 @@
       "score": 77
     },
     {
-      "id": "c1d5085c2f78",
-      "title": "[창간 38주년 축사] 김문희 한국교육과정평가원장 “교육의 미래 지원하는 고등교육 전문언론”",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xWVp5QllsVXZQZDF4ZFljN2Zyak9lVEFDel9RWlJYa3pnYVJSVnNmRVhfYlBkdTNTM2xpRjB4MnJpQVRaUi01aTRITzdUd1VHOG1MU0RNaFRROWZPOHgwSzNxR1REQQ?oc=5",
-      "source": "한국대학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-10-26T01:45:00.000Z",
-      "description": "[창간 38주년 축사] 김문희 한국교육과정평가원장 “교육의 미래 지원하는 고등교육 전문언론” 한국대학신문",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 75,
-      "score": 77
-    },
-    {
       "id": "76950e2c346d",
       "title": "“서울대10개·국립대 전액장학금은 사립대 위협요인”…한림대·울산대 ‘지방 사립대 네트워크’ 추진",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXYUxCZjVRSHlCS3hHMGs4WndqRW5ZcXQ1bmJwTG8wWXFsazdBSzRlLVBCaERkczRMZThodG5aQVVkc2hFcmRtal91M0I4MXlfTnpkeHlUa1VXZ290ejJHVlA0YW8yUGc?oc=5",
@@ -494,7 +520,7 @@
     {
       "id": "f47d9432c6d0",
       "title": "교육교부금 연동 폐지·구직급여 주 7→6일…내년 예산 44.2조 효율화",
-      "url": "https://www.msn.com/ko-kr/money/topstories/%EA%B5%90%EC%9C%A1%EA%B5%90%EB%B6%80%EA%B8%88-%EC%97%B0%EB%8F%99-%ED%8F%90%EC%A7%80-%EA%B5%AC%EC%A7%81%EA%B8%89%EC%97%AC-%EC%A3%BC-7-6%EC%9D%BC-%EB%82%B4%EB%85%84-%EC%98%88%EC%82%B0-442%EC%A1%B0-%ED%9A%A8%EC%9C%A8%ED%99%94/ar-AA2g4geu",
+      "url": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%EA%B5%90%EC%9C%A1%EA%B5%90%EB%B6%80%EA%B8%88-%EC%97%B0%EB%8F%99-%ED%8F%90%EC%A7%80-%EA%B5%AC%EC%A7%81%EA%B8%89%EC%97%AC-%EC%A3%BC-7-6%EC%9D%BC-%EB%82%B4%EB%85%84-%EC%98%88%EC%82%B0-44-2%EC%A1%B0-%ED%9A%A8%EC%9C%A8%ED%99%94/ar-AA2g4geu",
       "source": "뉴시스 on MSN",
       "kind": "domestic",
       "publishedAt": "2026-10-25T22:00:00.000Z",
@@ -729,6 +755,19 @@
       "score": 67
     },
     {
+      "id": "c1d5085c2f78",
+      "title": "[창간 38주년 축사] 김문희 한국교육과정평가원장 “교육의 미래 지원하는 고등교육 전문언론”",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xWVp5QllsVXZQZDF4ZFljN2Zyak9lVEFDel9RWlJYa3pnYVJSVnNmRVhfYlBkdTNTM2xpRjB4MnJpQVRaUi01aTRITzdUd1VHOG1MU0RNaFRROWZPOHgwSzNxR1REQQ?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-26T01:45:00.000Z",
+      "description": "[창간 38주년 축사] 김문희 한국교육과정평가원장 “교육의 미래 지원하는 고등교육 전문언론” 한국대학신문",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 75,
+      "score": 67
+    },
+    {
       "id": "59c8705afc90",
       "title": "[창간 38주년 축사] 장성연 전국대학교입학관련처장협의회 회장“고등교육 정책 지속성 높이는 데 힘 보태주길”",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMZ0h5T3FjZ1IyRkxxbDFIVlVBc3RzZzh1elJTdVRmSGxSZXo5U2V2M2JNY0dVcDBMVTl0X3FkZTlldEZGLWIwYUt3UlZRMnM1NFlrODFIOW50b0lrLWJmZ0dSZTVqQQ?oc=5",
@@ -763,19 +802,6 @@
       "publishedAt": "2026-10-28T00:22:55.000Z",
       "description": "교사 82.3%, “현 수능 감독 체제로 스마트안경 식별 불가” 한국대학신문",
       "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 65
-    },
-    {
-      "id": "c3380d12d5f8",
-      "title": "장애 영유아 예산’ 63억 투입됐는데 특수교사는 0명...왜?",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1U1VSY0dVU1J1c1U2MC0tZWNJdTlkNENMU2xZWGhRZC10M3dweGJVdzBqMTNXU0htVGVaY05ZMTI0RkhVc3l3QmpOd0ZUU29ZNWR4ZHB2MU95UnM?oc=5",
-      "source": "더에듀",
-      "kind": "domestic",
-      "publishedAt": "2026-10-26T01:33:52.000Z",
-      "description": "장애 영유아 예산’ 63억 투입됐는데 특수교사는 0명...왜? 더에듀",
-      "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 65
@@ -869,32 +895,6 @@
       "kind": "domestic",
       "publishedAt": "2026-10-26T01:55:00.000Z",
       "description": "[창간 38주년 축사] 고민정 국회 교육위원회 더불어민주당 간사 “고등교육 성장·발전 함께하는 신뢰받는 언론으로 자리하길” 한국대학신문",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 63
-    },
-    {
-      "id": "5c0d6bd63004",
-      "title": "[창간 38주년 축사] 최교진 교육부 장관 “대학 가치·역할에 대한 사회적 공감대 확산에 기여해주길”",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vMU1MZU5ydmVZM0dTel9ZSjAxSGZ0SVZES1BsU3pSN2RHVC1nS3RXMWx5YXkzQTNtM2c1U0dhVDZ4LWc1bEJ1RGZ1Z3BKaF9UU0p0ZGR3RzAxcGdHZThPUmdMVmpVQQ?oc=5",
-      "source": "한국대학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-10-26T01:50:00.000Z",
-      "description": "[창간 38주년 축사] 최교진 교육부 장관 “대학 가치·역할에 대한 사회적 공감대 확산에 기여해주길” 한국대학신문",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 63
-    },
-    {
-      "id": "9ba5ee4a4772",
-      "title": "[창간 38주년 축사] 차정인 국가교육위원회 위원장 “고등교육 혁신과 교육강국의 시작, 함께해 주길”",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWYkQ3X21sbkpFaWpEdHVIVjI4SUtvaHlidW52SEYybkc4RENvVWdacjE2ZjhkWTdTS3NBTS1KVy1lZ2VGMHZodVM5OXpRZjZnRnZ0Ny1Ec3J0ckFtNkg2akhrTzI0UQ?oc=5",
-      "source": "한국대학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-10-26T01:25:00.000Z",
-      "description": "[창간 38주년 축사] 차정인 국가교육위원회 위원장 “고등교육 혁신과 교육강국의 시작, 함께해 주길” 한국대학신문",
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 45,
@@ -1077,14 +1077,18 @@
     "throughDate": "2026-10-29",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-10-27T15:00:00.000Z",
-    "windowEnd": "2026-10-29T01:07:42.302Z",
+    "windowEnd": "2026-10-29T01:52:47.413Z",
     "itemIds": [
+      "305dbaa072ec",
       "d5d011a09e5e",
       "1a341017d562",
       "1858dbd18aea",
       "d18b153fccc2",
+      "f052c40cd3d5",
       "11a7731b2594",
+      "e69d23d56223",
       "d40a99bda766",
+      "4040a0facd56",
       "f7aa2b93242f",
       "c5b0b32c257e",
       "be319852d67a",
@@ -1109,31 +1113,31 @@
       "6c9f50f5b3b7"
     ],
     "stats": {
-      "total": 28,
-      "official": 3,
-      "domestic": 23,
+      "total": 32,
+      "official": 4,
+      "domestic": 26,
       "foreign": 2
     },
     "headline": "오늘 아침 교육뉴스는 입시·사교육·유·초중등·AI·디지털 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 28건이 확인됐습니다. 교육부는 바이오 부트캠프 학생들, 부트캠프 출신 현직자에게 취업 비결을 전수받다, 2026 대한민국 청소년 창업경진대회 결선 대회 개최와 지역과 함께 성장하는 ‘2026 농어촌 참 좋은 학교’를 소개합니다 등을 공식 발표했습니다. 국내 언론에서는 안민석 경기교육감, AI 교육부터 학급 감축까지와 [동정] 최교진 교육장관, 두바이 문화예술청장 면담 등이 주요하게 다뤄졌습니다. 해외에서는 한국, 국제 교육 개혁 업데이트, 한국어 능력 개발 인센티브 도입 관련 보도가 확인됐습니다. 전체적으로는 입시·사교육·유·초중등·AI·디지털 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 32건이 확인됐습니다. 교육부는 [보도참고자료] 대학수학능력시험 스마트안경 활용 부정행위 관련 대응계획, 바이오 부트캠프 학생들, 부트캠프 출신 현직자에게 취업 비결을 전수받다와 2026 대한민국 청소년 창업경진대회 결선 대회 개최 등을 공식 발표했습니다. 국내 언론에서는 안민석 경기교육감, AI 교육부터 학급 감축까지와 교육부 “수능서 스마트안경 사용하면 형사처벌 추진” 등이 주요하게 다뤄졌습니다. 해외에서는 한국, 국제 교육 개혁 업데이트, 한국어 능력 개발 인센티브 도입 관련 보도가 확인됐습니다. 전체적으로는 입시·사교육·유·초중등·AI·디지털 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "입시·사교육",
-        "summary": "군포의왕교육청, 공교육 강화…'RAS 영어교육' 사교육 잡는다 · 교육부, 수시 원서접수 공정성 강화…경쟁률 공개·수험번호 체계 개선 · 고교학점제 첫 세대 내년 고3, 2028 대입 코앞인데…교원 3단체 \"서·논술형 평가 논의부터 멈춰라\"",
+        "summary": "[보도참고자료] 대학수학능력시험 스마트안경 활용 부정행위 관련 대응계획 · 교육부 “수능서 스마트안경 사용하면 형사처벌 추진” · 군포의왕교육청, 공교육 강화…'RAS 영어교육' 사교육 잡는다",
         "why": "대입·수능·사교육 이슈는 학생·학부모 체감도가 높고 후속 안내와 현장 반응 점검이 중요합니다.",
         "sources": [
-          "뉴시스",
-          "에듀인사이드",
-          "전북미래교육신문"
+          "교육부",
+          "Chosunbiz",
+          "뉴시스"
         ]
       },
       {
         "title": "유·초중등",
-        "summary": "바이오 부트캠프 학생들, 부트캠프 출신 현직자에게 취업 비결을 전수받다 · 지역과 함께 성장하는 ‘2026 농어촌 참 좋은 학교’를 소개합니다 · 심상록 의원, “AI교육 정책 연속성 확보해야”…학교 현장 고려한 예산 편성 강조",
+        "summary": "바이오 부트캠프 학생들, 부트캠프 출신 현직자에게 취업 비결을 전수받다 · 지역과 함께 성장하는 ‘2026 농어촌 참 좋은 학교’를 소개합니다 · 전국 교육청, 세종서 AI교육·기초학력 대책 논의",
         "why": "학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
         "sources": [
           "교육부",
-          "서프라이즈뉴스"
+          "내외일보"
         ]
       },
       {
