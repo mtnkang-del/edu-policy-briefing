@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T01:13:11.846Z",
+  "generatedAt": "2026-10-30T02:02:07.995Z",
   "retentionDays": 30,
   "days": [
     "2026-10-30",
@@ -31,6 +31,20 @@
     "2026-10-01"
   ],
   "items": [
+    {
+      "id": "023de38eb134",
+      "title": "경북교육청, 보결수업 운영 내실화로 안정적인 교육과정 지원",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TRUVoem9RaUFZWG1aSUVXdG5lU2RTM3ROSk1PSXItaWRTNTViVU42R0s5MFQ2RmYzUFpLNzhfb3hBY0czdlZHcXFnUXdUSlRUTDdBdzZremcwb29CV18w?oc=5",
+      "source": "누리일보",
+      "kind": "domestic",
+      "publishedAt": "2026-10-30T01:10:05.000Z",
+      "description": "경북교육청, 보결수업 운영 내실화로 안정적인 교육과정 지원 누리일보",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 82,
+      "snapshotDate": "2026-10-30"
+    },
     {
       "id": "7fbc94247cad",
       "title": "교육부, 제3회 특별성과 우수사례 시상",
@@ -125,6 +139,20 @@
       "category": "AI·디지털",
       "feedProvider": "bing",
       "policyRelevance": 77,
+      "score": 96,
+      "snapshotDate": "2026-10-30"
+    },
+    {
+      "id": "4864fad3d7b8",
+      "title": "“'학교장을 보좌하여' 삭제하라”…전교조 영양교사들, 교육부 앞에서 학교급식법 시행령 제8조 개정 촉구",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BaTlsRDl2ZkRIb0Y5UHlzUnlwYURFNDFaMVpkNXpadEpYdmpfUVRpbjJ4bnNSdWVDQjF0elZneE15RVRxQ1loc09DMkdUT0oxNkd4QW44T2l6N2F4Q3dn?oc=5",
+      "source": "전북미래교육신문",
+      "kind": "domestic",
+      "publishedAt": "2026-10-29T11:15:32.000Z",
+      "description": "“'학교장을 보좌하여' 삭제하라”…전교조 영양교사들, 교육부 앞에서 학교급식법 시행령 제8조 개정 촉구 전북미래교육신문",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 87,
       "score": 96,
       "snapshotDate": "2026-10-30"
     },
@@ -391,7 +419,7 @@
       "category": "재정·법령",
       "feedProvider": "bing",
       "policyRelevance": 65,
-      "score": 82,
+      "score": 72,
       "snapshotDate": "2026-10-30"
     },
     {
@@ -405,7 +433,7 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 42,
-      "score": 76,
+      "score": 66,
       "snapshotDate": "2026-10-30"
     },
     {
@@ -433,7 +461,7 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 42,
-      "score": 76,
+      "score": 66,
       "snapshotDate": "2026-10-30"
     },
     {
@@ -476,6 +504,20 @@
       "feedProvider": "google",
       "policyRelevance": 77,
       "score": 78,
+      "snapshotDate": "2026-10-30"
+    },
+    {
+      "id": "c4f65eff9d6c",
+      "title": "[단독] 서논술형 수능·절대평가 난항... 국교위, 중장기계획 초안 제외",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EB%8B%A8%EB%8F%85-%EC%84%9C%EB%85%BC%EC%88%A0%ED%98%95-%EC%88%98%EB%8A%A5-%EC%A0%88%EB%8C%80%ED%8F%89%EA%B0%80-%EB%82%9C%ED%95%AD-%EA%B5%AD%EA%B5%90%EC%9C%84-%EC%A4%91%EC%9E%A5%EA%B8%B0%EA%B3%84%ED%9A%8D-%EC%B4%88%EC%95%88-%EC%A0%9C%EC%99%B8/ar-AA2giQNq",
+      "source": "머니투데이 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-10-29T00:30:39.000Z",
+      "description": "교육부에 전달한 2차 초안서 대입개편 빠져 국교위 \"실무차원 논의 중\"...교육부 \"공식 협의돼야\" 국가교육위원회(국교위)가 교육부에 전달한 10년 단위 국가교육발전계획 초안에서 서·논술형 도입 등 대입제도 개편안이 제외된 것으로 확인됐다. 국교위는 대입제도 개편은 국민 공론화를 진행하며 실무단위에서 협의한다는 입장이지만, 교육부는 공식적으로 개편안을 받아 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
+      "score": 90,
       "snapshotDate": "2026-10-30"
     },
     {
@@ -533,7 +575,7 @@
     {
       "id": "4b5e0a5dc39f",
       "title": "[특별기고] 세수는 느는데 교육재정은 왜 줄고 학교살림은 왜 어려워져야 하나",
-      "url": "https://www.msn.com/ko-kr/news/other/%ED%8A%B9%EB%B3%84%EA%B8%B0%EA%B3%A0-%EC%84%B8%EC%88%98%EB%8A%94-%EB%8A%90%EB%8A%94%EB%8D%B0-%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95%EC%9D%80-%EC%99%9C-%EC%A4%84%EA%B3%A0-%ED%95%99%EA%B5%90%EC%82%B4%EB%A6%BC%EC%9D%80-%EC%99%9C-%EC%96%B4%EB%A0%A4%EC%9B%8C%EC%A0%B8%EC%95%BC-%ED%95%98%EB%82%98/ar-AA2giFJb",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%ED%8A%B9%EB%B3%84%EA%B8%B0%EA%B3%A0-%EC%84%B8%EC%88%98%EB%8A%94-%EB%8A%90%EB%8A%94%EB%8D%B0-%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95%EC%9D%80-%EC%99%9C-%EC%A4%84%EA%B3%A0-%ED%95%99%EA%B5%90%EC%82%B4%EB%A6%BC%EC%9D%80-%EC%99%9C-%EC%96%B4%EB%A0%A4%EC%9B%8C%EC%A0%B8%EC%95%BC-%ED%95%98%EB%82%98/ar-AA2giFJb",
       "source": "뉴스핌 on MSN",
       "kind": "domestic",
       "publishedAt": "2026-10-28T23:40:25.000Z",
@@ -772,6 +814,20 @@
       "snapshotDate": "2026-10-30"
     },
     {
+      "id": "a2f6a71738bb",
+      "title": "심상록 경기도의원 “AI교육 정책 연속성 확보해야”… 학교 현장 고려한 예산 편성 강조",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45UU1YX0t4VUY2UkFFekJkMkJOTlg0aDUwdEl3MWNxLWdrejh2dUVKd0RCc3lrRUhGRmUxczlVSE1CaElMNDdScEFJSnlFVXBQNnlBQzYwSDliTkpCdFVYX1hxX0VDd0dEWWc?oc=5",
+      "source": "서울Pn",
+      "kind": "domestic",
+      "publishedAt": "2026-10-28T07:44:31.000Z",
+      "description": "심상록 경기도의원 “AI교육 정책 연속성 확보해야”… 학교 현장 고려한 예산 편성 강조 서울Pn",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 69,
+      "snapshotDate": "2026-10-30"
+    },
+    {
       "id": "e5b458ece309",
       "title": "South Korea updates international education reforms; introduces incentives to develop Korean language skil",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOamNuMDhXZnVjUjVSYm1QY193R1BJZDNWSTJzQnNPcmZBNU12MFlLTmp3dEdjTjB5RVU0NGp0azQ4UWVzX3oxUUp3Z3I4N18wRVBQdHA4d3JwVExQOHlDSkc5QUUzQTRZN1llbUNFRV9RTnozWmdvNVR6OGsyVjdaRE1kbEVMd2NyUnhxX2FlVlVRaXd6ZzFUeVNpTklBV0lRc1ZqWGQxUGlnODd2VUFoZjU4djdJZE9KVkdhQ1BYUzF6X1pBanlmaFBEVld6ekJtRlhhTVJWaFdvNHJBeENXbDRfZTB0YkwtRUY2ME5lUUIxdU5NUzNKY0trSzFOSmfSAYQCQVVfeXFMTXpXZjhneXdma19rdnhfYXJtM0RPVmhCT2NXTVg3Wm1PYVdSZV9YZDZNUmFSTGlZdlU0M01yaXFNZEVuU1dhb3lyYjB3WFdxbEZrbGpzTURQS0VoY0M3MEZZTWlEeF9hekFLY1FoeWRwS1ZnWnk3STlBTXpoRGdEc0pwWEdBV2llcjBvYm0zUXAzN2JxR0FPbTRqclZQVXdCZnlRZjNvaFBxWi1aMmdYb2lnX3d0c2xtb2NiZVlWVnZMVDlfbEtvcE56U3h5bWRuVnVLVGl4WHJac0FqZ1lfUjFvU25ya1hIX3oyeW90VHlxUnA0VHM5RzZDRlRZTGItcm52OVg?oc=5",
@@ -810,6 +866,20 @@
       "kind": "domestic",
       "publishedAt": "2026-10-28T05:56:59.000Z",
       "description": "심상록 의원, “AI교육 정책 연속성 확보해야”…학교 현장 고려한 예산 편성 강조 서프라이즈뉴스",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 69,
+      "snapshotDate": "2026-10-30"
+    },
+    {
+      "id": "fbf75a66291e",
+      "title": "경기도의회 심상록 의원, “AI교육 정책 연속성 확보해야”...학교 현장 고려한 예산 편성 강조",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCcDMxSnQ0TzZBVmdBY0FXOHgyNGZDQ2pGdk5Wb2puY0ZRNTV0bDlRbGhUMFRqaS0xaUxrYmZqSWlsYXdfckNaQVBxZkpSWXc2MHdoSkloUmpuMjFlbzVvSi1hbzE?oc=5",
+      "source": "뉴스Q",
+      "kind": "domestic",
+      "publishedAt": "2026-10-28T05:28:22.000Z",
+      "description": "경기도의회 심상록 의원, “AI교육 정책 연속성 확보해야”...학교 현장 고려한 예산 편성 강조 뉴스Q",
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -871,20 +941,6 @@
       "policyRelevance": 40,
       "score": 71,
       "snapshotDate": "2026-10-29"
-    },
-    {
-      "id": "ba917cc47822",
-      "title": "심상록 경기도의원 AI교육 정책 연속성 확보해야 학교 현장 고려한 예산 편성 강조",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%8B%AC%EC%83%81%EB%A1%9D-%EA%B2%BD%EA%B8%B0%EB%8F%84%EC%9D%98%EC%9B%90-ai%EA%B5%90%EC%9C%A1-%EC%A0%95%EC%B1%85-%EC%97%B0%EC%86%8D%EC%84%B1-%ED%99%95%EB%B3%B4%ED%95%B4%EC%95%BC-%ED%95%99%EA%B5%90-%ED%98%84%EC%9E%A5-%EA%B3%A0%EB%A0%A4%ED%95%9C-%EC%98%88%EC%82%B0-%ED%8E%B8%EC%84%B1-%EA%B0%95%EC%A1%B0/ar-AA2gerKE",
-      "source": "서울신문 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-10-28T00:44:31.000Z",
-      "description": "학생들의 디지털 소양과 창의적 문제 해결 역량을 키우는 인공지능(AI) 교육이 학교 현장에서 안정적으로 이어질 수 있도록, 재정 여건 속에서도 정책 연속성을 확보하고 현장 수요에 맞춘 예산 배분이 이뤄져야 한다는 의견이 제시됐다.경기도의회 교육행정위원회 심상록 ...",
-      "category": "AI·디지털",
-      "feedProvider": "bing",
-      "policyRelevance": 40,
-      "score": 69,
-      "snapshotDate": "2026-10-30"
     },
     {
       "id": "ba917cc47822",
@@ -1007,7 +1063,7 @@
       "feedProvider": "bing",
       "policyRelevance": 45,
       "score": 63,
-      "snapshotDate": "2026-10-30"
+      "snapshotDate": "2026-10-29"
     },
     {
       "id": "505692dfd482",
@@ -1161,7 +1217,7 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 67,
-      "snapshotDate": "2026-10-30"
+      "snapshotDate": "2026-10-29"
     },
     {
       "id": "91d10f79ca47",
@@ -1178,7 +1234,7 @@
       "originalTitle": "France promises to replace university admissions system",
       "titleKo": "프랑스는 대학 입학 시스템을 대체 할 것을 약속합니다.",
       "summaryKo": "프랑스, 대학 입학 제도 대체 약속 코리아 헤럴드",
-      "snapshotDate": "2026-10-30"
+      "snapshotDate": "2026-10-29"
     },
     {
       "id": "90442c73be51",
@@ -1428,7 +1484,7 @@
       "feedProvider": "google",
       "policyRelevance": 75,
       "score": 67,
-      "snapshotDate": "2026-10-30"
+      "snapshotDate": "2026-10-29"
     },
     {
       "id": "c3380d12d5f8",
@@ -8371,62 +8427,6 @@
       "policyRelevance": 65,
       "score": 86,
       "snapshotDate": "2026-10-05"
-    },
-    {
-      "id": "9a286dcfd3fe",
-      "title": "'현장의 경험과 의견을 공유하는'…인천교육청, 직업계고 교장·교감 정책 연수",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsamF5Y0N6WFA2SUdQV3ZCbjZYTThZU2dtbWJDbTBMY3hrbkVUSnZpZVp6cU9sNDFlcUx2ZTlJcWlDOEhmd2RJNlhxWVliRzdoSndGdE1XTjB1T1RSVExfM25pa3EyQ3ZoZXdxaUJtOTNGZ0XSAXNBVV95cUxQbGpheWNDelhQNklHUFd2Qm42WE04WVNnbW1iQ20wTGN4a25FVEp2aWVaenFPbDQxZXFMdmU5SXFpQzhIZndkSTZYcVlZYkc3aEp3RnRNV04wdU9UUlRMXzNuaWtxMkN2aGV3cWlCbTkzRmdF?oc=5",
-      "source": "남동뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-10-04T21:08:20.000Z",
-      "description": "'현장의 경험과 의견을 공유하는'…인천교육청, 직업계고 교장·교감 정책 연수 남동뉴스",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 62,
-      "snapshotDate": "2026-10-08"
-    },
-    {
-      "id": "f904bd5cdae3",
-      "title": "수능 이후의 수능, 미래 대입은 어떤 모습이어야 하나③[수능 30년, 우리는 무엇을 평가해왔나]",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54anVUcjlCSkFfWS1icHVIRHZ4ZlQxVkVjblNDSk5rQVBXWmh1cm5qYkp1b2RQSU1wb0thalBxOUc3WjZDR1JPTXd4OTRGbVN6aXdmOUNJVkthWGJad0F1aGhqT1hrQQ?oc=5",
-      "source": "한국대학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-10-04T20:55:00.000Z",
-      "description": "수능 이후의 수능, 미래 대입은 어떤 모습이어야 하나③[수능 30년, 우리는 무엇을 평가해왔나] 한국대학신문",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 69,
-      "snapshotDate": "2026-10-06"
-    },
-    {
-      "id": "7e565864a0e5",
-      "title": "경북교육청, AI 교육 전담부서 신설…내년 조직개편",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91WW5MZEFvc1NnTHMtUjBiRGpEaDNuNHVYSHdxdEVUSWZ1TWNRRDA0Z0pseFA3aFhpQW13TjQwTlFGb1BMZ1dXWHQ2WHBMNTBrWTY1UThrd181TUFjYXNtSGtNTmxDZnhqRnNaRVZfb9IBc0FVX3lxTE9XZlI4N2ZoazFsRFp5c1B6UmpDQ0NUQ2NqMmpmcFhUQmppV3c2dFpuSTFxWVN6UUtMMWt3SkNLcVp0UHgxTTFfWDBVOUYzS1FEcTN4X1BmaEVfZ3pNM3cxczBlQWE1VVREZWEtTVljNDgzSzg?oc=5",
-      "source": "데일리한국",
-      "kind": "domestic",
-      "publishedAt": "2026-10-03T14:52:24.000Z",
-      "description": "경북교육청, AI 교육 전담부서 신설…내년 조직개편 데일리한국",
-      "category": "AI·디지털",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 80,
-      "snapshotDate": "2026-10-06"
-    },
-    {
-      "id": "d87eea4006cc",
-      "title": "인천광역시교육청, 콜롬비아에서 읽걷쓰AI 기반 교육 협력 추진 > 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0wWHBTN3QyWEJvTHpRMm9QRWZxS2d6bnZkRlRlR19WWkV1aVNxbHRrbWZsZVhUU1AzRUxjWXR5R1BMMlU?oc=5",
-      "source": "더코리아",
-      "kind": "domestic",
-      "publishedAt": "2026-10-03T14:10:00.000Z",
-      "description": "인천광역시교육청, 콜롬비아에서 읽걷쓰AI 기반 교육 협력 추진 > 뉴스 더코리아",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 47,
-      "score": 68,
-      "snapshotDate": "2026-10-06"
     }
   ]
 }
