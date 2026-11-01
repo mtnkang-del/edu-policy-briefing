@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-01T00:15:32.743Z",
-  "generatedAtKST": "2026-11-01T09:15:28.938+09:00",
+  "generatedAt": "2026-11-01T01:18:24.674Z",
+  "generatedAtKST": "2026-11-01T10:18:22.019+09:00",
   "date": "2026-11-01",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 13,
-    "domesticGoogle": 178,
+    "domesticBing": 11,
+    "domesticGoogle": 149,
     "foreignBing": 6,
-    "foreignGoogle": 148,
-    "carried": 167,
-    "rawUnique": 339,
-    "policyRejected": 236,
+    "foreignGoogle": 145,
+    "carried": 240,
+    "rawUnique": 320,
+    "policyRejected": 217,
     "policyKept": 80
   },
   "briefing": [
@@ -201,6 +201,19 @@
       "feedProvider": "bing",
       "policyRelevance": 77,
       "score": 90
+    },
+    {
+      "id": "5526e4711f1f",
+      "title": "경북교육청, 교육부 평가 3년 연속 '전 부문 통과'···인센티브 2억 5,000만 원 확보",
+      "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EB%B6%81%EA%B5%90%EC%9C%A1%EC%B2%AD-%EA%B5%90%EC%9C%A1%EB%B6%80-%ED%8F%89%EA%B0%80-3%EB%85%84-%EC%97%B0%EC%86%8D-%EC%A0%84-%EB%B6%80%EB%AC%B8-%ED%86%B5%EA%B3%BC-%EC%9D%B8%EC%84%BC%ED%8B%B0%EB%B8%8C-2%EC%96%B5-5-000%EB%A7%8C-%EC%9B%90-%ED%99%95%EB%B3%B4/ar-AA2gvBGo",
+      "source": "대구MBC on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-10-31T18:00:00.000Z",
+      "description": "경북교육청이 교육부가 주관한 '2026년 시도교육청 평가'에서 4개 영역 17개 평가지표를 모두 통과했습니다.경북교육청은 지난 2024년과 2025년에 이어 2026년까지 3년 연속으로 모든 평가지표를 통과하는 성과를 거뒀다고 밝혔습니다.교육부 시도교육청 평가는 매년 전국 시도교육청을 대상으로 주요 국가 교육정책과 시책 사업의 추진 실적을 종합 점검하는 제 ...",
+      "category": "기타",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
+      "score": 88
     },
     {
       "id": "c7a0c544886c",
@@ -406,19 +419,6 @@
       "publishedAt": "2026-10-29T02:18:00.000Z",
       "description": "등록금 동결에 사립대 20조원 재정 공백…정부 재정지원 확대 필요성↑ 뉴스핌",
       "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 77,
-      "score": 78
-    },
-    {
-      "id": "4040a0facd56",
-      "title": "경북교육청, 교육부 평가 3년 연속 전 지표 통과…교육정책 추진 역량 입증",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CREcwOEJ0SlhRZzVDRmd3WldlNlBLd0VjM1ZPcWdPQ3ZzdGlxaU56Z3NESW16MW5jdDRULVhINGljYjFCcDI0UDIxWm40RDZ1TFhv?oc=5",
-      "source": "유스연합",
-      "kind": "domestic",
-      "publishedAt": "2026-10-29T00:35:30.000Z",
-      "description": "경북교육청, 교육부 평가 3년 연속 전 지표 통과…교육정책 추진 역량 입증 유스연합",
-      "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 77,
       "score": 78
@@ -752,6 +752,19 @@
       "score": 68
     },
     {
+      "id": "4040a0facd56",
+      "title": "경북교육청, 교육부 평가 3년 연속 전 지표 통과…교육정책 추진 역량 입증",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CREcwOEJ0SlhRZzVDRmd3WldlNlBLd0VjM1ZPcWdPQ3ZzdGlxaU56Z3NESW16MW5jdDRULVhINGljYjFCcDI0UDIxWm40RDZ1TFhv?oc=5",
+      "source": "유스연합",
+      "kind": "domestic",
+      "publishedAt": "2026-10-29T00:35:30.000Z",
+      "description": "경북교육청, 교육부 평가 3년 연속 전 지표 통과…교육정책 추진 역량 입증 유스연합",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 77,
+      "score": 68
+    },
+    {
       "id": "cd7f84f416c1",
       "title": "경기도교육청, 2026 하반기 늘봄전담실장 장학행정협의회 개최",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sUEhlZ2FkR1JmYjBkMGQ3dWd1VGhYWW14eEdCS21qbXdaeXF2YnBHZ3FHMzloMzJEUWw0TE5pbVQ3VzFwR0RDNUMteFJYWUdmdmNYdjFBRy1ReURmUWowVlp5aFI?oc=5",
@@ -799,19 +812,6 @@
       "publishedAt": "2026-10-29T14:05:12.000Z",
       "description": "인천광역시교육청교육연수원, 맨발걷기 교원 연수…학생 신체활동 강화 일간투데이",
       "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 67
-    },
-    {
-      "id": "332e29edf54b",
-      "title": "서울시교육청, 정재승 교수 AI 특강·VR 직업체험·로봇 축구…‘서울교육 학부모·시민 참여 한마당’ 개최",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3emJmcDF0ckxDT2hKRTZZOEdKZ0pqeEk4dmFUR214NUgtOUtxWUZWSzJoTzd3eFltRHl6N1p5MU5PUUQwTW1weG1zbS1hSk9WVFcwMG9tVUJDOGxXWTFCb05LTVJwdGVNNXdvTXFVQ20?oc=5",
-      "source": "한국강사신문",
-      "kind": "domestic",
-      "publishedAt": "2026-10-29T01:05:00.000Z",
-      "description": "서울시교육청, 정재승 교수 AI 특강·VR 직업체험·로봇 축구…‘서울교육 학부모·시민 참여 한마당’ 개최 한국강사신문",
-      "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 67
@@ -1074,10 +1074,11 @@
     "throughDate": "2026-11-01",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-10-30T15:00:00.000Z",
-    "windowEnd": "2026-11-01T00:15:32.743Z",
+    "windowEnd": "2026-11-01T01:18:24.674Z",
     "itemIds": [
       "6de743ccda0c",
       "10c5a6983f1a",
+      "5526e4711f1f",
       "c7a0c544886c",
       "a443a032fe77",
       "a0b563929943",
@@ -1086,13 +1087,13 @@
       "18151dc3bfbc"
     ],
     "stats": {
-      "total": 8,
+      "total": 9,
       "official": 1,
-      "domestic": 7,
+      "domestic": 8,
       "foreign": 0
     },
     "headline": "오늘 아침 교육뉴스는 입시·사교육·AI·디지털·유·초중등 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 8건이 확인됐습니다. 교육부는 데이터로 읽는 우리 교육 제17호 발간 등을 공식 발표했습니다. 국내 언론에서는 [김준환의 교육&시선] 수능 앞두고 'AI 안경' 공포에 떠는데…교육부 장관의 한가한 현실 인식 수준와 경남교육청, AI·디지털 교육 중장기 정책 논의…현장 의견 반영 등이 주요하게 다뤄졌습니다. 전체적으로는 입시·사교육·AI·디지털·유·초중등 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 9건이 확인됐습니다. 교육부는 데이터로 읽는 우리 교육 제17호 발간 등을 공식 발표했습니다. 국내 언론에서는 [김준환의 교육&시선] 수능 앞두고 'AI 안경' 공포에 떠는데…교육부 장관의 한가한 현실 인식 수준와 경북교육청, 교육부 평가 3년 연속 '전 부문 통과'···인센티브 2억 5,000만 원 확보 등이 주요하게 다뤄졌습니다. 전체적으로는 입시·사교육·AI·디지털·유·초중등 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "입시·사교육",

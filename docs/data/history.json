@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T00:15:43.176Z",
+  "generatedAt": "2026-11-01T01:18:33.936Z",
   "retentionDays": 30,
   "days": [
     "2026-11-01",
@@ -42,6 +42,20 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 115,
+      "snapshotDate": "2026-11-01"
+    },
+    {
+      "id": "5526e4711f1f",
+      "title": "경북교육청, 교육부 평가 3년 연속 '전 부문 통과'···인센티브 2억 5,000만 원 확보",
+      "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EB%B6%81%EA%B5%90%EC%9C%A1%EC%B2%AD-%EA%B5%90%EC%9C%A1%EB%B6%80-%ED%8F%89%EA%B0%80-3%EB%85%84-%EC%97%B0%EC%86%8D-%EC%A0%84-%EB%B6%80%EB%AC%B8-%ED%86%B5%EA%B3%BC-%EC%9D%B8%EC%84%BC%ED%8B%B0%EB%B8%8C-2%EC%96%B5-5-000%EB%A7%8C-%EC%9B%90-%ED%99%95%EB%B3%B4/ar-AA2gvBGo",
+      "source": "대구MBC on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-10-31T18:00:00.000Z",
+      "description": "경북교육청이 교육부가 주관한 '2026년 시도교육청 평가'에서 4개 영역 17개 평가지표를 모두 통과했습니다.경북교육청은 지난 2024년과 2025년에 이어 2026년까지 3년 연속으로 모든 평가지표를 통과하는 성과를 거뒀다고 밝혔습니다.교육부 시도교육청 평가는 매년 전국 시도교육청을 대상으로 주요 국가 교육정책과 시책 사업의 추진 실적을 종합 점검하는 제 ...",
+      "category": "기타",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
+      "score": 88,
       "snapshotDate": "2026-11-01"
     },
     {
@@ -953,7 +967,7 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 67,
-      "snapshotDate": "2026-11-01"
+      "snapshotDate": "2026-10-31"
     },
     {
       "id": "cb4aa7d89362",
@@ -980,7 +994,7 @@
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 77,
-      "score": 78,
+      "score": 68,
       "snapshotDate": "2026-11-01"
     },
     {
@@ -8414,20 +8428,6 @@
       "policyRelevance": 65,
       "score": 66,
       "snapshotDate": "2026-10-11"
-    },
-    {
-      "id": "f08590ed3f9e",
-      "title": "최교진 “내년 지방 국립대 신입생 등록금 전액 지원”",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbndHcWdWT255TEtINndXcTdBOXZIemNJc19lczdMUnZHOTZoaGFVdWlORUwyYzFRZElfcjEycmdvVVI2ZnM2NG9ZZlVjQ0ZWT1BaZW81RzA3VkdlNGFjUU9TWFZ6NWRqbXN5RmVYVjM4ek1wZDgxSDVlbXMwRmZybQ?oc=5",
-      "source": "이데일리",
-      "kind": "domestic",
-      "publishedAt": "2026-10-07T01:22:56.000Z",
-      "description": "최교진 “내년 지방 국립대 신입생 등록금 전액 지원” 이데일리",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 71,
-      "snapshotDate": "2026-10-08"
     }
   ]
 }
