@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T01:33:16.282Z",
+  "generatedAt": "2026-11-04T02:29:13.964Z",
   "retentionDays": 30,
   "days": [
     "2026-11-04",
@@ -31,6 +31,20 @@
     "2026-10-06"
   ],
   "items": [
+    {
+      "id": "4434cb47482c",
+      "title": "학령인구 감소에 학교도 바뀐다…교육부, 교육혁신선도지역 43곳 선정",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pcmhsR293YTFjWGZmbTFrQklrUEtzSTJwTW9BekozaUlXTkQzMk53YUZ3NTg5U0RZZmhYQ2Z1bFV1M2JUNGU1bThDVGRYa0RfbGROcnRFNS1Va2t6Vzg2OHBwZ29fWW1wdmkySg?oc=5",
+      "source": "베이비뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-04T02:04:00.000Z",
+      "description": "학령인구 감소에 학교도 바뀐다…교육부, 교육혁신선도지역 43곳 선정 베이비뉴스",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 82,
+      "snapshotDate": "2026-11-04"
+    },
     {
       "id": "9d1df6ed5ea3",
       "title": "의대 신설 지역/대학 선정 및 정원 배정",
@@ -70,6 +84,34 @@
       "feedProvider": "google",
       "policyRelevance": 42,
       "score": 76,
+      "snapshotDate": "2026-11-04"
+    },
+    {
+      "id": "71f085dae4de",
+      "title": "신공항·군부대 품은 군위군, ‘교육’ 정주 퍼즐 완성",
+      "url": "https://www.kukinews.com/article/view/kuk202611040055",
+      "source": "쿠키뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-03T18:28:00.000Z",
+      "description": "김진열 군위군수가 지난 6월 군위중학교를 방문한 최교진 교육부 장관(왼쪽)과 교육혁신선도지역 정책 방향과 소규모 학교 혁신 방안에 대해 의견을 나누고 있다. 군위군 제공 대구경북신공항 건설과 도심 군부대 이전이라는 대형 개발 프로젝트를 앞둔 대구 군위군이 일자리와 주거에 이어 ‘자녀 교육 인프라’라는 마지막 정주 퍼즐을 맞췄다. 학생 수 감소로 위기를 겪던 ...",
+      "category": "유·초중등",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 87,
+      "snapshotDate": "2026-11-04"
+    },
+    {
+      "id": "85ff88f448f3",
+      "title": "서울교육청, 내년 예산 11조8014억 편성⋯교육·시설사업비 감소",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%84%9C%EC%9A%B8%EA%B5%90%EC%9C%A1%EC%B2%AD-%EB%82%B4%EB%85%84-%EC%98%88%EC%82%B0-11%EC%A1%B08014%EC%96%B5-%ED%8E%B8%EC%84%B1-%EA%B5%90%EC%9C%A1-%EC%8B%9C%EC%84%A4%EC%82%AC%EC%97%85%EB%B9%84-%EA%B0%90%EC%86%8C/ar-AA2gHOU3",
+      "source": "이투데이 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-03T17:00:00.000Z",
+      "description": "전년比 7.9%↑…인건비 등 경직성 경비 늘어 학교시설 개선 등 사업비 9657억원 미반영 “교부금 개편으로 재정 운용 불확실성 커져” 서울시교육청이 내년도 예산안을 올해 본예산보다 7.9% 늘어난 11조8014억원 규모로 편성했다. 전체 예산은 늘었지만 학교시설 개선과 학생 교육활동 등에 필요한 예산은 충분히 반영되지 못했다는 설명이다. 서울시교육청은 이 ...",
+      "category": "유·초중등",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 99,
       "snapshotDate": "2026-11-04"
     },
     {
@@ -129,21 +171,6 @@
       "snapshotDate": "2026-11-04"
     },
     {
-      "id": "348586e5ec82",
-      "title": "South Korea Faces Consequences of Tough Anti-Bullying Policy",
-      "url": "https://www.psychologytoday.com/za/blog/resilience-to-bullying/202606/south-korea-faces-consequences-of-tough-anti-bullying-policy",
-      "source": "Psychology Today",
-      "kind": "foreign",
-      "publishedAt": "2026-11-03T13:54:00.000Z",
-      "description": "South Korea has enacted harsh punishments for students who have bullying on their academic record. Rather than putting a stop to bullying, this has led to an explosion of lawsuits.",
-      "category": "기타",
-      "score": 30,
-      "originalTitle": "South Korea Faces Consequences of Tough Anti-Bullying Policy",
-      "titleKo": "한국은 엄격한 왕따 방지 정책의 결과에 직면해 있습니다.",
-      "summaryKo": "한국은 학업 기록에 괴롭힘을 당하는 학생에 대해 가혹한 처벌을 제정했습니다. 이로 인해 왕따를 막기보다는 소송이 폭발적으로 증가했습니다.",
-      "snapshotDate": "2026-11-04"
-    },
-    {
       "id": "f7d855977196",
       "title": "AI교육 기기 관리·구독 부담 논의…경남교육청, 11월 도내 전수 설문 추진",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJU2VvZDFhNnVHNnFub3U4UUh2Y3U5Y3oxd0JRYVVPWE5KMjE1N2JpRzNPVDhmYllTb0JXRG5YTTVoTlhORTd4Uk1QSFBYSGtpdVNmUFN5cDlwaVoxcThXNFpHcnM5Zw?oc=5",
@@ -158,18 +185,17 @@
       "snapshotDate": "2026-11-04"
     },
     {
-      "id": "2b94514b13bb",
-      "title": "South Korea approves new medical schools at Sunchon and Gyeongguk for 2030",
-      "url": "https://biz.chosun.com/en/en-science/2026/11/04/QRGAUSLSB5F6THG5BGMVFAUSUI/",
-      "source": "Chosunbiz",
-      "kind": "foreign",
-      "publishedAt": "2026-11-03T12:00:00.000Z",
-      "description": "South Korea approves new medical schools at Sunchon and Gyeongguk for 2030 Government sets 100-seat intake for new regional medical schools, targeting freshman enrollment in 2030 ...",
-      "category": "유·초중등",
-      "score": 30,
-      "originalTitle": "South Korea approves new medical schools at Sunchon and Gyeongguk for 2030",
-      "titleKo": "한국, 2030년도 순천 · 경국 의대 신설 승인",
-      "summaryKo": "한국은 2030년 순천과 경국에서 새로운 의과대학을 승인한다. 정부는 2030년 신입생 등록을 목표로 새로운 지역 의과대학을 위한 100석 규모의 입학을 설정한다...",
+      "id": "e3e4ffdc9cbc",
+      "title": "내년부터 디지털 미디어 문해교육 수업자료 매년 20종 보급",
+      "url": "https://www.kado.net/news/articleView.html?idxno=2082305",
+      "source": "강원도민일보",
+      "kind": "domestic",
+      "publishedAt": "2026-11-03T10:29:00.000Z",
+      "description": "내년부터 전국 학교에 디지털 미디어 문해교육을 위한 수업자료가 매년 20종 안팎씩 새롭게 제공된다. 교사들이 개념 설명부터 학습활동, 학생 평가까지 수업 전 과정에 활용할 수 있도록 자료를 꾸러미 형태로 구성한다. 교육부는 3일 이 같은 내용을 담은 ‘학교 디지털 미디어 문해교육 기본계획’을 공개했다. 학생들이 디지털 환경에서 정보를 비판적으로 이해하고 민 ...",
+      "category": "AI·디지털",
+      "feedProvider": "bing",
+      "policyRelevance": 57,
+      "score": 79,
       "snapshotDate": "2026-11-04"
     },
     {
@@ -260,6 +286,20 @@
       "snapshotDate": "2026-11-04"
     },
     {
+      "id": "2d0f6bd6848d",
+      "title": "교육부, 교육혁신선도지역 지정 결과 발표",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXVUVKRTVrQVNxM05ub3Vyck5qRjN6d3dHVk9oSlcyckJ2QTFQRFZGVU1XTDNlaVotYUlCeHV4SmhmaHNCZUFZb1RHYU1LV0FheEJYX1kzWi1taDJXdjFCVjJyZkRrYW1fSktzcWJwaw?oc=5",
+      "source": "서울신문",
+      "kind": "domestic",
+      "publishedAt": "2026-11-03T05:50:35.000Z",
+      "description": "교육부, 교육혁신선도지역 지정 결과 발표 서울신문",
+      "category": "지역·평생교육",
+      "feedProvider": "google",
+      "policyRelevance": 47,
+      "score": 78,
+      "snapshotDate": "2026-11-04"
+    },
+    {
       "id": "8c659b7badba",
       "title": "교육부, 전국 43개 지역에 교육혁신 지원…학교 통합·교육격차 해소",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUZDJ6dU4tOTdZd0hfZmFmMzJNV3ptazhFbWpDdGVnZ0w0VkdfUzRBM0lEZXZBcU5HNWttX0NHbDVLS2lTYUZzSXR4Ny1nZw?oc=5",
@@ -326,7 +366,7 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 75,
+      "score": 65,
       "snapshotDate": "2026-11-04"
     },
     {
@@ -340,21 +380,21 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 52,
-      "score": 76,
+      "score": 66,
       "snapshotDate": "2026-11-04"
     },
     {
       "id": "c919a8973ddb",
       "title": "울산시교육청, 유·초중고·특수학교 교원 대상 토론회 운영",
-      "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065572497247548",
+      "url": "https://m.ujnews.co.kr/news/newsview.php?ncode=1065572497247548",
       "source": "울산종합일보",
       "kind": "domestic",
       "publishedAt": "2026-11-03T00:30:00.000Z",
-      "description": "울산대 산업디자인학전공, ‘한국기초조형학회 대학생 국제공모전 BADA’ 대상 수상 울산과학대 여자축구부, 2026 KUSF 대학축구 (여) U-리그 ‘2위’로 시즌 마무리 울산과학대 간호학부 동아리, 재난 경험 아동 감정 표현 돕는 동화책 제작 울산 온산중 총동문회, 후배 사랑 담은 장학금 750만 원 전달 ...",
+      "description": "울산시교육청(교육감 조용식)은 지난 2일 오후 3시 집현실에서 교원 52명이 참석한 가운데 ‘마음 든든 교육공동체 신뢰 회복을 위한 교원 원탁 토론회’를 열었다. 이번 토론회는 ‘든든한 교사, 당당한 교사’를 주제로 학교 현장의 목소리를 듣고, 교육 활동 보호와 교육공동체 신뢰 회복을 위한 다양한 지원 방안을 모색하고자 마련됐다. 토론회는 유치원, 초중등학 ...",
       "category": "교원·조직",
       "feedProvider": "bing",
-      "policyRelevance": 75,
-      "score": 81,
+      "policyRelevance": 45,
+      "score": 67,
       "snapshotDate": "2026-11-04"
     },
     {
@@ -456,6 +496,20 @@
       "snapshotDate": "2026-11-04"
     },
     {
+      "id": "29eb4dc1365f",
+      "title": "교육부 \"수능 스마트안경 전담요원 사전교육…판별 역량 충분\"",
+      "url": "https://mobile.busan.com/view/busan/view.php?code=2026110217043646643",
+      "source": "부산일보",
+      "kind": "domestic",
+      "publishedAt": "2026-11-02T09:40:00.000Z",
+      "description": "교육부는 오는 19일 치러지는 대학수학능력시험(수능) 시험장에서 인공지능(AI) 기능이 탑재된 스마트안경 전담요원이 사전 교육·연수 등으로 부정행위를 충분히 판별할 능력을 갖출 것이라고 강조했다. 2일 연합뉴스 등에 따르면 교육부는 이날 '스마트안경 전담 요원이 다양한 스마트안경을 판별할 수 있다고 판단하느냐'는 기자들의 질의에 \"해당 전담 요원들에게 실물 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 85,
+      "snapshotDate": "2026-11-04"
+    },
+    {
       "id": "f065bfb563cc",
       "title": "76세 어르신도 AI로 전국 대상…대구 디지털 교육 성과",
       "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089378",
@@ -494,8 +548,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 76,
-      "snapshotDate": "2026-11-04"
+      "score": 86,
+      "snapshotDate": "2026-11-03"
     },
     {
       "id": "3e83a6be996e",
@@ -1053,7 +1107,7 @@
       "feedProvider": "bing",
       "policyRelevance": 75,
       "score": 79,
-      "snapshotDate": "2026-11-04"
+      "snapshotDate": "2026-11-03"
     },
     {
       "id": "3ba90d4510f4",
@@ -2215,7 +2269,7 @@
       "originalTitle": "Nigeria's Parliament Urges Return of Biology to Senior Secondary School Curriculum",
       "titleKo": "나이지리아 의회, 고등 중등 학교 커리큘럼에 생물학 복귀 촉구",
       "summaryKo": "나이지리아 의회, 중등학교 교육과정 책임자 주제에 생물학 복귀 촉구",
-      "snapshotDate": "2026-11-04"
+      "snapshotDate": "2026-11-03"
     },
     {
       "id": "39d6029d95e1",
@@ -2806,7 +2860,7 @@
       "originalTitle": "France promises to replace university admissions system",
       "titleKo": "프랑스는 대학 입학 시스템을 대체 할 것을 약속합니다.",
       "summaryKo": "프랑스, 대학 입학 제도 대체 약속 코리아 헤럴드",
-      "snapshotDate": "2026-11-04"
+      "snapshotDate": "2026-11-03"
     },
     {
       "id": "4c5ea21001e7",
@@ -8372,62 +8426,6 @@
       "feedProvider": "google",
       "policyRelevance": 75,
       "score": 71,
-      "snapshotDate": "2026-10-12"
-    },
-    {
-      "id": "9d039257f7e0",
-      "title": "“SNS 경쟁률 조회도 조사했나”…명확한 답 못한 교육부[2026 국감]",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aM0VYYkdIV2ZiOEV0N3czREpZN213SXM5V0oyWEkyMDhaYWhjMWNZcUFLUjJoUTNJTW1hbjNsVHByRjdwRmlpMmtHSVprN1A3VTJ1eXRyZjZFNTZGLXVwY2RuSGdOdw?oc=5",
-      "source": "한국대학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-10-08T05:21:00.000Z",
-      "description": "“SNS 경쟁률 조회도 조사했나”…명확한 답 못한 교육부[2026 국감] 한국대학신문",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 53,
-      "snapshotDate": "2026-10-12"
-    },
-    {
-      "id": "25b173b8bab0",
-      "title": "대학 등록금은 끊임없이 오르고 있는데, 왜 많은 학교들은 여전히 ​​등록금이 '충분하지 않다'고 생각하는 걸까요?",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb3haaFpTSHhUWlNENzdZekhOTk5nd2RiaV96dWhYaDNVM0gwX2hxaFVsQm5Xck5Zd3o0cmtiNG9RWnZxOHcwWTRIMHZPR0dta0lWWHVBb1R5NTd0Rmx0bFAxYUpCRGM4b0xNR1VRVnhkUzFmMF9DWmFZRlBmSURrRGJrZ3o5VnZsd3E0bnZhc0xYVVZaTGc?oc=5",
-      "source": "Vietnam.vn",
-      "kind": "domestic",
-      "publishedAt": "2026-10-08T05:17:21.000Z",
-      "description": "대학 등록금은 끊임없이 오르고 있는데, 왜 많은 학교들은 여전히 ​​등록금이 '충분하지 않다'고 생각하는 걸까요? Vietnam.vn",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 51,
-      "snapshotDate": "2026-10-12"
-    },
-    {
-      "id": "d9229806af37",
-      "title": "한국·이집트, 10년 만에 고등교육 협력 양해각서 개정…AI·공동학위 확대",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkWDNHSWJRM0lhZl9TOExMZDdlNzdyTUR4NWRYWUZQRmduanFTSVZseGRMbU5TRHZZSnJtZmhFWno2LXM2elctbW5DN25yd0pQZ0hBbXJ6dTJnTFVS?oc=5",
-      "source": "뉴스핌",
-      "kind": "domestic",
-      "publishedAt": "2026-10-08T05:00:00.000Z",
-      "description": "한국·이집트, 10년 만에 고등교육 협력 양해각서 개정…AI·공동학위 확대 뉴스핌",
-      "category": "AI·디지털",
-      "feedProvider": "google",
-      "policyRelevance": 42,
-      "score": 56,
-      "snapshotDate": "2026-10-12"
-    },
-    {
-      "id": "647aeb25615b",
-      "title": "고교 교원 10명 중 7명 “수능 서·논술형 도입 반대”",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EYXhYRC00dDBPNXBEZnpoam9VeU9LVGIwOGJsd0FHcmRFRk9ZMzc5N3pDMEs2aGVKZks0UDZROUhzLXVWeXpJeXVVbW5nZUtGSmJ4TVNUSTBUU0VyYy1PcmpFV3ZMZngy?oc=5",
-      "source": "한국NGO신문",
-      "kind": "domestic",
-      "publishedAt": "2026-10-08T04:57:25.000Z",
-      "description": "고교 교원 10명 중 7명 “수능 서·논술형 도입 반대” 한국NGO신문",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 52,
-      "score": 64,
       "snapshotDate": "2026-10-12"
     }
   ]

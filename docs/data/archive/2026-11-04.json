@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-11-04T01:33:00.826Z",
-  "generatedAtKST": "2026-11-04T10:32:57.221+09:00",
+  "generatedAt": "2026-11-04T02:29:00.902Z",
+  "generatedAtKST": "2026-11-04T11:28:58.786+09:00",
   "date": "2026-11-04",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 12,
-    "domesticGoogle": 170,
+    "domesticBing": 14,
+    "domesticGoogle": 108,
     "foreignBing": 10,
-    "foreignGoogle": 167,
-    "carried": 87,
-    "rawUnique": 344,
-    "policyRejected": 266,
-    "policyKept": 78
+    "foreignGoogle": 166,
+    "carried": 153,
+    "rawUnique": 296,
+    "policyRejected": 215,
+    "policyKept": 80
   },
   "briefing": [
     "의대 신설 지역/대학 선정 및 정원 배정 — 교육부",
     "디지털 미디어 문해교육, 학교 현장에서 새롭게 만들어 가다 — 교육부",
     "2026년 전국 학교예술교육 축제 개최 — 교육부",
-    "2026년 10월 대학정보공시 분석 결과 발표 — 교육부",
-    "[2027 교육부 예산안 분석/하편] 미래대응 이름 단 4.9조 기금…현금 살포성 장학금·설익은 AI 사업 퍼주기 논란 — 아주경제"
+    "서울교육청, 내년 예산 11조8014억 편성⋯교육·시설사업비 감소 — 이투데이 on MSN",
+    "2026년 10월 대학정보공시 분석 결과 발표 — 교육부"
   ],
   "stats": {
     "total": 80,
     "official": 9,
-    "domestic": 64,
-    "foreign": 7
+    "domestic": 68,
+    "foreign": 3
   },
   "items": [
     {
@@ -65,6 +65,19 @@
       "category": "유·초중등",
       "policyRelevance": 100,
       "score": 105
+    },
+    {
+      "id": "85ff88f448f3",
+      "title": "서울교육청, 내년 예산 11조8014억 편성⋯교육·시설사업비 감소",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%84%9C%EC%9A%B8%EA%B5%90%EC%9C%A1%EC%B2%AD-%EB%82%B4%EB%85%84-%EC%98%88%EC%82%B0-11%EC%A1%B08014%EC%96%B5-%ED%8E%B8%EC%84%B1-%EA%B5%90%EC%9C%A1-%EC%8B%9C%EC%84%A4%EC%82%AC%EC%97%85%EB%B9%84-%EA%B0%90%EC%86%8C/ar-AA2gHOU3",
+      "source": "이투데이 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-03T17:00:00.000Z",
+      "description": "전년比 7.9%↑…인건비 등 경직성 경비 늘어 학교시설 개선 등 사업비 9657억원 미반영 “교부금 개편으로 재정 운용 불확실성 커져” 서울시교육청이 내년도 예산안을 올해 본예산보다 7.9% 늘어난 11조8014억원 규모로 편성했다. 전체 예산은 늘었지만 학교시설 개선과 학생 교육활동 등에 필요한 예산은 충분히 반영되지 못했다는 설명이다. 서울시교육청은 이 ...",
+      "category": "유·초중등",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 99
     },
     {
       "id": "002c41188eee",
@@ -165,6 +178,19 @@
       "score": 92
     },
     {
+      "id": "71f085dae4de",
+      "title": "신공항·군부대 품은 군위군, ‘교육’ 정주 퍼즐 완성",
+      "url": "https://www.kukinews.com/article/view/kuk202611040055",
+      "source": "쿠키뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-03T18:28:00.000Z",
+      "description": "김진열 군위군수가 지난 6월 군위중학교를 방문한 최교진 교육부 장관(왼쪽)과 교육혁신선도지역 정책 방향과 소규모 학교 혁신 방안에 대해 의견을 나누고 있다. 군위군 제공 대구경북신공항 건설과 도심 군부대 이전이라는 대형 개발 프로젝트를 앞둔 대구 군위군이 일자리와 주거에 이어 ‘자녀 교육 인프라’라는 마지막 정주 퍼즐을 맞췄다. 학생 수 감소로 위기를 겪던 ...",
+      "category": "유·초중등",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 87
+    },
+    {
       "id": "5f0a16740162",
       "title": "교육부, 학교 디지털 미디어 문해교육 체계 마련…수업자료 보급",
       "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B5%90%EC%9C%A1%EB%B6%80-%ED%95%99%EA%B5%90-%EB%94%94%EC%A7%80%ED%84%B8-%EB%AF%B8%EB%94%94%EC%96%B4-%EB%AC%B8%ED%95%B4%EA%B5%90%EC%9C%A1-%EC%B2%B4%EA%B3%84-%EB%A7%88%EB%A0%A8-%EC%88%98%EC%97%85%EC%9E%90%EB%A3%8C-%EB%B3%B4%EA%B8%89/ar-AA2gGYxS",
@@ -178,6 +204,19 @@
       "score": 87
     },
     {
+      "id": "29eb4dc1365f",
+      "title": "교육부 \"수능 스마트안경 전담요원 사전교육…판별 역량 충분\"",
+      "url": "https://mobile.busan.com/view/busan/view.php?code=2026110217043646643",
+      "source": "부산일보",
+      "kind": "domestic",
+      "publishedAt": "2026-11-02T09:40:00.000Z",
+      "description": "교육부는 오는 19일 치러지는 대학수학능력시험(수능) 시험장에서 인공지능(AI) 기능이 탑재된 스마트안경 전담요원이 사전 교육·연수 등으로 부정행위를 충분히 판별할 능력을 갖출 것이라고 강조했다. 2일 연합뉴스 등에 따르면 교육부는 이날 '스마트안경 전담 요원이 다양한 스마트안경을 판별할 수 있다고 판단하느냐'는 기자들의 질의에 \"해당 전담 요원들에게 실물 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 85
+    },
+    {
       "id": "7ab820eb5c4b",
       "title": "초·중·고 절반 이상 '가짜뉴스' 접했다…교육부, 내년부터 5000학급에 '미디어 문해교육' 확대",
       "url": "https://www.ajunews.com/view/20261103161332618",
@@ -189,6 +228,19 @@
       "feedProvider": "bing",
       "policyRelevance": 57,
       "score": 83
+    },
+    {
+      "id": "4434cb47482c",
+      "title": "학령인구 감소에 학교도 바뀐다…교육부, 교육혁신선도지역 43곳 선정",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pcmhsR293YTFjWGZmbTFrQklrUEtzSTJwTW9BekozaUlXTkQzMk53YUZ3NTg5U0RZZmhYQ2Z1bFV1M2JUNGU1bThDVGRYa0RfbGROcnRFNS1Va2t6Vzg2OHBwZ29fWW1wdmkySg?oc=5",
+      "source": "베이비뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-04T02:04:00.000Z",
+      "description": "학령인구 감소에 학교도 바뀐다…교육부, 교육혁신선도지역 43곳 선정 베이비뉴스",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 82
     },
     {
       "id": "55b22609939e",
@@ -230,19 +282,6 @@
       "score": 82
     },
     {
-      "id": "c919a8973ddb",
-      "title": "울산시교육청, 유·초중고·특수학교 교원 대상 토론회 운영",
-      "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065572497247548",
-      "source": "울산종합일보",
-      "kind": "domestic",
-      "publishedAt": "2026-11-03T00:30:00.000Z",
-      "description": "울산대 산업디자인학전공, ‘한국기초조형학회 대학생 국제공모전 BADA’ 대상 수상 울산과학대 여자축구부, 2026 KUSF 대학축구 (여) U-리그 ‘2위’로 시즌 마무리 울산과학대 간호학부 동아리, 재난 경험 아동 감정 표현 돕는 동화책 제작 울산 온산중 총동문회, 후배 사랑 담은 장학금 750만 원 전달 ...",
-      "category": "교원·조직",
-      "feedProvider": "bing",
-      "policyRelevance": 75,
-      "score": 81
-    },
-    {
       "id": "cc4886e6f246",
       "title": "수능 'AI 안경' 판별 우려에…교육부 \"사전교육으로 역량 확보\"",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GLW15Q09FV1RXUDBUSUtVb1lwU1N2dWNlWTBOeFExbEM1dzFacGJZMVlZMDNRcFBOVGxWY25ha1hPVy0xWWh1Wk9HdzdPVk1EOGNWdERjUDRvSk01?oc=5",
@@ -269,16 +308,16 @@
       "score": 80
     },
     {
-      "id": "10c5a6983f1a",
-      "title": "[김준환의 교육&시선] 수능 앞두고 'AI 안경' 공포에 떠는데…교육부 장관의 한가한 현실 인식 수준",
-      "url": "https://www.ajunews.com/view/20261030133528500",
-      "source": "아주경제",
+      "id": "e3e4ffdc9cbc",
+      "title": "내년부터 디지털 미디어 문해교육 수업자료 매년 20종 보급",
+      "url": "https://www.kado.net/news/articleView.html?idxno=2082305",
+      "source": "강원도민일보",
       "kind": "domestic",
-      "publishedAt": "2026-10-31T02:00:00.000Z",
-      "description": "은 무너져가는 공교육의 현장, 학령인구 감소, 요동치는 대입 제도 속에 초중등·고등교육의 이슈를 진단하고, 당면한 교육 현안·과제들을 날카로운 시선으로 짚어봅니다. 또 한편으론 지속 가능한 대안을 탐색합니다. 때로는 우리 사회에 대한 냉철하지만 따뜻한 시선도 담겠습니다. 최교진 교육부 장관이 지난 23일 국회 교육위원회에서 열린 2026년도 종 ...",
-      "category": "입시·사교육",
+      "publishedAt": "2026-11-03T10:29:00.000Z",
+      "description": "내년부터 전국 학교에 디지털 미디어 문해교육을 위한 수업자료가 매년 20종 안팎씩 새롭게 제공된다. 교사들이 개념 설명부터 학습활동, 학생 평가까지 수업 전 과정에 활용할 수 있도록 자료를 꾸러미 형태로 구성한다. 교육부는 3일 이 같은 내용을 담은 ‘학교 디지털 미디어 문해교육 기본계획’을 공개했다. 학생들이 디지털 환경에서 정보를 비판적으로 이해하고 민 ...",
+      "category": "AI·디지털",
       "feedProvider": "bing",
-      "policyRelevance": 75,
+      "policyRelevance": 57,
       "score": 79
     },
     {
@@ -303,6 +342,19 @@
       "publishedAt": "2026-11-03T13:46:05.000Z",
       "description": "AI교육 기기 관리·구독 부담 논의…경남교육청, 11월 도내 전수 설문 추진 교육을 비추다",
       "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 47,
+      "score": 78
+    },
+    {
+      "id": "2d0f6bd6848d",
+      "title": "교육부, 교육혁신선도지역 지정 결과 발표",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXVUVKRTVrQVNxM05ub3Vyck5qRjN6d3dHVk9oSlcyckJ2QTFQRFZGVU1XTDNlaVotYUlCeHV4SmhmaHNCZUFZb1RHYU1LV0FheEJYX1kzWi1taDJXdjFCVjJyZkRrYW1fSktzcWJwaw?oc=5",
+      "source": "서울신문",
+      "kind": "domestic",
+      "publishedAt": "2026-11-03T05:50:35.000Z",
+      "description": "교육부, 교육혁신선도지역 지정 결과 발표 서울신문",
+      "category": "지역·평생교육",
       "feedProvider": "google",
       "policyRelevance": 47,
       "score": 78
@@ -344,32 +396,6 @@
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 42,
-      "score": 76
-    },
-    {
-      "id": "b0843da26b8a",
-      "title": "중국, 대학 역사·현장 교육 확대…연말까지 학교별 주제 활동 추진",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9XYTMwN1hMYkVqY1dwdTFyZmNCbVR4S1lwMWYySDVTd19fTWNZLXdTOVNqQmpXSURhRkVoNExMZkVWNFE?oc=5",
-      "source": "한국공공정책신문",
-      "kind": "domestic",
-      "publishedAt": "2026-11-03T01:53:55.000Z",
-      "description": "중국, 대학 역사·현장 교육 확대…연말까지 학교별 주제 활동 추진 한국공공정책신문",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 52,
-      "score": 76
-    },
-    {
-      "id": "29eb4dc1365f",
-      "title": "교육부 \"수능 스마트안경 전담요원 사전교육…판별 역량 충분\"",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mUDRxTWxMczFRclY0dG1CVjdLdTZvN2lBUVpFakxJYmxRRlp3RS1wTUNaQ2V6S0pfTGJuTzZSeThpNzVLS3UycTRzNTJPSEQtWHBlclBJUmoyYUJid2g0RG0wbFZ3ZE1NZV9MYW1EWTdNUFllYVRrZg?oc=5",
-      "source": "부산일보",
-      "kind": "domestic",
-      "publishedAt": "2026-11-02T08:40:30.000Z",
-      "description": "교육부 \"수능 스마트안경 전담요원 사전교육…판별 역량 충분\" 부산일보",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 65,
       "score": 76
     },
     {
@@ -458,19 +484,6 @@
       "kind": "domestic",
       "publishedAt": "2026-11-03T09:23:00.000Z",
       "description": "서·논술형 수능, 공정성·사교육 부담 우려… “공교육 기본 역량부터 강화해야” 한국대학신문",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 75
-    },
-    {
-      "id": "c76bf5fc242b",
-      "title": "학교폭력 조치 받으면 대학 못 가나…2027학년도 대입, 전 전형 반영 기준 따져보니",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rSnpBb3cyM0FqWC1tOFAtY3k3dmotWU9KTHc1ZVdKNWVFTDBYVlhwbXk5bXZ6M2ZzM29UMnFaZU9hblRuel9rSE1oOUkyS1VQZUhkVlltNk1GY0xvWERzUmsyOFZDNzV2QXlrVWR1UFNnd9IBckFVX3lxTE9rSnpBb3cyM0FqWC1tOFAtY3k3dmotWU9KTHc1ZVdKNWVFTDBYVlhwbXk5bXZ6M2ZzM29UMnFaZU9hblRuel9rSE1oOUkyS1VQZUhkVlltNk1GY0xvWERzUmsyOFZDNzV2QXlrVWR1UFNndw?oc=5",
-      "source": "로리더",
-      "kind": "domestic",
-      "publishedAt": "2026-11-03T02:04:43.000Z",
-      "description": "학교폭력 조치 받으면 대학 못 가나…2027학년도 대입, 전 전형 반영 기준 따져보니 로리더",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -597,6 +610,19 @@
       "score": 68
     },
     {
+      "id": "c919a8973ddb",
+      "title": "울산시교육청, 유·초중고·특수학교 교원 대상 토론회 운영",
+      "url": "https://m.ujnews.co.kr/news/newsview.php?ncode=1065572497247548",
+      "source": "울산종합일보",
+      "kind": "domestic",
+      "publishedAt": "2026-11-03T00:30:00.000Z",
+      "description": "울산시교육청(교육감 조용식)은 지난 2일 오후 3시 집현실에서 교원 52명이 참석한 가운데 ‘마음 든든 교육공동체 신뢰 회복을 위한 교원 원탁 토론회’를 열었다. 이번 토론회는 ‘든든한 교사, 당당한 교사’를 주제로 학교 현장의 목소리를 듣고, 교육 활동 보호와 교육공동체 신뢰 회복을 위한 다양한 지원 방안을 모색하고자 마련됐다. 토론회는 유치원, 초중등학 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 45,
+      "score": 67
+    },
+    {
       "id": "621a32964adf",
       "title": "울산광역시교육청, 교원과 함께 교육공동체 신뢰 회복 방안 찾는다",
       "url": "https://segyelocalnews.com/article/1065602738144612",
@@ -675,6 +701,19 @@
       "score": 67
     },
     {
+      "id": "b0843da26b8a",
+      "title": "중국, 대학 역사·현장 교육 확대…연말까지 학교별 주제 활동 추진",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9XYTMwN1hMYkVqY1dwdTFyZmNCbVR4S1lwMWYySDVTd19fTWNZLXdTOVNqQmpXSURhRkVoNExMZkVWNFE?oc=5",
+      "source": "한국공공정책신문",
+      "kind": "domestic",
+      "publishedAt": "2026-11-03T01:53:55.000Z",
+      "description": "중국, 대학 역사·현장 교육 확대…연말까지 학교별 주제 활동 추진 한국공공정책신문",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 52,
+      "score": 66
+    },
+    {
       "id": "f065bfb563cc",
       "title": "76세 어르신도 AI로 전국 대상…대구 디지털 교육 성과",
       "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089378",
@@ -751,6 +790,19 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 66
+    },
+    {
+      "id": "c76bf5fc242b",
+      "title": "학교폭력 조치 받으면 대학 못 가나…2027학년도 대입, 전 전형 반영 기준 따져보니",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rSnpBb3cyM0FqWC1tOFAtY3k3dmotWU9KTHc1ZVdKNWVFTDBYVlhwbXk5bXZ6M2ZzM29UMnFaZU9hblRuel9rSE1oOUkyS1VQZUhkVlltNk1GY0xvWERzUmsyOFZDNzV2QXlrVWR1UFNnd9IBckFVX3lxTE9rSnpBb3cyM0FqWC1tOFAtY3k3dmotWU9KTHc1ZVdKNWVFTDBYVlhwbXk5bXZ6M2ZzM29UMnFaZU9hblRuel9rSE1oOUkyS1VQZUhkVlltNk1GY0xvWERzUmsyOFZDNzV2QXlrVWR1UFNndw?oc=5",
+      "source": "로리더",
+      "kind": "domestic",
+      "publishedAt": "2026-11-03T02:04:43.000Z",
+      "description": "학교폭력 조치 받으면 대학 못 가나…2027학년도 대입, 전 전형 반영 기준 따져보니 로리더",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 65
     },
     {
       "id": "3c0711c0189c",
@@ -1017,66 +1069,6 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 51
-    },
-    {
-      "id": "14866a04fb60",
-      "title": "Nigeria's Parliament Urges Return of Biology to Senior Secondary School Curriculum",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3dvbDlDUTVzSk1ET0hzTVQ3bDRLQndqOGM1WUQ2cDRkd3NDc3JnVE9FcnJZUU5zY2dLbmV0bjBVd2JsRHExMFJPdjFndjVVbUdHQkRiYXdIak9aMnhMRVQ2cjJ5STlKRlpidXpUTVktVE1HRkFCR09fdTl6VlJ3NktDTlRSQjVoSmx4RTJDSWFZRFp6YnI2ZDZ3?oc=5",
-      "source": "Head Topics",
-      "kind": "foreign",
-      "publishedAt": "2026-10-28T16:46:00.000Z",
-      "description": "Nigeria's Parliament Urges Return of Biology to Senior Secondary School Curriculum Head Topics",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 53,
-      "score": 51,
-      "originalTitle": "Nigeria's Parliament Urges Return of Biology to Senior Secondary School Curriculum",
-      "titleKo": "나이지리아 의회, 고등 중등 학교 커리큘럼에 생물학 복귀 촉구",
-      "summaryKo": "나이지리아 의회, 중등학교 교육과정 책임자 주제에 생물학 복귀 촉구"
-    },
-    {
-      "id": "91d10f79ca47",
-      "title": "France promises to replace university admissions system",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2UUlDTDFFTzQ5dEpVWWVQYk83RVdiR3AtT2xkcW1hS2xwZTY1cXdZSnJvcTcyZUVKTmR4SGVZcWI3SjNxaFdPZ2FXUVpZY3RpbU9abUhBRQ?oc=5",
-      "source": "The Korea Herald",
-      "kind": "foreign",
-      "publishedAt": "2026-10-27T01:44:58.000Z",
-      "description": "France promises to replace university admissions system The Korea Herald",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 44,
-      "score": 50,
-      "originalTitle": "France promises to replace university admissions system",
-      "titleKo": "프랑스는 대학 입학 시스템을 대체 할 것을 약속합니다.",
-      "summaryKo": "프랑스, 대학 입학 제도 대체 약속 코리아 헤럴드"
-    },
-    {
-      "id": "348586e5ec82",
-      "title": "South Korea Faces Consequences of Tough Anti-Bullying Policy",
-      "url": "https://www.psychologytoday.com/za/blog/resilience-to-bullying/202606/south-korea-faces-consequences-of-tough-anti-bullying-policy",
-      "source": "Psychology Today",
-      "kind": "foreign",
-      "publishedAt": "2026-11-03T13:54:00.000Z",
-      "description": "South Korea has enacted harsh punishments for students who have bullying on their academic record. Rather than putting a stop to bullying, this has led to an explosion of lawsuits.",
-      "category": "기타",
-      "score": 30,
-      "originalTitle": "South Korea Faces Consequences of Tough Anti-Bullying Policy",
-      "titleKo": "한국은 엄격한 왕따 방지 정책의 결과에 직면해 있습니다.",
-      "summaryKo": "한국은 학업 기록에 괴롭힘을 당하는 학생에 대해 가혹한 처벌을 제정했습니다. 이로 인해 왕따를 막기보다는 소송이 폭발적으로 증가했습니다."
-    },
-    {
-      "id": "2b94514b13bb",
-      "title": "South Korea approves new medical schools at Sunchon and Gyeongguk for 2030",
-      "url": "https://biz.chosun.com/en/en-science/2026/11/04/QRGAUSLSB5F6THG5BGMVFAUSUI/",
-      "source": "Chosunbiz",
-      "kind": "foreign",
-      "publishedAt": "2026-11-03T12:00:00.000Z",
-      "description": "South Korea approves new medical schools at Sunchon and Gyeongguk for 2030 Government sets 100-seat intake for new regional medical schools, targeting freshman enrollment in 2030 ...",
-      "category": "유·초중등",
-      "score": 30,
-      "originalTitle": "South Korea approves new medical schools at Sunchon and Gyeongguk for 2030",
-      "titleKo": "한국, 2030년도 순천 · 경국 의대 신설 승인",
-      "summaryKo": "한국은 2030년 순천과 경국에서 새로운 의과대학을 승인한다. 정부는 2030년 신입생 등록을 목표로 새로운 지역 의과대학을 위한 100석 규모의 입학을 설정한다..."
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -1086,43 +1078,56 @@
     "throughDate": "2026-11-04",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-11-02T15:00:00.000Z",
-    "windowEnd": "2026-11-04T01:33:00.826Z",
+    "windowEnd": "2026-11-04T02:29:00.902Z",
     "itemIds": [
       "9d1df6ed5ea3",
       "569583d772f3",
+      "85ff88f448f3",
       "0c74a826c823",
       "b3caca0c6122",
+      "71f085dae4de",
       "5f0a16740162",
       "7ab820eb5c4b",
+      "4434cb47482c",
       "55b22609939e",
       "8c659b7badba",
       "207750171fd9",
-      "c919a8973ddb",
+      "e3e4ffdc9cbc",
       "82163a5f9786",
       "f7d855977196",
+      "2d0f6bd6848d",
       "46e1764c2be3",
-      "b0843da26b8a",
       "c2d5eb352818",
-      "c76bf5fc242b",
       "fec33746e7e7",
       "cfa671528f65",
       "ebd14df4aeaa",
       "7a30275d981f",
       "f33e53fc44ec",
       "7e8d292f23a5",
-      "3c0711c0189c",
-      "348586e5ec82",
-      "2b94514b13bb"
+      "c919a8973ddb",
+      "b0843da26b8a",
+      "c76bf5fc242b",
+      "3c0711c0189c"
     ],
     "stats": {
-      "total": 25,
+      "total": 28,
       "official": 2,
-      "domestic": 20,
-      "foreign": 3
+      "domestic": 25,
+      "foreign": 1
     },
-    "headline": "오늘 아침 교육뉴스는 AI·디지털·유·초중등·고등교육 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 25건이 확인됐습니다. 교육부는 의대 신설 지역/대학 선정 및 정원 배정와 디지털 미디어 문해교육, 학교 현장에서 새롭게 만들어 가다 등을 공식 발표했습니다. 국내 언론에서는 [2027 교육부 예산안 분석/하편] 미래대응 이름 단 4.9조 기금…현금 살포성 장학금·설익은 AI 사업 퍼주기 논란와 세종특별자치시교육청, 조직 개편 추진…개정안 입법 예고 등이 주요하게 다뤄졌습니다. 해외에서는 한국, 교육개혁 43개 지역 선정 각 최대 40억 원 지원 관련 보도가 확인됐습니다. 전체적으로는 AI·디지털·유·초중등·고등교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "headline": "오늘 아침 교육뉴스는 유·초중등·AI·디지털·고등교육 이슈를 중심으로 형성됐습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 28건이 확인됐습니다. 교육부는 의대 신설 지역/대학 선정 및 정원 배정와 디지털 미디어 문해교육, 학교 현장에서 새롭게 만들어 가다 등을 공식 발표했습니다. 국내 언론에서는 서울교육청, 내년 예산 11조8014억 편성⋯교육·시설사업비 감소와 [2027 교육부 예산안 분석/하편] 미래대응 이름 단 4.9조 기금…현금 살포성 장학금·설익은 AI 사업 퍼주기 논란 등이 주요하게 다뤄졌습니다. 해외에서는 한국, 교육개혁 43개 지역 선정 각 최대 40억 원 지원 관련 보도가 확인됐습니다. 전체적으로는 유·초중등·AI·디지털·고등교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
+      {
+        "title": "유·초중등",
+        "summary": "서울교육청, 내년 예산 11조8014억 편성⋯교육·시설사업비 감소 · 신공항·군부대 품은 군위군, ‘교육’ 정주 퍼즐 완성 · 학령인구 감소에 학교도 바뀐다…교육부, 교육혁신선도지역 43곳 선정",
+        "why": "학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
+        "sources": [
+          "이투데이 on MSN",
+          "쿠키뉴스",
+          "베이비뉴스"
+        ]
+      },
       {
         "title": "AI·디지털",
         "summary": "디지털 미디어 문해교육, 학교 현장에서 새롭게 만들어 가다 · [2027 교육부 예산안 분석/하편] 미래대응 이름 단 4.9조 기금…현금 살포성 장학금·설익은 AI 사업 퍼주기 논란 · 교육부, 학교 디지털 미디어 문해교육 체계 마련…수업자료 보급",
@@ -1134,23 +1139,13 @@
         ]
       },
       {
-        "title": "유·초중등",
-        "summary": "교육부, 43개 교육혁신선도지역 지정…소규모학교 혁신·교육격차 완화 목표 · 교육부, 전국 43개 지역에 교육혁신 지원…학교 통합·교육격차 해소 · [전남광주시교육청 행정사무감사] 서·논술형 학생·학부모 뜻은 누가 묻나",
-        "why": "학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
-        "sources": [
-          "아시아경제",
-          "전자신문",
-          "광주드림"
-        ]
-      },
-      {
         "title": "고등교육",
-        "summary": "의대 신설 지역/대학 선정 및 정원 배정 · 중국, 대학 역사·현장 교육 확대…연말까지 학교별 주제 활동 추진 · 연천군-상명대, 세계구석기엑스포 성공·지역대학 교육기반 마련 협력",
+        "summary": "의대 신설 지역/대학 선정 및 정원 배정 · 연천군-상명대, 세계구석기엑스포 성공·지역대학 교육기반 마련 협력 · 중국, 대학 역사·현장 교육 확대…연말까지 학교별 주제 활동 추진",
         "why": "대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다.",
         "sources": [
           "교육부",
-          "한국공공정책신문",
-          "중부일보"
+          "중부일보",
+          "한국공공정책신문"
         ]
       },
       {
@@ -1164,8 +1159,8 @@
       }
     ],
     "watchpoints": [
-      "AI·디지털: AI·디지털 전환 정책은 교육과정·교원역량·인프라와 연결되므로 실행 여건과 현장 적용성을 함께 봐야 합니다.",
       "유·초중등: 학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
+      "AI·디지털: AI·디지털 전환 정책은 교육과정·교원역량·인프라와 연결되므로 실행 여건과 현장 적용성을 함께 봐야 합니다.",
       "고등교육: 대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다."
     ]
   }
