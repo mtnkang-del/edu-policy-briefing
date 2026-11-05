@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-11-05T01:36:04.472Z",
-  "generatedAtKST": "2026-11-05T10:36:01.144+09:00",
+  "generatedAt": "2026-11-05T02:36:44.906Z",
+  "generatedAtKST": "2026-11-05T11:36:40.587+09:00",
   "date": "2026-11-05",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 8,
-    "domesticGoogle": 106,
-    "foreignBing": 6,
-    "foreignGoogle": 135,
-    "carried": 111,
-    "rawUnique": 270,
-    "policyRejected": 198,
-    "policyKept": 72
+    "domesticBing": 13,
+    "domesticGoogle": 108,
+    "foreignBing": 10,
+    "foreignGoogle": 137,
+    "carried": 183,
+    "rawUnique": 279,
+    "policyRejected": 204,
+    "policyKept": 75
   },
   "briefing": [
     "제23회 대한민국 평생학습대상 시상식 및 2026년 평생학습도시 동판 수여식 개최 — 교육부",
     "경제협력개발기구(OECD) 가입 30주년, 한국 교육의 성과와 미래 방향 조명 — 교육부",
     "의대 신설 지역/대학 선정 및 정원 배정 — 교육부",
-    "디지털 미디어 문해교육, 학교 현장에서 새롭게 만들어 가다 — 교육부",
-    "2026년 전국 학교예술교육 축제 개최 — 교육부"
+    "지역 교육의 새로운 도약, 43개 교육혁신선도지역 시동 — 교육부",
+    "디지털 미디어 문해교육, 학교 현장에서 새롭게 만들어 가다 — 교육부"
   ],
   "stats": {
-    "total": 78,
-    "official": 9,
-    "domestic": 59,
-    "foreign": 10
+    "total": 80,
+    "official": 10,
+    "domestic": 61,
+    "foreign": 9
   },
   "items": [
     {
@@ -63,6 +63,18 @@
       "publishedAt": "2026-11-04T09:00:00+09:00",
       "description": "교육부 공식 보도자료",
       "category": "고등교육",
+      "policyRelevance": 100,
+      "score": 105
+    },
+    {
+      "id": "aed3567fc88d",
+      "title": "지역 교육의 새로운 도약, 43개 교육혁신선도지역 시동",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107547&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-11-03T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "지역·평생교육",
       "policyRelevance": 100,
       "score": 105
     },
@@ -152,6 +164,19 @@
       "score": 89
     },
     {
+      "id": "1a5b30352bf1",
+      "title": "전북교육청, AI 교육 성과 공유하고 내년 정책 방향 모색",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92WUdRRUlqdEl3QnhjeEduNlZQeE9rN0haUDJyVlQ0dWtJV2F1MTZXQmNHeWhaTHVadlRGVkl4TDY0YTN2Z0ZyeDNpLVNtZVlCM0t6Vk8wb3JaSUVCZDlmVWhmS0tGWmtB?oc=5",
+      "source": "투데이안",
+      "kind": "domestic",
+      "publishedAt": "2026-11-05T01:31:11.000Z",
+      "description": "전북교육청, AI 교육 성과 공유하고 내년 정책 방향 모색 투데이안",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 86
+    },
+    {
       "id": "64f5dc0fa3e4",
       "title": "조용식 \"교육현장 재정안정성 우선해야\"…지방교부금 개편안 제동",
       "url": "https://www.msn.com/ko-kr/news/other/%EC%A1%B0%EC%9A%A9%EC%8B%9D-%EA%B5%90%EC%9C%A1%ED%98%84%EC%9E%A5-%EC%9E%AC%EC%A0%95%EC%95%88%EC%A0%95%EC%84%B1-%EC%9A%B0%EC%84%A0%ED%95%B4%EC%95%BC-%EC%A7%80%EB%B0%A9%EA%B5%90%EB%B6%80%EA%B8%88-%EA%B0%9C%ED%8E%B8%EC%95%88-%EC%A0%9C%EB%8F%99/ar-AA2gHFPr",
@@ -191,19 +216,6 @@
       "score": 85
     },
     {
-      "id": "4434cb47482c",
-      "title": "학령인구 감소에 학교도 바뀐다…교육부, 교육혁신선도지역 43곳 선정",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pcmhsR293YTFjWGZmbTFrQklrUEtzSTJwTW9BekozaUlXTkQzMk53YUZ3NTg5U0RZZmhYQ2Z1bFV1M2JUNGU1bThDVGRYa0RfbGROcnRFNS1Va2t6Vzg2OHBwZ29fWW1wdmkySg?oc=5",
-      "source": "베이비뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-11-04T02:04:00.000Z",
-      "description": "학령인구 감소에 학교도 바뀐다…교육부, 교육혁신선도지역 43곳 선정 베이비뉴스",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 82
-    },
-    {
       "id": "e6b564a54484",
       "title": "대한민국교육감협의회, 내국세 20.79% 연동 유지·±5% 완충 교육재정 상생안 전격 제안",
       "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EA%B5%90%EC%9C%A1%EA%B0%90%ED%98%91%EC%9D%98%ED%9A%8C-%EB%82%B4%EA%B5%AD%EC%84%B8-20-79-%EC%97%B0%EB%8F%99-%EC%9C%A0%EC%A7%80-5-%EC%99%84%EC%B6%A9-%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95-%EC%83%81%EC%83%9D%EC%95%88-%EC%A0%84%EA%B2%A9-%EC%A0%9C%EC%95%88/ar-AA2gHz0x",
@@ -230,6 +242,19 @@
       "score": 82
     },
     {
+      "id": "c919a8973ddb",
+      "title": "울산시교육청, 유·초중고·특수학교 교원 대상 토론회 운영",
+      "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065572497247548",
+      "source": "울산종합일보",
+      "kind": "domestic",
+      "publishedAt": "2026-11-03T00:30:00.000Z",
+      "description": "울산대 산업디자인학전공, ‘한국기초조형학회 대학생 국제공모전 BADA’ 대상 수상 울산과학대 여자축구부, 2026 KUSF 대학축구 (여) U-리그 ‘2위’로 시즌 마무리 울산과학대 간호학부 동아리, 재난 경험 아동 감정 표현 돕는 동화책 제작 울산 온산중 총동문회, 후배 사랑 담은 장학금 750만 원 전달 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 81
+    },
+    {
       "id": "cc4886e6f246",
       "title": "수능 'AI 안경' 판별 우려에…교육부 \"사전교육으로 역량 확보\"",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GLW15Q09FV1RXUDBUSUtVb1lwU1N2dWNlWTBOeFExbEM1dzFacGJZMVlZMDNRcFBOVGxWY25ha1hPVy0xWWh1Wk9HdzdPVk1EOGNWdERjUDRvSk01?oc=5",
@@ -254,6 +279,19 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 80
+    },
+    {
+      "id": "a4bbcd827148",
+      "title": "태안교육청, 교원 역량 키워 교실 혁신",
+      "url": "https://www.msn.com/ko-kr/news/other/%ED%83%9C%EC%95%88%EA%B5%90%EC%9C%A1%EC%B2%AD-%EA%B5%90%EC%9B%90-%EC%97%AD%EB%9F%89-%ED%82%A4%EC%9B%8C-%EA%B5%90%EC%8B%A4-%ED%98%81%EC%8B%A0/ar-AA2gM2ya",
+      "source": "충청신문 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-04T15:41:48.000Z",
+      "description": "[충청신문=태안] 이승규 기자= 태안교육지원청이 교원들의 다방면 전문성을 높여 공교육 경쟁력 강화에 속도를 내고 있다. 학생 주도형 수업 방식을 연구하고 전통 예술을 교과 과정에 직접 접목하는 등 실질적인 교실 현장의 변화를 이끌고 있다. 태안교육청은 지난 3일 태안문화원과 교육청 대회의실에서 관내 초중고 교사 100여 명이 참석한 ‘2026 태안 온 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 45,
+      "score": 77
     },
     {
       "id": "eaeaba9a6f79",
@@ -425,6 +463,19 @@
       "score": 73
     },
     {
+      "id": "4434cb47482c",
+      "title": "학령인구 감소에 학교도 바뀐다…교육부, 교육혁신선도지역 43곳 선정",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pcmhsR293YTFjWGZmbTFrQklrUEtzSTJwTW9BekozaUlXTkQzMk53YUZ3NTg5U0RZZmhYQ2Z1bFV1M2JUNGU1bThDVGRYa0RfbGROcnRFNS1Va2t6Vzg2OHBwZ29fWW1wdmkySg?oc=5",
+      "source": "베이비뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-04T02:04:00.000Z",
+      "description": "학령인구 감소에 학교도 바뀐다…교육부, 교육혁신선도지역 43곳 선정 베이비뉴스",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 72
+    },
+    {
       "id": "55b22609939e",
       "title": "교육부, 43개 교육혁신선도지역 지정…소규모학교 혁신·교육격차 완화 목표",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ca0NCTVhNRUc1TjdBaGZvLVY2cFBvbTFlNWlDaG5SSlNGbm5lME1jakc3Ykh1ZlFqaDJYMmN3RzJjd2QwemxfNFo5UzZUMEVLUTl4eHVPWjNHWmFHcUtKaA?oc=5",
@@ -553,19 +604,6 @@
       "feedProvider": "google",
       "policyRelevance": 47,
       "score": 68
-    },
-    {
-      "id": "c919a8973ddb",
-      "title": "울산시교육청, 유·초중고·특수학교 교원 대상 토론회 운영",
-      "url": "https://m.ujnews.co.kr/news/newsview.php?ncode=1065572497247548",
-      "source": "울산종합일보",
-      "kind": "domestic",
-      "publishedAt": "2026-11-03T00:30:00.000Z",
-      "description": "울산시교육청(교육감 조용식)은 지난 2일 오후 3시 집현실에서 교원 52명이 참석한 가운데 ‘마음 든든 교육공동체 신뢰 회복을 위한 교원 원탁 토론회’를 열었다. 이번 토론회는 ‘든든한 교사, 당당한 교사’를 주제로 학교 현장의 목소리를 듣고, 교육 활동 보호와 교육공동체 신뢰 회복을 위한 다양한 지원 방안을 모색하고자 마련됐다. 토론회는 유치원, 초중등학 ...",
-      "category": "교원·조직",
-      "feedProvider": "bing",
-      "policyRelevance": 45,
-      "score": 67
     },
     {
       "id": "b2f96d1caa39",
@@ -998,18 +1036,18 @@
       "summaryKo": "한국은 학업 기록에 괴롭힘을 당하는 학생에 대해 가혹한 처벌을 제정했습니다. 이로 인해 왕따를 막기보다는 소송이 폭발적으로 증가했습니다."
     },
     {
-      "id": "b331ed091296",
-      "title": "South Korea names Busan, Daegu, Gwangju-Jeonnam education innovation hubs",
-      "url": "https://biz.chosun.com/en/en-society/2026/11/03/ROLFVNGXQRCYVMCJ664EKDPPNI/",
-      "source": "Chosunbiz",
+      "id": "99f92d62d493",
+      "title": "South Korea surpasses 300,000 international students, prioritizes quality education",
+      "url": "https://www.msn.com/en-xl/news/other/south-korea-surpasses-300000-international-students-prioritizes-quality-education/ar-AA2gBBVH",
+      "source": "The Chosun Ilbo on MSN",
       "kind": "foreign",
-      "publishedAt": "2026-11-03T06:03:00.000Z",
-      "description": "South Korea names Busan, Daegu, Gwangju-Jeonnam education innovation hubs Government picks 43 regions for tailored education upgrades, with phased funding and evaluations through 2029 ...",
-      "category": "기타",
+      "publishedAt": "2026-11-02T16:44:07.000Z",
+      "description": "The number of international students studying at domestic universities has surpassed 300,000 people for the first time this year. The government had aimed to attract 300,000 international students by ...",
+      "category": "유·초중등",
       "score": 30,
-      "originalTitle": "South Korea names Busan, Daegu, Gwangju-Jeonnam education innovation hubs",
-      "titleKo": "대한민국 명칭 부산, 대구, 광주-전남 교육혁신허브",
-      "summaryKo": "대한민국은 부산, 대구, 광주-전남 교육혁신허브를 명명한다. 정부는 맞춤형 교육 업그레이드를 위해 43개 지역을 선정하고, 2029년까지 단계적인 자금 지원과 평가를 통해..."
+      "originalTitle": "South Korea surpasses 300,000 international students, prioritizes quality education",
+      "titleKo": "한국 유학생 30만 명 돌파, 양질의 교육 우선",
+      "summaryKo": "국내 대학에서 공부하는 유학생 수가 올해 처음으로 30만 명을 돌파했습니다. 정부는 30만 명의 유학생을 유치하기 위해..."
     },
     {
       "id": "658df8a64b88",
@@ -1038,20 +1076,6 @@
       "originalTitle": "Hanam gets South Korea's first independent education support office",
       "titleKo": "하남, 한국 최초의 독립교육지원청 인수",
       "summaryKo": "대한민국 최초로 교육지원청을 분리한 하남교육지원청의 설립을 오늘 이 자리에서 약속드립니다. ”지난 15일... 참석자들 사이에서 박수가 터져 나왔다."
-    },
-    {
-      "id": "ca33bbdbc154",
-      "title": "Student suicides in South Korea rise 26% over four years",
-      "url": "https://www.upi.com/Top_News/World-News/2026/10/22/student-suicide-mental-health/4031792711145/",
-      "source": "UPI",
-      "kind": "foreign",
-      "publishedAt": "2026-10-22T12:20:00.000Z",
-      "description": "Student suicides in South Korea rose nearly 26% over four years as lawmakers questioned gaps in school counseling and suicide prevention data.",
-      "category": "유·초중등",
-      "score": 30,
-      "originalTitle": "Student suicides in South Korea rise 26% over four years",
-      "titleKo": "한국의 학생 자살률은 4년간 26% 증가",
-      "summaryKo": "국회의원들이 학교 상담 및 자살 예방 데이터의 격차에 의문을 제기함에 따라 한국의 학생 자살은 4 년 동안 거의 26% 증가했습니다."
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -1061,19 +1085,21 @@
     "throughDate": "2026-11-05",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-11-03T15:00:00.000Z",
-    "windowEnd": "2026-11-05T01:36:04.472Z",
+    "windowEnd": "2026-11-05T02:36:44.906Z",
     "itemIds": [
       "a9b1463b5b2c",
       "b7babde6915f",
       "9d1df6ed5ea3",
       "85ff88f448f3",
+      "1a5b30352bf1",
       "64f5dc0fa3e4",
-      "4434cb47482c",
       "e6b564a54484",
+      "a4bbcd827148",
       "eaeaba9a6f79",
       "71f085dae4de",
       "5f0a16740162",
       "5bbadfbcb3ff",
+      "4434cb47482c",
       "1dec053e579c",
       "82163a5f9786",
       "46e1764c2be3",
@@ -1082,42 +1108,42 @@
       "2b94514b13bb"
     ],
     "stats": {
-      "total": 17,
+      "total": 19,
       "official": 3,
-      "domestic": 13,
+      "domestic": 15,
       "foreign": 1
     },
-    "headline": "오늘 아침 교육뉴스는 유·초중등·교원·조직·AI·디지털 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 17건이 확인됐습니다. 교육부는 제23회 대한민국 평생학습대상 시상식 및 2026년 평생학습도시 동판 수여식 개최, 경제협력개발기구(OECD) 가입 30주년, 한국 교육의 성과와 미래 방향 조명와 의대 신설 지역/대학 선정 및 정원 배정 등을 공식 발표했습니다. 국내 언론에서는 서울교육청, 내년 예산 11조8014억 편성⋯교육·시설사업비 감소와 조용식 \"교육현장 재정안정성 우선해야\"…지방교부금 개편안 제동 등이 주요하게 다뤄졌습니다. 해외에서는 한국, 2030년도 순천 · 경국 의대 신설 승인 관련 보도가 확인됐습니다. 전체적으로는 유·초중등·교원·조직·AI·디지털 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "headline": "오늘 아침 교육뉴스는 유·초중등·AI·디지털·교원·조직 이슈를 중심으로 형성됐습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 19건이 확인됐습니다. 교육부는 제23회 대한민국 평생학습대상 시상식 및 2026년 평생학습도시 동판 수여식 개최, 경제협력개발기구(OECD) 가입 30주년, 한국 교육의 성과와 미래 방향 조명와 의대 신설 지역/대학 선정 및 정원 배정 등을 공식 발표했습니다. 국내 언론에서는 서울교육청, 내년 예산 11조8014억 편성⋯교육·시설사업비 감소와 전북교육청, AI 교육 성과 공유하고 내년 정책 방향 모색 등이 주요하게 다뤄졌습니다. 해외에서는 한국, 2030년도 순천 · 경국 의대 신설 승인 관련 보도가 확인됐습니다. 전체적으로는 유·초중등·AI·디지털·교원·조직 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "유·초중등",
-        "summary": "서울교육청, 내년 예산 11조8014억 편성⋯교육·시설사업비 감소 · 학령인구 감소에 학교도 바뀐다…교육부, 교육혁신선도지역 43곳 선정 · 신공항·군부대 품은 군위군, ‘교육’ 정주 퍼즐 완성",
+        "summary": "서울교육청, 내년 예산 11조8014억 편성⋯교육·시설사업비 감소 · 신공항·군부대 품은 군위군, ‘교육’ 정주 퍼즐 완성 · 학령인구 감소에 학교도 바뀐다…교육부, 교육혁신선도지역 43곳 선정",
         "why": "학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
         "sources": [
           "이투데이 on MSN",
-          "베이비뉴스",
-          "쿠키뉴스"
-        ]
-      },
-      {
-        "title": "교원·조직",
-        "summary": "조용식 \"교육현장 재정안정성 우선해야\"…지방교부금 개편안 제동 · 대한민국교육감협의회, 내국세 20.79% 연동 유지·±5% 완충 교육재정 상생안 전격 제안 · 울산광역시교육청, 교원과 함께 교육공동체 신뢰 회복 방안 찾는다",
-        "why": "교원 업무·교권·인사와 직접 연결될 수 있어 현장 반응과 제도 운영상 쟁점을 살펴볼 필요가 있습니다.",
-        "sources": [
-          "뉴시스 on MSN",
-          "아주경제 on MSN",
-          "뉴스신"
+          "쿠키뉴스",
+          "베이비뉴스"
         ]
       },
       {
         "title": "AI·디지털",
-        "summary": "교육부, 학교 디지털 미디어 문해교육 체계 마련…수업자료 보급 · 교육부, '학교 디지털 미디어 문해교육 기본계획' 발표…비판적 미디어 이해·민주적 소통 역량 강화 · \"AI 막은 학교는 구글 검색도 쓸 수 없다\"...구글 교육SW 정책 논란",
+        "summary": "전북교육청, AI 교육 성과 공유하고 내년 정책 방향 모색 · 교육부, 학교 디지털 미디어 문해교육 체계 마련…수업자료 보급 · 교육부, '학교 디지털 미디어 문해교육 기본계획' 발표…비판적 미디어 이해·민주적 소통 역량 강화",
         "why": "AI·디지털 전환 정책은 교육과정·교원역량·인프라와 연결되므로 실행 여건과 현장 적용성을 함께 봐야 합니다.",
         "sources": [
+          "투데이안",
           "조선에듀 on MSN",
-          "더브리프뉴스",
-          "디지털투데이"
+          "더브리프뉴스"
+        ]
+      },
+      {
+        "title": "교원·조직",
+        "summary": "조용식 \"교육현장 재정안정성 우선해야\"…지방교부금 개편안 제동 · 대한민국교육감협의회, 내국세 20.79% 연동 유지·±5% 완충 교육재정 상생안 전격 제안 · 태안교육청, 교원 역량 키워 교실 혁신",
+        "why": "교원 업무·교권·인사와 직접 연결될 수 있어 현장 반응과 제도 운영상 쟁점을 살펴볼 필요가 있습니다.",
+        "sources": [
+          "뉴시스 on MSN",
+          "아주경제 on MSN",
+          "충청신문 on MSN"
         ]
       },
       {
@@ -1132,8 +1158,8 @@
     ],
     "watchpoints": [
       "유·초중등: 학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
-      "교원·조직: 교원 업무·교권·인사와 직접 연결될 수 있어 현장 반응과 제도 운영상 쟁점을 살펴볼 필요가 있습니다.",
-      "AI·디지털: AI·디지털 전환 정책은 교육과정·교원역량·인프라와 연결되므로 실행 여건과 현장 적용성을 함께 봐야 합니다."
+      "AI·디지털: AI·디지털 전환 정책은 교육과정·교원역량·인프라와 연결되므로 실행 여건과 현장 적용성을 함께 봐야 합니다.",
+      "교원·조직: 교원 업무·교권·인사와 직접 연결될 수 있어 현장 반응과 제도 운영상 쟁점을 살펴볼 필요가 있습니다."
     ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T01:44:35.646Z",
+  "generatedAt": "2026-11-05T02:36:58.172Z",
   "retentionDays": 30,
   "days": [
     "2026-11-05",
@@ -32,6 +32,20 @@
   ],
   "items": [
     {
+      "id": "1a5b30352bf1",
+      "title": "전북교육청, AI 교육 성과 공유하고 내년 정책 방향 모색",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92WUdRRUlqdEl3QnhjeEduNlZQeE9rN0haUDJyVlQ0dWtJV2F1MTZXQmNHeWhaTHVadlRGVkl4TDY0YTN2Z0ZyeDNpLVNtZVlCM0t6Vk8wb3JaSUVCZDlmVWhmS0tGWmtB?oc=5",
+      "source": "투데이안",
+      "kind": "domestic",
+      "publishedAt": "2026-11-05T01:31:11.000Z",
+      "description": "전북교육청, AI 교육 성과 공유하고 내년 정책 방향 모색 투데이안",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 86,
+      "snapshotDate": "2026-11-05"
+    },
+    {
       "id": "5bbadfbcb3ff",
       "title": "수능 스마트안경 부정행위 형사고발 방침…응시정지 3년 추진",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPMWUyV1BSNFpFVG9KOGQwNW1uNTFfbmxwRmFVRjlFQnJYWDRzNUdfek4tRWNKd2x1UDBpeFpEOU0wVTYyNjd1LWtUbktycVE1YUpweVM0V1ppRzlWU1ZEQlVSMTVOQQ?oc=5",
@@ -43,6 +57,20 @@
       "feedProvider": "google",
       "policyRelevance": 42,
       "score": 76,
+      "snapshotDate": "2026-11-05"
+    },
+    {
+      "id": "a4bbcd827148",
+      "title": "태안교육청, 교원 역량 키워 교실 혁신",
+      "url": "https://www.msn.com/ko-kr/news/other/%ED%83%9C%EC%95%88%EA%B5%90%EC%9C%A1%EC%B2%AD-%EA%B5%90%EC%9B%90-%EC%97%AD%EB%9F%89-%ED%82%A4%EC%9B%8C-%EA%B5%90%EC%8B%A4-%ED%98%81%EC%8B%A0/ar-AA2gM2ya",
+      "source": "충청신문 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-04T15:41:48.000Z",
+      "description": "[충청신문=태안] 이승규 기자= 태안교육지원청이 교원들의 다방면 전문성을 높여 공교육 경쟁력 강화에 속도를 내고 있다. 학생 주도형 수업 방식을 연구하고 전통 예술을 교과 과정에 직접 접목하는 등 실질적인 교실 현장의 변화를 이끌고 있다. 태안교육청은 지난 3일 태안문화원과 교육청 대회의실에서 관내 초중고 교사 100여 명이 참석한 ‘2026 태안 온 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 45,
+      "score": 77,
       "snapshotDate": "2026-11-05"
     },
     {
@@ -84,7 +112,7 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 82,
+      "score": 72,
       "snapshotDate": "2026-11-05"
     },
     {
@@ -412,21 +440,6 @@
       "snapshotDate": "2026-11-05"
     },
     {
-      "id": "b331ed091296",
-      "title": "South Korea names Busan, Daegu, Gwangju-Jeonnam education innovation hubs",
-      "url": "https://biz.chosun.com/en/en-society/2026/11/03/ROLFVNGXQRCYVMCJ664EKDPPNI/",
-      "source": "Chosunbiz",
-      "kind": "foreign",
-      "publishedAt": "2026-11-03T06:03:00.000Z",
-      "description": "South Korea names Busan, Daegu, Gwangju-Jeonnam education innovation hubs Government picks 43 regions for tailored education upgrades, with phased funding and evaluations through 2029 ...",
-      "category": "기타",
-      "score": 30,
-      "originalTitle": "South Korea names Busan, Daegu, Gwangju-Jeonnam education innovation hubs",
-      "titleKo": "대한민국 명칭 부산, 대구, 광주-전남 교육혁신허브",
-      "summaryKo": "대한민국은 부산, 대구, 광주-전남 교육혁신허브를 명명한다. 정부는 맞춤형 교육 업그레이드를 위해 43개 지역을 선정하고, 2029년까지 단계적인 자금 지원과 평가를 통해...",
-      "snapshotDate": "2026-11-05"
-    },
-    {
       "id": "2d0f6bd6848d",
       "title": "교육부, 교육혁신선도지역 지정 결과 발표",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXVUVKRTVrQVNxM05ub3Vyck5qRjN6d3dHVk9oSlcyckJ2QTFQRFZGVU1XTDNlaVotYUlCeHV4SmhmaHNCZUFZb1RHYU1LV0FheEJYX1kzWi1taDJXdjFCVjJyZkRrYW1fSktzcWJwaw?oc=5",
@@ -527,6 +540,20 @@
     {
       "id": "c919a8973ddb",
       "title": "울산시교육청, 유·초중고·특수학교 교원 대상 토론회 운영",
+      "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065572497247548",
+      "source": "울산종합일보",
+      "kind": "domestic",
+      "publishedAt": "2026-11-03T00:30:00.000Z",
+      "description": "울산대 산업디자인학전공, ‘한국기초조형학회 대학생 국제공모전 BADA’ 대상 수상 울산과학대 여자축구부, 2026 KUSF 대학축구 (여) U-리그 ‘2위’로 시즌 마무리 울산과학대 간호학부 동아리, 재난 경험 아동 감정 표현 돕는 동화책 제작 울산 온산중 총동문회, 후배 사랑 담은 장학금 750만 원 전달 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 81,
+      "snapshotDate": "2026-11-05"
+    },
+    {
+      "id": "c919a8973ddb",
+      "title": "울산시교육청, 유·초중고·특수학교 교원 대상 토론회 운영",
       "url": "https://m.ujnews.co.kr/news/newsview.php?ncode=1065572497247548",
       "source": "울산종합일보",
       "kind": "domestic",
@@ -536,6 +563,19 @@
       "feedProvider": "bing",
       "policyRelevance": 45,
       "score": 67,
+      "snapshotDate": "2026-11-04"
+    },
+    {
+      "id": "aed3567fc88d",
+      "title": "지역 교육의 새로운 도약, 43개 교육혁신선도지역 시동",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107547&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-11-03T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "지역·평생교육",
+      "policyRelevance": 100,
+      "score": 105,
       "snapshotDate": "2026-11-05"
     },
     {
@@ -592,7 +632,7 @@
       "originalTitle": "South Korea surpasses 300,000 international students, prioritizes quality education",
       "titleKo": "한국 유학생 30만 명 돌파, 양질의 교육 우선",
       "summaryKo": "국내 대학에서 공부하는 유학생 수가 올해 처음으로 30만 명을 돌파했습니다. 정부는 30만 명의 유학생을 유치하기 위해...",
-      "snapshotDate": "2026-11-03"
+      "snapshotDate": "2026-11-05"
     },
     {
       "id": "ddc7dac907d9",
@@ -4260,21 +4300,6 @@
       "policyRelevance": 52,
       "score": 64,
       "snapshotDate": "2026-10-26"
-    },
-    {
-      "id": "ca33bbdbc154",
-      "title": "Student suicides in South Korea rise 26% over four years",
-      "url": "https://www.upi.com/Top_News/World-News/2026/10/22/student-suicide-mental-health/4031792711145/",
-      "source": "UPI",
-      "kind": "foreign",
-      "publishedAt": "2026-10-22T12:20:00.000Z",
-      "description": "Student suicides in South Korea rose nearly 26% over four years as lawmakers questioned gaps in school counseling and suicide prevention data.",
-      "category": "유·초중등",
-      "score": 30,
-      "originalTitle": "Student suicides in South Korea rise 26% over four years",
-      "titleKo": "한국의 학생 자살률은 4년간 26% 증가",
-      "summaryKo": "국회의원들이 학교 상담 및 자살 예방 데이터의 격차에 의문을 제기함에 따라 한국의 학생 자살은 4 년 동안 거의 26% 증가했습니다.",
-      "snapshotDate": "2026-11-05"
     },
     {
       "id": "ea7ef756df10",
@@ -8399,34 +8424,6 @@
       "feedProvider": "google",
       "policyRelevance": 47,
       "score": 54,
-      "snapshotDate": "2026-10-12"
-    },
-    {
-      "id": "00d6c5ea0ea8",
-      "title": "커지는 반대 목소리… 국교위, 3시 하교제 이어 서·논술형 수능 ‘난항’",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%BB%A4%EC%A7%80%EB%8A%94-%EB%B0%98%EB%8C%80-%EB%AA%A9%EC%86%8C%EB%A6%AC-%EA%B5%AD%EA%B5%90%EC%9C%84-3%EC%8B%9C-%ED%95%98%EA%B5%90%EC%A0%9C-%EC%9D%B4%EC%96%B4-%EC%84%9C-%EB%85%BC%EC%88%A0%ED%98%95-%EC%88%98%EB%8A%A5-%EB%82%9C%ED%95%AD/ar-AA2dORxe",
-      "source": "세계일보 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-10-08T12:05:00.000Z",
-      "description": "수능 서·논술형과 절대평가 도입을 골자로 한 대입제도 개편과 초등학교 저학년 ‘오후 3시 하교제’ 등을 추진해 온 국가교육위원회(국교위)가 안팎의 강한 반발에 부딪혀 난항을 겪고 있다. 당초 계획했던 대입 개편안 발표 연기가 검토되는 등 정책 추진의 속도 조절이 불가피한 상황이다. 8일 교육계에 따르면 국교위는 이달 말 발표할 예정이던 ‘2028∼2037 ...",
-      "category": "입시·사교육",
-      "feedProvider": "bing",
-      "policyRelevance": 87,
-      "score": 88,
-      "snapshotDate": "2026-10-12"
-    },
-    {
-      "id": "2a53cf53ab2b",
-      "title": "대전시교육청, 2030년까지 60개교 확대 대전 IB 교육지구 본격 추진",
-      "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=507860",
-      "source": "뉴스워커",
-      "kind": "domestic",
-      "publishedAt": "2026-10-08T10:22:00.000Z",
-      "description": "대전시교육청(교육감 오석진)은 국제 바칼로레아(IB)의 개념 기반 탐구와 학습자 주도성 원리를 공교육 현장에 접목하고 학교 간 유기적 협력을 통해 교실 수업과 평가 방식의 근본적 혁신을 이끌어내기 위해 ‘대전 IB 교육지구’ 조성 사업을 본격적으로 추진한다고 8일 밝혔다. 이번에 새롭게 가동되는 ‘대전 IB 교육지구’는 개별 단위 학교 중심의 분절적인 도입 ...",
-      "category": "교원·조직",
-      "feedProvider": "bing",
-      "policyRelevance": 57,
-      "score": 59,
       "snapshotDate": "2026-10-12"
     }
   ]
