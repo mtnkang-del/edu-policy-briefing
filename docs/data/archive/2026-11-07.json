@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T01:01:40.421Z",
-  "generatedAtKST": "2026-11-07T10:01:38.538+09:00",
+  "generatedAt": "2026-11-07T02:03:50.255Z",
+  "generatedAtKST": "2026-11-07T11:03:42.239+09:00",
   "date": "2026-11-07",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
@@ -8,13 +8,13 @@
   "collectionHealth": {
     "officialLive": 10,
     "domesticBing": 9,
-    "domesticGoogle": 109,
-    "foreignBing": 13,
-    "foreignGoogle": 140,
-    "carried": 123,
-    "rawUnique": 281,
-    "policyRejected": 218,
-    "policyKept": 63
+    "domesticGoogle": 110,
+    "foreignBing": 16,
+    "foreignGoogle": 142,
+    "carried": 183,
+    "rawUnique": 282,
+    "policyRejected": 220,
+    "policyKept": 62
   },
   "briefing": [
     "강의실을 넘어 세계로, 반도체·인공지능(AI) 인재 한자리에 모이다 — 교육부",
@@ -24,10 +24,10 @@
     "경제협력개발기구(OECD) 가입 30주년, 한국 교육의 성과와 미래 방향 조명 — 교육부"
   ],
   "stats": {
-    "total": 70,
+    "total": 72,
     "official": 10,
-    "domestic": 51,
-    "foreign": 9
+    "domestic": 50,
+    "foreign": 12
   },
   "items": [
     {
@@ -164,19 +164,6 @@
       "score": 92
     },
     {
-      "id": "3ebbba24c31e",
-      "title": "교육감협 '교육재정 상생안', 7월 교육부 장관 제안과 비슷",
-      "url": "https://www.msn.com/ko-kr/news/other/%EA%B5%90%EC%9C%A1%EA%B0%90%ED%98%91-%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95-%EC%83%81%EC%83%9D%EC%95%88-7%EC%9B%94-%EA%B5%90%EC%9C%A1%EB%B6%80-%EC%9E%A5%EA%B4%80-%EC%A0%9C%EC%95%88%EA%B3%BC-%EB%B9%84%EC%8A%B7/ar-AA2gSA9p",
-      "source": "오마이뉴스 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-11-06T01:14:35.000Z",
-      "description": "'지방교육재정교부금(교육교부금)의 내국세 연동률 20.79%를 유지하되, 내국세 초과분을 정부 여당이 추진하는 미래대응기금 재원으로 활용하자'라는 대한민국교육감협의회 '교육재정 상생 제안'이 3달 전 최교진 교육부장관이 제안한 내용과 ...",
-      "category": "교원·조직",
-      "feedProvider": "bing",
-      "policyRelevance": 77,
-      "score": 92
-    },
-    {
       "id": "54c6de60ec57",
       "title": "최은희 전 교육부 인재정책실장, 인천시교육청 부교육감 부임…교육정책 추진에 힘 보탠다",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95ZWdmQk5xQldmSWRsS1U3OURjenBiNHlRTzBVTFlpTHo1cVAzM21hT1dZSHZodmM1d2l6LUJlMU9pTU1SM3BLQ3FYd0gwSHlrTjg0cUM4Q0MzQlVBVzBQSVJvOHZIZ2dWQlRVRFBVc2ZSVkXSAXdBVV95cUxOdHVreW5vV1ZBUmJaZDJfcDhrU2RsS29KUWtCVTJISmVGMWtwWWhjcjFKUDRMWXhUWk02ejZBTW9xeTgzdnJxdVpDeXR4UkZ0WUozaUswQnRSWXZuRVZma3hCNTIwQnRnRnFxaUI2UWJlaVBhWkRESQ?oc=5",
@@ -213,6 +200,19 @@
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 65,
+      "score": 82
+    },
+    {
+      "id": "3ebbba24c31e",
+      "title": "교육감협 '교육재정 상생안', 7월 교육부 장관 제안과 비슷",
+      "url": "https://www.msn.com/ko-kr/news/other/%EA%B5%90%EC%9C%A1%EA%B0%90%ED%98%91-%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95-%EC%83%81%EC%83%9D%EC%95%88-7%EC%9B%94-%EA%B5%90%EC%9C%A1%EB%B6%80-%EC%9E%A5%EA%B4%80-%EC%A0%9C%EC%95%88%EA%B3%BC-%EB%B9%84%EC%8A%B7/ar-AA2gSA9p",
+      "source": "오마이뉴스 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-06T01:14:35.000Z",
+      "description": "'지방교육재정교부금(교육교부금)의 내국세 연동률 20.79%를 유지하되, 내국세 초과분을 정부 여당이 추진하는 미래대응기금 재원으로 활용하자'라는 대한민국교육감협의회 '교육재정 상생 제안'이 3달 전 최교진 교육부장관이 제안한 내용과 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
       "score": 82
     },
     {
@@ -335,7 +335,7 @@
     {
       "id": "a5eec51f4aec",
       "title": "전북교육청, 14일 'AI교육 이음마당' 개최…교육 성과 공유",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%A0%84%EB%B6%81%EA%B5%90%EC%9C%A1%EC%B2%AD-14%EC%9D%BC-ai%EA%B5%90%EC%9C%A1-%EC%9D%B4%EC%9D%8C%EB%A7%88%EB%8B%B9-%EA%B0%9C%EC%B5%9C-%EA%B5%90%EC%9C%A1-%EC%84%B1%EA%B3%BC-%EA%B3%B5%EC%9C%A0/ar-AA2gNeHf",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%A0%84%EB%B6%81%EA%B5%90%EC%9C%A1%EC%B2%AD-14%EC%9D%BC-ai%EA%B5%90%EC%9C%A1-%EC%9D%B4%EC%9D%8C%EB%A7%88%EB%8B%B9-%EA%B0%9C%EC%B5%9C-%EA%B5%90%EC%9C%A1-%EC%84%B1%EA%B3%BC-%EA%B3%B5%EC%9C%A0/ar-AA2gNeHf",
       "source": "노컷뉴스 on MSN",
       "kind": "domestic",
       "publishedAt": "2026-11-05T05:50:18.000Z",
@@ -710,19 +710,6 @@
       "score": 56
     },
     {
-      "id": "b0843da26b8a",
-      "title": "중국, 대학 역사·현장 교육 확대…연말까지 학교별 주제 활동 추진",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9XYTMwN1hMYkVqY1dwdTFyZmNCbVR4S1lwMWYySDVTd19fTWNZLXdTOVNqQmpXSURhRkVoNExMZkVWNFE?oc=5",
-      "source": "한국공공정책신문",
-      "kind": "domestic",
-      "publishedAt": "2026-11-03T01:53:55.000Z",
-      "description": "중국, 대학 역사·현장 교육 확대…연말까지 학교별 주제 활동 추진 한국공공정책신문",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 52,
-      "score": 56
-    },
-    {
       "id": "c2d5eb352818",
       "title": "서·논술형 수능, 공정성·사교육 부담 우려… “공교육 기본 역량부터 강화해야”",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNcXA5REQ5UXkyWHVmLS1xTE41SER6dkZ2eE9oYkF1WUVBaWxWdUJfdW1IYWh2VVJHNUZ6azVfYXdvejNYYjBYNXRuYW1qR1ItZ0hxYXJ2d1dnbGxKMmstMUMwTUtpUQ?oc=5",
@@ -846,18 +833,18 @@
       "score": 51
     },
     {
-      "id": "93899709b910",
-      "title": "South Korea’s free tuition plan could reshape international student recruitment",
-      "url": "https://thepienews.com/south-koreas-free-tuition-plan-could-reshape-international-student-recruitment/",
-      "source": "The PIE News",
+      "id": "9dfdbad16d74",
+      "title": "Why South Korea's Falling Birth Rate Is Becoming a Major Challenge for Businesses and Government",
+      "url": "https://www.devdiscourse.com/article/other/4001716-why-south-koreas-falling-birth-rate-is-becoming-a-major-challenge-for-businesses-and-government",
+      "source": "Devdiscourse",
       "kind": "foreign",
-      "publishedAt": "2026-11-06T04:24:00.000Z",
-      "description": "South Korea is planning to provide full tuition support to new Korean students at 30 national universities outside the Seoul metropolitan area in 2027. Kyuseok (KS) Kim explores how this could impact ...",
-      "category": "유·초중등",
+      "publishedAt": "2026-11-05T19:22:00.000Z",
+      "description": "South Korea’s record-low fertility rate, driven by job insecurity, rising living costs and gender inequality, threatens economic growth, workforce availability and long-term financial stability. The ...",
+      "category": "기타",
       "score": 30,
-      "originalTitle": "South Korea’s free tuition plan could reshape international student recruitment",
-      "titleKo": "한국의 무료 수업 계획은 유학생 모집을 재편할 수 있습니다",
-      "summaryKo": "한국은 2027년 서울 수도권 이외의 30개 국립 대학교에서 신입생들에게 전액 학비 지원을 제공할 계획입니다. Kyuseok (KS) Kim은 이것이 어떻게 영향을 미칠 수 있는지 탐구합니다..."
+      "originalTitle": "Why South Korea's Falling Birth Rate Is Becoming a Major Challenge for Businesses and Government",
+      "titleKo": "한국의 출산율 하락이 기업과 정부의 주요 과제가 되고 있는 이유",
+      "summaryKo": "일자리 불안, 생활비 상승 및 성 불평등으로 인한 한국의 사상 최저 출산율은 경제 성장, 인력 가용성 및 장기적인 재정 안정성을 위협합니다."
     },
     {
       "id": "49fb2dbe2d01",
@@ -916,6 +903,34 @@
       "summaryKo": "한국은 학업 기록에 괴롭힘을 당하는 학생에 대해 가혹한 처벌을 제정했습니다. 이로 인해 왕따를 막기보다는 소송이 폭발적으로 증가했습니다."
     },
     {
+      "id": "b331ed091296",
+      "title": "South Korea names Busan, Daegu, Gwangju-Jeonnam education innovation hubs",
+      "url": "https://biz.chosun.com/en/en-society/2026/11/03/ROLFVNGXQRCYVMCJ664EKDPPNI/",
+      "source": "Chosunbiz",
+      "kind": "foreign",
+      "publishedAt": "2026-11-03T06:03:00.000Z",
+      "description": "South Korea names Busan, Daegu, Gwangju-Jeonnam education innovation hubs Government picks 43 regions for tailored education upgrades, with phased funding and evaluations through 2029 ...",
+      "category": "기타",
+      "score": 30,
+      "originalTitle": "South Korea names Busan, Daegu, Gwangju-Jeonnam education innovation hubs",
+      "titleKo": "대한민국 명칭 부산, 대구, 광주-전남 교육혁신허브",
+      "summaryKo": "대한민국은 부산, 대구, 광주-전남 교육혁신허브를 명명한다. 정부는 맞춤형 교육 업그레이드를 위해 43개 지역을 선정하고, 2029년까지 단계적인 자금 지원과 평가를 통해..."
+    },
+    {
+      "id": "bdf1a69732ad",
+      "title": "South Korea surpasses 300,000 international students, prioritizes quality education",
+      "url": "https://www.msn.com/en-xl/money/general/south-korea-surpasses-300-000-international-students-prioritizes-quality-education/ar-AA2gBBVH",
+      "source": "The Chosun Ilbo on MSN",
+      "kind": "foreign",
+      "publishedAt": "2026-11-02T14:50:26.000Z",
+      "description": "The number of international students studying at domestic universities has surpassed 300,000 people for the first time this year. The government had aimed to attract 300,000 international students by ...",
+      "category": "유·초중등",
+      "score": 30,
+      "originalTitle": "South Korea surpasses 300,000 international students, prioritizes quality education",
+      "titleKo": "한국 유학생 30만 명 돌파, 양질의 교육 우선",
+      "summaryKo": "국내 대학에서 공부하는 유학생 수가 올해 처음으로 30만 명을 돌파했습니다. 정부는 30만 명의 유학생을 유치하기 위해..."
+    },
+    {
       "id": "658df8a64b88",
       "title": "South Korea exceeds 300,000 international students, prioritizes education quality",
       "url": "https://www.msn.com/en-xl/news/other/south-korea-exceeds-300-000-international-students-prioritizes-education-quality/ar-AA2gBBVH",
@@ -942,6 +957,20 @@
       "originalTitle": "Hanam gets South Korea's first independent education support office",
       "titleKo": "하남, 한국 최초의 독립교육지원청 인수",
       "summaryKo": "대한민국 최초로 교육지원청을 분리한 하남교육지원청의 설립을 오늘 이 자리에서 약속드립니다. ”지난 15일... 참석자들 사이에서 박수가 터져 나왔다."
+    },
+    {
+      "id": "ca33bbdbc154",
+      "title": "Student suicides in South Korea rise 26% over four years",
+      "url": "https://www.upi.com/Top_News/World-News/2026/10/22/student-suicide-mental-health/4031792711145/",
+      "source": "UPI",
+      "kind": "foreign",
+      "publishedAt": "2026-10-22T12:20:00.000Z",
+      "description": "Student suicides in South Korea rose nearly 26% over four years as lawmakers questioned gaps in school counseling and suicide prevention data.",
+      "category": "유·초중등",
+      "score": 30,
+      "originalTitle": "Student suicides in South Korea rise 26% over four years",
+      "titleKo": "한국의 학생 자살률은 4년간 26% 증가",
+      "summaryKo": "국회의원들이 학교 상담 및 자살 예방 데이터의 격차에 의문을 제기함에 따라 한국의 학생 자살은 4 년 동안 거의 26% 증가했습니다."
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -951,14 +980,14 @@
     "throughDate": "2026-11-07",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-11-05T15:00:00.000Z",
-    "windowEnd": "2026-11-07T01:01:40.421Z",
+    "windowEnd": "2026-11-07T02:03:50.255Z",
     "itemIds": [
       "30162ec3af00",
       "e9a0dbfdadab",
-      "3ebbba24c31e",
       "54c6de60ec57",
       "f49e55c59d09",
       "bf7014447388",
+      "3ebbba24c31e",
       "ac6003a30805",
       "aacb3e7f095b",
       "18234270e19b",
@@ -969,7 +998,7 @@
       "8bc94e3d4072",
       "7d9e03f55991",
       "ff3e855ecd37",
-      "93899709b910"
+      "9dfdbad16d74"
     ],
     "stats": {
       "total": 17,
@@ -977,17 +1006,17 @@
       "domestic": 15,
       "foreign": 1
     },
-    "headline": "오늘 아침 교육뉴스는 교원·조직·AI·디지털·유·초중등 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 17건이 확인됐습니다. 교육부는 강의실을 넘어 세계로, 반도체·인공지능(AI) 인재 한자리에 모이다 등을 공식 발표했습니다. 국내 언론에서는 인천교육청 새 부교육감에 최은희...'읽걷쓰AI' 정책 추진 강조와 교육감협 '교육재정 상생안', 7월 교육부 장관 제안과 비슷 등이 주요하게 다뤄졌습니다. 해외에서는 한국의 무료 수업 계획은 유학생 모집을 재편할 수 있습니다 관련 보도가 확인됐습니다. 전체적으로는 교원·조직·AI·디지털·유·초중등 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "headline": "오늘 아침 교육뉴스는 교원·조직·AI·디지털·입시·사교육 이슈를 중심으로 형성됐습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 17건이 확인됐습니다. 교육부는 강의실을 넘어 세계로, 반도체·인공지능(AI) 인재 한자리에 모이다 등을 공식 발표했습니다. 국내 언론에서는 인천교육청 새 부교육감에 최은희...'읽걷쓰AI' 정책 추진 강조와 최은희 전 교육부 인재정책실장, 인천시교육청 부교육감 부임…교육정책 추진에 힘 보탠다 등이 주요하게 다뤄졌습니다. 해외에서는 한국의 출산율 하락이 기업과 정부의 주요 과제가 되고 있는 이유 관련 보도가 확인됐습니다. 전체적으로는 교원·조직·AI·디지털·입시·사교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "교원·조직",
-        "summary": "인천교육청 새 부교육감에 최은희...'읽걷쓰AI' 정책 추진 강조 · 교육감협 '교육재정 상생안', 7월 교육부 장관 제안과 비슷 · 최은희 전 교육부 인재정책실장, 인천시교육청 부교육감 부임…교육정책 추진에 힘 보탠다",
+        "summary": "인천교육청 새 부교육감에 최은희...'읽걷쓰AI' 정책 추진 강조 · 최은희 전 교육부 인재정책실장, 인천시교육청 부교육감 부임…교육정책 추진에 힘 보탠다 · 교육감협 '교육재정 상생안', 7월 교육부 장관 제안과 비슷",
         "why": "교원 업무·교권·인사와 직접 연결될 수 있어 현장 반응과 제도 운영상 쟁점을 살펴볼 필요가 있습니다.",
         "sources": [
           "경인매일",
-          "오마이뉴스 on MSN",
-          "뉴스프리존"
+          "뉴스프리존",
+          "오마이뉴스 on MSN"
         ]
       },
       {
@@ -1001,27 +1030,26 @@
         ]
       },
       {
-        "title": "유·초중등",
-        "summary": "인권위 ‘인권친화적 학교 조성’ 정책 권고…교육부, 절반만 수용 · 한국의 무료 수업 계획은 유학생 모집을 재편할 수 있습니다",
-        "why": "학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
-        "sources": [
-          "미디어생활",
-          "The PIE News"
-        ]
-      },
-      {
         "title": "입시·사교육",
         "summary": "[기자수첩]어려운 숙제만 비워둔 교육 청사진",
         "why": "대입·수능·사교육 이슈는 학생·학부모 체감도가 높고 후속 안내와 현장 반응 점검이 중요합니다.",
         "sources": [
           "머니투데이"
         ]
+      },
+      {
+        "title": "고등교육",
+        "summary": "과학 연구상을 수상한 학생들을 위한 장학금 및 입학 기회를 확대하십시오.",
+        "why": "대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다.",
+        "sources": [
+          "Vietnam.vn"
+        ]
       }
     ],
     "watchpoints": [
       "교원·조직: 교원 업무·교권·인사와 직접 연결될 수 있어 현장 반응과 제도 운영상 쟁점을 살펴볼 필요가 있습니다.",
       "AI·디지털: AI·디지털 전환 정책은 교육과정·교원역량·인프라와 연결되므로 실행 여건과 현장 적용성을 함께 봐야 합니다.",
-      "유·초중등: 학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다."
+      "입시·사교육: 대입·수능·사교육 이슈는 학생·학부모 체감도가 높고 후속 안내와 현장 반응 점검이 중요합니다."
     ]
   }
 }
