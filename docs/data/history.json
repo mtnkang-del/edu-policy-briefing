@@ -1,7 +1,8 @@
 {
-  "generatedAt": "2026-11-07T02:04:05.421Z",
+  "generatedAt": "2026-11-08T00:58:17.608Z",
   "retentionDays": 30,
   "days": [
+    "2026-11-08",
     "2026-11-07",
     "2026-11-06",
     "2026-11-05",
@@ -28,10 +29,36 @@
     "2026-10-13",
     "2026-10-12",
     "2026-10-11",
-    "2026-10-10",
-    "2026-10-09"
+    "2026-10-10"
   ],
   "items": [
+    {
+      "id": "03fa2890f368",
+      "title": "폐교의 새로운 시작, 지역의 가능성을 열다",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107592&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-11-08T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "지역·평생교육",
+      "policyRelevance": 100,
+      "score": 115,
+      "snapshotDate": "2026-11-08"
+    },
+    {
+      "id": "1238ba0de242",
+      "title": "[당신의 생각은] ‘학원 선행학습 금지’ 추진… “사교육 과열 방지” vs “교육 선택권 침해”",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONjFkeDZsWi14OV9xNGJSRHhISUdKLW81RjhpMGFBNTdrdnVrQnBvd0FaMVMwbXFCMWVwdEo3eWhhdVVKdE1IQjI2TVJTOGJJaEFEWDdCOFZtMnNBS2pfeTQ1TENwR3prUkx4RnVLZ3ZaN1drcVVtdUFNOHNQTUxZSUlHNk1MR2pXN094dmFvblJyVm5HNDFEaTR3M01oZ9IBngFBVV95cUxONjFkeDZsWi14OV9xNGJSRHhISUdKLW81RjhpMGFBNTdrdnVrQnBvd0FaMVMwbXFCMWVwdEo3eWhhdVVKdE1IQjI2TVJTOGJJaEFEWDdCOFZtMnNBS2pfeTQ1TENwR3prUkx4RnVLZ3ZaN1drcVVtdUFNOHNQTUxZSUlHNk1MR2pXN094dmFvblJyVm5HNDFEaTR3M01oZw?oc=5",
+      "source": "Chosunbiz",
+      "kind": "domestic",
+      "publishedAt": "2026-11-07T21:57:00.000Z",
+      "description": "[당신의 생각은] ‘학원 선행학습 금지’ 추진… “사교육 과열 방지” vs “교육 선택권 침해” Chosunbiz",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 42,
+      "score": 72,
+      "snapshotDate": "2026-11-08"
+    },
     {
       "id": "48797ec4af1a",
       "title": "과학 연구상을 수상한 학생들을 위한 장학금 및 입학 기회를 확대하십시오.",
@@ -43,8 +70,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 52,
-      "score": 76,
-      "snapshotDate": "2026-11-07"
+      "score": 66,
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "f49e55c59d09",
@@ -57,8 +84,8 @@
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 86,
-      "snapshotDate": "2026-11-07"
+      "score": 76,
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "aacb3e7f095b",
@@ -71,8 +98,22 @@
       "category": "AI·디지털",
       "feedProvider": "bing",
       "policyRelevance": 45,
-      "score": 81,
-      "snapshotDate": "2026-11-07"
+      "score": 71,
+      "snapshotDate": "2026-11-08"
+    },
+    {
+      "id": "1ddb5af0b129",
+      "title": "최은희 전 교육부 인재정책실장, 인천교육청 부교육감 부임…9일 업무 개시",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84X1dkbFNmUHZXakpSdGlnQnVXelJXQmRKVy10SzA5cmdWelBjWV9FTnVYNUY3ODJXTURjUm9qcUFScWRTalRtYXRrakp0cUdOejU5aW1YZ25Mdw?oc=5",
+      "source": "브릿지경제",
+      "kind": "domestic",
+      "publishedAt": "2026-11-06T05:38:00.000Z",
+      "description": "최은희 전 교육부 인재정책실장, 인천교육청 부교육감 부임…9일 업무 개시 브릿지경제",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 72,
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "756ff8c634ce",
@@ -85,8 +126,8 @@
       "category": "지역·평생교육",
       "feedProvider": "google",
       "policyRelevance": 47,
-      "score": 74,
-      "snapshotDate": "2026-11-07"
+      "score": 64,
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "8bc94e3d4072",
@@ -99,8 +140,8 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 47,
-      "score": 74,
-      "snapshotDate": "2026-11-07"
+      "score": 64,
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "bf7014447388",
@@ -113,8 +154,23 @@
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 82,
-      "snapshotDate": "2026-11-07"
+      "score": 72,
+      "snapshotDate": "2026-11-08"
+    },
+    {
+      "id": "93899709b910",
+      "title": "South Korea’s free tuition plan could reshape international student recruitment",
+      "url": "https://thepienews.com/south-koreas-free-tuition-plan-could-reshape-international-student-recruitment/",
+      "source": "The PIE News",
+      "kind": "foreign",
+      "publishedAt": "2026-11-06T04:24:00.000Z",
+      "description": "South Korea is planning to provide full tuition support to new Korean students at 30 national universities outside the Seoul metropolitan area in 2027. Kyuseok (KS) Kim explores how this could impact ...",
+      "category": "유·초중등",
+      "score": 30,
+      "originalTitle": "South Korea’s free tuition plan could reshape international student recruitment",
+      "titleKo": "한국의 무료 수업 계획은 유학생 모집을 재편할 수 있습니다",
+      "summaryKo": "한국은 2027년 서울 수도권 이외의 30개 국립 대학교에서 신입생들에게 전액 학비 지원을 제공할 계획입니다. Kyuseok (KS) Kim은 이것이 어떻게 영향을 미칠 수 있는지 탐구합니다...",
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "54c6de60ec57",
@@ -127,8 +183,8 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 77,
-      "score": 88,
-      "snapshotDate": "2026-11-07"
+      "score": 78,
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "0e02cb5ad1e9",
@@ -141,8 +197,8 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 77,
-      "snapshotDate": "2026-11-07"
+      "score": 67,
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "e9a0dbfdadab",
@@ -155,8 +211,8 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 77,
-      "score": 92,
-      "snapshotDate": "2026-11-07"
+      "score": 82,
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "3ebbba24c31e",
@@ -170,7 +226,7 @@
       "feedProvider": "bing",
       "policyRelevance": 77,
       "score": 82,
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "7d9e03f55991",
@@ -184,7 +240,7 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 72,
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "30162ec3af00",
@@ -197,7 +253,7 @@
       "category": "AI·디지털",
       "policyRelevance": 100,
       "score": 109,
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "18234270e19b",
@@ -225,7 +281,7 @@
       "feedProvider": "bing",
       "policyRelevance": 77,
       "score": 82,
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "9dfdbad16d74",
@@ -254,7 +310,7 @@
       "feedProvider": "bing",
       "policyRelevance": 65,
       "score": 76,
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "ff3e855ecd37",
@@ -268,7 +324,7 @@
       "feedProvider": "bing",
       "policyRelevance": 40,
       "score": 65,
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "a5eec51f4aec",
@@ -282,7 +338,7 @@
       "feedProvider": "bing",
       "policyRelevance": 65,
       "score": 76,
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "2acbe5683826",
@@ -296,7 +352,7 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 76,
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "c07c23afdf33",
@@ -310,7 +366,7 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 61,
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "1a5b30352bf1",
@@ -324,7 +380,7 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 76,
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "b530b8182cbe",
@@ -336,8 +392,8 @@
       "description": "교육부 공식 보도자료",
       "category": "기타",
       "policyRelevance": 100,
-      "score": 109,
-      "snapshotDate": "2026-11-07"
+      "score": 99,
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "9b78df47c142",
@@ -349,8 +405,8 @@
       "description": "교육부 공식 보도자료",
       "category": "유·초중등",
       "policyRelevance": 100,
-      "score": 105,
-      "snapshotDate": "2026-11-07"
+      "score": 95,
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "7c03a1c7d4ab",
@@ -363,8 +419,8 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 67,
-      "snapshotDate": "2026-11-07"
+      "score": 57,
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "d066fc253fee",
@@ -377,8 +433,8 @@
       "category": "교원·조직",
       "feedProvider": "bing",
       "policyRelevance": 77,
-      "score": 82,
-      "snapshotDate": "2026-11-07"
+      "score": 72,
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "9adba3e78d01",
@@ -391,8 +447,8 @@
       "category": "AI·디지털",
       "feedProvider": "bing",
       "policyRelevance": 75,
-      "score": 81,
-      "snapshotDate": "2026-11-07"
+      "score": 71,
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "5bbadfbcb3ff",
@@ -405,8 +461,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 42,
-      "score": 66,
-      "snapshotDate": "2026-11-07"
+      "score": 56,
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "a4bbcd827148",
@@ -433,8 +489,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 61,
-      "snapshotDate": "2026-11-07"
+      "score": 51,
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "49fb2dbe2d01",
@@ -449,7 +505,7 @@
       "originalTitle": "South Korea to Open New Regional Medical Schools at Suncheon National University and Gyeongguk National University by 2030",
       "titleKo": "한국, 2030년까지 순천대와 경국대에 새로운 지역 의과대학 개설",
       "summaryKo": "한국 정부는 순천대학교와 경국대학교를 새로운 \"지역 의과대학\" 이 설립될 대학으로 최종 확정했습니다...",
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "eaeaba9a6f79",
@@ -462,8 +518,8 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 67,
-      "snapshotDate": "2026-11-07"
+      "score": 57,
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "4434cb47482c",
@@ -476,8 +532,8 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 72,
-      "snapshotDate": "2026-11-07"
+      "score": 62,
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "2b94514b13bb",
@@ -492,7 +548,7 @@
       "originalTitle": "South Korea approves new medical schools at Sunchon and Gyeongguk for 2030",
       "titleKo": "한국, 2030년도 순천 · 경국 의대 신설 승인",
       "summaryKo": "한국은 2030년 순천과 경국에서 새로운 의과대학을 승인한다. 정부는 2030년 신입생 등록을 목표로 새로운 지역 의과대학을 위한 100석 규모의 입학을 설정한다...",
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "a9b1463b5b2c",
@@ -505,7 +561,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "b7babde6915f",
@@ -518,7 +574,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "9d1df6ed5ea3",
@@ -531,7 +587,7 @@
       "category": "고등교육",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "f33e53fc44ec",
@@ -616,7 +672,7 @@
       "originalTitle": "Andong's Gyeongkuk National University to Open Medical School in Provincial Government New Town in 2030; 630 Billion Won University Hospital with 500 Beds Also Planned",
       "titleKo": "안동의 경국대, 2030년 지방정부 뉴타운에 의과대학 개교, 500병상 규모 630억원 규모 대학병원도 계획",
       "summaryKo": "경상북도는 11월 4일 \"교육부가 의과대학 설립 최종 승인을...",
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "85ff88f448f3",
@@ -701,7 +757,7 @@
       "originalTitle": "South Korea Faces Consequences of Tough Anti-Bullying Policy",
       "titleKo": "한국은 엄격한 왕따 방지 정책의 결과에 직면해 있습니다.",
       "summaryKo": "한국은 학업 기록에 괴롭힘을 당하는 학생에 대해 가혹한 처벌을 제정했습니다. 이로 인해 왕따를 막기보다는 소송이 폭발적으로 증가했습니다.",
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "f7d855977196",
@@ -830,7 +886,7 @@
       "originalTitle": "Korea Picks 43 Regions for Education Reform With Up to 4 Billion Won Each",
       "titleKo": "한국, 교육개혁 43개 지역 선정 각 최대 40억 원 지원",
       "summaryKo": "한국, 교육개혁 43개 지역 선정 각 최대 40억원 지원 서울경제일보",
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "b331ed091296",
@@ -984,7 +1040,7 @@
       "category": "지역·평생교육",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "569583d772f3",
@@ -997,7 +1053,7 @@
       "category": "AI·디지털",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "3c0711c0189c",
@@ -1182,7 +1238,7 @@
       "originalTitle": "South Korea exceeds 300,000 international students, prioritizes education quality",
       "titleKo": "한국 유학생 30만 명 돌파, 교육의 질 우선시",
       "summaryKo": "국내 대학에서 공부하는 유학생 수가 올해 처음으로 30만 명을 돌파했습니다. 정부는 300명 유치를 목표로 다양한 정책을 시행했다.",
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "602801c53d85",
@@ -1419,7 +1475,7 @@
       "category": "유·초중등",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "c528df9bcb57",
@@ -1869,7 +1925,7 @@
       "snapshotDate": "2026-11-03"
     },
     {
-      "id": "61fe2bf0de55",
+      "id": "37ebf774154e",
       "title": "Tokyo Korean School posts strong university admissions results, but administrative gaps remain",
       "url": "https://biz.heraldcorp.com/article/10920766",
       "source": "Herald Business",
@@ -1877,13 +1933,11 @@
       "publishedAt": "2026-10-30T08:36:00.000Z",
       "description": "Tokyo Korean School in Japan is demonstrating strong university admissions competitiveness, sending graduates to top institutions in both South Korea and Japan, ...",
       "category": "입시·사교육",
-      "feedProvider": "bing",
-      "policyRelevance": 44,
-      "score": 54,
+      "score": 30,
       "originalTitle": "Tokyo Korean School posts strong university admissions results, but administrative gaps remain",
       "titleKo": "도쿄 한국 학교는 강력한 대학 입학 결과를 게시하지만 행정 격차는 여전히 남아 있습니다.",
       "summaryKo": "일본 도쿄한국학교는 졸업생들을 한국과 일본 양국의 우수 기관에 파견하는 등 강력한 대학 입학 경쟁력을 보여주고 있습니다.",
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "4da3242e156f",
@@ -3840,7 +3894,7 @@
       "originalTitle": "Hanam gets South Korea's first independent education support office",
       "titleKo": "하남, 한국 최초의 독립교육지원청 인수",
       "summaryKo": "대한민국 최초로 교육지원청을 분리한 하남교육지원청의 설립을 오늘 이 자리에서 약속드립니다. ”지난 15일... 참석자들 사이에서 박수가 터져 나왔다.",
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "4c08242a6e69",
@@ -4737,7 +4791,7 @@
       "originalTitle": "Student suicides in South Korea rise 26% over four years",
       "titleKo": "한국의 학생 자살률은 4년간 26% 증가",
       "summaryKo": "국회의원들이 학교 상담 및 자살 예방 데이터의 격차에 의문을 제기함에 따라 한국의 학생 자살은 4 년 동안 거의 26% 증가했습니다.",
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "ea7ef756df10",
@@ -8374,61 +8428,6 @@
       "policyRelevance": 47,
       "score": 54,
       "snapshotDate": "2026-10-16"
-    },
-    {
-      "id": "9424d3af842d",
-      "title": "[2026 국감] 이기정 대교협 회장 \"수시 접수 장애 무겁게 받아들여…정시 대비 TF 운영\"",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SSk1hcWxSU0hzZzdGWGdvUWg2QW42eFBQVnhKVnNsX0ZnNXFBWmZPVkNHQUV2UTZWMXF2Y2Y0bklVUGg1RXZEaFJZcmx5QVBJSkdSUGlURmFSTzZD?oc=5",
-      "source": "뉴스핌",
-      "kind": "domestic",
-      "publishedAt": "2026-10-12T02:18:00.000Z",
-      "description": "[2026 국감] 이기정 대교협 회장 \"수시 접수 장애 무겁게 받아들여…정시 대비 TF 운영\" 뉴스핌",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 62,
-      "snapshotDate": "2026-10-16"
-    },
-    {
-      "id": "66c035d842a9",
-      "title": "경북교육청, ‘학생평가 대전환’ 현장 중심 지원 강화",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oQXU4VGJYclFvVVFNbWliVWFwX2V0NDJzU2F0RE1QeWo2U3g3czlXVHhjN0Z3WVp2NGRLaDFOakczZC1welhHMnhvR0lEMXpPWnBFZko4VVVpQm5YaEVn?oc=5",
-      "source": "누리일보",
-      "kind": "domestic",
-      "publishedAt": "2026-10-12T01:10:04.000Z",
-      "description": "경북교육청, ‘학생평가 대전환’ 현장 중심 지원 강화 누리일보",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 63,
-      "snapshotDate": "2026-10-14"
-    },
-    {
-      "id": "959ac1ac3016",
-      "title": "임종식 경북교육감 취임 100일 들여다 봤더니…학교 부담 줄이고 학생 성장에 집중",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBlZl9kSjZOamtDQXloLXozU0NMX2lMQ09nU0laZVQzYkxlNTZPb1ZsSXpnY1RBMDl3UkNfRC1KcFR6ZDNHUlNpVjNtZnM?oc=5",
-      "source": "아이뉴스24",
-      "kind": "domestic",
-      "publishedAt": "2026-10-12T00:22:44.000Z",
-      "description": "임종식 경북교육감 취임 100일 들여다 봤더니…학교 부담 줄이고 학생 성장에 집중 아이뉴스24",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 63,
-      "snapshotDate": "2026-10-14"
-    },
-    {
-      "id": "b177ec3e252c",
-      "title": "사립대학 특성화에 집중 투자, 2026년 특성화 선도대학 33개교 선정",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107396&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-10-12T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "고등교육",
-      "policyRelevance": 100,
-      "score": 90,
-      "snapshotDate": "2026-10-20"
     }
   ]
 }
