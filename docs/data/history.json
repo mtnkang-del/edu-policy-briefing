@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T00:58:17.608Z",
+  "generatedAt": "2026-11-08T01:35:27.442Z",
   "retentionDays": 30,
   "days": [
     "2026-11-08",
@@ -88,6 +88,20 @@
       "snapshotDate": "2026-11-08"
     },
     {
+      "id": "3e3e00f4bbdd",
+      "title": "[동정] 장제국 동서대 총장, 국제대학협회 이사 선출",
+      "url": "https://www.yna.co.kr/view/AKR20261106115300051",
+      "source": "연합뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-06T06:41:00.000Z",
+      "description": "▲ 장제국 동서대학교 총장은 6일 고등교육 국제기구인 국제대학협회 (IAU)의 이사회 이사로 선출됐다. 장 총장은 2030년까지 4년간 IAU의 주요 정책 및 전략 수립, 글로벌 고등교육 협력에 관한 최고 의사결정 과정에 참여하게 된다. IAU는 1950년 유네스코 후원으로 설립된 세계적인 고등교육 국제기구로, 120여 개국 약 600개 대학 및 고등교육 ...",
+      "category": "고등교육",
+      "feedProvider": "bing",
+      "policyRelevance": 40,
+      "score": 61,
+      "snapshotDate": "2026-11-08"
+    },
+    {
       "id": "aacb3e7f095b",
       "title": "전북교육청, 42개교서 AI 리터러시 교육…딥페이크 대응 강화",
       "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261106010002435",
@@ -155,21 +169,6 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 72,
-      "snapshotDate": "2026-11-08"
-    },
-    {
-      "id": "93899709b910",
-      "title": "South Korea’s free tuition plan could reshape international student recruitment",
-      "url": "https://thepienews.com/south-koreas-free-tuition-plan-could-reshape-international-student-recruitment/",
-      "source": "The PIE News",
-      "kind": "foreign",
-      "publishedAt": "2026-11-06T04:24:00.000Z",
-      "description": "South Korea is planning to provide full tuition support to new Korean students at 30 national universities outside the Seoul metropolitan area in 2027. Kyuseok (KS) Kim explores how this could impact ...",
-      "category": "유·초중등",
-      "score": 30,
-      "originalTitle": "South Korea’s free tuition plan could reshape international student recruitment",
-      "titleKo": "한국의 무료 수업 계획은 유학생 모집을 재편할 수 있습니다",
-      "summaryKo": "한국은 2027년 서울 수도권 이외의 30개 국립 대학교에서 신입생들에게 전액 학비 지원을 제공할 계획입니다. Kyuseok (KS) Kim은 이것이 어떻게 영향을 미칠 수 있는지 탐구합니다...",
       "snapshotDate": "2026-11-08"
     },
     {
@@ -296,7 +295,7 @@
       "originalTitle": "Why South Korea's Falling Birth Rate Is Becoming a Major Challenge for Businesses and Government",
       "titleKo": "한국의 출산율 하락이 기업과 정부의 주요 과제가 되고 있는 이유",
       "summaryKo": "일자리 불안, 생활비 상승 및 성 불평등으로 인한 한국의 사상 최저 출산율은 경제 성장, 인력 가용성 및 장기적인 재정 안정성을 위협합니다.",
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "f1956228599a",
@@ -324,6 +323,20 @@
       "feedProvider": "bing",
       "policyRelevance": 40,
       "score": 65,
+      "snapshotDate": "2026-11-08"
+    },
+    {
+      "id": "a98c7427a200",
+      "title": "충남교육청, 전국 특수·통합교육 핵심교원 역량 결집",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1QaWVNbzlvYjlreUpsQlhYMHRqV28wMHZxX213eDA0UWpUNlRhdnpZY0FxNGdOQVFUSG56UVNZaVFYdw?oc=5",
+      "source": "브레이크뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-05T07:28:56.000Z",
+      "description": "충남교육청, 전국 특수·통합교육 핵심교원 역량 결집 브레이크뉴스",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 67,
       "snapshotDate": "2026-11-08"
     },
     {
@@ -379,7 +392,7 @@
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 76,
+      "score": 66,
       "snapshotDate": "2026-11-08"
     },
     {
@@ -4188,7 +4201,7 @@
       "originalTitle": "What is South Korea's College Scholastic Ability Test (Suneung)? A day when flights are grounded, and work and the stock market are delayed by an hour [November 19, 2026]",
       "titleKo": "한국의 대학수학능력시험 (수능) 이란? 항공편이 결항되어 업무와 주식시장이 한 시간 지연되는 날 [2026년 11월 19일]",
       "summaryKo": "한국에서는 매년 11월 목요일에 수험생들을 위해 전국민이 숨을 고르고 있습니다. 영어 듣기 섹션이 시작되면 공항 이륙 및 착륙...",
-      "snapshotDate": "2026-10-28"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "eecb33fecb30",
@@ -8413,20 +8426,6 @@
       "feedProvider": "google",
       "policyRelevance": 47,
       "score": 58,
-      "snapshotDate": "2026-10-16"
-    },
-    {
-      "id": "48f2c8ea4406",
-      "title": "최교진 교육부 장관, 태국 교육부 장관과 교육협력 확대 방안 논의",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81OUEzMUxNQ19lUThyWnJPeGgwQ3U2aGNzc2Uyb0gtTDdNbUxueHA2WWhCQ3NvWlN2RXFEdHh6QjZDVmNKNnVrbkd5OFpBdi1CWFctblZrdnp1MUJQLWtaM1BiNA?oc=5",
-      "source": "대한민국교육신문",
-      "kind": "domestic",
-      "publishedAt": "2026-10-12T02:32:49.000Z",
-      "description": "최교진 교육부 장관, 태국 교육부 장관과 교육협력 확대 방안 논의 대한민국교육신문",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 47,
-      "score": 54,
       "snapshotDate": "2026-10-16"
     }
   ]

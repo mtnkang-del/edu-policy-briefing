@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-08T00:49:43.733Z",
-  "generatedAtKST": "2026-11-08T09:49:40.311+09:00",
+  "generatedAt": "2026-11-08T01:35:10.425Z",
+  "generatedAtKST": "2026-11-08T10:35:07.942+09:00",
   "date": "2026-11-08",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 8,
-    "domesticGoogle": 104,
-    "foreignBing": 14,
-    "foreignGoogle": 138,
-    "carried": 75,
-    "rawUnique": 257,
-    "policyRejected": 219,
-    "policyKept": 38
+    "domesticBing": 10,
+    "domesticGoogle": 99,
+    "foreignBing": 12,
+    "foreignGoogle": 137,
+    "carried": 113,
+    "rawUnique": 248,
+    "policyRejected": 208,
+    "policyKept": 40
   },
   "briefing": [
     "폐교의 새로운 시작, 지역의 가능성을 열다 — 교육부",
@@ -24,10 +24,10 @@
     "제23회 대한민국 평생학습대상 시상식 및 2026년 평생학습도시 동판 수여식 개최 — 교육부"
   ],
   "stats": {
-    "total": 47,
+    "total": 50,
     "official": 10,
-    "domestic": 27,
-    "foreign": 10
+    "domestic": 29,
+    "foreign": 11
   },
   "items": [
     {
@@ -255,19 +255,6 @@
       "score": 76
     },
     {
-      "id": "1a5b30352bf1",
-      "title": "전북교육청, AI 교육 성과 공유하고 내년 정책 방향 모색",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92WUdRRUlqdEl3QnhjeEduNlZQeE9rN0haUDJyVlQ0dWtJV2F1MTZXQmNHeWhaTHVadlRGVkl4TDY0YTN2Z0ZyeDNpLVNtZVlCM0t6Vk8wb3JaSUVCZDlmVWhmS0tGWmtB?oc=5",
-      "source": "투데이안",
-      "kind": "domestic",
-      "publishedAt": "2026-11-05T01:31:11.000Z",
-      "description": "전북교육청, AI 교육 성과 공유하고 내년 정책 방향 모색 투데이안",
-      "category": "AI·디지털",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 76
-    },
-    {
       "id": "1238ba0de242",
       "title": "[당신의 생각은] ‘학원 선행학습 금지’ 추진… “사교육 과열 방지” vs “교육 선택권 침해”",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONjFkeDZsWi14OV9xNGJSRHhISUdKLW81RjhpMGFBNTdrdnVrQnBvd0FaMVMwbXFCMWVwdEo3eWhhdVVKdE1IQjI2TVJTOGJJaEFEWDdCOFZtMnNBS2pfeTQ1TENwR3prUkx4RnVLZ3ZaN1drcVVtdUFNOHNQTUxZSUlHNk1MR2pXN094dmFvblJyVm5HNDFEaTR3M01oZ9IBngFBVV95cUxONjFkeDZsWi14OV9xNGJSRHhISUdKLW81RjhpMGFBNTdrdnVrQnBvd0FaMVMwbXFCMWVwdEo3eWhhdVVKdE1IQjI2TVJTOGJJaEFEWDdCOFZtMnNBS2pfeTQ1TENwR3prUkx4RnVLZ3ZaN1drcVVtdUFNOHNQTUxZSUlHNk1MR2pXN094dmFvblJyVm5HNDFEaTR3M01oZw?oc=5",
@@ -372,6 +359,19 @@
       "score": 67
     },
     {
+      "id": "a98c7427a200",
+      "title": "충남교육청, 전국 특수·통합교육 핵심교원 역량 결집",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1QaWVNbzlvYjlreUpsQlhYMHRqV28wMHZxX213eDA0UWpUNlRhdnpZY0FxNGdOQVFUSG56UVNZaVFYdw?oc=5",
+      "source": "브레이크뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-05T07:28:56.000Z",
+      "description": "충남교육청, 전국 특수·통합교육 핵심교원 역량 결집 브레이크뉴스",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 67
+    },
+    {
       "id": "48797ec4af1a",
       "title": "과학 연구상을 수상한 학생들을 위한 장학금 및 입학 기회를 확대하십시오.",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmFhNkpEQjZrbWthNlc5bDI5cmRUdnM0aEFLeWlYc2VBa1FqUFduemh2eXlreU8yZTRJdDBwV0Rpd1ZHLUJhUHdoOFNSTGVxNm1SekRTQlJkVUljSDR1SmNBY3dPZm1abTVpNEhhMHdmSll3NXAyQkZ2X1g0ZTFWanZEaS0xMTdGMnFoUXU3WGxsbmlzRTZyVnpjc3FwVklQNXc?oc=5",
@@ -382,6 +382,19 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 52,
+      "score": 66
+    },
+    {
+      "id": "1a5b30352bf1",
+      "title": "전북교육청, AI 교육 성과 공유하고 내년 정책 방향 모색",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92WUdRRUlqdEl3QnhjeEduNlZQeE9rN0haUDJyVlQ0dWtJV2F1MTZXQmNHeWhaTHVadlRGVkl4TDY0YTN2Z0ZyeDNpLVNtZVlCM0t6Vk8wb3JaSUVCZDlmVWhmS0tGWmtB?oc=5",
+      "source": "투데이안",
+      "kind": "domestic",
+      "publishedAt": "2026-11-05T01:31:11.000Z",
+      "description": "전북교육청, AI 교육 성과 공유하고 내년 정책 방향 모색 투데이안",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 65,
       "score": 66
     },
     {
@@ -435,6 +448,19 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 62
+    },
+    {
+      "id": "3e3e00f4bbdd",
+      "title": "[동정] 장제국 동서대 총장, 국제대학협회 이사 선출",
+      "url": "https://www.yna.co.kr/view/AKR20261106115300051",
+      "source": "연합뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-06T06:41:00.000Z",
+      "description": "▲ 장제국 동서대학교 총장은 6일 고등교육 국제기구인 국제대학협회 (IAU)의 이사회 이사로 선출됐다. 장 총장은 2030년까지 4년간 IAU의 주요 정책 및 전략 수립, 글로벌 고등교육 협력에 관한 최고 의사결정 과정에 참여하게 된다. IAU는 1950년 유네스코 후원으로 설립된 세계적인 고등교육 국제기구로, 120여 개국 약 600개 대학 및 고등교육 ...",
+      "category": "고등교육",
+      "feedProvider": "bing",
+      "policyRelevance": 40,
+      "score": 61
     },
     {
       "id": "c07c23afdf33",
@@ -518,18 +544,18 @@
       "score": 51
     },
     {
-      "id": "93899709b910",
-      "title": "South Korea’s free tuition plan could reshape international student recruitment",
-      "url": "https://thepienews.com/south-koreas-free-tuition-plan-could-reshape-international-student-recruitment/",
-      "source": "The PIE News",
+      "id": "9dfdbad16d74",
+      "title": "Why South Korea's Falling Birth Rate Is Becoming a Major Challenge for Businesses and Government",
+      "url": "https://www.devdiscourse.com/article/other/4001716-why-south-koreas-falling-birth-rate-is-becoming-a-major-challenge-for-businesses-and-government",
+      "source": "Devdiscourse",
       "kind": "foreign",
-      "publishedAt": "2026-11-06T04:24:00.000Z",
-      "description": "South Korea is planning to provide full tuition support to new Korean students at 30 national universities outside the Seoul metropolitan area in 2027. Kyuseok (KS) Kim explores how this could impact ...",
-      "category": "유·초중등",
+      "publishedAt": "2026-11-05T19:22:00.000Z",
+      "description": "South Korea’s record-low fertility rate, driven by job insecurity, rising living costs and gender inequality, threatens economic growth, workforce availability and long-term financial stability. The ...",
+      "category": "기타",
       "score": 30,
-      "originalTitle": "South Korea’s free tuition plan could reshape international student recruitment",
-      "titleKo": "한국의 무료 수업 계획은 유학생 모집을 재편할 수 있습니다",
-      "summaryKo": "한국은 2027년 서울 수도권 이외의 30개 국립 대학교에서 신입생들에게 전액 학비 지원을 제공할 계획입니다. Kyuseok (KS) Kim은 이것이 어떻게 영향을 미칠 수 있는지 탐구합니다..."
+      "originalTitle": "Why South Korea's Falling Birth Rate Is Becoming a Major Challenge for Businesses and Government",
+      "titleKo": "한국의 출산율 하락이 기업과 정부의 주요 과제가 되고 있는 이유",
+      "summaryKo": "일자리 불안, 생활비 상승 및 성 불평등으로 인한 한국의 사상 최저 출산율은 경제 성장, 인력 가용성 및 장기적인 재정 안정성을 위협합니다."
     },
     {
       "id": "49fb2dbe2d01",
@@ -630,6 +656,20 @@
       "summaryKo": "대한민국 최초로 교육지원청을 분리한 하남교육지원청의 설립을 오늘 이 자리에서 약속드립니다. ”지난 15일... 참석자들 사이에서 박수가 터져 나왔다."
     },
     {
+      "id": "f9a0709852a5",
+      "title": "What is South Korea's College Scholastic Ability Test (Suneung)? A day when flights are grounded, and work and the stock market are delayed by an hour [November 19, 2026]",
+      "url": "https://note.com/aki_annyeong/n/n8aa5924d8439?hl=en",
+      "source": "note",
+      "kind": "foreign",
+      "publishedAt": "2026-10-24T09:16:00.000Z",
+      "description": "Every year on a Thursday in November in South Korea, the entire nation holds its breath for the sake of the examinees. When the English listening section begins, takeoffs and landings at airports ...",
+      "category": "고등교육",
+      "score": 30,
+      "originalTitle": "What is South Korea's College Scholastic Ability Test (Suneung)? A day when flights are grounded, and work and the stock market are delayed by an hour [November 19, 2026]",
+      "titleKo": "한국의 대학수학능력시험 (수능) 이란? 항공편이 결항되어 업무와 주식시장이 한 시간 지연되는 날 [2026년 11월 19일]",
+      "summaryKo": "한국에서는 매년 11월 목요일에 수험생들을 위해 전국민이 숨을 고르고 있습니다. 영어 듣기 섹션이 시작되면 공항 이륙 및 착륙..."
+    },
+    {
       "id": "ca33bbdbc154",
       "title": "Student suicides in South Korea rise 26% over four years",
       "url": "https://www.upi.com/Top_News/World-News/2026/10/22/student-suicide-mental-health/4031792711145/",
@@ -651,7 +691,7 @@
     "throughDate": "2026-11-08",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-11-06T15:00:00.000Z",
-    "windowEnd": "2026-11-08T00:49:43.733Z",
+    "windowEnd": "2026-11-08T01:35:10.425Z",
     "itemIds": [
       "03fa2890f368",
       "1238ba0de242"
