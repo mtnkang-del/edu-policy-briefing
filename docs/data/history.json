@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T01:06:03.172Z",
+  "generatedAt": "2026-11-09T01:47:46.030Z",
   "retentionDays": 30,
   "days": [
     "2026-11-09",
@@ -32,6 +32,20 @@
     "2026-10-11"
   ],
   "items": [
+    {
+      "id": "5b1ddadf524c",
+      "title": "[한국교육정책사] 문민정부의 고등교육 대개혁: 통제에서 자율로, 30년 패러다임 전환의 분수령",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FajEwZUpVemNkUzYzLXU3MEtqWHcwbUZUR2t5WUlYTDBwUnJxaG95UFp4T2pnOEdXTzhOSGRSTEY2MGd4Nmpwdzh3RTVFV0lZUTVNckQwU2ZmVV9xelg4?oc=5",
+      "source": "한국교육신문",
+      "kind": "domestic",
+      "publishedAt": "2026-11-09T01:00:00.000Z",
+      "description": "[한국교육정책사] 문민정부의 고등교육 대개혁: 통제에서 자율로, 30년 패러다임 전환의 분수령 한국교육신문",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 82,
+      "snapshotDate": "2026-11-09"
+    },
     {
       "id": "954f62279271",
       "title": "박백범 가톨릭꽃동네대 총장 “소규모 특성화 대학 맞춤형 정책 시급… ‘돌봄 특성화’로 지역과 성장할 것”[파워인터뷰]",
@@ -75,6 +89,20 @@
       "snapshotDate": "2026-11-09"
     },
     {
+      "id": "897641f3d6fd",
+      "title": "경기도교육청, 중등 교원 학생평가 전문성 강화 지원 ‘학생평가 전문가(기본) 과정’ 직무연수 성료",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DUHI4NjJlZ1NIazZwZ3NLOFZxTlhLMWpqSmNCcWsxWDkyZXR4V0lKcVM0UzFodXdQclI5aW5KLW02dXV0U0ZTeVFXSF9SMmY3ZzdXTjRHWXI0S1E1?oc=5",
+      "source": "누리일보",
+      "kind": "domestic",
+      "publishedAt": "2026-11-08T09:10:09.000Z",
+      "description": "경기도교육청, 중등 교원 학생평가 전문성 강화 지원 ‘학생평가 전문가(기본) 과정’ 직무연수 성료 누리일보",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 77,
+      "snapshotDate": "2026-11-09"
+    },
+    {
       "id": "135e16fa2583",
       "title": "교육|문화 충남교육청, 초등 교원 '서 · 논술' 평가 연수",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mMS1sZE9vU2hqWWVlX1RWQU45Y0xPMnZoUUc3aFdGWGZXZktVS0wwSVl2Q2VpV29YYVAyMlE3NlhtcGUxTEJzYVNZY1RiaWZuSlRvQWphUEVqQQ?oc=5",
@@ -99,7 +127,7 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 82,
+      "score": 72,
       "snapshotDate": "2026-11-09"
     },
     {
@@ -364,7 +392,7 @@
       "category": "교원·조직",
       "feedProvider": "bing",
       "policyRelevance": 77,
-      "score": 82,
+      "score": 72,
       "snapshotDate": "2026-11-09"
     },
     {
@@ -589,21 +617,7 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 66,
-      "snapshotDate": "2026-11-09"
-    },
-    {
-      "id": "ca7e9fd6e138",
-      "title": "대전시교육청, 부모와 자녀의 마음을 잇는 학부모 코칭교육 실시",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kUWg1R0xVQXE4dDN6Mnd2aU1kN3VWZ3h6ZmZLcVZTX0lEX1R4cmdvUU1MMXFPenRncFZ6M0RocmRtZnRrT2VwSlNzNm1GTkhGOU5jcFBoYjk0Y2JYTDNibVh3?oc=5",
-      "source": "누리일보",
-      "kind": "domestic",
-      "publishedAt": "2026-11-05T01:10:24.000Z",
-      "description": "대전시교육청, 부모와 자녀의 마음을 잇는 학부모 코칭교육 실시 누리일보",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 53,
-      "snapshotDate": "2026-11-09"
+      "snapshotDate": "2026-11-08"
     },
     {
       "id": "b530b8182cbe",
@@ -1334,7 +1348,7 @@
       "originalTitle": "South Korea surpasses 300,000 international students, prioritizes quality education",
       "titleKo": "한국 유학생 30만 명 돌파, 양질의 교육 우선",
       "summaryKo": "국내 대학에서 공부하는 유학생 수가 올해 처음으로 30만 명을 돌파했습니다. 정부는 30만 명의 유학생을 유치하기 위해...",
-      "snapshotDate": "2026-11-09"
+      "snapshotDate": "2026-11-07"
     },
     {
       "id": "ddc7dac907d9",
@@ -4411,7 +4425,7 @@
       "originalTitle": "What is South Korea's College Scholastic Ability Test (Suneung)? A day when flights are grounded, and work and the stock market are delayed by an hour [November 19, 2026]",
       "titleKo": "한국의 대학수학능력시험 (수능) 이란? 항공편이 결항되어 업무와 주식시장이 한 시간 지연되는 날 [2026년 11월 19일]",
       "summaryKo": "한국에서는 매년 11월 목요일에 수험생들을 위해 전국민이 숨을 고르고 있습니다. 영어 듣기 섹션이 시작되면 공항 이륙 및 착륙...",
-      "snapshotDate": "2026-11-08"
+      "snapshotDate": "2026-11-09"
     },
     {
       "id": "eecb33fecb30",
@@ -8408,20 +8422,6 @@
       "kind": "domestic",
       "publishedAt": "2026-10-12T09:27:31.000Z",
       "description": "김영도 전문대교협 회장 “기술 인재 양성할 직업교육법 필요”[2026 국감] 한국대학신문",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 63,
-      "snapshotDate": "2026-10-14"
-    },
-    {
-      "id": "dba1942fc066",
-      "title": "김영도 전문대교협 회장 “산업구조 빠르게 재편… 직업교육법 제정 시급”[2026 국감]",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mUHVUblA2TEh1VE84SklETTdHcWdvZ2RFMkcycWZvZW02QjFBTml4ZUJOZWRBeXpidDN5XzA3dWdFZVUwc19QcVJUZ29ONTJ5XzVpWHhSYzY2eGpWR2Z3U29JdjB6QQ?oc=5",
-      "source": "한국대학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-10-12T09:27:31.000Z",
-      "description": "김영도 전문대교협 회장 “산업구조 빠르게 재편… 직업교육법 제정 시급”[2026 국감] 한국대학신문",
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 45,
