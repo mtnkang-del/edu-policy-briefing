@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-10T03:42:05.864Z",
-  "generatedAtKST": "2026-11-10T12:42:03.922+09:00",
+  "generatedAt": "2026-11-10T04:12:12.702Z",
+  "generatedAtKST": "2026-11-10T13:12:09.987+09:00",
   "date": "2026-11-10",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 15,
+    "domesticBing": 12,
     "domesticGoogle": 81,
-    "foreignBing": 11,
-    "foreignGoogle": 126,
-    "carried": 72,
-    "rawUnique": 209,
-    "policyRejected": 160,
-    "policyKept": 49
+    "foreignBing": 12,
+    "foreignGoogle": 127,
+    "carried": 124,
+    "rawUnique": 213,
+    "policyRejected": 162,
+    "policyKept": 51
   },
   "briefing": [
     "너랑 나랑 다 같이, 한국어로 하나 되는 세계 청소년 — 교육부",
@@ -24,10 +24,10 @@
     "폐교의 새로운 시작, 지역의 가능성을 열다 — 교육부"
   ],
   "stats": {
-    "total": 56,
+    "total": 60,
     "official": 9,
-    "domestic": 36,
-    "foreign": 11
+    "domestic": 38,
+    "foreign": 13
   },
   "items": [
     {
@@ -89,6 +89,19 @@
       "category": "지역·평생교육",
       "policyRelevance": 100,
       "score": 105
+    },
+    {
+      "id": "144aa627881d",
+      "title": "교육재정 부족 현실화... 시·도교육청 예산 4.8조 구멍",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95-%EB%B6%80%EC%A1%B1-%ED%98%84%EC%8B%A4%ED%99%94-%EC%8B%9C-%EB%8F%84%EA%B5%90%EC%9C%A1%EC%B2%AD-%EC%98%88%EC%82%B0-4-8%EC%A1%B0-%EA%B5%AC%EB%A9%8D/ar-AA2h6bPK",
+      "source": "오마이뉴스 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-09T18:49:36.000Z",
+      "description": "정부가 추진하는 지방교육재정교부금 개편에 교육계가 \"교육재정이 줄어들게 된다\"라며 반발하는 가운데, 전국 16 개 시 · 도교육청이 2027 년도 세출예산 편성 필요액 중 편성되지 않은 미 편성액이 4조 8685 억 원에 달하는 것으로 나타 ...",
+      "category": "재정·법령",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
+      "score": 100
     },
     {
       "id": "962000b9049e",
@@ -335,6 +348,19 @@
       "feedProvider": "bing",
       "policyRelevance": 75,
       "score": 77
+    },
+    {
+      "id": "e60858d7be49",
+      "title": "교육부, 일본 문부과학성과 AI교육 등 협력 논의",
+      "url": "https://www.yna.co.kr/view/AKR20261109043000530",
+      "source": "연합뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-09T04:00:00.000Z",
+      "description": "(서울=연합뉴스) 노재현 기자 = 교육부는 9∼11일 일본 도쿄에서 일본 문부과학성과 '2026년 한·일 교육행정교류 프로그램'을 운영한다고 9일 밝혔다. 이난영 교육부 국제교육기획관을 단장으로 하는 한국 대표단은 일본 문부과학성을 방문해 인공지능(AI) 교육 등 양국의 주요 교육정책 및 현안을 공유하고 교육 분야 협력 방안을 논의한다. 또 도쿄대, 일본학 ...",
+      "category": "AI·디지털",
+      "feedProvider": "bing",
+      "policyRelevance": 65,
+      "score": 76
     },
     {
       "id": "5b1ddadf524c",
@@ -741,18 +767,32 @@
       "summaryKo": "경상북도는 11월 4일 \"교육부가 의과대학 설립 최종 승인을..."
     },
     {
-      "id": "b331ed091296",
-      "title": "South Korea names Busan, Daegu, Gwangju-Jeonnam education innovation hubs",
-      "url": "https://biz.chosun.com/en/en-society/2026/11/03/ROLFVNGXQRCYVMCJ664EKDPPNI/",
-      "source": "Chosunbiz",
+      "id": "348586e5ec82",
+      "title": "South Korea Faces Consequences of Tough Anti-Bullying Policy",
+      "url": "https://www.psychologytoday.com/za/blog/resilience-to-bullying/202606/south-korea-faces-consequences-of-tough-anti-bullying-policy",
+      "source": "Psychology Today",
       "kind": "foreign",
-      "publishedAt": "2026-11-03T06:03:00.000Z",
-      "description": "South Korea names Busan, Daegu, Gwangju-Jeonnam education innovation hubs Government picks 43 regions for tailored education upgrades, with phased funding and evaluations through 2029 ...",
+      "publishedAt": "2026-11-03T13:54:00.000Z",
+      "description": "South Korea has enacted harsh punishments for students who have bullying on their academic record. Rather than putting a stop to bullying, this has led to an explosion of lawsuits.",
       "category": "기타",
       "score": 30,
-      "originalTitle": "South Korea names Busan, Daegu, Gwangju-Jeonnam education innovation hubs",
-      "titleKo": "대한민국 명칭 부산, 대구, 광주-전남 교육혁신허브",
-      "summaryKo": "대한민국은 부산, 대구, 광주-전남 교육혁신허브를 명명한다. 정부는 맞춤형 교육 업그레이드를 위해 43개 지역을 선정하고, 2029년까지 단계적인 자금 지원과 평가를 통해..."
+      "originalTitle": "South Korea Faces Consequences of Tough Anti-Bullying Policy",
+      "titleKo": "한국은 엄격한 왕따 방지 정책의 결과에 직면해 있습니다.",
+      "summaryKo": "한국은 학업 기록에 괴롭힘을 당하는 학생에 대해 가혹한 처벌을 제정했습니다. 이로 인해 왕따를 막기보다는 소송이 폭발적으로 증가했습니다."
+    },
+    {
+      "id": "bdf1a69732ad",
+      "title": "South Korea surpasses 300,000 international students, prioritizes quality education",
+      "url": "https://www.msn.com/en-xl/money/general/south-korea-surpasses-300-000-international-students-prioritizes-quality-education/ar-AA2gBBVH",
+      "source": "The Chosun Ilbo on MSN",
+      "kind": "foreign",
+      "publishedAt": "2026-11-02T14:50:26.000Z",
+      "description": "The number of international students studying at domestic universities has surpassed 300,000 people for the first time this year. The government had aimed to attract 300,000 international students by ...",
+      "category": "유·초중등",
+      "score": 30,
+      "originalTitle": "South Korea surpasses 300,000 international students, prioritizes quality education",
+      "titleKo": "한국 유학생 30만 명 돌파, 양질의 교육 우선",
+      "summaryKo": "국내 대학에서 공부하는 유학생 수가 올해 처음으로 30만 명을 돌파했습니다. 정부는 30만 명의 유학생을 유치하기 위해..."
     },
     {
       "id": "658df8a64b88",
@@ -767,6 +807,20 @@
       "originalTitle": "South Korea exceeds 300,000 international students, prioritizes education quality",
       "titleKo": "한국 유학생 30만 명 돌파, 교육의 질 우선시",
       "summaryKo": "국내 대학에서 공부하는 유학생 수가 올해 처음으로 30만 명을 돌파했습니다. 정부는 300명 유치를 목표로 다양한 정책을 시행했다."
+    },
+    {
+      "id": "37ebf774154e",
+      "title": "Tokyo Korean School posts strong university admissions results, but administrative gaps remain",
+      "url": "https://biz.heraldcorp.com/article/10920766",
+      "source": "Herald Business",
+      "kind": "foreign",
+      "publishedAt": "2026-10-30T08:36:00.000Z",
+      "description": "Tokyo Korean School in Japan is demonstrating strong university admissions competitiveness, sending graduates to top institutions in both South Korea and Japan, ...",
+      "category": "입시·사교육",
+      "score": 30,
+      "originalTitle": "Tokyo Korean School posts strong university admissions results, but administrative gaps remain",
+      "titleKo": "도쿄 한국 학교는 강력한 대학 입학 결과를 게시하지만 행정 격차는 여전히 남아 있습니다.",
+      "summaryKo": "일본 도쿄한국학교는 졸업생들을 한국과 일본 양국의 우수 기관에 파견하는 등 강력한 대학 입학 경쟁력을 보여주고 있습니다."
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -776,12 +830,13 @@
     "throughDate": "2026-11-10",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-11-08T15:00:00.000Z",
-    "windowEnd": "2026-11-10T03:42:05.864Z",
+    "windowEnd": "2026-11-10T04:12:12.702Z",
     "itemIds": [
       "089217be7135",
       "38a7d6f15524",
       "cdfb955a165b",
       "86871bbe8cdb",
+      "144aa627881d",
       "962000b9049e",
       "18274c16c199",
       "8c57c023b21e",
@@ -796,6 +851,7 @@
       "d48d48c3a595",
       "fba9eaa4bf4b",
       "469f1b34794c",
+      "e60858d7be49",
       "5b1ddadf524c",
       "8bbe009e78d8",
       "00618693d9ad",
@@ -805,24 +861,14 @@
       "61afccff9438"
     ],
     "stats": {
-      "total": 25,
+      "total": 27,
       "official": 4,
-      "domestic": 18,
+      "domestic": 20,
       "foreign": 3
     },
-    "headline": "오늘 아침 교육뉴스는 유·초중등·AI·디지털·입시·사교육 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 25건이 확인됐습니다. 교육부는 너랑 나랑 다 같이, 한국어로 하나 되는 세계 청소년, 수능 수험생 여러분, 전자기기 가져오지 마세요!와 스마트 안경 관련 내신평가 부정행위 전수조사 결과 등을 공식 발표했습니다. 국내 언론에서는 박상근 서울시의원 “강남·강북 교육격차, 학생 수 아닌 ‘교육균형발전지수’로 예산·인력 나눠야”와 “스마트안경 착용만 해도 시험 무효”…교육부, 수능 유의사항 발표 등이 주요하게 다뤄졌습니다. 해외에서는 한국 최초의 난민 대학 입학 프로그램은 희망을 제공하지만 장벽과 저항은 여전히 남아 있습니다. 관련 보도가 확인됐습니다. 전체적으로는 유·초중등·AI·디지털·입시·사교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "headline": "오늘 아침 교육뉴스는 AI·디지털·유·초중등·입시·사교육 이슈를 중심으로 형성됐습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 27건이 확인됐습니다. 교육부는 너랑 나랑 다 같이, 한국어로 하나 되는 세계 청소년, 수능 수험생 여러분, 전자기기 가져오지 마세요!와 스마트 안경 관련 내신평가 부정행위 전수조사 결과 등을 공식 발표했습니다. 국내 언론에서는 교육재정 부족 현실화... 시·도교육청 예산 4.8조 구멍와 박상근 서울시의원 “강남·강북 교육격차, 학생 수 아닌 ‘교육균형발전지수’로 예산·인력 나눠야” 등이 주요하게 다뤄졌습니다. 해외에서는 한국 최초의 난민 대학 입학 프로그램은 희망을 제공하지만 장벽과 저항은 여전히 남아 있습니다. 관련 보도가 확인됐습니다. 전체적으로는 AI·디지털·유·초중등·입시·사교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
-      {
-        "title": "유·초중등",
-        "summary": "교육부, 맞춤형 현장 자문으로 학생 마음건강 안전망 강화 · 세종시교육청 내년 예산 1조 2,060억…”줄일 건 줄이고 학생 안전·AI 교육엔 투자\" · [교육부] 장애인평생교육은 뒷전, 장애학생 통합교육 예산은 불투명",
-        "why": "학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
-        "sources": [
-          "교육부",
-          "위키트리",
-          "비마이너"
-        ]
-      },
       {
         "title": "AI·디지털",
         "summary": "박상근 서울시의원 “강남·강북 교육격차, 학생 수 아닌 ‘교육균형발전지수’로 예산·인력 나눠야” · 교육부-일본 문부과학성, 교육행정 교류로 상호이해와 협력 강화 · 교육부, 일본과 AI 교육정책 협력 강화…초·중등부터 대학까지",
@@ -831,6 +877,16 @@
           "서울신문 on MSN",
           "한국사회복지저널",
           "전자신문"
+        ]
+      },
+      {
+        "title": "유·초중등",
+        "summary": "교육부, 맞춤형 현장 자문으로 학생 마음건강 안전망 강화 · 세종시교육청 내년 예산 1조 2,060억…”줄일 건 줄이고 학생 안전·AI 교육엔 투자\" · [교육부] 장애인평생교육은 뒷전, 장애학생 통합교육 예산은 불투명",
+        "why": "학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
+        "sources": [
+          "교육부",
+          "위키트리",
+          "비마이너"
         ]
       },
       {
@@ -845,18 +901,18 @@
       },
       {
         "title": "재정·법령",
-        "summary": "세종시교육청, 내년도 본예산 1조 2,060억 원 편성 · 국회 교육위원장 “기금 졸속 신설 반대”…교육예산 심사쟁점 · 강경숙 의원, 지방교육재정 안정화 법안 발의…증감 폭 5% 기준 조정",
+        "summary": "교육재정 부족 현실화... 시·도교육청 예산 4.8조 구멍 · 세종시교육청, 내년도 본예산 1조 2,060억 원 편성 · 국회 교육위원장 “기금 졸속 신설 반대”…교육예산 심사쟁점",
         "why": "예산·법령 변화는 정책 집행의 직접 근거가 되므로 세부 기준과 시행 일정 확인이 중요합니다.",
         "sources": [
+          "오마이뉴스 on MSN",
           "충청시사신문",
-          "한국교육신문",
-          "뉴스1 on MSN"
+          "한국교육신문"
         ]
       }
     ],
     "watchpoints": [
-      "유·초중등: 학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
       "AI·디지털: AI·디지털 전환 정책은 교육과정·교원역량·인프라와 연결되므로 실행 여건과 현장 적용성을 함께 봐야 합니다.",
+      "유·초중등: 학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
       "입시·사교육: 대입·수능·사교육 이슈는 학생·학부모 체감도가 높고 후속 안내와 현장 반응 점검이 중요합니다."
     ]
   }

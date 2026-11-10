@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T03:42:20.216Z",
+  "generatedAt": "2026-11-10T04:12:29.334Z",
   "retentionDays": 30,
   "days": [
     "2026-11-10",
@@ -99,6 +99,20 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 115,
+      "snapshotDate": "2026-11-10"
+    },
+    {
+      "id": "144aa627881d",
+      "title": "교육재정 부족 현실화... 시·도교육청 예산 4.8조 구멍",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95-%EB%B6%80%EC%A1%B1-%ED%98%84%EC%8B%A4%ED%99%94-%EC%8B%9C-%EB%8F%84%EA%B5%90%EC%9C%A1%EC%B2%AD-%EC%98%88%EC%82%B0-4-8%EC%A1%B0-%EA%B5%AC%EB%A9%8D/ar-AA2h6bPK",
+      "source": "오마이뉴스 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-09T18:49:36.000Z",
+      "description": "정부가 추진하는 지방교육재정교부금 개편에 교육계가 \"교육재정이 줄어들게 된다\"라며 반발하는 가운데, 전국 16 개 시 · 도교육청이 2027 년도 세출예산 편성 필요액 중 편성되지 않은 미 편성액이 4조 8685 억 원에 달하는 것으로 나타 ...",
+      "category": "재정·법령",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
+      "score": 100,
       "snapshotDate": "2026-11-10"
     },
     {
@@ -245,6 +259,20 @@
       "feedProvider": "google",
       "policyRelevance": 75,
       "score": 91,
+      "snapshotDate": "2026-11-10"
+    },
+    {
+      "id": "e60858d7be49",
+      "title": "교육부, 일본 문부과학성과 AI교육 등 협력 논의",
+      "url": "https://www.yna.co.kr/view/AKR20261109043000530",
+      "source": "연합뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-09T04:00:00.000Z",
+      "description": "(서울=연합뉴스) 노재현 기자 = 교육부는 9∼11일 일본 도쿄에서 일본 문부과학성과 '2026년 한·일 교육행정교류 프로그램'을 운영한다고 9일 밝혔다. 이난영 교육부 국제교육기획관을 단장으로 하는 한국 대표단은 일본 문부과학성을 방문해 인공지능(AI) 교육 등 양국의 주요 교육정책 및 현안을 공유하고 교육 분야 협력 방안을 논의한다. 또 도쿄대, 일본학 ...",
+      "category": "AI·디지털",
+      "feedProvider": "bing",
+      "policyRelevance": 65,
+      "score": 76,
       "snapshotDate": "2026-11-10"
     },
     {
@@ -1334,7 +1362,7 @@
       "originalTitle": "South Korea Faces Consequences of Tough Anti-Bullying Policy",
       "titleKo": "한국은 엄격한 왕따 방지 정책의 결과에 직면해 있습니다.",
       "summaryKo": "한국은 학업 기록에 괴롭힘을 당하는 학생에 대해 가혹한 처벌을 제정했습니다. 이로 인해 왕따를 막기보다는 소송이 폭발적으로 증가했습니다.",
-      "snapshotDate": "2026-11-09"
+      "snapshotDate": "2026-11-10"
     },
     {
       "id": "f7d855977196",
@@ -1478,7 +1506,7 @@
       "originalTitle": "South Korea names Busan, Daegu, Gwangju-Jeonnam education innovation hubs",
       "titleKo": "대한민국 명칭 부산, 대구, 광주-전남 교육혁신허브",
       "summaryKo": "대한민국은 부산, 대구, 광주-전남 교육혁신허브를 명명한다. 정부는 맞춤형 교육 업그레이드를 위해 43개 지역을 선정하고, 2029년까지 단계적인 자금 지원과 평가를 통해...",
-      "snapshotDate": "2026-11-10"
+      "snapshotDate": "2026-11-07"
     },
     {
       "id": "2d0f6bd6848d",
@@ -1705,7 +1733,7 @@
       "originalTitle": "South Korea surpasses 300,000 international students, prioritizes quality education",
       "titleKo": "한국 유학생 30만 명 돌파, 양질의 교육 우선",
       "summaryKo": "국내 대학에서 공부하는 유학생 수가 올해 처음으로 30만 명을 돌파했습니다. 정부는 30만 명의 유학생을 유치하기 위해...",
-      "snapshotDate": "2026-11-07"
+      "snapshotDate": "2026-11-10"
     },
     {
       "id": "ddc7dac907d9",
@@ -2531,7 +2559,7 @@
       "originalTitle": "Tokyo Korean School posts strong university admissions results, but administrative gaps remain",
       "titleKo": "도쿄 한국 학교는 강력한 대학 입학 결과를 게시하지만 행정 격차는 여전히 남아 있습니다.",
       "summaryKo": "일본 도쿄한국학교는 졸업생들을 한국과 일본 양국의 우수 기관에 파견하는 등 강력한 대학 입학 경쟁력을 보여주고 있습니다.",
-      "snapshotDate": "2026-11-09"
+      "snapshotDate": "2026-11-10"
     },
     {
       "id": "4da3242e156f",
@@ -8406,34 +8434,6 @@
       "feedProvider": "bing",
       "policyRelevance": 40,
       "score": 59,
-      "snapshotDate": "2026-10-17"
-    },
-    {
-      "id": "7c251a589c47",
-      "title": "광주시, 2027년부터 평생교육 정책 확대",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44REduNmcycXRZWmZQVV9URnBEVVd4NnRFcnM4eTVoaDVrZlZLVDhsYXJMZUJLQ3dOS1B1aEtzNjljVmJsZVhkem5zYjg0YjJlN0hudEw4SW1iSmYwSk5FOGxhMjE2Ujg?oc=5",
-      "source": "광주뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-10-13T13:42:44.000Z",
-      "description": "광주시, 2027년부터 평생교육 정책 확대 광주뉴스",
-      "category": "지역·평생교육",
-      "feedProvider": "google",
-      "policyRelevance": 42,
-      "score": 52,
-      "snapshotDate": "2026-10-17"
-    },
-    {
-      "id": "3a809a48c674",
-      "title": "교육부 \"수능 부정행위 대비\"",
-      "url": "https://www.mk.co.kr/news/society/12174729",
-      "source": "매일경제",
-      "kind": "domestic",
-      "publishedAt": "2026-10-13T10:41:00.000Z",
-      "description": "2027학년도 대입 수시 논술시험에서 인공지능(AI)이 탑재돼 있는 스마트 안경을 이용한 부정행위가 잇따라 적발됐다. 연세대는 지난 10일 오전 서울 서대문구 신촌캠퍼스에서 진행된 자연·통합계열 수학 논술시험에서 스마트 안경을 착용한 수험생을 적발했다고 밝혔다. 시험 시작 전 모든 수험생이 스마트 안경을 착용했는지 안경을 벗고 검사를 받았지만 수험생 A씨는 ...",
-      "category": "입시·사교육",
-      "feedProvider": "bing",
-      "policyRelevance": 65,
-      "score": 74,
       "snapshotDate": "2026-10-17"
     }
   ]
