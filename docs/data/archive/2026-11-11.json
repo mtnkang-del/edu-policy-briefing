@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-11T01:20:59.011Z",
-  "generatedAtKST": "2026-11-11T10:20:56.423+09:00",
+  "generatedAt": "2026-11-11T02:00:14.318Z",
+  "generatedAtKST": "2026-11-11T11:00:10.207+09:00",
   "date": "2026-11-11",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 15,
-    "domesticGoogle": 86,
-    "foreignBing": 12,
-    "foreignGoogle": 114,
-    "carried": 77,
-    "rawUnique": 201,
+    "domesticBing": 17,
+    "domesticGoogle": 85,
+    "foreignBing": 9,
+    "foreignGoogle": 115,
+    "carried": 133,
+    "rawUnique": 204,
     "policyRejected": 150,
-    "policyKept": 51
+    "policyKept": 54
   },
   "briefing": [
     "「영유아보육법 시행령」 일부개정령안 국무회의 통과 — 교육부",
@@ -24,10 +24,10 @@
     "스마트 안경 관련 내신평가 부정행위 전수조사 결과 — 교육부"
   ],
   "stats": {
-    "total": 60,
+    "total": 59,
     "official": 8,
-    "domestic": 39,
-    "foreign": 13
+    "domestic": 42,
+    "foreign": 9
   },
   "items": [
     {
@@ -179,6 +179,19 @@
       "score": 92
     },
     {
+      "id": "dd2c2027c829",
+      "title": "경북교육청, 내년 예산 5조8천447억원 편성⋯재정 압박에 기금 1천497억원 투입",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B2%BD%EB%B6%81%EA%B5%90%EC%9C%A1%EC%B2%AD-%EB%82%B4%EB%85%84-%EC%98%88%EC%82%B0-5%EC%A1%B08%EC%B2%9C447%EC%96%B5%EC%9B%90-%ED%8E%B8%EC%84%B1-%EC%9E%AC%EC%A0%95-%EC%95%95%EB%B0%95%EC%97%90-%EA%B8%B0%EA%B8%88-1%EC%B2%9C497%EC%96%B5%EC%9B%90-%ED%88%AC%EC%9E%85/ar-AA2hbcv7",
+      "source": "대구일보 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-10T16:46:46.000Z",
+      "description": "경북교육청이 내년도 교육비특별회계 예산안을 올해보다 4.6% 늘어난 5조8천447억원 규모로 편성했다. 세입 감소에 따른 재정 부담이 커지는 가운데 기금을 활용해 부족한 재원을 보전하고, 기존 사업을 정비해 학생 교육활동과 교육환경 개선에 예산을 집중하는 것이 핵심이다. 경북교육청은 11일 이 같은 내용의 2027년도 경상북도교육비특별회계 예산안을 경북도의 ...",
+      "category": "유·초중등",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 91
+    },
+    {
       "id": "5c722b843bb2",
       "title": "경북교육청, 내년 예산 5조8447억 원 편성…학생 성장·미래교육 집중",
       "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%EB%B6%81%EA%B5%90%EC%9C%A1%EC%B2%AD-%EB%82%B4%EB%85%84-%EC%98%88%EC%82%B0-5%EC%A1%B08447%EC%96%B5-%EC%9B%90-%ED%8E%B8%EC%84%B1-%ED%95%99%EC%83%9D-%EC%84%B1%EC%9E%A5-%EB%AF%B8%EB%9E%98%EA%B5%90%EC%9C%A1-%EC%A7%91%EC%A4%91/ar-AA2hbccE",
@@ -242,19 +255,6 @@
       "feedProvider": "bing",
       "policyRelevance": 75,
       "score": 87
-    },
-    {
-      "id": "40e974a60c75",
-      "title": "세종시교육청, 내년도 본예산 1조 2,060억 원 편성",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vSmdwMFNVOGlUa21MU1J2VXl6R1V1R0NsMXl2QXVEZDlhYmRIRTctVkRqN0NIU0xPNGoyMWRIMnhST293VkFONW9DZzlod1hPQlYwSEhRNmVBckJaRGExbjB4SjJxMTFRdkdV?oc=5",
-      "source": "충청시사신문",
-      "kind": "domestic",
-      "publishedAt": "2026-11-10T01:34:33.000Z",
-      "description": "세종시교육청, 내년도 본예산 1조 2,060억 원 편성 충청시사신문",
-      "category": "재정·법령",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 86
     },
     {
       "id": "18274c16c199",
@@ -413,6 +413,19 @@
       "score": 76
     },
     {
+      "id": "40e974a60c75",
+      "title": "세종시교육청, 내년도 본예산 1조 2,060억 원 편성",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vSmdwMFNVOGlUa21MU1J2VXl6R1V1R0NsMXl2QXVEZDlhYmRIRTctVkRqN0NIU0xPNGoyMWRIMnhST293VkFONW9DZzlod1hPQlYwSEhRNmVBckJaRGExbjB4SjJxMTFRdkdV?oc=5",
+      "source": "충청시사신문",
+      "kind": "domestic",
+      "publishedAt": "2026-11-10T01:34:33.000Z",
+      "description": "세종시교육청, 내년도 본예산 1조 2,060억 원 편성 충청시사신문",
+      "category": "재정·법령",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 76
+    },
+    {
       "id": "953963c04536",
       "title": "세종시교육청, 2027예산안 1조 2,060억 원 편성…2.1%증가",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zYTlyVFFhUkhMbXF1WmFTaXVoemZ3WXJ4SnYtN2dMRGRjUWxoQjREYXhIOXV5Nng3NFZ4Mnh0Smg5cFA5bFlORWVEQzNwdFZwWVF6VldWcW5FM0ZPWGh6TGRTeGFuS1Nwa19mOE9PRjQ3QQ?oc=5",
@@ -452,6 +465,19 @@
       "score": 76
     },
     {
+      "id": "c4853af3306d",
+      "title": "한일, AI 교육정책 공유·교육협력 강화",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261109010003082",
+      "source": "아시아투데이",
+      "kind": "domestic",
+      "publishedAt": "2026-11-09T04:00:00.000Z",
+      "description": "한국과 일본이 인공지능(AI) 교육을 비롯한 주요 교육정책을 공유하고 교육 분야 협력을 강화한다.교육부는 일본 문부과학성과 함께 9일부터 11일까지 사흘간 일본 도쿄에서 ‘2026년 한일 교육행정교류 프로그램’을 운영한다고 9일 밝혔다.이번 교류에는 이난영 교육부 국..",
+      "category": "AI·디지털",
+      "feedProvider": "bing",
+      "policyRelevance": 65,
+      "score": 76
+    },
+    {
       "id": "01262d01ab8b",
       "title": "서울시의회 박상근 의원, 강남·강북 교육격차 학생 수 아닌 ‘교육균형발전지수’로 예산·인력 나눠야",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3T3h4QlZ5Nmhpc0ZrZDdVZUxMWTIxRjQ5WjZqQTdnQnBVVzlfODRIMHpHXzZSYlpkOVBKa1BrUm9WUjhveTBRbjVMTmNLY2NDeG1EeU9Rb1lpVWR3N3ZJTzNId0haRlowNVlDWXJ0QQ?oc=5",
@@ -460,19 +486,6 @@
       "publishedAt": "2026-11-10T06:02:28.000Z",
       "description": "서울시의회 박상근 의원, 강남·강북 교육격차 학생 수 아닌 ‘교육균형발전지수’로 예산·인력 나눠야 의정신문 서울시티",
       "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 75
-    },
-    {
-      "id": "5601fab1af3e",
-      "title": "2027학년도 수능, ‘스마트안경’ 착용만 해도 시험 무효… 내년 응시도 제한",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00OXA4R2hjQWxvMmpiRF9vTlpmaU9IZktoRDlKaW1kZzNnNnhVVVBUR2oya0xqYU4yZk5RcWZhM2dNQnU0eHBXaUcwMDRSOWFRa2VBUGxIa2JlS2tReC1WZWlGcmVJZw?oc=5",
-      "source": "한국대학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-11-10T01:50:12.000Z",
-      "description": "2027학년도 수능, ‘스마트안경’ 착용만 해도 시험 무효… 내년 응시도 제한 한국대학신문",
-      "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 75
@@ -512,19 +525,6 @@
       "publishedAt": "2026-11-09T01:00:00.000Z",
       "description": "[한국교육정책사] 문민정부의 고등교육 대개혁: 통제에서 자율로, 30년 패러다임 전환의 분수령 한국교육신문",
       "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 72
-    },
-    {
-      "id": "a877e46aef5b",
-      "title": "교육부 인재정책실장 지낸 최은희, 인천시교육청 부교육감 부임",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lc0RqUmNiOHB2bE5yREJ3T3VfVVpEZVJtcWJaUEVQeUdCTjFINFB1M01fMmhjczFNaGptVVlia0FKTDcxR1NGMGpwLTdPb1AxMERHaGtRR0xVS1B4akxMWW54NUZ6aUk?oc=5",
-      "source": "쓰담미디어",
-      "kind": "domestic",
-      "publishedAt": "2026-11-08T01:37:43.000Z",
-      "description": "교육부 인재정책실장 지낸 최은희, 인천시교육청 부교육감 부임 쓰담미디어",
-      "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 72
@@ -585,6 +585,19 @@
       "score": 66
     },
     {
+      "id": "5601fab1af3e",
+      "title": "2027학년도 수능, ‘스마트안경’ 착용만 해도 시험 무효… 내년 응시도 제한",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00OXA4R2hjQWxvMmpiRF9vTlpmaU9IZktoRDlKaW1kZzNnNnhVVVBUR2oya0xqYU4yZk5RcWZhM2dNQnU0eHBXaUcwMDRSOWFRa2VBUGxIa2JlS2tReC1WZWlGcmVJZw?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-11-10T01:50:12.000Z",
+      "description": "2027학년도 수능, ‘스마트안경’ 착용만 해도 시험 무효… 내년 응시도 제한 한국대학신문",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 65
+    },
+    {
       "id": "fff038fd47e0",
       "title": "대학 수능 D-10, 시험장에 스마트안경 전담요원 배치",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vUEFYdEZCY2VrYkRFVUJtN05XR2I3VGZpdkt0dzdDZXpidmwtM3V3d3RDOExfRHRheE1RVVVsajhwWDdmT3lwN0d2QjVybG5JZkQ4YmxCNU1WX3NrRl83d1hnSkUydzN5OG42M0o0ONIBc0FVX3lxTE5yc1dnRkFjcHVUeGI3aDlQUG5vVllxOWhUNkVFeXN4QTc1WEJJZG1pMGtOaE4yaWNTZ0g3MXNrTnh5VUJ1MDhmSTBVenJuSy1OYV9mdmNVUEVvUXpBVVB4OW1ZUldZVnhKcEYxR2FpcFZIWnc?oc=5",
@@ -594,6 +607,19 @@
       "description": "대학 수능 D-10, 시험장에 스마트안경 전담요원 배치 데일리한국",
       "category": "입시·사교육",
       "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 65
+    },
+    {
+      "id": "dea03b6b321e",
+      "title": "내신 시험서도 안경테 만지작…수능 스마트안경 비상",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%86%8C%EB%B9%84%EC%9E%90-%EC%A0%84%EC%9E%90-%EA%B8%B0%EA%B8%B0/%EB%82%B4%EC%8B%A0-%EC%8B%9C%ED%97%98%EC%84%9C%EB%8F%84-%EC%95%88%EA%B2%BD%ED%85%8C-%EB%A7%8C%EC%A7%80%EC%9E%91-%EC%88%98%EB%8A%A5-%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%95%88%EA%B2%BD-%EB%B9%84%EC%83%81/ar-AA2h3r8X",
+      "source": "연합뉴스TV on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-09T01:10:34.000Z",
+      "description": "[앵커] 중고등학교 내신 시험에서도 잇따라 스마트안경 부정행위가 적발됐습니다. 다음 주 대학수학능력시험을 앞두고 교육당국도 긴장한 모습인데요. 불필요한 오해가 없도록 각종 유의사항들을 잘 점검하셔야겠습니다. 최덕재 기자입니다. [기자] 시험 중에 쓰냐 안 쓰냐 상관 없이, 모든 전자기기는 원칙적으로 수능 시험장에 가져갈 수 없습니다. 통신 기능이 있는 휴대 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
       "policyRelevance": 40,
       "score": 65
     },
@@ -609,6 +635,19 @@
       "feedProvider": "bing",
       "policyRelevance": 45,
       "score": 63
+    },
+    {
+      "id": "a877e46aef5b",
+      "title": "교육부 인재정책실장 지낸 최은희, 인천시교육청 부교육감 부임",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lc0RqUmNiOHB2bE5yREJ3T3VfVVpEZVJtcWJaUEVQeUdCTjFINFB1M01fMmhjczFNaGptVVlia0FKTDcxR1NGMGpwLTdPb1AxMERHaGtRR0xVS1B4akxMWW54NUZ6aUk?oc=5",
+      "source": "쓰담미디어",
+      "kind": "domestic",
+      "publishedAt": "2026-11-08T01:37:43.000Z",
+      "description": "교육부 인재정책실장 지낸 최은희, 인천시교육청 부교육감 부임 쓰담미디어",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 62
     },
     {
       "id": "8bbe009e78d8",
@@ -698,34 +737,6 @@
       "summaryKo": "한국, 교육개혁 추진 43개 지역 선정 코리아헤럴드"
     },
     {
-      "id": "61afccff9438",
-      "title": "Why a South Korean city is turning to a U.S. college to outsmart AI?",
-      "url": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai",
-      "source": "NPR",
-      "kind": "foreign",
-      "publishedAt": "2026-11-09T02:47:00.000Z",
-      "description": "Through civic participation and liberal education, South Korean educators hope to \"quietly stitch the fabric of our democracy…before it unravels beyond repair.\" ...",
-      "category": "AI·디지털",
-      "score": 30,
-      "originalTitle": "Why a South Korean city is turning to a U.S. college to outsmart AI?",
-      "titleKo": "한국 도시가 인공지능을 능가하기 위해 미국 대학으로 눈을 돌리는 이유는 무엇일까요?",
-      "summaryKo": "시민 참여와 자유주의 교육을 통해 한국 교육자들은 \"민주주의의 구조를 수리할 수 없을 정도로 풀기 전에 조용히 꿰매기를 희망합니다.\"..."
-    },
-    {
-      "id": "93899709b910",
-      "title": "South Korea’s free tuition plan could reshape international student recruitment",
-      "url": "https://thepienews.com/south-koreas-free-tuition-plan-could-reshape-international-student-recruitment/",
-      "source": "The PIE News",
-      "kind": "foreign",
-      "publishedAt": "2026-11-06T04:24:00.000Z",
-      "description": "South Korea is planning to provide full tuition support to new Korean students at 30 national universities outside the Seoul metropolitan area in 2027. Kyuseok (KS) Kim explores how this could impact ...",
-      "category": "유·초중등",
-      "score": 30,
-      "originalTitle": "South Korea’s free tuition plan could reshape international student recruitment",
-      "titleKo": "한국의 무료 수업 계획은 유학생 모집을 재편할 수 있습니다",
-      "summaryKo": "한국은 2027년 서울 수도권 이외의 30개 국립 대학교에서 신입생들에게 전액 학비 지원을 제공할 계획입니다. Kyuseok (KS) Kim은 이것이 어떻게 영향을 미칠 수 있는지 탐구합니다..."
-    },
-    {
       "id": "49fb2dbe2d01",
       "title": "South Korea to Open New Regional Medical Schools at Suncheon National University and Gyeongguk National University by 2030",
       "url": "https://www.dongascience.com/en/news/80700",
@@ -768,20 +779,6 @@
       "summaryKo": "경상북도는 11월 4일 \"교육부가 의과대학 설립 최종 승인을..."
     },
     {
-      "id": "348586e5ec82",
-      "title": "South Korea Faces Consequences of Tough Anti-Bullying Policy",
-      "url": "https://www.psychologytoday.com/za/blog/resilience-to-bullying/202606/south-korea-faces-consequences-of-tough-anti-bullying-policy",
-      "source": "Psychology Today",
-      "kind": "foreign",
-      "publishedAt": "2026-11-03T13:54:00.000Z",
-      "description": "South Korea has enacted harsh punishments for students who have bullying on their academic record. Rather than putting a stop to bullying, this has led to an explosion of lawsuits.",
-      "category": "기타",
-      "score": 30,
-      "originalTitle": "South Korea Faces Consequences of Tough Anti-Bullying Policy",
-      "titleKo": "한국은 엄격한 왕따 방지 정책의 결과에 직면해 있습니다.",
-      "summaryKo": "한국은 학업 기록에 괴롭힘을 당하는 학생에 대해 가혹한 처벌을 제정했습니다. 이로 인해 왕따를 막기보다는 소송이 폭발적으로 증가했습니다."
-    },
-    {
       "id": "658df8a64b88",
       "title": "South Korea exceeds 300,000 international students, prioritizes education quality",
       "url": "https://www.msn.com/en-xl/news/other/south-korea-exceeds-300-000-international-students-prioritizes-education-quality/ar-AA2gBBVH",
@@ -794,20 +791,6 @@
       "originalTitle": "South Korea exceeds 300,000 international students, prioritizes education quality",
       "titleKo": "한국 유학생 30만 명 돌파, 교육의 질 우선시",
       "summaryKo": "국내 대학에서 공부하는 유학생 수가 올해 처음으로 30만 명을 돌파했습니다. 정부는 300명 유치를 목표로 다양한 정책을 시행했다."
-    },
-    {
-      "id": "79c2387bf6c7",
-      "title": "No teaching license? No problem? Plan to grant temporary credentials to outside experts stirs debate",
-      "url": "https://biz.heraldcorp.com/article/10920993",
-      "source": "Herald Business",
-      "kind": "foreign",
-      "publishedAt": "2026-10-30T10:55:00.000Z",
-      "description": "South Korea's National Education Commission is considering granting temporary teaching credentials to outside experts without teaching licenses as part of ...",
-      "category": "기타",
-      "score": 30,
-      "originalTitle": "No teaching license? No problem? Plan to grant temporary credentials to outside experts stirs debate",
-      "titleKo": "교습 면허가 없나요? 문제 없나요? 외부 전문가 동요 토론에 임시 자격 증명을 부여할 계획",
-      "summaryKo": "한국의 국가교육위원회는... 의 일환으로 교원 면허 없이 외부 전문가에게 임시 교원 자격을 부여하는 것을 고려하고 있습니다."
     },
     {
       "id": "37ebf774154e",
@@ -831,7 +814,7 @@
     "throughDate": "2026-11-11",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-11-09T15:00:00.000Z",
-    "windowEnd": "2026-11-11T01:20:59.011Z",
+    "windowEnd": "2026-11-11T02:00:14.318Z",
     "itemIds": [
       "9e8b1b712c7c",
       "ae2ee775446e",
@@ -840,30 +823,31 @@
       "8c57c023b21e",
       "76e0be28c8d9",
       "e4fb72a281d6",
+      "dd2c2027c829",
       "5c722b843bb2",
       "144aa627881d",
       "962000b9049e",
       "278d9d2d695c",
       "48ff741f2d37",
-      "40e974a60c75",
       "8f117e9267d5",
       "f10453ca3097",
+      "40e974a60c75",
       "953963c04536",
       "ab376f3f089a",
       "01262d01ab8b",
-      "5601fab1af3e",
       "c130d30bbc59",
       "cbbac9a90a44",
+      "5601fab1af3e",
       "8bbe009e78d8"
     ],
     "stats": {
-      "total": 22,
+      "total": 23,
       "official": 3,
-      "domestic": 19,
+      "domestic": 20,
       "foreign": 0
     },
     "headline": "오늘 아침 교육뉴스는 유·초중등·재정·법령·입시·사교육 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 22건이 확인됐습니다. 교육부는 「영유아보육법 시행령」 일부개정령안 국무회의 통과, 「교육공무원 임용령」 일부개정령안 국무회의 통과와 너랑 나랑 다 같이, 한국어로 하나 되는 세계 청소년 등을 공식 발표했습니다. 국내 언론에서는 교부금 개편 재정 압박 현실화…3361억원 미편성와 세종시교육청 내년 예산 1조 2,060억…”줄일 건 줄이고 학생 안전·AI 교육엔 투자\" 등이 주요하게 다뤄졌습니다. 전체적으로는 유·초중등·재정·법령·입시·사교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 23건이 확인됐습니다. 교육부는 「영유아보육법 시행령」 일부개정령안 국무회의 통과, 「교육공무원 임용령」 일부개정령안 국무회의 통과와 너랑 나랑 다 같이, 한국어로 하나 되는 세계 청소년 등을 공식 발표했습니다. 국내 언론에서는 교부금 개편 재정 압박 현실화…3361억원 미편성와 세종시교육청 내년 예산 1조 2,060억…”줄일 건 줄이고 학생 안전·AI 교육엔 투자\" 등이 주요하게 다뤄졌습니다. 전체적으로는 유·초중등·재정·법령·입시·사교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "유·초중등",
@@ -877,12 +861,12 @@
       },
       {
         "title": "재정·법령",
-        "summary": "교육재정 부족 현실화... 시·도교육청 예산 4.8조 구멍 · 세종시교육청, 내년도 본예산 1조 2,060억 원 편성 · '유아교육법 시행령' 일부개정령안 국무회의 통과",
+        "summary": "교육재정 부족 현실화... 시·도교육청 예산 4.8조 구멍 · '유아교육법 시행령' 일부개정령안 국무회의 통과 · 세종시교육청, 내년도 본예산 1조 2,060억 원 편성",
         "why": "예산·법령 변화는 정책 집행의 직접 근거가 되므로 세부 기준과 시행 일정 확인이 중요합니다.",
         "sources": [
           "오마이뉴스 on MSN",
-          "충청시사신문",
-          "와이뉴스"
+          "와이뉴스",
+          "충청시사신문"
         ]
       },
       {

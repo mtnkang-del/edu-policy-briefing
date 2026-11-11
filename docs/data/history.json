@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T01:21:16.165Z",
+  "generatedAt": "2026-11-11T02:00:26.779Z",
   "retentionDays": 30,
   "days": [
     "2026-11-11",
@@ -44,6 +44,20 @@
       "feedProvider": "google",
       "policyRelevance": 75,
       "score": 87,
+      "snapshotDate": "2026-11-11"
+    },
+    {
+      "id": "dd2c2027c829",
+      "title": "경북교육청, 내년 예산 5조8천447억원 편성⋯재정 압박에 기금 1천497억원 투입",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B2%BD%EB%B6%81%EA%B5%90%EC%9C%A1%EC%B2%AD-%EB%82%B4%EB%85%84-%EC%98%88%EC%82%B0-5%EC%A1%B08%EC%B2%9C447%EC%96%B5%EC%9B%90-%ED%8E%B8%EC%84%B1-%EC%9E%AC%EC%A0%95-%EC%95%95%EB%B0%95%EC%97%90-%EA%B8%B0%EA%B8%88-1%EC%B2%9C497%EC%96%B5%EC%9B%90-%ED%88%AC%EC%9E%85/ar-AA2hbcv7",
+      "source": "대구일보 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-10T16:46:46.000Z",
+      "description": "경북교육청이 내년도 교육비특별회계 예산안을 올해보다 4.6% 늘어난 5조8천447억원 규모로 편성했다. 세입 감소에 따른 재정 부담이 커지는 가운데 기금을 활용해 부족한 재원을 보전하고, 기존 사업을 정비해 학생 교육활동과 교육환경 개선에 예산을 집중하는 것이 핵심이다. 경북교육청은 11일 이 같은 내용의 2027년도 경상북도교육비특별회계 예산안을 경북도의 ...",
+      "category": "유·초중등",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 91,
       "snapshotDate": "2026-11-11"
     },
     {
@@ -169,7 +183,7 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 75,
+      "score": 65,
       "snapshotDate": "2026-11-11"
     },
     {
@@ -183,7 +197,7 @@
       "category": "재정·법령",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 86,
+      "score": 76,
       "snapshotDate": "2026-11-11"
     },
     {
@@ -484,6 +498,20 @@
       "snapshotDate": "2026-11-11"
     },
     {
+      "id": "c4853af3306d",
+      "title": "한일, AI 교육정책 공유·교육협력 강화",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261109010003082",
+      "source": "아시아투데이",
+      "kind": "domestic",
+      "publishedAt": "2026-11-09T04:00:00.000Z",
+      "description": "한국과 일본이 인공지능(AI) 교육을 비롯한 주요 교육정책을 공유하고 교육 분야 협력을 강화한다.교육부는 일본 문부과학성과 함께 9일부터 11일까지 사흘간 일본 도쿄에서 ‘2026년 한일 교육행정교류 프로그램’을 운영한다고 9일 밝혔다.이번 교류에는 이난영 교육부 국..",
+      "category": "AI·디지털",
+      "feedProvider": "bing",
+      "policyRelevance": 65,
+      "score": 76,
+      "snapshotDate": "2026-11-11"
+    },
+    {
       "id": "d48d48c3a595",
       "title": "교육부, 일본과 AI 교육정책 교류…日초중학교·도쿄대 방문",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SM2ZNSk54WXFMRm5VeWNyUjBGXzBsdFMzT2tMQVY0MEQ3d2lpSXY1UUxybGtrOFFRcU9YTTJCUWUwNWUwVnRwLTVTM0prV2FVcGxzUldCTW1RQQ?oc=5",
@@ -524,7 +552,7 @@
       "originalTitle": "Why a South Korean city is turning to a U.S. college to outsmart AI?",
       "titleKo": "한국 도시가 인공지능을 능가하기 위해 미국 대학으로 눈을 돌리는 이유는 무엇일까요?",
       "summaryKo": "시민 참여와 자유주의 교육을 통해 한국 교육자들은 \"민주주의의 구조를 수리할 수 없을 정도로 풀기 전에 조용히 꿰매기를 희망합니다.\"...",
-      "snapshotDate": "2026-11-11"
+      "snapshotDate": "2026-11-10"
     },
     {
       "id": "fff038fd47e0",
@@ -536,6 +564,20 @@
       "description": "대학 수능 D-10, 시험장에 스마트안경 전담요원 배치 데일리한국",
       "category": "입시·사교육",
       "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 65,
+      "snapshotDate": "2026-11-11"
+    },
+    {
+      "id": "dea03b6b321e",
+      "title": "내신 시험서도 안경테 만지작…수능 스마트안경 비상",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%86%8C%EB%B9%84%EC%9E%90-%EC%A0%84%EC%9E%90-%EA%B8%B0%EA%B8%B0/%EB%82%B4%EC%8B%A0-%EC%8B%9C%ED%97%98%EC%84%9C%EB%8F%84-%EC%95%88%EA%B2%BD%ED%85%8C-%EB%A7%8C%EC%A7%80%EC%9E%91-%EC%88%98%EB%8A%A5-%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%95%88%EA%B2%BD-%EB%B9%84%EC%83%81/ar-AA2h3r8X",
+      "source": "연합뉴스TV on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-09T01:10:34.000Z",
+      "description": "[앵커] 중고등학교 내신 시험에서도 잇따라 스마트안경 부정행위가 적발됐습니다. 다음 주 대학수학능력시험을 앞두고 교육당국도 긴장한 모습인데요. 불필요한 오해가 없도록 각종 유의사항들을 잘 점검하셔야겠습니다. 최덕재 기자입니다. [기자] 시험 중에 쓰냐 안 쓰냐 상관 없이, 모든 전자기기는 원칙적으로 수능 시험장에 가져갈 수 없습니다. 통신 기능이 있는 휴대 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
       "policyRelevance": 40,
       "score": 65,
       "snapshotDate": "2026-11-11"
@@ -688,7 +730,7 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 72,
+      "score": 62,
       "snapshotDate": "2026-11-11"
     },
     {
@@ -927,7 +969,7 @@
       "originalTitle": "South Korea’s free tuition plan could reshape international student recruitment",
       "titleKo": "한국의 무료 수업 계획은 유학생 모집을 재편할 수 있습니다",
       "summaryKo": "한국은 2027년 서울 수도권 이외의 30개 국립 대학교에서 신입생들에게 전액 학비 지원을 제공할 계획입니다. Kyuseok (KS) Kim은 이것이 어떻게 영향을 미칠 수 있는지 탐구합니다...",
-      "snapshotDate": "2026-11-11"
+      "snapshotDate": "2026-11-10"
     },
     {
       "id": "54c6de60ec57",
@@ -1584,7 +1626,7 @@
       "originalTitle": "South Korea Faces Consequences of Tough Anti-Bullying Policy",
       "titleKo": "한국은 엄격한 왕따 방지 정책의 결과에 직면해 있습니다.",
       "summaryKo": "한국은 학업 기록에 괴롭힘을 당하는 학생에 대해 가혹한 처벌을 제정했습니다. 이로 인해 왕따를 막기보다는 소송이 폭발적으로 증가했습니다.",
-      "snapshotDate": "2026-11-11"
+      "snapshotDate": "2026-11-10"
     },
     {
       "id": "f7d855977196",
@@ -2669,21 +2711,6 @@
       "policyRelevance": 45,
       "score": 53,
       "snapshotDate": "2026-11-03"
-    },
-    {
-      "id": "79c2387bf6c7",
-      "title": "No teaching license? No problem? Plan to grant temporary credentials to outside experts stirs debate",
-      "url": "https://biz.heraldcorp.com/article/10920993",
-      "source": "Herald Business",
-      "kind": "foreign",
-      "publishedAt": "2026-10-30T10:55:00.000Z",
-      "description": "South Korea's National Education Commission is considering granting temporary teaching credentials to outside experts without teaching licenses as part of ...",
-      "category": "기타",
-      "score": 30,
-      "originalTitle": "No teaching license? No problem? Plan to grant temporary credentials to outside experts stirs debate",
-      "titleKo": "교습 면허가 없나요? 문제 없나요? 외부 전문가 동요 토론에 임시 자격 증명을 부여할 계획",
-      "summaryKo": "한국의 국가교육위원회는... 의 일환으로 교원 면허 없이 외부 전문가에게 임시 교원 자격을 부여하는 것을 고려하고 있습니다.",
-      "snapshotDate": "2026-11-11"
     },
     {
       "id": "e0c0374dfb6d",
@@ -8407,34 +8434,6 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 66,
-      "snapshotDate": "2026-10-18"
-    },
-    {
-      "id": "a9814ce2e8f9",
-      "title": "경남교육청 \"현장 교원과 AI·디지털 교육 미래 방향 모색\"",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SV1RKSWVieUNtVXRiUnd6R1Rrd2t6MjFrSHB5RWFBd3dYbEczZ1RMenRKcEY0MHc1RnhIMGhxZmR2MnFoMUhxMkwybDlkQnJ2UzBqUUs0M29DbmtiWGxZWFJYdGFQUkNlNzMtYWNBNm5sSThF0gF0QVVfeXFMTVJXVEpJZWJ5Q21VdGJSd3pHVGt3a3oyMWtIcHlFYUF3d1hsRzNnVEx6dEpwRjQwdzVGeEgwaHFmZHYycWgxSHEyTDJsOWRCcnZTMGpRSzQzb0Nua2JYbFlYUlh0YVBSQ2U3My1hY0E2bmxJOEU?oc=5",
-      "source": "주간한국",
-      "kind": "domestic",
-      "publishedAt": "2026-10-14T09:47:10.000Z",
-      "description": "경남교육청 \"현장 교원과 AI·디지털 교육 미래 방향 모색\" 주간한국",
-      "category": "AI·디지털",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 61,
-      "snapshotDate": "2026-10-18"
-    },
-    {
-      "id": "f1421858f702",
-      "title": "대입 '해킹'한 AI 안경… 교육부 대응 지침도 효과 의문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SQlJQME5KMjdIS0NtQ3J6VE9YYXpiUUJEZzhVR3NNYXpnOWRhMTdheEJWM0Q1YzZFNkJmRnhnNVVzbEYwdjRHTEJoMTVoVkJVRlRiVzI5djdaZw?oc=5",
-      "source": "파이낸셜뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-10-14T09:21:04.000Z",
-      "description": "대입 '해킹'한 AI 안경… 교육부 대응 지침도 효과 의문 파이낸셜뉴스",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 70,
       "snapshotDate": "2026-10-18"
     }
   ]
