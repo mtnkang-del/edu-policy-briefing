@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T02:22:27.797Z",
+  "generatedAt": "2026-11-12T03:10:09.063Z",
   "retentionDays": 30,
   "days": [
     "2026-11-12",
@@ -267,7 +267,7 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 82,
+      "score": 72,
       "snapshotDate": "2026-11-12"
     },
     {
@@ -281,7 +281,7 @@
       "category": "입시·사교육",
       "feedProvider": "bing",
       "policyRelevance": 87,
-      "score": 96,
+      "score": 86,
       "snapshotDate": "2026-11-12"
     },
     {
@@ -782,7 +782,7 @@
       "score": 61,
       "originalTitle": "Ministry of Education and Culture Urged to Prepare Curriculum and Educators Before High School Tracking",
       "titleKo": "교육문화부, 고등학교 진학 전 교육 과정 및 교사 준비 촉구",
-      "summaryKo": "교육문화부, 고등학교 진학 전 교육과정 및 교사 준비 촉구 Kompas.com",
+      "summaryKo": "교육문화부, 고등학교 진학 전 커리큘럼 및 교사 준비 촉구 Kompas.com",
       "snapshotDate": "2026-11-12"
     },
     {
@@ -826,8 +826,8 @@
       "policyRelevance": 44,
       "score": 69,
       "originalTitle": "Korea's first university admissions program for refugees offers hope, but barriers and resistance remain",
-      "titleKo": "한국 최초의 난민 대학 입학 프로그램이 희망을 제시하지만, 여전히 장벽과 반발이 존재합니다.",
-      "summaryKo": "한국 최초의 난민 대학 입학 프로그램이 희망을 제시하지만, 여전히 장벽과 반발이 남아 있다. 코리아중앙데일리",
+      "titleKo": "한국 최초의 난민 대학 입학 프로그램이 희망을 제시하지만, 여전히 장벽과 저항이 남아 있습니다.",
+      "summaryKo": "한국 최초의 난민 대학 입학 프로그램이 희망을 제시하지만, 여전히 장벽과 반발이 존재 Korea JoongAng Daily",
       "snapshotDate": "2026-11-12"
     },
     {
@@ -897,7 +897,7 @@
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 75,
-      "score": 81,
+      "score": 71,
       "snapshotDate": "2026-11-12"
     },
     {
@@ -911,7 +911,7 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 80,
+      "score": 70,
       "snapshotDate": "2026-11-12"
     },
     {
@@ -940,7 +940,7 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 65,
+      "score": 55,
       "snapshotDate": "2026-11-12"
     },
     {
@@ -1355,8 +1355,8 @@
       "category": "유·초중등",
       "score": 30,
       "originalTitle": "South Korea’s free tuition plan could reshape international student recruitment",
-      "titleKo": "한국의 무상 수업료 계획이 유학생 유치에 변화를 가져올 수 있음",
-      "summaryKo": "한국 정부는 2027년에 서울특별시 외곽에 위치한 30개 국립대학교의 신입생들에게 전액 장학금을 지원할 계획입니다. 김규석(KS) 씨는 이 정책이 어떤 영향을 미칠 수 있는지 살펴봅니다.",
+      "titleKo": "한국의 무상 교육 계획이 유학생 유치에 변화를 가져올 수 있음",
+      "summaryKo": "한국 정부는 2027년에 서울특별시 외곽에 위치한 30개 국립대학교의 신입생들에게 전액 장학금을 지원할 계획입니다. 김규석(KS) 씨는 이 계획이 어떤 영향을 미칠 수 있는지 살펴봅니다...",
       "snapshotDate": "2026-11-12"
     },
     {
@@ -1761,7 +1761,7 @@
       "score": 30,
       "originalTitle": "South Korea to Open New Regional Medical Schools at Suncheon National University and Gyeongguk National University by 2030",
       "titleKo": "한국, 2030년까지 순천대학교와 경북대학교에 새로운 지역 의과대학 개설 예정",
-      "summaryKo": "한국 정부는 의료 인력 부족 문제를 해결하기 위해 새로운 '지역 의과대학'을 설립할 대학으로 순천대학교와 경북대학교를 최종 확정했다.",
+      "summaryKo": "한국 정부는 전국적으로 의사 부족 문제를 해결하기 위해 새로운 '지역 의과대학'을 설립할 대학으로 순천대학교와 경북대학교를 최종 확정했다.",
       "snapshotDate": "2026-11-12"
     },
     {
@@ -1803,8 +1803,8 @@
       "category": "유·초중등",
       "score": 30,
       "originalTitle": "South Korea approves new medical schools at Sunchon and Gyeongguk for 2030",
-      "titleKo": "한국, 2030년까지 순천과 경북에 새로운 의과대학 설립 승인",
-      "summaryKo": "한국 정부, 2030년 순천과 경북에 신규 의과대학 설립 승인 정부, 신규 지역 의과대학 정원을 100명으로 설정하고 2030년 신입생 모집 목표로 ...",
+      "titleKo": "한국, 2030년 순천과 경북에 신설 의과대학 승인",
+      "summaryKo": "한국 정부, 2030년 순천과 경북에 신규 의과대학 설립 승인 정부, 신규 지역 의과대학 정원을 100명으로 설정하고 2030년 신입생 모집 목표...",
       "snapshotDate": "2026-11-12"
     },
     {
@@ -2012,8 +2012,8 @@
       "category": "기타",
       "score": 30,
       "originalTitle": "South Korea Faces Consequences of Tough Anti-Bullying Policy",
-      "titleKo": "한국, 엄격한 학교폭력 근절 정책의 여파에 직면하다",
-      "summaryKo": "한국은 학교생활기록부에 왕따 가해 사실이 기록된 학생에게 엄중한 처벌을 내리는 법을 제정했습니다. 이로 인해 왕따가 근절되기는커녕 소송이 급증했습니다.",
+      "titleKo": "한국, 엄격한 학교폭력 근절 정책의 여파에 직면",
+      "summaryKo": "한국은 학교생활기록부에 학교폭력 기록이 있는 학생에게 가혹한 처벌을 내리는 법을 제정했습니다. 이로 인해 왕따가 근절되기는커녕 소송이 급증했습니다.",
       "snapshotDate": "2026-11-12"
     },
     {
@@ -2510,8 +2510,8 @@
       "category": "유·초중등",
       "score": 30,
       "originalTitle": "South Korea exceeds 300,000 international students, prioritizes education quality",
-      "titleKo": "한국, 유학생 30만 명 돌파, 교육의 질 우선시",
-      "summaryKo": "올해 처음으로 국내 대학에 재학 중인 유학생 수가 30만 명을 넘어섰습니다. 정부는 30만 명을 유치하기 위한 다양한 정책을 시행해 왔다. ...",
+      "titleKo": "한국, 유학생 수 30만 명 돌파, 교육의 질 우선시",
+      "summaryKo": "올해 처음으로 국내 대학에 재학 중인 유학생 수가 30만 명을 넘어섰다. 정부는 30만 명을 유치하기 위한 다양한 정책을 시행해 왔다. ...",
       "snapshotDate": "2026-11-12"
     },
     {

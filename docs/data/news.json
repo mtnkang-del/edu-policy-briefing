@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-12T02:22:07.163Z",
-  "generatedAtKST": "2026-11-12T11:22:03.860+09:00",
+  "generatedAt": "2026-11-12T03:09:49.690Z",
+  "generatedAtKST": "2026-11-12T12:09:47.782+09:00",
   "date": "2026-11-12",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 15,
-    "domesticGoogle": 117,
+    "domesticBing": 14,
+    "domesticGoogle": 116,
     "foreignBing": 5,
-    "foreignGoogle": 109,
-    "carried": 92,
-    "rawUnique": 233,
-    "policyRejected": 159,
+    "foreignGoogle": 111,
+    "carried": 168,
+    "rawUnique": 235,
+    "policyRejected": 161,
     "policyKept": 74
   },
   "briefing": [
@@ -113,19 +113,6 @@
       "category": "입시·사교육",
       "policyRelevance": 100,
       "score": 99
-    },
-    {
-      "id": "1acaed448202",
-      "title": "[재정의 역설①] [피플N이슈] 정근식 \"사교육 줄이라면서 교육 예산 깎는 건 모순\"",
-      "url": "https://www.newspim.com/news/view/20261110001093",
-      "source": "뉴스핌",
-      "kind": "domestic",
-      "publishedAt": "2026-11-11T02:25:00.000Z",
-      "description": "[서울=뉴스핌] 송주원 기자 = 정근식 서울시교육감(대한민국교육감협의회장)은 정부가 사교육비 경감과 교육격차 해소를 강조하면서 정작 공교육 재정은 축소하려 한다며 정책의 모순을 지적했다. 학생 수가 줄어도 교육의 질을 높이기 위한 투자는 오히려 늘려야 한다는 ...",
-      "category": "입시·사교육",
-      "feedProvider": "bing",
-      "policyRelevance": 87,
-      "score": 96
     },
     {
       "id": "cdfb955a165b",
@@ -269,6 +256,19 @@
       "score": 86
     },
     {
+      "id": "1acaed448202",
+      "title": "[재정의 역설①] [피플N이슈] 정근식 \"사교육 줄이라면서 교육 예산 깎는 건 모순\"",
+      "url": "https://www.newspim.com/news/view/20261110001093",
+      "source": "뉴스핌",
+      "kind": "domestic",
+      "publishedAt": "2026-11-11T02:25:00.000Z",
+      "description": "[서울=뉴스핌] 송주원 기자 = 정근식 서울시교육감(대한민국교육감협의회장)은 정부가 사교육비 경감과 교육격차 해소를 강조하면서 정작 공교육 재정은 축소하려 한다며 정책의 모순을 지적했다. 학생 수가 줄어도 교육의 질을 높이기 위한 투자는 오히려 늘려야 한다는 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 87,
+      "score": 86
+    },
+    {
       "id": "18274c16c199",
       "title": "“스마트안경 착용만 해도 시험 무효”…교육부, 수능 유의사항 발표",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iUGp3SjZXMzFOME5udllmTVpKaXVaYmE2UmlkMjg1ZEJfRDhkLVhvVWZWWENoZDdsS0Zobm93ZWh1OVQ1eUNwV3N5RldOWTNUc2pMa2VOZ0lNdw?oc=5",
@@ -342,19 +342,6 @@
       "publishedAt": "2026-11-11T04:40:47.000Z",
       "description": "서울교육청, 교육활동 보호 정책 교육부 평가 우수 사례 선정 천지일보",
       "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 82
-    },
-    {
-      "id": "96164791cfaa",
-      "title": "서울시교육청 ‘교권보호’ 정책, 교육부 평가서 우수사례 선정",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PRkFJYTFLY3NVNnpQcnFZYjJmVzVJYUtLZDVxMkhsZUIzdmxmMmpZaElOQWYxUVVrS0Q3WVpaejN3SUJhczhSWmtDRUVLTmlnOHVRaQ?oc=5",
-      "source": "이투데이",
-      "kind": "domestic",
-      "publishedAt": "2026-11-11T03:00:00.000Z",
-      "description": "서울시교육청 ‘교권보호’ 정책, 교육부 평가서 우수사례 선정 이투데이",
-      "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 82
@@ -449,32 +436,6 @@
       "feedProvider": "google",
       "policyRelevance": 75,
       "score": 81
-    },
-    {
-      "id": "d48d48c3a595",
-      "title": "교육부, 일본과 AI 교육정책 교류…日초중학교·도쿄대 방문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SM2ZNSk54WXFMRm5VeWNyUjBGXzBsdFMzT2tMQVY0MEQ3d2lpSXY1UUxybGtrOFFRcU9YTTJCUWUwNWUwVnRwLTVTM0prV2FVcGxzUldCTW1RQQ?oc=5",
-      "source": "뉴스1",
-      "kind": "domestic",
-      "publishedAt": "2026-11-09T03:00:00.000Z",
-      "description": "교육부, 일본과 AI 교육정책 교류…日초중학교·도쿄대 방문 뉴스1",
-      "category": "AI·디지털",
-      "feedProvider": "google",
-      "policyRelevance": 75,
-      "score": 81
-    },
-    {
-      "id": "77b793dd28c7",
-      "title": "교육부 \"AI 안경, 교육으로 잡아낼 수 있어\"…수능날 \"제출해라\" 안내 방송도",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uaVNHYnM2b0d6S2huSV9Pb3ZvczNxZU5SUHVhNzhwa1pIb3hnWXNJTXhWOG5ac21Vcm9ZRHh6Zm5BSHhOQ3BYdkdKVzJRMldzcE04RnNGTjhXdw?oc=5",
-      "source": "뉴스1",
-      "kind": "domestic",
-      "publishedAt": "2026-11-09T03:00:00.000Z",
-      "description": "교육부 \"AI 안경, 교육으로 잡아낼 수 있어\"…수능날 \"제출해라\" 안내 방송도 뉴스1",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 80
     },
     {
       "id": "880780c169b2",
@@ -646,6 +607,19 @@
       "score": 73
     },
     {
+      "id": "96164791cfaa",
+      "title": "서울시교육청 ‘교권보호’ 정책, 교육부 평가서 우수사례 선정",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PRkFJYTFLY3NVNnpQcnFZYjJmVzVJYUtLZDVxMkhsZUIzdmxmMmpZaElOQWYxUVVrS0Q3WVpaejN3SUJhczhSWmtDRUVLTmlnOHVRaQ?oc=5",
+      "source": "이투데이",
+      "kind": "domestic",
+      "publishedAt": "2026-11-11T03:00:00.000Z",
+      "description": "서울시교육청 ‘교권보호’ 정책, 교육부 평가서 우수사례 선정 이투데이",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 72
+    },
+    {
       "id": "8f117e9267d5",
       "title": "교육부는 더 많은 학과가 학비 면제 및 감면 정책의 혜택을 받을 수 있도록 제안했습니다",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTW1PbUVkZGh0Zjlwc1BrN1JtczNZX3QxeWYzdkRtbFBxVDZjdTVTUHhOUFdRQWlJX3RuMVlQX0F0bHcyQ05SYnVuT2wyNV9jRU5ENUZaTll1eWY0VDAzcnExa0JhaFdzSEM1Vi1ZelZKblVacTRqejVNLUFLaWF5aUhwMGoxOFdsQkdmcVBldXNTamIwdzdMbHR0YmotVHpvaERHU3VfOEtsSUhLLS0zT1N4cDdnQQ?oc=5",
@@ -724,6 +698,32 @@
       "score": 71
     },
     {
+      "id": "d48d48c3a595",
+      "title": "교육부, 일본과 AI 교육정책 교류…日초중학교·도쿄대 방문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SM2ZNSk54WXFMRm5VeWNyUjBGXzBsdFMzT2tMQVY0MEQ3d2lpSXY1UUxybGtrOFFRcU9YTTJCUWUwNWUwVnRwLTVTM0prV2FVcGxzUldCTW1RQQ?oc=5",
+      "source": "뉴스1",
+      "kind": "domestic",
+      "publishedAt": "2026-11-09T03:00:00.000Z",
+      "description": "교육부, 일본과 AI 교육정책 교류…日초중학교·도쿄대 방문 뉴스1",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 75,
+      "score": 71
+    },
+    {
+      "id": "77b793dd28c7",
+      "title": "교육부 \"AI 안경, 교육으로 잡아낼 수 있어\"…수능날 \"제출해라\" 안내 방송도",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uaVNHYnM2b0d6S2huSV9Pb3ZvczNxZU5SUHVhNzhwa1pIb3hnWXNJTXhWOG5ac21Vcm9ZRHh6Zm5BSHhOQ3BYdkdKVzJRMldzcE04RnNGTjhXdw?oc=5",
+      "source": "뉴스1",
+      "kind": "domestic",
+      "publishedAt": "2026-11-09T03:00:00.000Z",
+      "description": "교육부 \"AI 안경, 교육으로 잡아낼 수 있어\"…수능날 \"제출해라\" 안내 방송도 뉴스1",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 70
+    },
+    {
       "id": "fba9eaa4bf4b",
       "title": "강경숙 의원, 지방교육재정 안정화 법안 발의…증감 폭 5% 기준 조정",
       "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B0%95%EA%B2%BD%EC%88%99-%EC%9D%98%EC%9B%90-%EC%A7%80%EB%B0%A9%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95-%EC%95%88%EC%A0%95%ED%99%94-%EB%B2%95%EC%95%88-%EB%B0%9C%EC%9D%98-%EC%A6%9D%EA%B0%90-%ED%8F%AD-5-%EA%B8%B0%EC%A4%80-%EC%A1%B0%EC%A0%95/ar-AA2h1uDv",
@@ -749,8 +749,8 @@
       "policyRelevance": 44,
       "score": 69,
       "originalTitle": "Korea's first university admissions program for refugees offers hope, but barriers and resistance remain",
-      "titleKo": "한국 최초의 난민 대학 입학 프로그램이 희망을 제시하지만, 여전히 장벽과 반발이 존재합니다.",
-      "summaryKo": "한국 최초의 난민 대학 입학 프로그램이 희망을 제시하지만, 여전히 장벽과 반발이 남아 있다. 코리아중앙데일리"
+      "titleKo": "한국 최초의 난민 대학 입학 프로그램이 희망을 제시하지만, 여전히 장벽과 저항이 남아 있습니다.",
+      "summaryKo": "한국 최초의 난민 대학 입학 프로그램이 희망을 제시하지만, 여전히 장벽과 반발이 존재 Korea JoongAng Daily"
     },
     {
       "id": "ea8dd04a9b7f",
@@ -825,19 +825,6 @@
       "kind": "domestic",
       "publishedAt": "2026-11-10T01:50:12.000Z",
       "description": "2027학년도 수능, ‘스마트안경’ 착용만 해도 시험 무효… 내년 응시도 제한 한국대학신문",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 65
-    },
-    {
-      "id": "fff038fd47e0",
-      "title": "대학 수능 D-10, 시험장에 스마트안경 전담요원 배치",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vUEFYdEZCY2VrYkRFVUJtN05XR2I3VGZpdkt0dzdDZXpidmwtM3V3d3RDOExfRHRheE1RVVVsajhwWDdmT3lwN0d2QjVybG5JZkQ4YmxCNU1WX3NrRl83d1hnSkUydzN5OG42M0o0ONIBc0FVX3lxTE5yc1dnRkFjcHVUeGI3aDlQUG5vVllxOWhUNkVFeXN4QTc1WEJJZG1pMGtOaE4yaWNTZ0g3MXNrTnh5VUJ1MDhmSTBVenJuSy1OYV9mdmNVUEVvUXpBVVB4OW1ZUldZVnhKcEYxR2FpcFZIWnc?oc=5",
-      "source": "데일리한국",
-      "kind": "domestic",
-      "publishedAt": "2026-11-09T02:40:16.000Z",
-      "description": "대학 수능 D-10, 시험장에 스마트안경 전담요원 배치 데일리한국",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
@@ -922,7 +909,7 @@
       "score": 61,
       "originalTitle": "Ministry of Education and Culture Urged to Prepare Curriculum and Educators Before High School Tracking",
       "titleKo": "교육문화부, 고등학교 진학 전 교육 과정 및 교사 준비 촉구",
-      "summaryKo": "교육문화부, 고등학교 진학 전 교육과정 및 교사 준비 촉구 Kompas.com"
+      "summaryKo": "교육문화부, 고등학교 진학 전 커리큘럼 및 교사 준비 촉구 Kompas.com"
     },
     {
       "id": "897641f3d6fd",
@@ -949,6 +936,19 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 57
+    },
+    {
+      "id": "fff038fd47e0",
+      "title": "대학 수능 D-10, 시험장에 스마트안경 전담요원 배치",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vUEFYdEZCY2VrYkRFVUJtN05XR2I3VGZpdkt0dzdDZXpidmwtM3V3d3RDOExfRHRheE1RVVVsajhwWDdmT3lwN0d2QjVybG5JZkQ4YmxCNU1WX3NrRl83d1hnSkUydzN5OG42M0o0ONIBc0FVX3lxTE5yc1dnRkFjcHVUeGI3aDlQUG5vVllxOWhUNkVFeXN4QTc1WEJJZG1pMGtOaE4yaWNTZ0g3MXNrTnh5VUJ1MDhmSTBVenJuSy1OYV9mdmNVUEVvUXpBVVB4OW1ZUldZVnhKcEYxR2FpcFZIWnc?oc=5",
+      "source": "데일리한국",
+      "kind": "domestic",
+      "publishedAt": "2026-11-09T02:40:16.000Z",
+      "description": "대학 수능 D-10, 시험장에 스마트안경 전담요원 배치 데일리한국",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 55
     },
     {
       "id": "dea03b6b321e",
@@ -1000,8 +1000,8 @@
       "category": "유·초중등",
       "score": 30,
       "originalTitle": "South Korea’s free tuition plan could reshape international student recruitment",
-      "titleKo": "한국의 무상 수업료 계획이 유학생 유치에 변화를 가져올 수 있음",
-      "summaryKo": "한국 정부는 2027년에 서울특별시 외곽에 위치한 30개 국립대학교의 신입생들에게 전액 장학금을 지원할 계획입니다. 김규석(KS) 씨는 이 정책이 어떤 영향을 미칠 수 있는지 살펴봅니다."
+      "titleKo": "한국의 무상 교육 계획이 유학생 유치에 변화를 가져올 수 있음",
+      "summaryKo": "한국 정부는 2027년에 서울특별시 외곽에 위치한 30개 국립대학교의 신입생들에게 전액 장학금을 지원할 계획입니다. 김규석(KS) 씨는 이 계획이 어떤 영향을 미칠 수 있는지 살펴봅니다..."
     },
     {
       "id": "49fb2dbe2d01",
@@ -1015,7 +1015,7 @@
       "score": 30,
       "originalTitle": "South Korea to Open New Regional Medical Schools at Suncheon National University and Gyeongguk National University by 2030",
       "titleKo": "한국, 2030년까지 순천대학교와 경북대학교에 새로운 지역 의과대학 개설 예정",
-      "summaryKo": "한국 정부는 의료 인력 부족 문제를 해결하기 위해 새로운 '지역 의과대학'을 설립할 대학으로 순천대학교와 경북대학교를 최종 확정했다."
+      "summaryKo": "한국 정부는 전국적으로 의사 부족 문제를 해결하기 위해 새로운 '지역 의과대학'을 설립할 대학으로 순천대학교와 경북대학교를 최종 확정했다."
     },
     {
       "id": "2b94514b13bb",
@@ -1028,8 +1028,8 @@
       "category": "유·초중등",
       "score": 30,
       "originalTitle": "South Korea approves new medical schools at Sunchon and Gyeongguk for 2030",
-      "titleKo": "한국, 2030년까지 순천과 경북에 새로운 의과대학 설립 승인",
-      "summaryKo": "한국 정부, 2030년 순천과 경북에 신규 의과대학 설립 승인 정부, 신규 지역 의과대학 정원을 100명으로 설정하고 2030년 신입생 모집 목표로 ..."
+      "titleKo": "한국, 2030년 순천과 경북에 신설 의과대학 승인",
+      "summaryKo": "한국 정부, 2030년 순천과 경북에 신규 의과대학 설립 승인 정부, 신규 지역 의과대학 정원을 100명으로 설정하고 2030년 신입생 모집 목표..."
     },
     {
       "id": "34d510393f45",
@@ -1056,8 +1056,8 @@
       "category": "기타",
       "score": 30,
       "originalTitle": "South Korea Faces Consequences of Tough Anti-Bullying Policy",
-      "titleKo": "한국, 엄격한 학교폭력 근절 정책의 여파에 직면하다",
-      "summaryKo": "한국은 학교생활기록부에 왕따 가해 사실이 기록된 학생에게 엄중한 처벌을 내리는 법을 제정했습니다. 이로 인해 왕따가 근절되기는커녕 소송이 급증했습니다."
+      "titleKo": "한국, 엄격한 학교폭력 근절 정책의 여파에 직면",
+      "summaryKo": "한국은 학교생활기록부에 학교폭력 기록이 있는 학생에게 가혹한 처벌을 내리는 법을 제정했습니다. 이로 인해 왕따가 근절되기는커녕 소송이 급증했습니다."
     },
     {
       "id": "658df8a64b88",
@@ -1070,8 +1070,8 @@
       "category": "유·초중등",
       "score": 30,
       "originalTitle": "South Korea exceeds 300,000 international students, prioritizes education quality",
-      "titleKo": "한국, 유학생 30만 명 돌파, 교육의 질 우선시",
-      "summaryKo": "올해 처음으로 국내 대학에 재학 중인 유학생 수가 30만 명을 넘어섰습니다. 정부는 30만 명을 유치하기 위한 다양한 정책을 시행해 왔다. ..."
+      "titleKo": "한국, 유학생 수 30만 명 돌파, 교육의 질 우선시",
+      "summaryKo": "올해 처음으로 국내 대학에 재학 중인 유학생 수가 30만 명을 넘어섰다. 정부는 30만 명을 유치하기 위한 다양한 정책을 시행해 왔다. ..."
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -1081,22 +1081,21 @@
     "throughDate": "2026-11-12",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-11-10T15:00:00.000Z",
-    "windowEnd": "2026-11-12T02:22:07.163Z",
+    "windowEnd": "2026-11-12T03:09:49.690Z",
     "itemIds": [
       "44a509c74b58",
       "3d8574dc3439",
       "ae1d00ca0de3",
-      "1acaed448202",
       "60fa6f110295",
       "f1481d9385b3",
       "9e513f39d014",
       "7bb61850ee39",
       "4b318a145fb0",
+      "1acaed448202",
       "20f150e6c3c4",
       "f06f0382eb57",
       "9cef0b37f20b",
       "d7f485d429d6",
-      "96164791cfaa",
       "dd2c2027c829",
       "5c722b843bb2",
       "880780c169b2",
@@ -1104,6 +1103,7 @@
       "278d9d2d695c",
       "4f1a025cd167",
       "95f86b243511",
+      "96164791cfaa",
       "e61283d3daf9",
       "9889d502e64b",
       "1aef738ad023"
@@ -1115,7 +1115,7 @@
       "foreign": 0
     },
     "headline": "오늘 아침 교육뉴스는 유·초중등·고등교육·교원·조직 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 24건이 확인됐습니다. 교육부는 미국 한국어반 고등학생들의 한글 그림, 샌프란시스코 현대미술관에 걸린다, 제3회 대학기초연구소 지원 사업(G-LAMP) 축제(페스티벌) 개최와 교육부, EBS·금융감독원 등과 함께 케이무크로 청년 경제·금융 이해력 높인다 등을 공식 발표했습니다. 국내 언론에서는 [재정의 역설①] [피플N이슈] 정근식 \"사교육 줄이라면서 교육 예산 깎는 건 모순\"와 교육부, '학생 마음건강 시도 책임제' 운영…매달 정책 추진현황 점검 등이 주요하게 다뤄졌습니다. 전체적으로는 유·초중등·고등교육·교원·조직 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 24건이 확인됐습니다. 교육부는 미국 한국어반 고등학생들의 한글 그림, 샌프란시스코 현대미술관에 걸린다, 제3회 대학기초연구소 지원 사업(G-LAMP) 축제(페스티벌) 개최와 교육부, EBS·금융감독원 등과 함께 케이무크로 청년 경제·금융 이해력 높인다 등을 공식 발표했습니다. 국내 언론에서는 교육부, '학생 마음건강 시도 책임제' 운영…매달 정책 추진현황 점검와 교육부, 학생 마음건강에 힘 싣는다…부교육감 책임 강화 등이 주요하게 다뤄졌습니다. 전체적으로는 유·초중등·고등교육·교원·조직 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "유·초중등",
@@ -1148,12 +1148,12 @@
         ]
       },
       {
-        "title": "입시·사교육",
-        "summary": "[재정의 역설①] [피플N이슈] 정근식 \"사교육 줄이라면서 교육 예산 깎는 건 모순\" · [교육칼럼] 사교육의 일상화와 불평등화, 공교육이 답해야",
-        "why": "대입·수능·사교육 이슈는 학생·학부모 체감도가 높고 후속 안내와 현장 반응 점검이 중요합니다.",
+        "title": "재정·법령",
+        "summary": "\"AI 교육·기초학력 두 토끼 잡는다\"... 부산시교육청, 2027년 예산 5조 6743억 원 편성 · 권순기 교육정책 첫 반영…경남교육청, 내년 예산 6조9790억 편성",
+        "why": "예산·법령 변화는 정책 집행의 직접 근거가 되므로 세부 기준과 시행 일정 확인이 중요합니다.",
         "sources": [
-          "뉴스핌",
-          "서울일보"
+          "녹색경제신문",
+          "직썰"
         ]
       }
     ],
