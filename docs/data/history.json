@@ -1,7 +1,8 @@
 {
-  "generatedAt": "2026-11-12T03:10:09.063Z",
+  "generatedAt": "2026-11-13T02:43:23.284Z",
   "retentionDays": 30,
   "days": [
+    "2026-11-13",
     "2026-11-12",
     "2026-11-11",
     "2026-11-10",
@@ -28,14 +29,195 @@
     "2026-10-19",
     "2026-10-18",
     "2026-10-17",
-    "2026-10-16",
-    "2026-10-14"
+    "2026-10-16"
   ],
   "items": [
     {
+      "id": "489408e939b9",
+      "title": "대전시교육청, 2026 대전미래교육박람회 개최… 내년부터 교육컨퍼런스로 개편",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yWWFsNVBOaDFjdU5teUZWQWNWRlpuRzJrbERXQ0pSSHB3VF9Bamdic2pjRUgyRWZwRnVZQ1RhalpkUEZQMWltVUxBd0JIQ3loOUppVmIzSGx4TFlDUUZBQkw1X0Rxd01fTEZ6enFPeHR5WXc?oc=5",
+      "source": "뉴스프리존",
+      "kind": "domestic",
+      "publishedAt": "2026-11-13T00:15:44.000Z",
+      "description": "대전시교육청, 2026 대전미래교육박람회 개최… 내년부터 교육컨퍼런스로 개편 뉴스프리존",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 86,
+      "snapshotDate": "2026-11-13"
+    },
+    {
+      "id": "1bde57df73d1",
+      "title": "전북교육청 '인성교육 실천 나눔의 날'에 교원 150여 명 참여",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xSmJJbi0ycU92dFF0ZXdhZnZGd1liR0k1QldjbXNKQVJUSUs3alc1dXNxWHc1V0F6SERkOU1vN3E1dWNDam1OdF92V2N2VnAtd3BUNXhzOGtyQi0tTHQ0?oc=5",
+      "source": "전북미래교육신문",
+      "kind": "domestic",
+      "publishedAt": "2026-11-12T13:21:37.000Z",
+      "description": "전북교육청 '인성교육 실천 나눔의 날'에 교원 150여 명 참여 전북미래교육신문",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 77,
+      "snapshotDate": "2026-11-13"
+    },
+    {
+      "id": "858f5c8defd4",
+      "title": "교육부·국가평생교육진흥원 학부모교육 전문강사 연수",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lQU5iYl9HekhHbFRTTGZKbE8tMUxCdTA5endaaGNUTTFsTlRwRURWMkxZVHFpcnVuZVFRdXRxUlg4RTl2cXd1b3MydDZoQW9OdWluN1FKSWVHeXRhWTJv?oc=5",
+      "source": "한국교육신문",
+      "kind": "domestic",
+      "publishedAt": "2026-11-12T11:09:39.000Z",
+      "description": "교육부·국가평생교육진흥원 학부모교육 전문강사 연수 한국교육신문",
+      "category": "지역·평생교육",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 73,
+      "snapshotDate": "2026-11-13"
+    },
+    {
+      "id": "9a1179b819a4",
+      "title": "인천시교육청, 초등 교사 200명 공동 수업 설계… AI 활용 프로젝트학습 현장 적용 모색",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DUWx5ZE5zNHlHSnJqaTF6UVdYN3c0OE9Nby12VllIT054TEJIQzJVUmVyNHUyVktsaF8zdmJETlN2RnBzczdCajhlODVvZjkxMXRKRzRGZkxjQ0lad2M2YjZxVFVab3lpb21GOXJWdkJiOUFsVEFlSE53?oc=5",
+      "source": "로이슈",
+      "kind": "domestic",
+      "publishedAt": "2026-11-12T08:24:50.000Z",
+      "description": "인천시교육청, 초등 교사 200명 공동 수업 설계… AI 활용 프로젝트학습 현장 적용 모색 로이슈",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 77,
+      "snapshotDate": "2026-11-13"
+    },
+    {
+      "id": "a50044017d41",
+      "title": "디지털리터러시협회, 국회서 AI 교육정책 심포지엄…“사람의 판단이 핵심”",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5raXJMbHZzbVBUa0FRd1BEVjlZQ0NsNV83bTFHaHFCZTY1NHdFV0N6Z0VjbVFUWUhfeE9TeGZFTVE0cEFTVGpMeWxSY3F2dk84T3VDOTBnblJ4YmUzVVVjZzIydjlRZmRXLUxV?oc=5",
+      "source": "내외경제TV",
+      "kind": "domestic",
+      "publishedAt": "2026-11-12T07:13:14.000Z",
+      "description": "디지털리터러시협회, 국회서 AI 교육정책 심포지엄…“사람의 판단이 핵심” 내외경제TV",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 86,
+      "snapshotDate": "2026-11-13"
+    },
+    {
+      "id": "1b3e6323439b",
+      "title": "디지털리터러시협회·국회, AI 시대 교육정책 심포지엄 성료… 인간 주도성과 접근성 해법 모색",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iSEF0NTdxX3hOVXV3czVMQUxJTTByYmhFWW1JYzI3eUtLMThMRWRDYWJpd3NmeFRrMXlBRVhqRDdSUkRucGtkT015eFpKZzhwcmdtSTd1TnVIcGQtWFhYZW40cWJwRFg5?oc=5",
+      "source": "https://www.2news.co.kr/",
+      "kind": "domestic",
+      "publishedAt": "2026-11-12T06:26:00.000Z",
+      "description": "디지털리터러시협회·국회, AI 시대 교육정책 심포지엄 성료… 인간 주도성과 접근성 해법 모색 https://www.2news.co.kr/",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 86,
+      "snapshotDate": "2026-11-13"
+    },
+    {
+      "id": "9e513f39d014",
+      "title": "서울시교육청 교육활동 보호정책, 교육부 평가 우수사례 선정",
+      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1311144",
+      "source": "전국매일신문",
+      "kind": "domestic",
+      "publishedAt": "2026-11-12T06:23:00.000Z",
+      "description": "서울시교육청이 긴급지원팀을 중심으로 교원 교육활동 침해 사안에 대한 초기 대응부터 법률·심리 지원, 갈등 조정과 회복까지 연계하는 통합 지원체계가 성과를 인정받아 교육부 주관 시·도교육청 평가에서 우수사례로 선정됐다.시교육청은 교육활동 보호 긴급지원팀 ‘SEM119’를 중심으로 운영해온 교육활동 보호정책이 교육부 ‘2026년 시·도교육청 평가’에서 시 지역 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 91,
+      "snapshotDate": "2026-11-13"
+    },
+    {
+      "id": "a2dcb2850576",
+      "title": "전국 대학 앵커사업단 실무자 한자리에… 정책 이해부터 사업비 정산까지 점검[현장]",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qVHZEaVZ1NWpFUkR5RGJVWWFRSTBvSG4xbl9zRXBKWS1YM0g2SHY5UXBtb0E2NjNzNDN2NExTREF2OFpUNjJJMzV1cm1wX01yaTBKOHV0aGpmNE5BYk5aVXJCUGdHUQ?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-11-12T05:49:37.000Z",
+      "description": "전국 대학 앵커사업단 실무자 한자리에… 정책 이해부터 사업비 정산까지 점검[현장] 한국대학신문",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 71,
+      "snapshotDate": "2026-11-13"
+    },
+    {
+      "id": "e1f6da80ebe1",
+      "title": "인천시교육청, 초등 교원 200명 읽걷쓰AI 프로젝트수업 연수",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wR0pzWmlGQVlTd0JWNHN3cjVGWVBpdEpDY01ZZUY5V3VTMFc4dW11UVVzZ2VxTWpIQm1ydGFKMW9vUjIxdUxUMzJRQVZpUV9DTmlVSjI2OVhTaXVhOTlQQWdEb3FzQlN5OXlR?oc=5",
+      "source": "한국사회복지저널",
+      "kind": "domestic",
+      "publishedAt": "2026-11-12T05:41:17.000Z",
+      "description": "인천시교육청, 초등 교원 200명 읽걷쓰AI 프로젝트수업 연수 한국사회복지저널",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 81,
+      "snapshotDate": "2026-11-13"
+    },
+    {
+      "id": "d824d4c57e1c",
+      "title": "[광장-윤정현] 국립대 중심의 정책, 지역혁신 창출 돌파구인가?",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95U3dLSzBKbkRJc1RBN1hsUU9QU0ZkVGtJZWt0NHM4WHFzdkQ1YjBWT3FuVGRjcWhXTmlrZkk4aWduc3R1aWE5UEhsTjJQUWNQNndNMTRVbGo0VFZfRU5tdXp3?oc=5",
+      "source": "매일신문",
+      "kind": "domestic",
+      "publishedAt": "2026-11-12T05:40:06.000Z",
+      "description": "[광장-윤정현] 국립대 중심의 정책, 지역혁신 창출 돌파구인가? 매일신문",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 71,
+      "snapshotDate": "2026-11-13"
+    },
+    {
+      "id": "35c9869f9aeb",
+      "title": "전북교육청, 학교 현장 인성교육 우수사례 공유",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hemlWSlpCOVl5aEZMcnpjUDA2Rk9MWm95QmZXXzVNYzVKYXhyVnhtOV9GNk1uY1NYX3VYbjlxcnRNR1h2amdkQm44RElDWlFtMmRlVHB5eXYxUzJDYzhWOEk0SUQ1V1Z4Q1E?oc=5",
+      "source": "투데이안",
+      "kind": "domestic",
+      "publishedAt": "2026-11-12T05:30:00.000Z",
+      "description": "전북교육청, 학교 현장 인성교육 우수사례 공유 투데이안",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 73,
+      "snapshotDate": "2026-11-13"
+    },
+    {
+      "id": "867fd6e3b4b2",
+      "title": "서울교육청 ‘교권보호’정책…교육부 우수사례 선정",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ncHN5MXl1XzR0dFBUZFpiTGp4S2JUemc1RlN1NlJGZUlBczFpNlFDX1Y1Y3FON2NkX3ZxRUNsQ2R6SlBTa0ZrWFlIcm80aDhZdkFseTd1STN2MEtpUFRhVTlDODZwQXlRTDJjYWJyVkpRSnc?oc=5",
+      "source": "동방일보",
+      "kind": "domestic",
+      "publishedAt": "2026-11-12T04:24:44.000Z",
+      "description": "서울교육청 ‘교권보호’정책…교육부 우수사례 선정 동방일보",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 82,
+      "snapshotDate": "2026-11-13"
+    },
+    {
+      "id": "df0ea9e86cca",
+      "title": "동의과학대 김강훈 교수, 고등직업교육정책 연수서 AI 학사행정 혁신 특강 진행",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lUnJxWVFpVkVJblRPMVVXQmdHREc5MUR1UEotY2Y2VVFXd0pzWnZOWG82LW1Hd3Zwd0pvS0tycXkxdVp0cDcwcWg1TlNfdTRMenB2OXM0R3N6RGFKTTMzWktHRENLUQ?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-11-12T02:07:25.000Z",
+      "description": "동의과학대 김강훈 교수, 고등직업교육정책 연수서 AI 학사행정 혁신 특강 진행 한국대학신문",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 65,
+      "snapshotDate": "2026-11-13"
+    },
+    {
       "id": "e61283d3daf9",
       "title": "이인선 의원, 고등교육 지원 형평성 문제 제기...“국립대는 전액 지원, 사립대는 등록금 부담”",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWWjU5c1JrcVl3UHJwc01IN0J5RXBpSjdsMmxtdGRIMVFJWVRnbEEtVE5qeXI4X3hhN3NfZFRXWFhFSXEtNWpOY2VOREtaVmtfZFdRNmVsVHhJQmxDWHZweUE3MVVTYzJHbi1J?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mRkExdjNPZEM0SG5va3hlX3Q0VU5JalVRZGpiNVZrMUJ3eGEtUHZRNUhQN2h0ZG43bm9KZ05DcnppV0I2YU5ObG94UUp2Wjh3bl9BNTJEdFNFN3ZsMGlFeXB0OFp5dlA1akkw?oc=5",
       "source": "프레시안",
       "kind": "domestic",
       "publishedAt": "2026-11-12T01:37:46.000Z",
@@ -43,8 +225,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 71,
-      "snapshotDate": "2026-11-12"
+      "score": 61,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "20f150e6c3c4",
@@ -57,8 +239,21 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 57,
-      "score": 83,
-      "snapshotDate": "2026-11-12"
+      "score": 73,
+      "snapshotDate": "2026-11-13"
+    },
+    {
+      "id": "1f6acb8b28ed",
+      "title": "4.16의 기록, 오늘의 교육이 되다",
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107628&lev=0&m=020402",
+      "source": "교육부",
+      "kind": "official",
+      "publishedAt": "2026-11-12T09:00:00+09:00",
+      "description": "교육부 공식 보도자료",
+      "category": "기타",
+      "policyRelevance": 100,
+      "score": 105,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "f06f0382eb57",
@@ -71,8 +266,36 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 82,
-      "snapshotDate": "2026-11-12"
+      "score": 72,
+      "snapshotDate": "2026-11-13"
+    },
+    {
+      "id": "1e383ef5bc0a",
+      "title": "국민대, 국내 첫 유엔대학교 연구거점 설립…AI·디지털정부 공동연구",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EA%B5%AD%EB%AF%BC%EB%8C%80-%EA%B5%AD%EB%82%B4-%EC%B2%AB-%EC%9C%A0%EC%97%94%EB%8C%80%ED%95%99%EA%B5%90-%EC%97%B0%EA%B5%AC%EA%B1%B0%EC%A0%90-%EC%84%A4%EB%A6%BD-ai-%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%95%EB%B6%80-%EA%B3%B5%EB%8F%99%EC%97%B0%EA%B5%AC/ar-AA2hh4iP",
+      "source": "뉴스1 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-11T23:11:22.000Z",
+      "description": "유엔대 e거버넌스 연구조직과 공동 운영…석·박사 과정 추진AI 공공서비스·디지털 격차 연구…개도국 정책전문가 교육도 (서울=뉴스1) 김재현 기자 = 국민대학교가 국내 대학 최초로 유엔대학교(UNU)와 인공지능(AI)·디지털 거버넌스 분야 공동 연구거점을 설립했다. 양 기관은 AI를 활용한 공공서비스 혁신과 디지털 격차 ...",
+      "category": "AI·디지털",
+      "feedProvider": "bing",
+      "policyRelevance": 87,
+      "score": 86,
+      "snapshotDate": "2026-11-13"
+    },
+    {
+      "id": "cc106c7d9263",
+      "title": "[뉴스1 PICK] 수능 D-7… '수험생은 막바지 공부, 가족은 간절한 기도'",
+      "url": "https://www.news1.kr/society/general-society/6352165",
+      "source": "뉴스1",
+      "kind": "domestic",
+      "publishedAt": "2026-11-11T19:53:00.000Z",
+      "description": "수능 일주일 앞으로…학교·학원서 막바지 시험 준비 수험생 가족들 사찰 찾아 합격 기원…현행 수능 체제 마지막 시험 2027학년도 대학수학능력시험(수능)이 일주일 앞으로 다가왔다.12일 수험생들은 각자의 학교와 학원에서 막바지 시험 준비에 매진했다.같은 날 서울 종로구 조계사에 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 40,
+      "score": 65,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "665533064531",
@@ -85,8 +308,8 @@
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 77,
-      "snapshotDate": "2026-11-12"
+      "score": 67,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "95f86b243511",
@@ -99,22 +322,22 @@
       "category": "유·초중등",
       "feedProvider": "bing",
       "policyRelevance": 45,
-      "score": 73,
-      "snapshotDate": "2026-11-12"
+      "score": 63,
+      "snapshotDate": "2026-11-13"
     },
     {
-      "id": "9e513f39d014",
-      "title": "서울시교육청 교육활동 보호정책, 교육부 평가 우수사례 선정",
-      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1311144",
-      "source": "전국매일신문",
+      "id": "42f33aaa6706",
+      "title": "대구시의회 교육위원회, 5개 교육지원청 행정감사…학생 안전·교육격차 집중 점검",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kZGg3bVE1ZE52SWFlN1ZyTEx0RlJoNlJ6RzRJdUkyWk9weEtvMUgxbklibUNlUlFkTS1fOFRqR1NLcmhkdjQ2cTdraGwzZlc3SXRHdEVKRTVLSlZYZl8xSFprWmlvaXk0dEdFNA?oc=5",
+      "source": "웹플러스뉴스",
       "kind": "domestic",
-      "publishedAt": "2026-11-11T12:17:00.000Z",
-      "description": "서울시교육청이 긴급지원팀을 중심으로 교원 교육활동 침해 사안에 대한 초기 대응부터 법률·심리 지원, 갈등 조정과 회복까지 연계하는 통합 지원체계가 성과를 인정받아 교육부 주관 시·도교육청 평가에서 우수사례로 선정됐다.시교육청은 교육활동 보호 긴급지원팀 ‘SEM119’를 중심으로 운영해온 교육활동 보호정책이 교육부 ‘2026년 시·도교육청 평가’에서 시 지역 ...",
-      "category": "교원·조직",
-      "feedProvider": "bing",
-      "policyRelevance": 75,
-      "score": 91,
-      "snapshotDate": "2026-11-12"
+      "publishedAt": "2026-11-11T12:40:00.000Z",
+      "description": "대구시의회 교육위원회, 5개 교육지원청 행정감사…학생 안전·교육격차 집중 점검 웹플러스뉴스",
+      "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 61,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "60fa6f110295",
@@ -127,8 +350,8 @@
       "category": "유·초중등",
       "feedProvider": "bing",
       "policyRelevance": 87,
-      "score": 92,
-      "snapshotDate": "2026-11-12"
+      "score": 82,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "f1481d9385b3",
@@ -141,8 +364,8 @@
       "category": "교원·조직",
       "feedProvider": "bing",
       "policyRelevance": 87,
-      "score": 92,
-      "snapshotDate": "2026-11-12"
+      "score": 82,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "4f1a025cd167",
@@ -155,8 +378,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 52,
-      "score": 76,
-      "snapshotDate": "2026-11-12"
+      "score": 66,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "880780c169b2",
@@ -169,8 +392,8 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 47,
-      "score": 78,
-      "snapshotDate": "2026-11-12"
+      "score": 68,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "7bb61850ee39",
@@ -183,8 +406,8 @@
       "category": "재정·법령",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 90,
-      "snapshotDate": "2026-11-12"
+      "score": 80,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "4b318a145fb0",
@@ -197,8 +420,8 @@
       "category": "재정·법령",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 86,
-      "snapshotDate": "2026-11-12"
+      "score": 76,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "9cef0b37f20b",
@@ -211,8 +434,8 @@
       "category": "지역·평생교육",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 82,
-      "snapshotDate": "2026-11-12"
+      "score": 72,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "9889d502e64b",
@@ -225,8 +448,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 71,
-      "snapshotDate": "2026-11-12"
+      "score": 61,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "1aef738ad023",
@@ -239,8 +462,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 71,
-      "snapshotDate": "2026-11-12"
+      "score": 61,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "d7f485d429d6",
@@ -253,8 +476,8 @@
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 82,
-      "snapshotDate": "2026-11-12"
+      "score": 72,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "96164791cfaa",
@@ -268,7 +491,7 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 72,
-      "snapshotDate": "2026-11-12"
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "1acaed448202",
@@ -282,7 +505,7 @@
       "feedProvider": "bing",
       "policyRelevance": 87,
       "score": 86,
-      "snapshotDate": "2026-11-12"
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "44a509c74b58",
@@ -295,7 +518,7 @@
       "category": "유·초중등",
       "policyRelevance": 100,
       "score": 105,
-      "snapshotDate": "2026-11-12"
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "3d8574dc3439",
@@ -308,7 +531,7 @@
       "category": "고등교육",
       "policyRelevance": 100,
       "score": 105,
-      "snapshotDate": "2026-11-12"
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "ae1d00ca0de3",
@@ -321,7 +544,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 105,
-      "snapshotDate": "2026-11-12"
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "278d9d2d695c",
@@ -335,7 +558,7 @@
       "feedProvider": "google",
       "policyRelevance": 75,
       "score": 77,
-      "snapshotDate": "2026-11-12"
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "dd2c2027c829",
@@ -349,7 +572,7 @@
       "feedProvider": "bing",
       "policyRelevance": 75,
       "score": 81,
-      "snapshotDate": "2026-11-12"
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "5c722b843bb2",
@@ -363,7 +586,7 @@
       "feedProvider": "bing",
       "policyRelevance": 75,
       "score": 81,
-      "snapshotDate": "2026-11-12"
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "e4fb72a281d6",
@@ -377,7 +600,7 @@
       "feedProvider": "bing",
       "policyRelevance": 77,
       "score": 82,
-      "snapshotDate": "2026-11-12"
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "884c339cdc8d",
@@ -391,7 +614,7 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 65,
-      "snapshotDate": "2026-11-12"
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "356644ce9f99",
@@ -405,7 +628,7 @@
       "feedProvider": "google",
       "policyRelevance": 47,
       "score": 64,
-      "snapshotDate": "2026-11-12"
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "133b03ed2369",
@@ -419,7 +642,7 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 61,
-      "snapshotDate": "2026-11-12"
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "48ff741f2d37",
@@ -433,7 +656,7 @@
       "feedProvider": "bing",
       "policyRelevance": 75,
       "score": 77,
-      "snapshotDate": "2026-11-12"
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "5cb942043f7f",
@@ -447,7 +670,7 @@
       "feedProvider": "google",
       "policyRelevance": 42,
       "score": 62,
-      "snapshotDate": "2026-11-12"
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "8f117e9267d5",
@@ -461,7 +684,7 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 72,
-      "snapshotDate": "2026-11-12"
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "61b27135fd24",
@@ -475,7 +698,7 @@
       "feedProvider": "bing",
       "policyRelevance": 77,
       "score": 90,
-      "snapshotDate": "2026-11-12"
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "01262d01ab8b",
@@ -489,7 +712,7 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 65,
-      "snapshotDate": "2026-11-12"
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "f10453ca3097",
@@ -503,7 +726,7 @@
       "feedProvider": "google",
       "policyRelevance": 42,
       "score": 66,
-      "snapshotDate": "2026-11-12"
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "8c57c023b21e",
@@ -517,7 +740,7 @@
       "feedProvider": "google",
       "policyRelevance": 75,
       "score": 85,
-      "snapshotDate": "2026-11-12"
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "5601fab1af3e",
@@ -530,8 +753,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 65,
-      "snapshotDate": "2026-11-12"
+      "score": 55,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "40e974a60c75",
@@ -544,8 +767,8 @@
       "category": "재정·법령",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 76,
-      "snapshotDate": "2026-11-12"
+      "score": 66,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "953963c04536",
@@ -558,8 +781,8 @@
       "category": "재정·법령",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 76,
-      "snapshotDate": "2026-11-12"
+      "score": 66,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "1edee6c97f39",
@@ -572,8 +795,8 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 57,
-      "score": 73,
-      "snapshotDate": "2026-11-12"
+      "score": 63,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "8bbe009e78d8",
@@ -586,8 +809,8 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 61,
-      "snapshotDate": "2026-11-12"
+      "score": 51,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "c130d30bbc59",
@@ -600,8 +823,8 @@
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 72,
-      "snapshotDate": "2026-11-12"
+      "score": 62,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "cbbac9a90a44",
@@ -614,8 +837,8 @@
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 72,
-      "snapshotDate": "2026-11-12"
+      "score": 62,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "6ad4cd5a8dc8",
@@ -628,8 +851,8 @@
       "category": "입시·사교육",
       "feedProvider": "bing",
       "policyRelevance": 87,
-      "score": 94,
-      "snapshotDate": "2026-11-12"
+      "score": 84,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "9e8b1b712c7c",
@@ -641,8 +864,8 @@
       "description": "교육부 공식 보도자료",
       "category": "유·초중등",
       "policyRelevance": 100,
-      "score": 109,
-      "snapshotDate": "2026-11-12"
+      "score": 99,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "ae2ee775446e",
@@ -654,8 +877,8 @@
       "description": "교육부 공식 보도자료",
       "category": "기타",
       "policyRelevance": 100,
-      "score": 105,
-      "snapshotDate": "2026-11-12"
+      "score": 95,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "089217be7135",
@@ -667,8 +890,8 @@
       "description": "교육부 공식 보도자료",
       "category": "기타",
       "policyRelevance": 100,
-      "score": 105,
-      "snapshotDate": "2026-11-12"
+      "score": 95,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "76e0be28c8d9",
@@ -681,8 +904,8 @@
       "category": "입시·사교육",
       "feedProvider": "bing",
       "policyRelevance": 87,
-      "score": 94,
-      "snapshotDate": "2026-11-12"
+      "score": 84,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "144aa627881d",
@@ -695,8 +918,8 @@
       "category": "재정·법령",
       "feedProvider": "bing",
       "policyRelevance": 77,
-      "score": 90,
-      "snapshotDate": "2026-11-12"
+      "score": 80,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "962000b9049e",
@@ -723,8 +946,8 @@
       "category": "재정·법령",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 76,
-      "snapshotDate": "2026-11-12"
+      "score": 66,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "5f3e4f13570e",
@@ -737,8 +960,8 @@
       "category": "AI·디지털",
       "feedProvider": "bing",
       "policyRelevance": 75,
-      "score": 81,
-      "snapshotDate": "2026-11-12"
+      "score": 71,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "ed3e350344f9",
@@ -751,8 +974,8 @@
       "category": "교원·조직",
       "feedProvider": "bing",
       "policyRelevance": 75,
-      "score": 77,
-      "snapshotDate": "2026-11-12"
+      "score": 67,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "989b6b059457",
@@ -765,8 +988,8 @@
       "category": "AI·디지털",
       "feedProvider": "bing",
       "policyRelevance": 42,
-      "score": 66,
-      "snapshotDate": "2026-11-12"
+      "score": 56,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "00618693d9ad",
@@ -779,11 +1002,11 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 53,
-      "score": 61,
+      "score": 51,
       "originalTitle": "Ministry of Education and Culture Urged to Prepare Curriculum and Educators Before High School Tracking",
-      "titleKo": "교육문화부, 고등학교 진학 전 교육 과정 및 교사 준비 촉구",
+      "titleKo": "교육문화부, 고등학교 진로 선택 전 커리큘럼 및 교사 준비 촉구",
       "summaryKo": "교육문화부, 고등학교 진학 전 커리큘럼 및 교사 준비 촉구 Kompas.com",
-      "snapshotDate": "2026-11-12"
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "077e805d6e2e",
@@ -796,8 +1019,8 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 75,
-      "score": 81,
-      "snapshotDate": "2026-11-12"
+      "score": 71,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "18274c16c199",
@@ -810,8 +1033,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 77,
-      "score": 86,
-      "snapshotDate": "2026-11-12"
+      "score": 76,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "469f1b34794c",
@@ -824,11 +1047,11 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 44,
-      "score": 69,
+      "score": 59,
       "originalTitle": "Korea's first university admissions program for refugees offers hope, but barriers and resistance remain",
-      "titleKo": "한국 최초의 난민 대학 입학 프로그램이 희망을 제시하지만, 여전히 장벽과 저항이 남아 있습니다.",
-      "summaryKo": "한국 최초의 난민 대학 입학 프로그램이 희망을 제시하지만, 여전히 장벽과 반발이 존재 Korea JoongAng Daily",
-      "snapshotDate": "2026-11-12"
+      "titleKo": "한국 최초의 난민 대학 입학 프로그램이 희망을 제시하지만, 여전히 장벽과 반발이 남아 있습니다.",
+      "summaryKo": "난민을 위한 한국 최초의 대학 입학 프로그램이 희망을 제시하지만, 여전히 장벽과 반대가 존재 Korea JoongAng Daily",
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "3f6825d3bcc3",
@@ -841,8 +1064,8 @@
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 75,
-      "score": 81,
-      "snapshotDate": "2026-11-12"
+      "score": 71,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "9d65d64da3e9",
@@ -855,8 +1078,8 @@
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 75,
-      "score": 81,
-      "snapshotDate": "2026-11-12"
+      "score": 71,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "e60858d7be49",
@@ -869,8 +1092,8 @@
       "category": "AI·디지털",
       "feedProvider": "bing",
       "policyRelevance": 65,
-      "score": 76,
-      "snapshotDate": "2026-11-12"
+      "score": 66,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "c4853af3306d",
@@ -883,8 +1106,8 @@
       "category": "AI·디지털",
       "feedProvider": "bing",
       "policyRelevance": 65,
-      "score": 76,
-      "snapshotDate": "2026-11-12"
+      "score": 66,
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "d48d48c3a595",
@@ -898,7 +1121,7 @@
       "feedProvider": "google",
       "policyRelevance": 75,
       "score": 71,
-      "snapshotDate": "2026-11-12"
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "77b793dd28c7",
@@ -912,7 +1135,7 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 70,
-      "snapshotDate": "2026-11-12"
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "61afccff9438",
@@ -982,7 +1205,7 @@
       "category": "입시·사교육",
       "policyRelevance": 100,
       "score": 99,
-      "snapshotDate": "2026-11-12"
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "cdfb955a165b",
@@ -995,7 +1218,7 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 95,
-      "snapshotDate": "2026-11-12"
+      "snapshotDate": "2026-11-13"
     },
     {
       "id": "659b2e733220",
@@ -8205,231 +8428,6 @@
       "policyRelevance": 75,
       "score": 67,
       "snapshotDate": "2026-10-20"
-    },
-    {
-      "id": "a02132eea1ef",
-      "title": "[EDU REPORT] 김석준 부산교육감, “공교육 공공성 강화…맞춤형 책임교육”",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LcFBsNmlscVJhbVNmZURybW4wclNUM1BBSTN1TjF2MDRLYnFFNXRXVHhLcTQ3aEtIa3JyM3ExV25jQUVxTXlISHMwZ2JLMm92bmV4QWZwNGE3cmZWMDJJalBaMTN2YTBlSnluN3BB0gFuQVVfeXFMT0twUGw2aWxxUmFtU2ZlRHJtbjByU1QzUEFJM3VOMXYwNEticUU1dFdUeEtxNDdoS0hrcnIzcTFXbmNBRXFNeUhIczBnYksyb3ZuZXhBZnA0YTdyZlYwMklqUFoxM3ZhMGVKeW43cEE?oc=5",
-      "source": "파이낸스뉴스 I 파이낸스뉴스TV",
-      "kind": "domestic",
-      "publishedAt": "2026-10-16T02:13:23.000Z",
-      "description": "[EDU REPORT] 김석준 부산교육감, “공교육 공공성 강화…맞춤형 책임교육” 파이낸스뉴스 I 파이낸스뉴스TV",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 53,
-      "snapshotDate": "2026-10-20"
-    },
-    {
-      "id": "3a317836cd21",
-      "title": "\"교육재정 근간 흔든다\" 세종 학교운영위원장協 정부안 비판",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9maUphSjhXVHYwWXBhYUU0UUtwWUN1Ukp2U3JXQ09TZDFyLWh6N2ptQVpha3RaNTlFaWpsVTlmVFBUUFJpYUJCMWxUT1hWaHAyRGFwZVc3UDlDSm5jZGwxTlN1WUpwa2pMUGNzbGRmTlp5cHNMeXRjatIBeEFVX3lxTE9maUphSjhXVHYwWXBhYUU0UUtwWUN1Ukp2U3JXQ09TZDFyLWh6N2ptQVpha3RaNTlFaWpsVTlmVFBUUFJpYUJCMWxUT1hWaHAyRGFwZVc3UDlDSm5jZGwxTlN1WUpwa2pMUGNzbGRmTlp5cHNMeXRjag?oc=5",
-      "source": "뉴시스",
-      "kind": "domestic",
-      "publishedAt": "2026-10-16T00:31:16.000Z",
-      "description": "\"교육재정 근간 흔든다\" 세종 학교운영위원장協 정부안 비판 뉴시스",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 72,
-      "snapshotDate": "2026-10-19"
-    },
-    {
-      "id": "03b4bfd543cc",
-      "title": "케리스, ‘한국 ESG 혁신정책대상’ 사회 부문 우수상 수상",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91aVFhT1BZTDFJN3RXdWRBX04zOTdSeDRVYUNUQzY5U2RENnRubTZ4cHRzeGxWSTlFVTZMX19mXzVtd1FKTXRoUVVORVZaV1o0cVVyd1gzMUZmaVJXN3lOVEtKR1FoQQ?oc=5",
-      "source": "한국대학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-10-15T23:54:59.000Z",
-      "description": "케리스, ‘한국 ESG 혁신정책대상’ 사회 부문 우수상 수상 한국대학신문",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 61,
-      "snapshotDate": "2026-10-19"
-    },
-    {
-      "id": "8471333cf444",
-      "title": "대전교육정책연구소, '학생 마음건강·AI 교육' 연구 최종 점검",
-      "url": "https://www.msn.com/ko-kr/news/other/%EB%8C%80%EC%A0%84%EA%B5%90%EC%9C%A1%EC%A0%95%EC%B1%85%EC%97%B0%EA%B5%AC%EC%86%8C-%ED%95%99%EC%83%9D-%EB%A7%88%EC%9D%8C%EA%B1%B4%EA%B0%95-ai-%EA%B5%90%EC%9C%A1-%EC%97%B0%EA%B5%AC-%EC%B5%9C%EC%A2%85-%EC%A0%90%EA%B2%80/ar-AA2elRDt",
-      "source": "뉴스핌 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-10-15T23:41:28.000Z",
-      "description": "[대전=뉴스핌] 박정하 기자 = 대전교육과학연구원 교육정책연구소가 학생 마음건강과 인공지능(AI) 교육 등 올해 수행한 정책연구 결과를 점검하고 학교 현장 적용 방안을 모색했다. 16일 교육정책연구소는 이날까지 자체연구 5건과 현장연구 3건 등 총 8건의 정책연구 최종보고회를 열고 연구 결과의 타당성과 신뢰성 등을 ...",
-      "category": "AI·디지털",
-      "feedProvider": "bing",
-      "policyRelevance": 40,
-      "score": 65,
-      "snapshotDate": "2026-10-19"
-    },
-    {
-      "id": "8471333cf444",
-      "title": "대전교육정책연구소, '학생 마음건강·AI 교육' 연구 최종 점검",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EB%8C%80%EC%A0%84%EA%B5%90%EC%9C%A1%EC%A0%95%EC%B1%85%EC%97%B0%EA%B5%AC%EC%86%8C-%ED%95%99%EC%83%9D-%EB%A7%88%EC%9D%8C%EA%B1%B4%EA%B0%95-ai-%EA%B5%90%EC%9C%A1-%EC%97%B0%EA%B5%AC-%EC%B5%9C%EC%A2%85-%EC%A0%90%EA%B2%80/ar-AA2elRDt",
-      "source": "뉴스핌 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-10-15T23:41:28.000Z",
-      "description": "[대전=뉴스핌] 박정하 기자 = 대전교육과학연구원 교육정책연구소가 학생 마음건강과 인공지능(AI) 교육 등 올해 수행한 정책연구 결과를 점검하고 학교 현장 적용 방안을 모색했다. 16일 교육정책연구소는 이날까지 자체연구 5건과 현장연구 3건 등 총 8건의 정책연구 최종보고회를 열고 연구 결과의 타당성과 신뢰성 등을 ...",
-      "category": "AI·디지털",
-      "feedProvider": "bing",
-      "policyRelevance": 40,
-      "score": 65,
-      "snapshotDate": "2026-10-17"
-    },
-    {
-      "id": "1f78783e1d31",
-      "title": "대학 시스템 강화를 위한 구조 개편.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5EYnZuNENRSTZxS3dCdlNFYVNXZVgzS1pHenZFSFlFcXpTZDlSb0JHRDd3UTE0TnI0ZldTd29CeW5iQjNVSVFiT0lJNXAtVHZzN2lKOXVnYmY3NV9YYkROMkF3S2wxbnl0djFwNzRIVlhyZVFOR1pIVzBR?oc=5",
-      "source": "Vietnam.vn",
-      "kind": "domestic",
-      "publishedAt": "2026-10-15T23:25:51.000Z",
-      "description": "대학 시스템 강화를 위한 구조 개편. Vietnam.vn",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 55,
-      "snapshotDate": "2026-10-19"
-    },
-    {
-      "id": "3a6fb74d7162",
-      "title": "[부산소식] BISTEP, 지역대학 인재양성사업 국비 유치 지원 강화 등",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpSDhjOGUyT1ZmeFRLd1lJaWNRMVBnWkdteGdzTTRVTmxKQXdUQUZVNnZvekNHWGVRV0xUUnJiUnZuNTM1cXFhbm14ZFRYUzh0RDdRenJIcmVlbFMwM2t3RWVPN1Y1TWVnZkE?oc=5",
-      "source": "서울파이낸스",
-      "kind": "domestic",
-      "publishedAt": "2026-10-15T23:19:11.000Z",
-      "description": "[부산소식] BISTEP, 지역대학 인재양성사업 국비 유치 지원 강화 등 서울파이낸스",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 71,
-      "snapshotDate": "2026-10-16"
-    },
-    {
-      "id": "bec7596324d9",
-      "title": "최교진 교육부 장관, 원광대병원 방문…학생 마음건강 위기 대응 우수사례 점검",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kZWctMWlRLTNWVHVBVkVQUU45bFY5M0ZCZVd6YmJrbnVkMGs2WUJCTTY3Z0lTQS1paHYwWXp4M05mSWZEY3Z6RzN5MGxvWVJGejc2eTJFNlk3aG56ajk4ajJac3RLeEUt?oc=5",
-      "source": "투데이안",
-      "kind": "domestic",
-      "publishedAt": "2026-10-15T21:21:00.000Z",
-      "description": "최교진 교육부 장관, 원광대병원 방문…학생 마음건강 위기 대응 우수사례 점검 투데이안",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 53,
-      "snapshotDate": "2026-10-19"
-    },
-    {
-      "id": "90e84e12d661",
-      "title": "정점식 의원, 교육부 특별교부금 11억 6,400만 원 확보!",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iVjNqNTdJaDZ3SEZiSTNZWTNFbDAwakRXVVI0dTV5TUFzTXB2emE2QjYyOFRaTG9fVjFRUE50SXpXQUJSQ1F1dHgwN1ZFUFpVNWRkcTNOcFVsaV81WGhaUGFVb0xONEJl?oc=5",
-      "source": "고성미래신문",
-      "kind": "domestic",
-      "publishedAt": "2026-10-15T19:25:41.000Z",
-      "description": "정점식 의원, 교육부 특별교부금 11억 6,400만 원 확보! 고성미래신문",
-      "category": "재정·법령",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 66,
-      "snapshotDate": "2026-10-19"
-    },
-    {
-      "id": "81133f9ff47e",
-      "title": "부산교육청, 어린이집·유치원·초등 교원 160명 한자리에…'이음교육' 연수 개최",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SakRTd3p2NG5Kd0ZpRlFnNS1MZlN3eVhOeElPeGRGVFAxZzg1YkpIVml5ZS14LVVGRnlhX3UyV2Q3WmZJc2tRNk5NelVQbTV0bmFPOVkxRExENHpPWFZIaVhYRjN6U0FnRXc?oc=5",
-      "source": "뉴스티앤티",
-      "kind": "domestic",
-      "publishedAt": "2026-10-15T15:38:36.000Z",
-      "description": "부산교육청, 어린이집·유치원·초등 교원 160명 한자리에…'이음교육' 연수 개최 뉴스티앤티",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 57,
-      "snapshotDate": "2026-10-19"
-    },
-    {
-      "id": "7b14a7f6b15b",
-      "title": "충남교육청, 유치원 교원 교육활동 보호 경청 대화(천안, 아산권역) 개최",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqbUhnQ2VPbHNVVHp1WnRfNVN5ZVgzalpZNzR5MXd4SWRULUliMU9MZjdfQV8wUDB3ZTRhdEZ5YXp5VnI5OXVtWUI1NUlrMERyZVN2MEhNNEFGcUhBTnMwWm1jd2dBTHEzRmhn?oc=5",
-      "source": "일간투데이",
-      "kind": "domestic",
-      "publishedAt": "2026-10-15T14:05:18.000Z",
-      "description": "충남교육청, 유치원 교원 교육활동 보호 경청 대화(천안, 아산권역) 개최 일간투데이",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 57,
-      "snapshotDate": "2026-10-19"
-    },
-    {
-      "id": "1608d1c18fbc",
-      "title": "시험 도중 바꿔치기도…수능 앞두고 ‘AI 안경’ 부정행위 비상",
-      "url": "https://www.sisajournal.com/news/articleView.html?idxno=390450",
-      "source": "시사저널",
-      "kind": "domestic",
-      "publishedAt": "2026-10-15T10:39:00.000Z",
-      "description": "대입 수시 논술시험에서 인공지능 (AI) 스마트 안경을 이용한 부정행위가 잇따라 적발되자 교육부가 전국 대학에 스마트 안경 식별·검사 요령을 담은 대응 지침을 전달했다. 내달 19일 치러지는 대학수학능력시험 (수능)에서는 스마트 안경을 착용하다 적발되면 해당 시험이 무효 처리되고 이듬해 응시자격까지 정지된다. 다만 스마트 안경을 식별해야 하는 감독 교사들의 ...",
-      "category": "입시·사교육",
-      "feedProvider": "bing",
-      "policyRelevance": 75,
-      "score": 79,
-      "snapshotDate": "2026-10-19"
-    },
-    {
-      "id": "5a737c051f35",
-      "title": "인천 교육·노동·학부모단체 “지방교육재정교부금 개편 중단하라”",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LMEpsTi12YzZJNUZBcjlPdHB2OG5kNzhCempKOGFTMWRCa0hiVW9mZ0prLTVPVzBza2NxVEp2TFdyYWFLemRJOUNCbnMyNHRUelo3YVY5bWpNQnpNTGNTRlVQcW1wdHAyUXBiY01NUQ?oc=5",
-      "source": "기호일보",
-      "kind": "domestic",
-      "publishedAt": "2026-10-15T10:05:02.000Z",
-      "description": "인천 교육·노동·학부모단체 “지방교육재정교부금 개편 중단하라” 기호일보",
-      "category": "재정·법령",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 59,
-      "snapshotDate": "2026-10-19"
-    },
-    {
-      "id": "3d88039a8020",
-      "title": "South Korea Will Void Exams and Ban Students for a Year Over AI Smart Glasses in Suneung College Test",
-      "url": "https://www.ibtimes.com.au/south-korea-ai-smart-glasses-suneung-exam-ban-1876743",
-      "source": "International Business Times AU",
-      "kind": "foreign",
-      "publishedAt": "2026-10-15T09:40:00.000Z",
-      "description": "South Korea will cancel Suneung results and bar students from the following year's exam if they wear or possess AI-enabled smart glasses, amid rising cheating concerns.",
-      "category": "입시·사교육",
-      "score": 30,
-      "originalTitle": "South Korea Will Void Exams and Ban Students for a Year Over AI Smart Glasses in Suneung College Test",
-      "titleKo": "한국은 수릉대학 시험에서 인공지능 스마트 안경으로 1년간 시험을 무효화하고 학생들을 금지할 것입니다",
-      "summaryKo": "한국은 부정 행위 우려가 높아지는 가운데 AI 지원 스마트 안경을 착용하거나 소지한 경우 수릉 결과를 취소하고 다음 해 시험에서 학생들을 배제할 것입니다.",
-      "snapshotDate": "2026-10-20"
-    },
-    {
-      "id": "86e6674fdf5c",
-      "title": "안민석 경기교육감, 하남교육지원청 2027년 9월 신설 추진…학생 AI 사용 제한 정책도 준비",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QcVM2aEdXcVktMUQwNWp4WTMzZlNVRVhwYVFiQ2FEa1diOEY1Z1NaaHRTN3ptQ2xOX0I0WWVKWjA0cHRyNXFZMXBySXNobWNZRWczZjhWeVRjZVRsUjUxbDlmOWlGMHN4TnhqLU5QSQ?oc=5",
-      "source": "월드장애인사랑뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-10-15T09:36:37.000Z",
-      "description": "안민석 경기교육감, 하남교육지원청 2027년 9월 신설 추진…학생 AI 사용 제한 정책도 준비 월드장애인사랑뉴스",
-      "category": "AI·디지털",
-      "feedProvider": "google",
-      "policyRelevance": 87,
-      "score": 76,
-      "snapshotDate": "2026-10-19"
-    },
-    {
-      "id": "dca34bc33f24",
-      "title": "원광대학교병원, 최교진 교육부장관 현장 방문… 학생 마음건강 위기 대응 '우수 모범기관' 인정",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzU3RLOU1ocnVVTTFRbkwyUWpPY1ZxcThmZkEwc2N6N0R6aG1VZGptS3VIVDQyYVdBR2ExWFM3SWs2VGp1ZGNfMTRVQW5STm5pdUU5WnlkaTZ3akRDZkI5dEl6VkxrSGhVZ0ttTmxB?oc=5",
-      "source": "국제뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-10-15T08:57:35.000Z",
-      "description": "원광대학교병원, 최교진 교육부장관 현장 방문… 학생 마음건강 위기 대응 '우수 모범기관' 인정 국제뉴스",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 53,
-      "snapshotDate": "2026-10-19"
     }
   ]
 }
