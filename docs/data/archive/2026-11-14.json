@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-11-14T01:33:13.439Z",
-  "generatedAtKST": "2026-11-14T10:33:11.489+09:00",
+  "generatedAt": "2026-11-14T02:31:27.864Z",
+  "generatedAtKST": "2026-11-14T11:31:24.444+09:00",
   "date": "2026-11-14",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 7,
-    "domesticGoogle": 110,
-    "foreignBing": 3,
-    "foreignGoogle": 132,
-    "carried": 115,
-    "rawUnique": 250,
+    "domesticBing": 25,
+    "domesticGoogle": 109,
+    "foreignBing": 2,
+    "foreignGoogle": 133,
+    "carried": 177,
+    "rawUnique": 265,
     "policyRejected": 176,
-    "policyKept": 74
+    "policyKept": 80
   },
   "briefing": [
     "4.16의 기록, 오늘의 교육이 되다 — 교육부",
+    "임태희 前경기도교육감, K-교육혁신은 대입 大개혁이 먼저 — 전북도민일보",
     "「영유아보육법 시행령」 일부개정령안 국무회의 통과 — 교육부",
     "수능 수험생 여러분, 전자기기 가져오지 마세요! — 교육부",
-    "미국 한국어반 고등학생들의 한글 그림, 샌프란시스코 현대미술관에 걸린다 — 교육부",
-    "제3회 대학기초연구소 지원 사업(G-LAMP) 축제(페스티벌) 개최 — 교육부"
+    "경기도교육청, 372억 사업서 122억 반납…교원 성과급 기준은 3주만에 철회 — 이투데이 on MSN"
   ],
   "stats": {
     "total": 80,
     "official": 9,
-    "domestic": 63,
-    "foreign": 8
+    "domestic": 71,
+    "foreign": 0
   },
   "items": [
     {
@@ -41,6 +41,19 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 105
+    },
+    {
+      "id": "16e070d0a0e5",
+      "title": "임태희 前경기도교육감, K-교육혁신은 대입 大개혁이 먼저",
+      "url": "https://www.domin.co.kr/news/articleView.html?idxno=1575413",
+      "source": "전북도민일보",
+      "kind": "domestic",
+      "publishedAt": "2026-11-13T07:24:00.000Z",
+      "description": "임태희 前경기도교육감은 지난 12일, 한 송년 세미나 특강에서 경기교육감 시절 주창한 대한민국 교육혁신을 위한 ‘대학입시 대개혁 방안’을 밝히며, ‘임태희표’ 대입개혁안을 “국민과 함께 반드시 이를 이뤄 내겠다”고 강조해 관심을 끌었다.임 前교육감은 이날 한국프레스센터 매화홀 제이디상생포럼(상임대표 정회근) 2026 송년세미나 주제 발표에서 이같이 밝히고, ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 87,
+      "score": 100
     },
     {
       "id": "9e8b1b712c7c",
@@ -65,6 +78,19 @@
       "category": "입시·사교육",
       "policyRelevance": 100,
       "score": 99
+    },
+    {
+      "id": "b4cdd5705c6a",
+      "title": "경기도교육청, 372억 사업서 122억 반납…교원 성과급 기준은 3주만에 철회",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B2%BD%EA%B8%B0%EB%8F%84%EA%B5%90%EC%9C%A1%EC%B2%AD-372%EC%96%B5-%EC%82%AC%EC%97%85%EC%84%9C-122%EC%96%B5-%EB%B0%98%EB%82%A9-%EA%B5%90%EC%9B%90-%EC%84%B1%EA%B3%BC%EA%B8%89-%EA%B8%B0%EC%A4%80%EC%9D%80-3%EC%A3%BC%EB%A7%8C%EC%97%90-%EC%B2%A0%ED%9A%8C/ar-AA2hpcWv",
+      "source": "이투데이 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-13T16:24:13.000Z",
+      "description": "경기도교육청이 372억원을 편성한 고교졸업예정자 사회진출 역량개발사업에서 집행률이 66%에 그치고 학교에 내려보낸 예산 가운데 122억원을 돌려받은 것으로 나타났다. 평가기간이 시작된 뒤 교육청 핵심정책 실적을 교원성과상여금 배점의 50%에 반영하겠다고 안내했다가 3주 만에 철회했고, 학교에서는 기간제교사 해고 절차를 어겨 경기지방노동위원회에서 부당해고 판 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 95
     },
     {
       "id": "44a509c74b58",
@@ -139,6 +165,32 @@
       "score": 95
     },
     {
+      "id": "e15b319b77ad",
+      "title": "전북교육청, 도민 대상 '정책 제안' 아이디어 공모",
+      "url": "https://www.nocutnews.co.kr/news/6606420",
+      "source": "노컷뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-13T02:34:00.000Z",
+      "description": "전북특별자치도교육청이 도민의 다양한 목소리를 교육정책에 반영하기 위해 '도민의 목소리로 함께 만드는 전북교육' 정책 제안 공모를 추진한다고 13일 밝혔다. 도교육청은 오는 16일부터 30일까지 학생·학부모·교직원·지역주민 등 전북특별자치도민을 대상으로 '전북교육 10대 핵심과제 활성화·확산을 위한 정책 제안'을 공모한다. 전북교육청 정책 제안 플랫폼인 '전 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 87,
+      "score": 92
+    },
+    {
+      "id": "01a58c2907ee",
+      "title": "세종시교육청, AI시대 미래 인재상 찾는다… AI교육 정책 포럼 개최",
+      "url": "https://news.tf.co.kr/read/releasecopy/2388685.htm",
+      "source": "더팩트",
+      "kind": "domestic",
+      "publishedAt": "2026-11-13T08:51:00.000Z",
+      "description": "[더팩트ㅣ세종=이병수 기자] 세종시교육청이 인공지능(AI) 시대에 필요한 미래 인재상과 교육 방향을 찾기 위해 학생과 학부모, 교사, 교육전문가의 목소리를 한자리에 모은다. 세종시교육청은 오는 24일 오후 세종전통문화체험관에서 '2026 세종 AI교육 정책 포럼'을 개최하고 오는 17일까지 참가자를 모집한다고 13일 밝혔다. '아이(AI)와 함께 그리는 세 ...",
+      "category": "AI·디지털",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 91
+    },
+    {
       "id": "073d58a2bd2a",
       "title": "교권침해 신고부터 법률지원·심리회복까지…서울시교육청, 내년 ‘1대1 사안전담제’ 도입",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93ZDZ0QVdJQW04cktLTi1aNlZTUmRqbXEzbXQ0dkRKdXhFbmIzdzlBM0VZZW02YV94aUptZmxSanV2dHBtMXZ5cUxYM1NFUE1SVTQ1OG5scjBUVWlWclE?oc=5",
@@ -150,6 +202,32 @@
       "feedProvider": "google",
       "policyRelevance": 77,
       "score": 88
+    },
+    {
+      "id": "61b0cbe0122f",
+      "title": "변화하는 대입 제도…내신·학생부·수능 균형 잡힌 준비 전략 중요",
+      "url": "https://edu.donga.com/news/articleView.html?idxno=113260",
+      "source": "에듀동아",
+      "kind": "domestic",
+      "publishedAt": "2026-11-13T03:59:00.000Z",
+      "description": "고교 내신 5등급제 도입과 교육과정 개편 등으로 대학입시 제도가 변화하면서 내신과 학생부, 수능을 균형 있게 준비하는 전략의 중요성이 강조되고 있다. 향후 대입에서는 교과 전형에 서류 평가를 반영하거나 학생부종합전형에서 수능 최저학력기준을 요구하고, 정시에서도 학생부 반영 비중을 높이는 등 내신·학생부·수능이 유기적으로 결합되는 추세다. 이에 따라 학생들은 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 52,
+      "score": 88
+    },
+    {
+      "id": "19fa00a63b67",
+      "title": "경남교육청, 수능 104개 시험장에 스마트안경 전담요원 둔다",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81X2hiU1ZVVTlpMlVySkpEOUxkVFd0ZjhBYndPU3poVFYwS1VFbU5MbkxOSUFGVjc0cGVzWlpIdVNJTlY5Ty1oT1FrV2EyXzNlMEhSV2pJX1FDR1U2RU1BSV9DMXZQUQ?oc=5",
+      "source": "교육을 비추다",
+      "kind": "domestic",
+      "publishedAt": "2026-11-13T12:06:38.000Z",
+      "description": "경남교육청, 수능 104개 시험장에 스마트안경 전담요원 둔다 교육을 비추다",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 86
     },
     {
       "id": "1e383ef5bc0a",
@@ -165,17 +243,108 @@
       "score": 86
     },
     {
-      "id": "1acaed448202",
-      "title": "[재정의 역설①] [피플N이슈] 정근식 \"사교육 줄이라면서 교육 예산 깎는 건 모순\"",
-      "url": "https://www.newspim.com/news/view/20261110001093",
-      "source": "뉴스핌",
+      "id": "3fb36ed8d821",
+      "title": "인천시교육청, ‘동학년 수업으로 성장하다!’ 초등 교원 워크숍 열어",
+      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1311450",
+      "source": "전국매일신문",
       "kind": "domestic",
-      "publishedAt": "2026-11-11T02:25:00.000Z",
-      "description": "[서울=뉴스핌] 송주원 기자 = 정근식 서울시교육감(대한민국교육감협의회장)은 정부가 사교육비 경감과 교육격차 해소를 강조하면서 정작 공교육 재정은 축소하려 한다며 정책의 모순을 지적했다. 학생 수가 줄어도 교육의 질을 높이기 위한 투자는 오히려 늘려야 한다는 ...",
+      "publishedAt": "2026-11-12T10:45:00.000Z",
+      "description": "인천시교육청은 11일 미추홀구 그랜드오스티엄에서 초등학교 44개교 교원 200명을 대상으로, ‘2026 초등 동학년 수업으로 성장하다!’ 연수를 개최했다.이번 연수는 같은 학년을 담당하는 교사들이 해당 학년의 교육과정과 학생 특성을 반영한 읽걷쓰AI 기반 프로젝트학습을 공동 설계하고, 협력적인 수업 연구 문화를 조성하고자 마련됐다.연수는 모두 3부로 진행됐 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 85
+    },
+    {
+      "id": "31f9a542516b",
+      "title": "인천시교육청, 초등교원 200명 대상 AI 기반 프로젝트학습 연수",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5082655",
+      "source": "신아일보",
+      "kind": "domestic",
+      "publishedAt": "2026-11-12T04:15:00.000Z",
+      "description": "시교육청은 지난 11일 그랜드오스티엄에서 지역 초등학교 44개교 교원 200명이 참여한 가운데 '2026 초등 동학년 수업으로 성장하다!' 연수를 개최했다고 12일 밝혔다. 이번 연수는 같은 학년을 담당하는 교사들이 교육과정과 학생 특성을 고려해 읽걷쓰AI 기반 프로젝트학습을 함께 설계하고, 학교 현장의 협력적 수업 연구 문화를 활성화하기 위해 마련됐다.",
+      "category": "AI·디지털",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 85
+    },
+    {
+      "id": "e6567c52c979",
+      "title": "‘서·논술형’ 여론 벽에 대입 개편 수능 중심 선발 확대 최다",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%84%9C-%EB%85%BC%EC%88%A0%ED%98%95-%EC%97%AC%EB%A1%A0-%EB%B2%BD%EC%97%90-%EB%8C%80%EC%9E%85-%EA%B0%9C%ED%8E%B8-%EC%88%98%EB%8A%A5-%EC%A4%91%EC%8B%AC-%EC%84%A0%EB%B0%9C-%ED%99%95%EB%8C%80-%EC%B5%9C%EB%8B%A4/ar-AA2h7Way",
+      "source": "국민일보 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-11T01:59:56.000Z",
+      "description": "대통령 소속 국가교육위원회(국교위)가 추진해 온 대학수학능력시험 서·논술형 문항 도입이 여론의 벽에 부딪혔다. 국교위가 실시한 의견 수렴에서 채점의 공정성에 대한 우려와 학생 부담 증가 등을 이유로 도입에 부정적인 의견이 다수를 차지한 것이다. 특히 학부모 연령층인 40대가 대입 개편에 부정적인 것으로 나타났다. 국교위는 10일 정부서울청사에서 제12차 회 ...",
       "category": "입시·사교육",
       "feedProvider": "bing",
       "policyRelevance": 87,
-      "score": 86
+      "score": 84
+    },
+    {
+      "id": "555d0f14fc83",
+      "title": "대입 개편 국민 의견은?…'수능 중심 선발 확대' 최다",
+      "url": "https://www.nocutnews.co.kr/news/6604818",
+      "source": "노컷뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-10T08:43:00.000Z",
+      "description": "국가교육위원회가 실시한 대입제도 개편에 대한 온라인 의견수렴에서 대학수학능력시험(수능) 중심의 정시 선발을 확대해야 한다는 의견이 가장 많았다. 대입 서·논술형 평가 도입에 대해서는 채점의 공정성을 믿기 어렵다는 목소리가 높았다. 국가교육위원회는 10일 제12차 회의를 열고 이 같은 내용을 담은 '미래사회를 대비하기 위한 대입제도 방향' 온라인 의견수렴 결 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 87,
+      "score": 84
+    },
+    {
+      "id": "279fd1237fa4",
+      "title": "“대입, 수능 중심으로 단순하게”…서·논술형은 공정성 우려",
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%8C%80%EC%9E%85-%EC%88%98%EB%8A%A5-%EC%A4%91%EC%8B%AC%EC%9C%BC%EB%A1%9C-%EB%8B%A8%EC%88%9C%ED%95%98%EA%B2%8C-%EC%84%9C-%EB%85%BC%EC%88%A0%ED%98%95%EC%9D%80-%EA%B3%B5%EC%A0%95%EC%84%B1-%EC%9A%B0%EB%A0%A4/ar-AA2h78Ew",
+      "source": "이투데이 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-10T07:22:00.000Z",
+      "description": "국교위 온라인 의견수렴…수능 중심 선발 확대·전형 조정 792건 잦은 제도 변경·사교육 부담 지적…“학교서 글쓰기 교육부터” 자발적 참여 방식으로 대표성 한계…11월부터 전문가 공론화 대학입시 개편 방향을 묻는 국가교육위원회 온라인 의견수렴에서 수능 중심 선발을 확대하고 내신·전형 요소를 조정해달라는 요구가 가장 많이 나왔다. 제도를 자주 바꾸지 말고 사교 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 87,
+      "score": 84
+    },
+    {
+      "id": "d0649d817dcb",
+      "title": "2027 대학별 맞춤형 논술 풀이 및 코칭 서비스 무료 제공…고려대 등 19개 대학, 16일부터 '에듀플러스 뉴스레터로 만나보세요'",
+      "url": "https://www.etnews.com/20261113000231",
+      "source": "전자신문",
+      "kind": "domestic",
+      "publishedAt": "2026-11-13T07:07:00.000Z",
+      "description": "2027학년도 대입 논술을 위한 무료 코칭 서비스가 제공된다. 수학능력평가(수능) 시험 이후 치러지는 고려대 인문 논술을 포함 총 19개 대학의 논술가이드와 맞춤형 인문·수리 논술 문제를 통한 코칭 피드백까지 모두 무료로 제공된다. 이티에듀가 운영하는 교육정보포털 '에듀플러스'는 아이티센엔텍의 '인공지능(AI) 논술 코치' 서비스를 16일부터 뉴스레터를 통 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 40,
+      "score": 83
+    },
+    {
+      "id": "68b7cd6fe3b1",
+      "title": "부산형 인터넷 강의 예산 44억서 2억대로… 김효정 “교육정책 지속성 확보해야”",
+      "url": "https://www.msn.com/ko-kr/news/news/%EB%B6%80%EC%82%B0%ED%98%95-%EC%9D%B8%ED%84%B0%EB%84%B7-%EA%B0%95%EC%9D%98-%EC%98%88%EC%82%B0-44%EC%96%B5%EC%84%9C-2%EC%96%B5%EB%8C%80%EB%A1%9C-%EA%B9%80%ED%9A%A8%EC%A0%95-%EA%B5%90%EC%9C%A1%EC%A0%95%EC%B1%85-%EC%A7%80%EC%86%8D%EC%84%B1-%ED%99%95%EB%B3%B4%ED%95%B4%EC%95%BC/ar-AA2hgAIp",
+      "source": "브릿지경제 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-12T08:17:00.000Z",
+      "description": "부산시교육청이 교육격차 해소와 사교육비 경감을 위해 추진한 ‘부산형 인터넷 강의’ 사업에 100억원 이상의 예산을 편성했으나 교육감 교체 이후 사업 규모가 대폭 축소되면서 교육정책의 지속성과 재정 운용의 효율성을 점검해야 한다는 지적이 나왔다. 부산시의회 교육위원회 김효정 위원장(북구 제2선거구)은 지난 11일 열린 부산시교육청 직속기관 등에 대한 행정사무 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
+      "score": 82
+    },
+    {
+      "id": "34a8dde37f92",
+      "title": "디지털리터러시협회·국회, AI 시대 교육정책 심포지엄 성료… 인간 주도성과 접근성 해법 모색",
+      "url": "https://www.2news.co.kr/news/articleView.html?idxno=32256",
+      "source": "2news",
+      "kind": "domestic",
+      "publishedAt": "2026-11-12T07:27:00.000Z",
+      "description": "디지털리터러시협회(CDL)와 국회, 연구기관이 인공지능(AI) 기술 확산에 발맞춰 교육 현장의 변화와 정책적 지원 방안을 연결하기 위해 한자리에 모였다. 국회서 열린 AI 시대 교육정책 심포지엄은 어떤 배경에서 추진되었나? 디지털리터러시협회는 지난 11월 11일 국회의원회관 제7간담회의실에서 산업·교육·정책 분야 전문가들이 참여한 가운데 AI 시대, 교육정 ...",
+      "category": "AI·디지털",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
+      "score": 82
     },
     {
       "id": "60fa6f110295",
@@ -212,6 +381,19 @@
       "publishedAt": "2026-11-12T06:23:00.000Z",
       "description": "서울시교육청이 긴급지원팀을 중심으로 교원 교육활동 침해 사안에 대한 초기 대응부터 법률·심리 지원, 갈등 조정과 회복까지 연계하는 통합 지원체계가 성과를 인정받아 교육부 주관 시·도교육청 평가에서 우수사례로 선정됐다.시교육청은 교육활동 보호 긴급지원팀 ‘SEM119’를 중심으로 운영해온 교육활동 보호정책이 교육부 ‘2026년 시·도교육청 평가’에서 시 지역 ...",
       "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 81
+    },
+    {
+      "id": "e61283d3daf9",
+      "title": "이인선 의원, 고등교육 지원 형평성 문제 제기...“국립대는 전액 지원, 사립대는 등록금 부담”",
+      "url": "https://www.pressian.com/pages/articles/2026111209002900657",
+      "source": "프레시안",
+      "kind": "domestic",
+      "publishedAt": "2026-11-12T02:37:00.000Z",
+      "description": "국회 예산결산특별위원회 2027년도 예산안 심사 현장에서 지방국립대 등록금 전액 지원 정책을 둘러싼 고등교육 재정지원의 형평성 문제가 도마 위에 올랐다. 국민의힘 이인선 국회의원 (대구 수성구을)은 지난 11일 최교진 교육부 장관을 상대로 한 질의에서 이재명 정부의 지방국립대 등록금 전액 지원 정책을 집중적으로 따져 물으며 사립대 학생들의 등록금 부담 ...",
+      "category": "고등교육",
       "feedProvider": "bing",
       "policyRelevance": 75,
       "score": 81
@@ -256,6 +438,32 @@
       "score": 79
     },
     {
+      "id": "f07fac11e278",
+      "title": "\"수능 다음은 지원 전략\"…정시상담·입시 특강 나선 서울 자치구들",
+      "url": "https://www.fnnews.com/news/202611140740530607",
+      "source": "파이낸셜뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-13T09:40:00.000Z",
+      "description": "(서울=뉴스1) 송송이 기자 = 서울 자치구들이 2027학년도 수능을 앞두고 수험생과 학부모를 위한 입시 지원에 나섰다. 고3 수험생에게는 수능 성적을 바탕으로 한 정시 지원전략을, 저학년 학생과 학부모에게는 달라지는 대입제도에 대비한 진학 정보를 제공한다.",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 40,
+      "score": 79
+    },
+    {
+      "id": "a49258354f51",
+      "title": "서울시의회 박상근 의원, 강남·강북 교육격차 학생 수 아닌 ‘교육균형발전지수’로 예산·인력 나눠야",
+      "url": "https://www.seoulcity.co.kr/news/articleView.html?idxno=550609",
+      "source": "seoulcity",
+      "kind": "domestic",
+      "publishedAt": "2026-11-10T07:24:00.000Z",
+      "description": "[서울시티 김청월 기자] 서울특별시의회 교육위원회 소속 박상근 의원(더불어민주당, 도봉2)은 6일 행정사무감사에서 강남·강북 간 공교육 격차 문제를 집중 제기하고, 학생 수 중심의 기계적인 예산·인력 배분 방식을 전면 개편할 것을 촉구했다. 박 의원은 “서울교육청이 AI디지털교과서, 스마트기기(디벗), 전자칠판 등에 막대한 예산을 투입해 왔지만, 특정 지역 ...",
+      "category": "AI·디지털",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 79
+    },
+    {
       "id": "642d7cfdad81",
       "title": "전북대, 캄보디아 정부·고등교육기관과 AI 교육혁신 협력 논의",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5La3F0S3F1R3I5LWxiZlZ6b1BhZ0dnLWx0RVRnS21RMmtBWFZnWkhPTjZ1MzkwQU1BWHRzbDF4dVZkZ2trelFmc2YteVNONmRzcF9JT2ZaUkNNR2Y0R0pBY3plTUVRdw?oc=5",
@@ -266,6 +474,19 @@
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 45,
+      "score": 77
+    },
+    {
+      "id": "0bf9f03d8af4",
+      "title": "부산교육청, 해외 8개국 교육정책 분석해 미래교육 해법 모색",
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%B6%80%EC%82%B0%EA%B5%90%EC%9C%A1%EC%B2%AD-%ED%95%B4%EC%99%B8-8%EA%B0%9C%EA%B5%AD-%EA%B5%90%EC%9C%A1%EC%A0%95%EC%B1%85-%EB%B6%84%EC%84%9D%ED%95%B4-%EB%AF%B8%EB%9E%98%EA%B5%90%EC%9C%A1-%ED%95%B4%EB%B2%95-%EB%AA%A8%EC%83%89/ar-AA2hkh78",
+      "source": "파이낸셜뉴스 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-12T17:24:31.000Z",
+      "description": "[파이낸셜뉴스] 부산시교육청이 미래교육 해법을 찾기 위해 세계 주요국의 교육정책 동향을 분석하고 이를 부산 학교 현장에 접목하기 위한 방안을 모색한다. 시교육청은 지난 10~12일 3일간 온라인으로 '2026년 하반기 해외 교육통신원 중간 보고회'를 열고 국가별 교육정책 연구 성과와 부산교육에 적용할 수 있는 방안을 논의했다고 밝혔다. 해외 교육통신원은 현 ...",
+      "category": "고등교육",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
       "score": 77
     },
     {
@@ -295,19 +516,6 @@
       "score": 76
     },
     {
-      "id": "1b3e6323439b",
-      "title": "디지털리터러시협회·국회, AI 시대 교육정책 심포지엄 성료… 인간 주도성과 접근성 해법 모색",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iSEF0NTdxX3hOVXV3czVMQUxJTTByYmhFWW1JYzI3eUtLMThMRWRDYWJpd3NmeFRrMXlBRVhqRDdSUkRucGtkT015eFpKZzhwcmdtSTd1TnVIcGQtWFhYZW40cWJwRFg5?oc=5",
-      "source": "https://www.2news.co.kr/",
-      "kind": "domestic",
-      "publishedAt": "2026-11-12T06:26:00.000Z",
-      "description": "디지털리터러시협회·국회, AI 시대 교육정책 심포지엄 성료… 인간 주도성과 접근성 해법 모색 https://www.2news.co.kr/",
-      "category": "AI·디지털",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 76
-    },
-    {
       "id": "4b318a145fb0",
       "title": "권순기 교육정책 첫 반영…경남교육청, 내년 예산 6조9790억 편성",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01YV81SWplZE9PU2liU1BzTklKOFNabFBCSWV2c3Y3dkwzQzBnNHJZVzhScGUxVWlROHhPbUhZaXlnelMzUlRxT3hMcUFIVkVueHI2eGFLdExJNXZjSl8tVDhPRTFZb2tv?oc=5",
@@ -318,6 +526,19 @@
       "category": "재정·법령",
       "feedProvider": "google",
       "policyRelevance": 65,
+      "score": 76
+    },
+    {
+      "id": "1acaed448202",
+      "title": "[재정의 역설①] [피플N이슈] 정근식 \"사교육 줄이라면서 교육 예산 깎는 건 모순\"",
+      "url": "https://www.newspim.com/news/view/20261110001093",
+      "source": "뉴스핌",
+      "kind": "domestic",
+      "publishedAt": "2026-11-11T02:25:00.000Z",
+      "description": "[서울=뉴스핌] 송주원 기자 = 정근식 서울시교육감(대한민국교육감협의회장)은 정부가 사교육비 경감과 교육격차 해소를 강조하면서 정작 공교육 재정은 축소하려 한다며 정책의 모순을 지적했다. 학생 수가 줄어도 교육의 질을 높이기 위한 투자는 오히려 늘려야 한다는 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 87,
       "score": 76
     },
     {
@@ -345,6 +566,19 @@
       "feedProvider": "google",
       "policyRelevance": 75,
       "score": 75
+    },
+    {
+      "id": "c24459040373",
+      "title": "경남 관봉초·자은초 학교급식 교육 전국 우수상 수상",
+      "url": "https://www.pennmike.com/news/articleView.html?idxno=131810",
+      "source": "펜앤드마이크",
+      "kind": "domestic",
+      "publishedAt": "2026-11-13T11:48:00.000Z",
+      "description": "경남교육청은 관봉초 정혜윤 영양교사가 개인 부문에서 자은초등학교가 기관 부문에서 각각 우수상을 받았다고 13일 밝혔다.이번 공모전은 교육부와 17개 시도교육청 그리고 한국교육환경보호원이 전국 초·중·고등학교와 특수학교 교직원 및 교육청 관계자를 대상으로 지난 9월 7일부터 30일까지 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 45,
+      "score": 73
     },
     {
       "id": "e2e1233bf42b",
@@ -503,6 +737,19 @@
       "score": 71
     },
     {
+      "id": "34091e9cea91",
+      "title": "서울교육청 교육활동 보호 정책 'SEM119', 교육부 평가 우수사례 선정",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%84%9C%EC%9A%B8%EA%B5%90%EC%9C%A1%EC%B2%AD-%EA%B5%90%EC%9C%A1%ED%99%9C%EB%8F%99-%EB%B3%B4%ED%98%B8-%EC%A0%95%EC%B1%85-sem119-%EA%B5%90%EC%9C%A1%EB%B6%80-%ED%8F%89%EA%B0%80-%EC%9A%B0%EC%88%98%EC%82%AC%EB%A1%80-%EC%84%A0%EC%A0%95/ar-AA2hbLz2",
+      "source": "조선에듀 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-10T22:50:30.000Z",
+      "description": "서울특별시교육청의 교육활동 보호 정책이 ‘2026년 시·도교육청 평가’에 선정됐다.서울시교육청은 교육활동보호 긴급지원팀 ‘SEM119’를 중심으로 한 교육활동 보호 정책이 교육부 주관 ‘2026년 시·도교육청 평가’에서 ‘교원의 교육활동 보호’ 분야 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 71
+    },
+    {
       "id": "dd2c2027c829",
       "title": "경북교육청, 내년 예산 5조8천447억원 편성⋯재정 압박에 기금 1천497억원 투입",
       "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B2%BD%EB%B6%81%EA%B5%90%EC%9C%A1%EC%B2%AD-%EB%82%B4%EB%85%84-%EC%98%88%EC%82%B0-5%EC%A1%B08%EC%B2%9C447%EC%96%B5%EC%9B%90-%ED%8E%B8%EC%84%B1-%EC%9E%AC%EC%A0%95-%EC%95%95%EB%B0%95%EC%97%90-%EA%B8%B0%EA%B8%88-1%EC%B2%9C497%EC%96%B5%EC%9B%90-%ED%88%AC%EC%9E%85/ar-AA2hbcv7",
@@ -583,7 +830,7 @@
     {
       "id": "665533064531",
       "title": "서울시교육청, 학생 AI·디지털 역량 진단",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPTkM2ckVxWjBURUpXUi13X0gwVTBjS21WQXdOc21lY01lLUE3a0pJZTN0RnJzSHBsaXpMSjBoVDdZNXZ5eWxoN2JYQnI5UmxRUUdmZ25tX0Jac1F5?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53cXlTWEo3Qy0xT2ctZnpENnpzQU5DZkFlSHc3Njc4MVdzUVB0STEwMGdyZGxhVldfRGtndjUtLWctNEROVVNHWlJNYmJXTVJnRW9xWE5MQVpkTDY1LXBSY0dR?oc=5",
       "source": "동대문 이슈",
       "kind": "domestic",
       "publishedAt": "2026-11-11T18:32:00.000Z",
@@ -630,19 +877,6 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 52,
-      "score": 66
-    },
-    {
-      "id": "40e974a60c75",
-      "title": "세종시교육청, 내년도 본예산 1조 2,060억 원 편성",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vSmdwMFNVOGlUa21MU1J2VXl6R1V1R0NsMXl2QXVEZDlhYmRIRTctVkRqN0NIU0xPNGoyMWRIMnhST293VkFONW9DZzlod1hPQlYwSEhRNmVBckJaRGExbjB4SjJxMTFRdkdV?oc=5",
-      "source": "충청시사신문",
-      "kind": "domestic",
-      "publishedAt": "2026-11-10T01:34:33.000Z",
-      "description": "세종시교육청, 내년도 본예산 1조 2,060억 원 편성 충청시사신문",
-      "category": "재정·법령",
-      "feedProvider": "google",
-      "policyRelevance": 65,
       "score": 66
     },
     {
@@ -789,19 +1023,6 @@
       "score": 61
     },
     {
-      "id": "e61283d3daf9",
-      "title": "이인선 의원, 고등교육 지원 형평성 문제 제기...“국립대는 전액 지원, 사립대는 등록금 부담”",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWWjU5c1JrcVl3UHJwc01IN0J5RXBpSjdsMmxtdGRIMVFJWVRnbEEtVE5qeXI4X3hhN3NfZFRXWFhFSXEtNWpOY2VOREtaVmtfZFdRNmVsVHhJQmxDWHZweUE3MVVTYzJHbi1J?oc=5",
-      "source": "프레시안",
-      "kind": "domestic",
-      "publishedAt": "2026-11-12T01:37:46.000Z",
-      "description": "이인선 의원, 고등교육 지원 형평성 문제 제기...“국립대는 전액 지원, 사립대는 등록금 부담” 프레시안",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 61
-    },
-    {
       "id": "42f33aaa6706",
       "title": "대구시의회 교육위원회, 5개 교육지원청 행정감사…학생 안전·교육격차 집중 점검",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kZGg3bVE1ZE52SWFlN1ZyTEx0RlJoNlJ6RzRJdUkyWk9weEtvMUgxbklibUNlUlFkTS1fOFRqR1NLcmhkdjQ2cTdraGwzZlc3SXRHdEVKRTVLSlZYZl8xSFprWmlvaXk0dEdFNA?oc=5",
@@ -839,239 +1060,6 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 61
-    },
-    {
-      "id": "469f1b34794c",
-      "title": "Korea's first university admissions program for refugees offers hope, but barriers and resistance remain",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObGZVNnhHMEt5S1FIVV80RUdic1NWNWxyWkFqRUltZEZQS1pNbDFUcWlKRGxHQXB1R2FySUNaYnVuaE0xaTJVX0xUTndyM1VXU0Zua3REVGp1bXNrZ2JIaUdlNExnd0g0VElSSkd0amtWLThaNTVELVFNb0hwMkh3bW50ek9xb3JEQWw5UVRkbDZWRHBlVTV6UTZqZ193SWU1Z3luc3dXODVDZEdhZXZxYk9PRlJEeHJlZnJfaGgyRUJtYXRBS3lzRGhybVhoTWNuUHVxend1VGdYa2R0ckh3ajlwVFNMNm8?oc=5",
-      "source": "Korea JoongAng Daily",
-      "kind": "foreign",
-      "publishedAt": "2026-11-09T05:43:04.000Z",
-      "description": "Korea's first university admissions program for refugees offers hope, but barriers and resistance remain Korea JoongAng Daily",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 44,
-      "score": 59,
-      "originalTitle": "Korea's first university admissions program for refugees offers hope, but barriers and resistance remain",
-      "titleKo": "한국 최초의 난민을 위한 대학 입학 프로그램이 희망을 제시하지만, 여전히 장벽과 반발이 남아 있습니다.",
-      "summaryKo": "한국 최초의 난민을 위한 대학 입학 프로그램이 희망을 제시하지만, 여전히 장벽과 반발이 남아 있다. 코리아중앙데일리"
-    },
-    {
-      "id": "f10453ca3097",
-      "title": "'유아교육법 시행령' 일부개정령안 국무회의 통과",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZUG5iWTctaUZsZ0hzME83S1ZrRmFabXM0REpmMFlURG15ZlZiUEdmMGxEX2J6SUlENS1YNkk5ZFNaQk5YUElOeFowdzlhNXk2YlYzOTU3cXBVeHFHZWxtaERYRQ?oc=5",
-      "source": "와이뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-11-10T04:50:11.000Z",
-      "description": "'유아교육법 시행령' 일부개정령안 국무회의 통과 와이뉴스",
-      "category": "재정·법령",
-      "feedProvider": "google",
-      "policyRelevance": 42,
-      "score": 56
-    },
-    {
-      "id": "884c339cdc8d",
-      "title": "박상근 서울시의원, “강남·강북 교육격차, 학생 수 아닌 ‘교육균형발전지수’로 예산·인력 나눠야”",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83Q1Z3TVJ3aEcwVHZnZVY2NkdfNllPbExDQ3UtbVhhejNZdHNOTGswVG5Qd0hfMmdNWFBuVzhZaWZHT3M1dkdMQl9vOE9YMkk0c28w0gFTQVVfeXFMTzdDVndNUndoRzBUdmdlVjY2R182WU9sTENDdS1tWGF6M1l0c05MazBUblB3SF8yZ01YUG5XOFlpZkdPczV2R0xCX284T1gySTRzbzA?oc=5",
-      "source": "세계타임즈",
-      "kind": "domestic",
-      "publishedAt": "2026-11-10T10:41:51.000Z",
-      "description": "박상근 서울시의원, “강남·강북 교육격차, 학생 수 아닌 ‘교육균형발전지수’로 예산·인력 나눠야” 세계타임즈",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 55
-    },
-    {
-      "id": "01262d01ab8b",
-      "title": "서울시의회 박상근 의원, 강남·강북 교육격차 학생 수 아닌 ‘교육균형발전지수’로 예산·인력 나눠야",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3T3h4QlZ5Nmhpc0ZrZDdVZUxMWTIxRjQ5WjZqQTdnQnBVVzlfODRIMHpHXzZSYlpkOVBKa1BrUm9WUjhveTBRbjVMTmNLY2NDeG1EeU9Rb1lpVWR3N3ZJTzNId0haRlowNVlDWXJ0QQ?oc=5",
-      "source": "의정신문 서울시티",
-      "kind": "domestic",
-      "publishedAt": "2026-11-10T06:02:28.000Z",
-      "description": "서울시의회 박상근 의원, 강남·강북 교육격차 학생 수 아닌 ‘교육균형발전지수’로 예산·인력 나눠야 의정신문 서울시티",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 55
-    },
-    {
-      "id": "5601fab1af3e",
-      "title": "2027학년도 수능, ‘스마트안경’ 착용만 해도 시험 무효… 내년 응시도 제한",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00OXA4R2hjQWxvMmpiRF9vTlpmaU9IZktoRDlKaW1kZzNnNnhVVVBUR2oya0xqYU4yZk5RcWZhM2dNQnU0eHBXaUcwMDRSOWFRa2VBUGxIa2JlS2tReC1WZWlGcmVJZw?oc=5",
-      "source": "한국대학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-11-10T01:50:12.000Z",
-      "description": "2027학년도 수능, ‘스마트안경’ 착용만 해도 시험 무효… 내년 응시도 제한 한국대학신문",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 55
-    },
-    {
-      "id": "356644ce9f99",
-      "title": "전북교육청, '교육 회복' 분야 신설 학습연구년 연수 확대",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SV1pwNzg3TXU2bGxzVHY3cUxWbzRESnVSMEJjNUVvRDk5Z2h4dU1Oelc1MkwwWEN1cV9RVGRiYkMtcTFFeXdoNEswOGh2RXkwdFNlTzlSXzBOVjZ2S1hlWEY3Q1JFTmJXbW9FLV96RXDSAXBBVV95cUxOUldacDc4N011Nmxsc1R2N3FMVm80REp1UjBCYzVFb0Q5OWdoeHVNTnpXNTJMMFhDdXFfUVRkYmJDLXExRXl3aDRLMDhodkV5MHRTZU85Ul8wTlY2dktYZVhGN0NSRU5iV21vRS1fekVw?oc=5",
-      "source": "교육언론[창]",
-      "kind": "domestic",
-      "publishedAt": "2026-11-10T10:26:46.000Z",
-      "description": "전북교육청, '교육 회복' 분야 신설 학습연구년 연수 확대 교육언론[창]",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 47,
-      "score": 54
-    },
-    {
-      "id": "a03f7c474f7a",
-      "title": "교육부 사무관의 당찬 각오… 이제 앵커의 지속가능성 높일 때[기자수첩]",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kclpDSlNtSFlxci1sS3FzWUh6Zi02RFlhR1k5YWU5NUZua01JUVdXWm52RTAwRE4yMEtuY09nSmVfcUJpSG05RXFUMWhTbDhWR3FEOUpOQTRMTmFWcjdzd2JRTVpCUQ?oc=5",
-      "source": "한국대학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-11-10T20:55:00.000Z",
-      "description": "교육부 사무관의 당찬 각오… 이제 앵커의 지속가능성 높일 때[기자수첩] 한국대학신문",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 53
-    },
-    {
-      "id": "5cb942043f7f",
-      "title": "서울시의회 박상근 의원, 강남·강북 교육격차 해소 위해 ‘교육균형발전지수’ 도입 촉구",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41RTVEUVFkNmgzQ01NVWxscmhsZjBrQTRldGFFQ2l0M3B6VEZvMC1VTXlBSUp5VlJvTG5RT25yd2hvQUJNeERGb3ZyeW5KblNqcFNCTzRqdHpOMTdwekx5dWxDcEtjYXZYN3QxQ05nYTBrdw?oc=5",
-      "source": "웹이코노미",
-      "kind": "domestic",
-      "publishedAt": "2026-11-10T09:09:41.000Z",
-      "description": "서울시의회 박상근 의원, 강남·강북 교육격차 해소 위해 ‘교육균형발전지수’ 도입 촉구 웹이코노미",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 42,
-      "score": 52
-    },
-    {
-      "id": "133b03ed2369",
-      "title": "[2026 교육인식조사] 대학 입시와 사교육 인식",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YQ1ZTRkJrNFZvZkIxakRxQlNGQ0dRREhDeTRVM1k4UEd3eTA4bFRvTzFKbHZ0aXRXYVhaTG54ZnJkNl9wbzJ4eElvRG83ajZh?oc=5",
-      "source": "한국리서치 정기조사 여론속의 여론",
-      "kind": "domestic",
-      "publishedAt": "2026-11-10T10:00:09.000Z",
-      "description": "[2026 교육인식조사] 대학 입시와 사교육 인식 한국리서치 정기조사 여론속의 여론",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 51
-    },
-    {
-      "id": "36e80c85854b",
-      "title": "맞춤형 상담 제공하는 '서울시 청년정책 꿀팁버스' 우리대학 첫 방문",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SYTBRMjBjRlpITXJ6dHlTWW1mUXY3TlBBTzRfQ1ROeXBjZ1ZrZGtsa1NaZXdPNUozcFFnb3p0RVpLZ05fOU16WERSSzRKeWJKR0Y1VGJpanlHNE92YXlheWtRZUw4Xy1CMmfSAW5BVV95cUxQR2NUVXZKSVVLbzR6NEZnSGQ2bjFWZTdkZVN5RC0zQk5TUjJOTXk1T0JBUWdPOHVtR2xjeENnS0h6dHB3dDNtRHhtOTNDTjZPMFVtck9GczRyTmNOUkNmY29xTjJDMHdZSWZMdFlWQQ?oc=5",
-      "source": "이대학보",
-      "kind": "domestic",
-      "publishedAt": "2026-11-10T08:00:00.000Z",
-      "description": "맞춤형 상담 제공하는 '서울시 청년정책 꿀팁버스' 우리대학 첫 방문 이대학보",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 51
-    },
-    {
-      "id": "00618693d9ad",
-      "title": "Ministry of Education and Culture Urged to Prepare Curriculum and Educators Before High School Tracking",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWlJaa0ZYajhqYUgtVUVPVUh2RXRWU1JCdmZUY3hmVHNodWJzY21Mb3h2THU0YWNoNDMtRWxBN3YxWEV3TXViVDBWeHRvbFJnOVczYkhYemExVF94MVFWNHhTVEpCc29CN0plbkdNT1pMX3g4cTRHbS1OQllrYkRLa3ZDTl8xSzQzSHNRdWZCTjB0M1hmaU1YME9YaFdwaTFBZ3doNUYwWXZYOFF6Ri1aRmhyR2hCc1ZrU2RVRWkxZw?oc=5",
-      "source": "Kompas.com",
-      "kind": "foreign",
-      "publishedAt": "2026-11-09T08:34:37.000Z",
-      "description": "Ministry of Education and Culture Urged to Prepare Curriculum and Educators Before High School Tracking Kompas.com",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 53,
-      "score": 51,
-      "originalTitle": "Ministry of Education and Culture Urged to Prepare Curriculum and Educators Before High School Tracking",
-      "titleKo": "교육문화부, 고등학교 진학 전 교육 과정 및 교사 준비 촉구",
-      "summaryKo": "교육문화부, 고등학교 진학 전 커리큘럼 및 교사 준비 촉구 Kompas.com"
-    },
-    {
-      "id": "ea397b5a19f1",
-      "title": "South Korea's top university considers $748 monthly stipend, free tuition for first foreign-only class",
-      "url": "https://www.msn.com/en-xl/money/general/south-korea-s-top-university-considers-748-monthly-stipend-free-tuition-for-first-foreign-only-class/ar-AA2hp04Z",
-      "source": "VnExpress International on MSN",
-      "kind": "foreign",
-      "publishedAt": "2026-11-13T15:25:32.000Z",
-      "description": "Seoul National University is considering covering full tuition and paying a monthly stipend of 1 million won (US$748) for every student in the first intake of its international-only undergraduate ...",
-      "category": "고등교육",
-      "score": 30,
-      "originalTitle": "South Korea's top university considers $748 monthly stipend, free tuition for first foreign-only class",
-      "titleKo": "한국 최고의 대학, 첫 외국인 전용 학급에 월 748달러의 장학금과 수업료 전액 면제 고려",
-      "summaryKo": "서울대학교는 첫 국제학부 신입생 전원에게 전액 장학금을 지급하고 월 100만 원(미화 748달러)의 생활비를 지급하는 방안을 검토하고 있다."
-    },
-    {
-      "id": "93899709b910",
-      "title": "South Korea’s free tuition plan could reshape international student recruitment",
-      "url": "https://thepienews.com/south-koreas-free-tuition-plan-could-reshape-international-student-recruitment/",
-      "source": "The PIE News",
-      "kind": "foreign",
-      "publishedAt": "2026-11-06T04:24:00.000Z",
-      "description": "South Korea is planning to provide full tuition support to new Korean students at 30 national universities outside the Seoul metropolitan area in 2027. Kyuseok (KS) Kim explores how this could impact ...",
-      "category": "유·초중등",
-      "score": 30,
-      "originalTitle": "South Korea’s free tuition plan could reshape international student recruitment",
-      "titleKo": "한국의 무상 수업료 계획이 유학생 유치에 변화를 가져올 수 있음",
-      "summaryKo": "한국 정부는 2027년부터 서울특별시 외 지역에 위치한 30개 국립대학교의 신입생에게 전액 장학금을 지원할 계획입니다. 김규석(KS) 씨는 이 정책이 어떤 영향을 미칠 수 있는지 살펴봅니다..."
-    },
-    {
-      "id": "49fb2dbe2d01",
-      "title": "South Korea to Open New Regional Medical Schools at Suncheon National University and Gyeongguk National University by 2030",
-      "url": "https://www.dongascience.com/en/news/80700",
-      "source": "Donga Science",
-      "kind": "foreign",
-      "publishedAt": "2026-11-04T07:12:00.000Z",
-      "description": "The South Korean government has finalized Suncheon National University and Gyeongguk National University as the universities where new “regional medical schools” will be established to fill gaps in ...",
-      "category": "고등교육",
-      "score": 30,
-      "originalTitle": "South Korea to Open New Regional Medical Schools at Suncheon National University and Gyeongguk National University by 2030",
-      "titleKo": "한국, 2030년까지 순천대학교와 경북대학교에 새로운 지역 의과대학 개설 예정",
-      "summaryKo": "한국 정부는 의료 인력 부족 문제를 해결하기 위해 새로운 '지역 의과대학'을 설립할 대학으로 순천대학교와 경북대학교를 최종 확정했다."
-    },
-    {
-      "id": "2b94514b13bb",
-      "title": "South Korea approves new medical schools at Sunchon and Gyeongguk for 2030",
-      "url": "https://biz.chosun.com/en/en-science/2026/11/04/QRGAUSLSB5F6THG5BGMVFAUSUI/",
-      "source": "Chosunbiz",
-      "kind": "foreign",
-      "publishedAt": "2026-11-04T02:00:00.000Z",
-      "description": "South Korea approves new medical schools at Sunchon and Gyeongguk for 2030 Government sets 100-seat intake for new regional medical schools, targeting freshman enrollment in 2030 ...",
-      "category": "유·초중등",
-      "score": 30,
-      "originalTitle": "South Korea approves new medical schools at Sunchon and Gyeongguk for 2030",
-      "titleKo": "한국, 2030년까지 순천과 경북에 새로운 의과대학 설립 승인",
-      "summaryKo": "한국 정부, 2030년 순천과 경북에 신규 의과대학 설립 승인 정부, 신규 지역 의과대학 정원을 100명으로 설정하고 2030년 신입생 모집 목표로 삼아..."
-    },
-    {
-      "id": "34d510393f45",
-      "title": "Andong's Gyeongkuk National University to Open Medical School in Provincial Government New Town in 2030; 630 Billion Won University Hospital with 500 Beds Also Planned",
-      "url": "https://www.asiae.co.kr/en/article/2026110410380889940",
-      "source": "Asia Economy",
-      "kind": "foreign",
-      "publishedAt": "2026-11-03T17:39:00.000Z",
-      "description": "Gyeongsangbuk-do Province said on November 4, \"The Ministry of Education has given final approval for the establishment of the College of Medicine at ...",
-      "category": "고등교육",
-      "score": 30,
-      "originalTitle": "Andong's Gyeongkuk National University to Open Medical School in Provincial Government New Town in 2030; 630 Billion Won University Hospital with 500 Beds Also Planned",
-      "titleKo": "안동 경북대학교, 2030년 도청신도시 내 의과대학 개설 예정. 500병상 규모의 6,300억 원대 대학병원도 계획 중",
-      "summaryKo": "경상북도는 11월 4일 \"교육부가 ... 의과대학 설립을 최종 승인했다\"고 밝혔다."
-    },
-    {
-      "id": "658df8a64b88",
-      "title": "South Korea exceeds 300,000 international students, prioritizes education quality",
-      "url": "https://www.msn.com/en-xl/news/other/south-korea-exceeds-300-000-international-students-prioritizes-education-quality/ar-AA2gBBVH",
-      "source": "The Chosun Ilbo on MSN",
-      "kind": "foreign",
-      "publishedAt": "2026-11-02T07:52:00.000Z",
-      "description": "The number of international students studying at domestic universities has surpassed 300,000 people for the first time this year. The government had implemented various policies aiming to attract 300, ...",
-      "category": "유·초중등",
-      "score": 30,
-      "originalTitle": "South Korea exceeds 300,000 international students, prioritizes education quality",
-      "titleKo": "한국, 유학생 수 30만 명 돌파, 교육의 질 우선시",
-      "summaryKo": "올해 처음으로 국내 대학에 재학 중인 유학생 수가 30만 명을 넘어섰다. 정부는 30만 명을 유치하기 위한 다양한 정책을 시행해 왔다. ..."
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -1081,38 +1069,67 @@
     "throughDate": "2026-11-14",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-11-12T15:00:00.000Z",
-    "windowEnd": "2026-11-14T01:33:13.439Z",
+    "windowEnd": "2026-11-14T02:31:27.864Z",
     "itemIds": [
+      "16e070d0a0e5",
+      "b4cdd5705c6a",
+      "e15b319b77ad",
+      "01a58c2907ee",
       "073d58a2bd2a",
+      "61b0cbe0122f",
+      "19fa00a63b67",
+      "d0649d817dcb",
       "c8325ff9b2f0",
+      "f07fac11e278",
       "642d7cfdad81",
+      "0bf9f03d8af4",
       "489408e939b9",
       "87b12025254c",
+      "c24459040373",
       "e2e1233bf42b",
       "642567fd61aa",
       "797a16b98953",
       "4ae888fed66a",
       "15a1678ea446",
-      "37ec2dc7fa56",
-      "ea397b5a19f1"
+      "37ec2dc7fa56"
     ],
     "stats": {
-      "total": 12,
+      "total": 21,
       "official": 0,
-      "domestic": 11,
-      "foreign": 1
+      "domestic": 21,
+      "foreign": 0
     },
-    "headline": "오늘 아침 교육뉴스는 입시·사교육·유·초중등·고등교육 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 12건이 확인됐습니다. 국내 언론에서는 교권침해 신고부터 법률지원·심리회복까지…서울시교육청, 내년 ‘1대1 사안전담제’ 도입와 [현장영상] AI 안경 탐지기, 올해 수능엔 적용 못 한다…교사 82.3% \"지금 절차로는 어렵다\" 등이 주요하게 다뤄졌습니다. 해외에서는 한국 최고의 대학, 첫 외국인 전용 학급에 월 748달러의 장학금과 수업료 전액 면제 고려 관련 보도가 확인됐습니다. 전체적으로는 입시·사교육·유·초중등·고등교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "headline": "오늘 아침 교육뉴스는 입시·사교육·교원·조직·고등교육 이슈를 중심으로 형성됐습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 21건이 확인됐습니다. 국내 언론에서는 임태희 前경기도교육감, K-교육혁신은 대입 大개혁이 먼저와 경기도교육청, 372억 사업서 122억 반납…교원 성과급 기준은 3주만에 철회 등이 주요하게 다뤄졌습니다. 전체적으로는 입시·사교육·교원·조직·고등교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "입시·사교육",
-        "summary": "[현장영상] AI 안경 탐지기, 올해 수능엔 적용 못 한다…교사 82.3% \"지금 절차로는 어렵다\" · 2027학년도 전문대학 수시 2차 원서접수 11월 11일 시작…합격 후 정시 지원 규칙은 · 전북특별자치도의회 박수형 의원, 사교육비 경감…학생들 학력 신장·교육격차 해소부터",
+        "summary": "임태희 前경기도교육감, K-교육혁신은 대입 大개혁이 먼저 · 변화하는 대입 제도…내신·학생부·수능 균형 잡힌 준비 전략 중요 · 경남교육청, 수능 104개 시험장에 스마트안경 전담요원 둔다",
         "why": "대입·수능·사교육 이슈는 학생·학부모 체감도가 높고 후속 안내와 현장 반응 점검이 중요합니다.",
         "sources": [
-          "전북미래교육신문",
-          "교육을 비추다",
-          "www.jbsisa.co.kr"
+          "전북도민일보",
+          "에듀동아",
+          "교육을 비추다"
+        ]
+      },
+      {
+        "title": "교원·조직",
+        "summary": "경기도교육청, 372억 사업서 122억 반납…교원 성과급 기준은 3주만에 철회 · 전북교육청, 도민 대상 '정책 제안' 아이디어 공모 · 교권침해 신고부터 법률지원·심리회복까지…서울시교육청, 내년 ‘1대1 사안전담제’ 도입",
+        "why": "교원 업무·교권·인사와 직접 연결될 수 있어 현장 반응과 제도 운영상 쟁점을 살펴볼 필요가 있습니다.",
+        "sources": [
+          "이투데이 on MSN",
+          "노컷뉴스",
+          "피앤피뉴스"
+        ]
+      },
+      {
+        "title": "고등교육",
+        "summary": "부산교육청, 해외 8개국 교육정책 분석해 미래교육 해법 모색 · 대학혁신 예산은 소모성 경비가 아니라 미래 투자다[특별기고] · [사설] 사립대 외면한 국립대 등록금 지원, 반쪽짜리 지방대 육성",
+        "why": "대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다.",
+        "sources": [
+          "파이낸셜뉴스 on MSN",
+          "한국대학신문",
+          "영남일보"
         ]
       },
       {
@@ -1124,29 +1141,11 @@
           "전북미래교육신문",
           "누리일보"
         ]
-      },
-      {
-        "title": "고등교육",
-        "summary": "대학혁신 예산은 소모성 경비가 아니라 미래 투자다[특별기고] · [사설] 사립대 외면한 국립대 등록금 지원, 반쪽짜리 지방대 육성 · 한국 최고의 대학, 첫 외국인 전용 학급에 월 748달러의 장학금과 수업료 전액 면제 고려",
-        "why": "대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다.",
-        "sources": [
-          "한국대학신문",
-          "영남일보",
-          "VnExpress International on MSN"
-        ]
-      },
-      {
-        "title": "교원·조직",
-        "summary": "교권침해 신고부터 법률지원·심리회복까지…서울시교육청, 내년 ‘1대1 사안전담제’ 도입",
-        "why": "교원 업무·교권·인사와 직접 연결될 수 있어 현장 반응과 제도 운영상 쟁점을 살펴볼 필요가 있습니다.",
-        "sources": [
-          "피앤피뉴스"
-        ]
       }
     ],
     "watchpoints": [
       "입시·사교육: 대입·수능·사교육 이슈는 학생·학부모 체감도가 높고 후속 안내와 현장 반응 점검이 중요합니다.",
-      "유·초중등: 학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
+      "교원·조직: 교원 업무·교권·인사와 직접 연결될 수 있어 현장 반응과 제도 운영상 쟁점을 살펴볼 필요가 있습니다.",
       "고등교육: 대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다."
     ]
   }
