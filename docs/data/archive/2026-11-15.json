@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-15T01:10:09.470Z",
-  "generatedAtKST": "2026-11-15T10:10:06.646+09:00",
+  "generatedAt": "2026-11-15T01:59:40.927Z",
+  "generatedAtKST": "2026-11-15T10:59:37.315+09:00",
   "date": "2026-11-15",
   "aiSummaryEnabled": false,
-  "foreignTranslationEnabled": false,
+  "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 7,
-    "domesticGoogle": 108,
+    "domesticBing": 8,
+    "domesticGoogle": 109,
     "foreignBing": 4,
-    "foreignGoogle": 126,
-    "carried": 121,
-    "rawUnique": 248,
-    "policyRejected": 160,
+    "foreignGoogle": 124,
+    "carried": 194,
+    "rawUnique": 253,
+    "policyRejected": 164,
     "policyKept": 80
   },
   "briefing": [
@@ -437,6 +437,19 @@
       "score": 76
     },
     {
+      "id": "ee8e9eb65552",
+      "title": "국회서 AI 교육정책 논의…11일 심포지엄에 전문가 총집결",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PSmlfWXk4ZXNVNFQ3dTlCbnBNVzRGOFVYTFhES21HWnFMaUFxMmgxN2pPakx6YkQ3MGxRZmo5b3FZOUJvdHU0SnJpUnFBNEphb1N4cVVWaWhDbVdWV0ZQTTluMk4xSGgxQlZBYXMwZno2UUk?oc=5",
+      "source": "스페셜타임스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-12T05:10:31.000Z",
+      "description": "국회서 AI 교육정책 논의…11일 심포지엄에 전문가 총집결 스페셜타임스",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 76
+    },
+    {
       "id": "1e383ef5bc0a",
       "title": "국민대, 국내 첫 유엔대학교 연구거점 설립…AI·디지털정부 공동연구",
       "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EA%B5%AD%EB%AF%BC%EB%8C%80-%EA%B5%AD%EB%82%B4-%EC%B2%AB-%EC%9C%A0%EC%97%94%EB%8C%80%ED%95%99%EA%B5%90-%EC%97%B0%EA%B5%AC%EA%B1%B0%EC%A0%90-%EC%84%A4%EB%A6%BD-ai-%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%95%EB%B6%80-%EA%B3%B5%EB%8F%99%EC%97%B0%EA%B5%AC/ar-AA2hh4iP",
@@ -486,19 +499,6 @@
       "category": "입시·사교육",
       "feedProvider": "bing",
       "policyRelevance": 40,
-      "score": 73
-    },
-    {
-      "id": "20f150e6c3c4",
-      "title": "교육부, “학생 자살 줄이자” .. 학생 마음건강 시도책임제 시행",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0SmxqVDRzNTV2U2JXMTRadmdRN1Uyc1h2UTNCbzNEeWJNUTdvTVBYSHB3RnZKRC1zT05PWUQwX0o0R01UaU03eEQ2OGlJZ29WemV4SnBZWjJaWDJmNjNYYVhoSXlRNXM3?oc=5",
-      "source": "에듀프레스",
-      "kind": "domestic",
-      "publishedAt": "2026-11-12T01:33:45.000Z",
-      "description": "교육부, “학생 자살 줄이자” .. 학생 마음건강 시도책임제 시행 에듀프레스",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 57,
       "score": 73
     },
     {
@@ -866,16 +866,16 @@
       "score": 63
     },
     {
-      "id": "4effbb5755d8",
-      "title": "학생 마음건강 관리, 교육청 책임 커진다…교육부 매달 성과 점검",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOR0dYV0VnZTlLc21xQmU1UmlFelphZlZWQUJkN3dfdmNCNjBBQWp5SS1aYXQ5bVNuRmlfalpqelljMjRjVk1zOUlJamZCcE1aZWlVVlU3OEhoTnZtRllxQg?oc=5",
-      "source": "메트로신문",
+      "id": "20f150e6c3c4",
+      "title": "교육부, “학생 자살 줄이자” .. 학생 마음건강 시도책임제 시행",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0SmxqVDRzNTV2U2JXMTRadmdRN1Uyc1h2UTNCbzNEeWJNUTdvTVBYSHB3RnZKRC1zT05PWUQwX0o0R01UaU03eEQ2OGlJZ29WemV4SnBZWjJaWDJmNjNYYVhoSXlRNXM3?oc=5",
+      "source": "에듀프레스",
       "kind": "domestic",
-      "publishedAt": "2026-11-12T01:48:17.000Z",
-      "description": "학생 마음건강 관리, 교육청 책임 커진다…교육부 매달 성과 점검 메트로신문",
+      "publishedAt": "2026-11-12T01:33:45.000Z",
+      "description": "교육부, “학생 자살 줄이자” .. 학생 마음건강 시도책임제 시행 에듀프레스",
       "category": "유·초중등",
       "feedProvider": "google",
-      "policyRelevance": 45,
+      "policyRelevance": 57,
       "score": 63
     },
     {
@@ -1020,7 +1020,9 @@
       "feedProvider": "google",
       "policyRelevance": 44,
       "score": 59,
-      "originalTitle": "Korea's first university admissions program for refugees offers hope, but barriers and resistance remain"
+      "originalTitle": "Korea's first university admissions program for refugees offers hope, but barriers and resistance remain",
+      "titleKo": "한국 최초의 난민을 위한 대학 입학 프로그램이 희망을 제시하지만, 여전히 장벽과 반발이 남아 있습니다.",
+      "summaryKo": "한국 최초의 난민 대학 입학 프로그램이 희망을 제시하지만, 여전히 장벽과 저항이 남아 있다. 코리아중앙데일리"
     },
     {
       "id": "880780c169b2",
@@ -1062,14 +1064,14 @@
       "score": 56
     }
   ],
-  "translationProvider": "none",
+  "translationProvider": "MyMemory MT fallback",
   "dailyDigest": {
     "ai": false,
     "date": "2026-11-14",
     "throughDate": "2026-11-15",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-11-13T15:00:00.000Z",
-    "windowEnd": "2026-11-15T01:10:09.470Z",
+    "windowEnd": "2026-11-15T01:59:40.927Z",
     "itemIds": [
       "f86be0f973c4",
       "783ac48041a1",

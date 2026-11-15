@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T01:10:16.105Z",
+  "generatedAt": "2026-11-15T01:59:58.062Z",
   "retentionDays": 30,
   "days": [
     "2026-11-15",
@@ -690,6 +690,20 @@
       "snapshotDate": "2026-11-15"
     },
     {
+      "id": "ee8e9eb65552",
+      "title": "국회서 AI 교육정책 논의…11일 심포지엄에 전문가 총집결",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PSmlfWXk4ZXNVNFQ3dTlCbnBNVzRGOFVYTFhES21HWnFMaUFxMmgxN2pPakx6YkQ3MGxRZmo5b3FZOUJvdHU0SnJpUnFBNEphb1N4cVVWaWhDbVdWV0ZQTTluMk4xSGgxQlZBYXMwZno2UUk?oc=5",
+      "source": "스페셜타임스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-12T05:10:31.000Z",
+      "description": "국회서 AI 교육정책 논의…11일 심포지엄에 전문가 총집결 스페셜타임스",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 76,
+      "snapshotDate": "2026-11-15"
+    },
+    {
       "id": "867fd6e3b4b2",
       "title": "서울교육청 ‘교권보호’정책…교육부 우수사례 선정",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ncHN5MXl1XzR0dFBUZFpiTGp4S2JUemc1RlN1NlJGZUlBczFpNlFDX1Y1Y3FON2NkX3ZxRUNsQ2R6SlBTa0ZrWFlIcm80aDhZdkFseTd1STN2MEtpUFRhVTlDODZwQXlRTDJjYWJyVkpRSnc?oc=5",
@@ -746,20 +760,6 @@
       "snapshotDate": "2026-11-15"
     },
     {
-      "id": "4effbb5755d8",
-      "title": "학생 마음건강 관리, 교육청 책임 커진다…교육부 매달 성과 점검",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOR0dYV0VnZTlLc21xQmU1UmlFelphZlZWQUJkN3dfdmNCNjBBQWp5SS1aYXQ5bVNuRmlfalpqelljMjRjVk1zOUlJamZCcE1aZWlVVlU3OEhoTnZtRllxQg?oc=5",
-      "source": "메트로신문",
-      "kind": "domestic",
-      "publishedAt": "2026-11-12T01:48:17.000Z",
-      "description": "학생 마음건강 관리, 교육청 책임 커진다…교육부 매달 성과 점검 메트로신문",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 63,
-      "snapshotDate": "2026-11-15"
-    },
-    {
       "id": "e61283d3daf9",
       "title": "이인선 의원, 고등교육 지원 형평성 문제 제기...“국립대는 전액 지원, 사립대는 등록금 부담”",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mRkExdjNPZEM0SG5va3hlX3Q0VU5JalVRZGpiNVZrMUJ3eGEtUHZRNUhQN2h0ZG43bm9KZ05DcnppV0I2YU5ObG94UUp2Wjh3bl9BNTJEdFNFN3ZsMGlFeXB0OFp5dlA1akkw?oc=5",
@@ -784,7 +784,7 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 57,
-      "score": 73,
+      "score": 63,
       "snapshotDate": "2026-11-15"
     },
     {
@@ -1761,6 +1761,8 @@
       "policyRelevance": 44,
       "score": 59,
       "originalTitle": "Korea's first university admissions program for refugees offers hope, but barriers and resistance remain",
+      "titleKo": "한국 최초의 난민을 위한 대학 입학 프로그램이 희망을 제시하지만, 여전히 장벽과 반발이 남아 있습니다.",
+      "summaryKo": "한국 최초의 난민 대학 입학 프로그램이 희망을 제시하지만, 여전히 장벽과 저항이 남아 있다. 코리아중앙데일리",
       "snapshotDate": "2026-11-15"
     },
     {
