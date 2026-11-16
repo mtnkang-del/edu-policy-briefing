@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-16T01:16:12.533Z",
-  "generatedAtKST": "2026-11-16T10:16:09.675+09:00",
+  "generatedAt": "2026-11-16T02:16:08.533Z",
+  "generatedAtKST": "2026-11-16T11:16:05.260+09:00",
   "date": "2026-11-16",
   "aiSummaryEnabled": false,
-  "foreignTranslationEnabled": true,
+  "foreignTranslationEnabled": false,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 11,
-    "domesticGoogle": 115,
-    "foreignBing": 5,
-    "foreignGoogle": 123,
-    "carried": 118,
-    "rawUnique": 261,
-    "policyRejected": 178,
+    "domesticBing": 12,
+    "domesticGoogle": 114,
+    "foreignBing": 6,
+    "foreignGoogle": 130,
+    "carried": 179,
+    "rawUnique": 268,
+    "policyRejected": 182,
     "policyKept": 80
   },
   "briefing": [
@@ -162,6 +162,19 @@
       "category": "기타",
       "policyRelevance": 100,
       "score": 95
+    },
+    {
+      "id": "bd3dbcf3ab0e",
+      "title": "최교진 교육부 장관 \"수능 스마트안경 부정행위 엄단…전파탐지기 내년 도입 검토\"",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jUk53Y2lvUmE5TGt0N1E1VEY1OHZJNEpMT3dRazdVX2szVW85X04xbFVtR3FYU1plWFdvYzZkQmhvb19yWGg3UTNXNjNBeHhkRWNzQThzaTgwZ0dK?oc=5",
+      "source": "뉴스핌",
+      "kind": "domestic",
+      "publishedAt": "2026-11-16T02:02:00.000Z",
+      "description": "최교진 교육부 장관 \"수능 스마트안경 부정행위 엄단…전파탐지기 내년 도입 검토\" 뉴스핌",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 77,
+      "score": 92
     },
     {
       "id": "16e070d0a0e5",
@@ -463,6 +476,45 @@
       "score": 76
     },
     {
+      "id": "20f150e6c3c4",
+      "title": "교육부, “학생 자살 줄이자” .. 학생 마음건강 시도책임제 시행",
+      "url": "https://www.edupress.kr/news/articleView.html?idxno=30615",
+      "source": "에듀프레스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-12T04:01:00.000Z",
+      "description": "에듀프레스 장재훈 기자 = 늘어나는 초·중·고생 자살을 줄이기 위해 교육부가 '학생 마음건강 시도책임제'를 이달부터 시행한다고 12일 밝혔다. 교육부는 이날 전국 16개 시·도교육청 부교육감들이 참석한 가운데 '학생 마음건강 안전망 강화 전담팀' 1차 회의를 열어 학생 위기 사안 발생과 관련한 정책 추진 현황을 매달 점검하기로 했다. 점검 대상은 ▲학생 마 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 87,
+      "score": 76
+    },
+    {
+      "id": "b845487d6d57",
+      "title": "최교진 장관, 영등포여고서 수능 준비 점검… 부정행위 형사고발 엄정 대응",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wZV9TdWxsSGtJZ0ZfTjllWFVHbHZLRnZIUFFDdU9lenVxVlRtYXpOZjQ0S1pQV1RfbTNWdVFlbkpyNFNjbXFfNE45ZXlkUEpzdDRqYnpfY3czZDAtc3BVMlhrOVJkUQ?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-11-16T01:58:28.000Z",
+      "description": "최교진 장관, 영등포여고서 수능 준비 점검… 부정행위 형사고발 엄정 대응 한국대학신문",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 75
+    },
+    {
+      "id": "2ed1777a71c9",
+      "title": "수능 D-3, 문답지 전국으로 출발… 경찰 경호로 전국 85개 시험지구로",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuNTZYeGUzdEJKSWRSeXJGTGNXajBGanlnbjRqU044bjRhVk9SbVNBMWVWVm1uRmdkeWFpRXV1c2UzdDRsWUlOVUVZOFBrN3U5YlIyZVhPbjlPVUhGRXU4NlBLaHY1Zw?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-11-16T01:22:31.000Z",
+      "description": "수능 D-3, 문답지 전국으로 출발… 경찰 경호로 전국 85개 시험지구로 한국대학신문",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 75
+    },
+    {
       "id": "3fb36ed8d821",
       "title": "인천시교육청, ‘동학년 수업으로 성장하다!’ 초등 교원 워크숍 열어",
       "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1311450",
@@ -515,9 +567,22 @@
       "score": 72
     },
     {
+      "id": "e14875007bb2",
+      "title": "카메룬 정부 대표단 33명, 수원시의회 방문…\"정책 소통\"",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBESC02VTN0bEVmTmR1YnFFMzRYa1VZeUxNeHRuVXp3ZmRoOHNjT3ZDVjl5SUN3RVZ1SDJZZU01X3B0STlCeXFtUE16cmtpcWlGN05QXzZZRExwbjMzVEZvRHBabndUT0ZOQTZiM3o0UnpzWlM3S0RnMtIBeEFVX3lxTFBESC02VTN0bEVmTmR1YnFFMzRYa1VZeUxNeHRuVXp3ZmRoOHNjT3ZDVjl5SUN3RVZ1SDJZZU01X3B0STlCeXFtUE16cmtpcWlGN05QXzZZRExwbjMzVEZvRHBabndUT0ZOQTZiM3o0UnpzWlM3S0RnMg?oc=5",
+      "source": "뉴시스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-13T04:12:36.000Z",
+      "description": "카메룬 정부 대표단 33명, 수원시의회 방문…\"정책 소통\" 뉴시스",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 72
+    },
+    {
       "id": "a7cff9b261ff",
       "title": "서부교육지원청, ‘온동네 초등돌봄․교육 우수사례’ 교육부 대상 등",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwaVN1WE5LTHU2aWZLTXFMU0NrZ3FUWlhHeFdPLVhxMUtGWGJqa2poYURobE1qY2lZdS02aTd1VQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9BNGMtWFRub3J0QlV6UWJhM2M5Wm5jLVEzd0FORzFBRXpFcURmenF0cXp6RUpvWF8xUnNxcV9zR1c?oc=5",
       "source": "사회적경제뉴스",
       "kind": "domestic",
       "publishedAt": "2026-11-13T02:56:00.000Z",
@@ -801,19 +866,6 @@
       "score": 63
     },
     {
-      "id": "20f150e6c3c4",
-      "title": "교육부, “학생 자살 줄이자” .. 학생 마음건강 시도책임제 시행",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0SmxqVDRzNTV2U2JXMTRadmdRN1Uyc1h2UTNCbzNEeWJNUTdvTVBYSHB3RnZKRC1zT05PWUQwX0o0R01UaU03eEQ2OGlJZ29WemV4SnBZWjJaWDJmNjNYYVhoSXlRNXM3?oc=5",
-      "source": "에듀프레스",
-      "kind": "domestic",
-      "publishedAt": "2026-11-12T01:33:45.000Z",
-      "description": "교육부, “학생 자살 줄이자” .. 학생 마음건강 시도책임제 시행 에듀프레스",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 57,
-      "score": 63
-    },
-    {
       "id": "867fd6e3b4b2",
       "title": "서울교육청 ‘교권보호’정책…교육부 우수사례 선정",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ncHN5MXl1XzR0dFBUZFpiTGp4S2JUemc1RlN1NlJGZUlBczFpNlFDX1Y1Y3FON2NkX3ZxRUNsQ2R6SlBTa0ZrWFlIcm80aDhZdkFseTd1STN2MEtpUFRhVTlDODZwQXlRTDJjYWJyVkpRSnc?oc=5",
@@ -866,6 +918,19 @@
       "score": 61
     },
     {
+      "id": "b162b0e692f1",
+      "title": "서울시의회 \"선정환 의원, 행정사무감사 총평 '학생 교육기회·교직원 안전 보장' 현장 중심 정책 개선 주문\"",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0yb29fajZMaTJuajJ0bno1N3VvNm5CU1ZWdlFUdFgzTHIwUWUxeFppOGNKeGZjY1NtbTByR1pNNHMzM0ZXekROWUpwbWg?oc=5",
+      "source": "이코노믹포스트",
+      "kind": "domestic",
+      "publishedAt": "2026-11-13T08:18:36.000Z",
+      "description": "서울시의회 \"선정환 의원, 행정사무감사 총평 '학생 교육기회·교직원 안전 보장' 현장 중심 정책 개선 주문\" 이코노믹포스트",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 61
+    },
+    {
       "id": "4ae888fed66a",
       "title": "전북특별자치도의회 박수형 의원, 사교육비 경감…학생들 학력 신장·교육격차 해소부터",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iMU5vYUZVdVhxNzVZZk8tLXQ0VkVFWW5Wa1MtbEM2OXEzbGdtaXFYRjhGa3NzNnVaNGdVbmtCaGVzZ1hqdFFIbzVVRFNtTDhFUlB6Y0thb0R3NFV3R1dPZzFPdjZVYlFPZ3c?oc=5",
@@ -881,7 +946,7 @@
     {
       "id": "3eb886176f04",
       "title": "선정환 서울시의원 “교육정책 성과, 학생과 학교 현장의 실질적 변화로 연결되야”",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DcS03aUo5ZGIxWHdYWVF5TUpfc0lKclk5b0JqYmlmeHUybjQtaHhEVzQ4eloxdW5wa2hGYmlMcUVaTnhESmNORnBVaFdQeWhsM1FiMWgtcEUtRW1Rb1UzUzdQUlk4cFJDdy05a9IBcEFVX3lxTE1OLXBLcWZ6Wm41RDlxNFd1ZEFXblpWLUJ0djJuNWR4WG1KNlZ0RmZMRi1KZWhJMUk2VmQyaXBKZW5xcmJLZEhqUjZqYWtvSWpqMVNZbTdRVFlpOF9GWUxxcEFuMjhqbGtTNG52RURjN2g?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OLXBLcWZ6Wm41RDlxNFd1ZEFXblpWLUJ0djJuNWR4WG1KNlZ0RmZMRi1KZWhJMUk2VmQyaXBKZW5xcmJLZEhqUjZqYWtvSWpqMVNZbTdRVFlpOF9GWUxxcEFuMjhqbGtTNG52RURjN2jSAXBBVV95cUxNTi1wS3FmelpuNUQ5cTRXdWRBV25aVi1CdHYybjVkeFhtSjZWdEZmTEYtSmVoSTFJNlZkMmlwSmVucXJiS2RIalI2amFrb0lqajFTWW03UVRZaThfRllMcXBBbjI4amxrUzRudkVEYzdo?oc=5",
       "source": "글로벌경제신문",
       "kind": "domestic",
       "publishedAt": "2026-11-13T07:45:39.000Z",
@@ -942,9 +1007,7 @@
       "feedProvider": "google",
       "policyRelevance": 44,
       "score": 59,
-      "originalTitle": "Korea's first university admissions program for refugees offers hope, but barriers and resistance remain",
-      "titleKo": "한국 최초의 난민을 위한 대학 입학 프로그램이 희망을 제시하지만, 여전히 장벽과 저항이 남아 있습니다.",
-      "summaryKo": "한국 최초의 난민 대학 입학 프로그램이 희망을 제시하지만, 여전히 장벽과 반발이 남아 있다 코리아중앙데일리"
+      "originalTitle": "Korea's first university admissions program for refugees offers hope, but barriers and resistance remain"
     },
     {
       "id": "1bde57df73d1",
@@ -997,86 +1060,22 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 55
-    },
-    {
-      "id": "df0ea9e86cca",
-      "title": "동의과학대 김강훈 교수, 고등직업교육정책 연수서 AI 학사행정 혁신 특강 진행",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lUnJxWVFpVkVJblRPMVVXQmdHREc5MUR1UEotY2Y2VVFXd0pzWnZOWG82LW1Hd3Zwd0pvS0tycXkxdVp0cDcwcWg1TlNfdTRMenB2OXM0R3N6RGFKTTMzWktHRENLUQ?oc=5",
-      "source": "한국대학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-11-12T02:07:25.000Z",
-      "description": "동의과학대 김강훈 교수, 고등직업교육정책 연수서 AI 학사행정 혁신 특강 진행 한국대학신문",
-      "category": "AI·디지털",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 55
-    },
-    {
-      "id": "858f5c8defd4",
-      "title": "교육부·국가평생교육진흥원 학부모교육 전문강사 연수",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lQU5iYl9HekhHbFRTTGZKbE8tMUxCdTA5endaaGNUTTFsTlRwRURWMkxZVHFpcnVuZVFRdXRxUlg4RTl2cXd1b3MydDZoQW9OdWluN1FKSWVHeXRhWTJv?oc=5",
-      "source": "한국교육신문",
-      "kind": "domestic",
-      "publishedAt": "2026-11-12T11:09:39.000Z",
-      "description": "교육부·국가평생교육진흥원 학부모교육 전문강사 연수 한국교육신문",
-      "category": "지역·평생교육",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 53
-    },
-    {
-      "id": "35c9869f9aeb",
-      "title": "전북교육청, 학교 현장 인성교육 우수사례 공유",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tOUIzdERtQjlxZmtPcy1fRjV2VWo4bFVuNkNPckp4Z24wUENwOTFMVWRiZXQzTURkWXR5RUtPc3kwS3lvOVdJS0g4cTVPdkFRN2NUMzU1RzRaajlwcnhPanhOZDN6dVpq?oc=5",
-      "source": "투데이안",
-      "kind": "domestic",
-      "publishedAt": "2026-11-12T05:30:00.000Z",
-      "description": "전북교육청, 학교 현장 인성교육 우수사례 공유 투데이안",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 53
-    },
-    {
-      "id": "4effbb5755d8",
-      "title": "학생 마음건강 관리, 교육청 책임 커진다…교육부 매달 성과 점검",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOR0dYV0VnZTlLc21xQmU1UmlFelphZlZWQUJkN3dfdmNCNjBBQWp5SS1aYXQ5bVNuRmlfalpqelljMjRjVk1zOUlJamZCcE1aZWlVVlU3OEhoTnZtRllxQg?oc=5",
-      "source": "메트로신문",
-      "kind": "domestic",
-      "publishedAt": "2026-11-12T01:48:17.000Z",
-      "description": "학생 마음건강 관리, 교육청 책임 커진다…교육부 매달 성과 점검 메트로신문",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 53
-    },
-    {
-      "id": "37ec2dc7fa56",
-      "title": "[사설] 사립대 외면한 국립대 등록금 지원, 반쪽짜리 지방대 육성",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sUzZZV3dTRmR4YmVveFdkS08zbXBtRjBzVmhoYTB6Znp0MVdXY0pMcFhtOXJhcmdsU3lNMHQtbmNnQS1pdHFCSllpQmY4RG1fSlVPQlJrODd6ZlJsdWpjV09PSjl6LU9rbHNn?oc=5",
-      "source": "영남일보",
-      "kind": "domestic",
-      "publishedAt": "2026-11-12T21:00:00.000Z",
-      "description": "[사설] 사립대 외면한 국립대 등록금 지원, 반쪽짜리 지방대 육성 영남일보",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 51
     }
   ],
-  "translationProvider": "MyMemory MT fallback",
+  "translationProvider": "none",
   "dailyDigest": {
     "ai": false,
     "date": "2026-11-15",
     "throughDate": "2026-11-16",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-11-14T15:00:00.000Z",
-    "windowEnd": "2026-11-16T01:16:12.533Z",
+    "windowEnd": "2026-11-16T02:16:08.533Z",
     "itemIds": [
       "9c11bb4f5d58",
       "f86be0f973c4",
       "783ac48041a1",
       "b3f3d1ca8e63",
+      "bd3dbcf3ab0e",
       "1667bf121608",
       "8650bb7aa865",
       "aee8fec8f4f8",
@@ -1087,26 +1086,28 @@
       "704b0a8d26b4",
       "da28a8673d60",
       "87ac8ac9490c",
+      "b845487d6d57",
+      "2ed1777a71c9",
       "d5fde65c46d8",
       "8e7aca9b6cd8"
     ],
     "stats": {
-      "total": 16,
+      "total": 19,
       "official": 3,
-      "domestic": 13,
+      "domestic": 16,
       "foreign": 0
     },
     "headline": "오늘 아침 교육뉴스는 입시·사교육·고등교육·재정·법령 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 16건이 확인됐습니다. 교육부는 2027학년도 대학수학능력시험 문답지 전국 85개 시험지구에 배부 시작, 데이터로 읽는 우리 교육 제18호 발간와 의과대학 교육의 새로운 변화, 우수사례 8편 선정 등을 공식 발표했습니다. 국내 언론에서는 AI 부정, 수능 대응책엔 없어... 대입 평가방식도 바꿔야와 체육 입시도 공교육에서…대전교육청, 사교육 의존도 낮춘다 등이 주요하게 다뤄졌습니다. 전체적으로는 입시·사교육·고등교육·재정·법령 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 19건이 확인됐습니다. 교육부는 2027학년도 대학수학능력시험 문답지 전국 85개 시험지구에 배부 시작, 데이터로 읽는 우리 교육 제18호 발간와 의과대학 교육의 새로운 변화, 우수사례 8편 선정 등을 공식 발표했습니다. 국내 언론에서는 AI 부정, 수능 대응책엔 없어... 대입 평가방식도 바꿔야와 최교진 교육부 장관 \"수능 스마트안경 부정행위 엄단…전파탐지기 내년 도입 검토\" 등이 주요하게 다뤄졌습니다. 전체적으로는 입시·사교육·고등교육·재정·법령 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "입시·사교육",
-        "summary": "2027학년도 대학수학능력시험 문답지 전국 85개 시험지구에 배부 시작 · AI 부정, 수능 대응책엔 없어... 대입 평가방식도 바꿔야 · 체육 입시도 공교육에서…대전교육청, 사교육 의존도 낮춘다",
+        "summary": "2027학년도 대학수학능력시험 문답지 전국 85개 시험지구에 배부 시작 · AI 부정, 수능 대응책엔 없어... 대입 평가방식도 바꿔야 · 최교진 교육부 장관 \"수능 스마트안경 부정행위 엄단…전파탐지기 내년 도입 검토\"",
         "why": "대입·수능·사교육 이슈는 학생·학부모 체감도가 높고 후속 안내와 현장 반응 점검이 중요합니다.",
         "sources": [
           "교육부",
           "오마이뉴스 on MSN",
-          "중도일보"
+          "뉴스핌"
         ]
       },
       {

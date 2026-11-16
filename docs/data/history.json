@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T01:16:32.045Z",
+  "generatedAt": "2026-11-16T02:16:15.181Z",
   "retentionDays": 30,
   "days": [
     "2026-11-16",
@@ -33,6 +33,48 @@
     "2026-10-18"
   ],
   "items": [
+    {
+      "id": "bd3dbcf3ab0e",
+      "title": "최교진 교육부 장관 \"수능 스마트안경 부정행위 엄단…전파탐지기 내년 도입 검토\"",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jUk53Y2lvUmE5TGt0N1E1VEY1OHZJNEpMT3dRazdVX2szVW85X04xbFVtR3FYU1plWFdvYzZkQmhvb19yWGg3UTNXNjNBeHhkRWNzQThzaTgwZ0dK?oc=5",
+      "source": "뉴스핌",
+      "kind": "domestic",
+      "publishedAt": "2026-11-16T02:02:00.000Z",
+      "description": "최교진 교육부 장관 \"수능 스마트안경 부정행위 엄단…전파탐지기 내년 도입 검토\" 뉴스핌",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 77,
+      "score": 92,
+      "snapshotDate": "2026-11-16"
+    },
+    {
+      "id": "b845487d6d57",
+      "title": "최교진 장관, 영등포여고서 수능 준비 점검… 부정행위 형사고발 엄정 대응",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wZV9TdWxsSGtJZ0ZfTjllWFVHbHZLRnZIUFFDdU9lenVxVlRtYXpOZjQ0S1pQV1RfbTNWdVFlbkpyNFNjbXFfNE45ZXlkUEpzdDRqYnpfY3czZDAtc3BVMlhrOVJkUQ?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-11-16T01:58:28.000Z",
+      "description": "최교진 장관, 영등포여고서 수능 준비 점검… 부정행위 형사고발 엄정 대응 한국대학신문",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 75,
+      "snapshotDate": "2026-11-16"
+    },
+    {
+      "id": "2ed1777a71c9",
+      "title": "수능 D-3, 문답지 전국으로 출발… 경찰 경호로 전국 85개 시험지구로",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuNTZYeGUzdEJKSWRSeXJGTGNXajBGanlnbjRqU044bjRhVk9SbVNBMWVWVm1uRmdkeWFpRXV1c2UzdDRsWUlOVUVZOFBrN3U5YlIyZVhPbjlPVUhGRXU4NlBLaHY1Zw?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-11-16T01:22:31.000Z",
+      "description": "수능 D-3, 문답지 전국으로 출발… 경찰 경호로 전국 85개 시험지구로 한국대학신문",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 75,
+      "snapshotDate": "2026-11-16"
+    },
     {
       "id": "8650bb7aa865",
       "title": "‘사립대 반값 등록금’ 예산 2조 7,337억 원, 국회 교육위 예결소위 통과",
@@ -479,6 +521,20 @@
       "snapshotDate": "2026-11-16"
     },
     {
+      "id": "b162b0e692f1",
+      "title": "서울시의회 \"선정환 의원, 행정사무감사 총평 '학생 교육기회·교직원 안전 보장' 현장 중심 정책 개선 주문\"",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0yb29fajZMaTJuajJ0bno1N3VvNm5CU1ZWdlFUdFgzTHIwUWUxeFppOGNKeGZjY1NtbTByR1pNNHMzM0ZXekROWUpwbWg?oc=5",
+      "source": "이코노믹포스트",
+      "kind": "domestic",
+      "publishedAt": "2026-11-13T08:18:36.000Z",
+      "description": "서울시의회 \"선정환 의원, 행정사무감사 총평 '학생 교육기회·교직원 안전 보장' 현장 중심 정책 개선 주문\" 이코노믹포스트",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 40,
+      "score": 61,
+      "snapshotDate": "2026-11-16"
+    },
+    {
       "id": "9256f9687536",
       "title": "“AI 시대 ‘인본지능’ 정립부터 은둔학생 회복·직업교육 해외 진출까지”… 경북교육청, 2027 정책연구 3대 과제 확정",
       "url": "https://www.enewstoday.co.kr/news/articleView.html?idxno=2492115",
@@ -509,7 +565,7 @@
     {
       "id": "3eb886176f04",
       "title": "선정환 서울시의원 “교육정책 성과, 학생과 학교 현장의 실질적 변화로 연결되야”",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DcS03aUo5ZGIxWHdYWVF5TUpfc0lKclk5b0JqYmlmeHUybjQtaHhEVzQ4eloxdW5wa2hGYmlMcUVaTnhESmNORnBVaFdQeWhsM1FiMWgtcEUtRW1Rb1UzUzdQUlk4cFJDdy05a9IBcEFVX3lxTE1OLXBLcWZ6Wm41RDlxNFd1ZEFXblpWLUJ0djJuNWR4WG1KNlZ0RmZMRi1KZWhJMUk2VmQyaXBKZW5xcmJLZEhqUjZqYWtvSWpqMVNZbTdRVFlpOF9GWUxxcEFuMjhqbGtTNG52RURjN2g?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OLXBLcWZ6Wm41RDlxNFd1ZEFXblpWLUJ0djJuNWR4WG1KNlZ0RmZMRi1KZWhJMUk2VmQyaXBKZW5xcmJLZEhqUjZqYWtvSWpqMVNZbTdRVFlpOF9GWUxxcEFuMjhqbGtTNG52RURjN2jSAXBBVV95cUxNTi1wS3FmelpuNUQ5cTRXdWRBV25aVi1CdHYybjVkeFhtSjZWdEZmTEYtSmVoSTFJNlZkMmlwSmVucXJiS2RIalI2amFrb0lqajFTWW03UVRZaThfRllMcXBBbjI4amxrUzRudkVEYzdo?oc=5",
       "source": "글로벌경제신문",
       "kind": "domestic",
       "publishedAt": "2026-11-13T07:45:39.000Z",
@@ -633,6 +689,20 @@
       "snapshotDate": "2026-11-16"
     },
     {
+      "id": "e14875007bb2",
+      "title": "카메룬 정부 대표단 33명, 수원시의회 방문…\"정책 소통\"",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBESC02VTN0bEVmTmR1YnFFMzRYa1VZeUxNeHRuVXp3ZmRoOHNjT3ZDVjl5SUN3RVZ1SDJZZU01X3B0STlCeXFtUE16cmtpcWlGN05QXzZZRExwbjMzVEZvRHBabndUT0ZOQTZiM3o0UnpzWlM3S0RnMtIBeEFVX3lxTFBESC02VTN0bEVmTmR1YnFFMzRYa1VZeUxNeHRuVXp3ZmRoOHNjT3ZDVjl5SUN3RVZ1SDJZZU01X3B0STlCeXFtUE16cmtpcWlGN05QXzZZRExwbjMzVEZvRHBabndUT0ZOQTZiM3o0UnpzWlM3S0RnMg?oc=5",
+      "source": "뉴시스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-13T04:12:36.000Z",
+      "description": "카메룬 정부 대표단 33명, 수원시의회 방문…\"정책 소통\" 뉴시스",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 72,
+      "snapshotDate": "2026-11-16"
+    },
+    {
       "id": "642d7cfdad81",
       "title": "전북대, 캄보디아 정부·고등교육기관과 AI 교육혁신 협력 논의",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5La3F0S3F1R3I5LWxiZlZ6b1BhZ0dnLWx0RVRnS21RMmtBWFZnWkhPTjZ1MzkwQU1BWHRzbDF4dVZkZ2trelFmc2YteVNONmRzcF9JT2ZaUkNNR2Y0R0pBY3plTUVRdw?oc=5",
@@ -691,7 +761,7 @@
     {
       "id": "a7cff9b261ff",
       "title": "서부교육지원청, ‘온동네 초등돌봄․교육 우수사례’ 교육부 대상 등",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwaVN1WE5LTHU2aWZLTXFMU0NrZ3FUWlhHeFdPLVhxMUtGWGJqa2poYURobE1qY2lZdS02aTd1VQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9BNGMtWFRub3J0QlV6UWJhM2M5Wm5jLVEzd0FORzFBRXpFcURmenF0cXp6RUpvWF8xUnNxcV9zR1c?oc=5",
       "source": "사회적경제뉴스",
       "kind": "domestic",
       "publishedAt": "2026-11-13T02:56:00.000Z",
@@ -755,8 +825,8 @@
       "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 51,
-      "snapshotDate": "2026-11-16"
+      "score": 61,
+      "snapshotDate": "2026-11-15"
     },
     {
       "id": "0bf9f03d8af4",
@@ -797,8 +867,8 @@
       "category": "지역·평생교육",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 53,
-      "snapshotDate": "2026-11-16"
+      "score": 63,
+      "snapshotDate": "2026-11-15"
     },
     {
       "id": "3fb36ed8d821",
@@ -971,7 +1041,7 @@
     {
       "id": "35c9869f9aeb",
       "title": "전북교육청, 학교 현장 인성교육 우수사례 공유",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tOUIzdERtQjlxZmtPcy1fRjV2VWo4bFVuNkNPckp4Z24wUENwOTFMVWRiZXQzTURkWXR5RUtPc3kwS3lvOVdJS0g4cTVPdkFRN2NUMzU1RzRaajlwcnhPanhOZDN6dVpq?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hemlWSlpCOVl5aEZMcnpjUDA2Rk9MWm95QmZXXzVNYzVKYXhyVnhtOV9GNk1uY1NYX3VYbjlxcnRNR1h2amdkQm44RElDWlFtMmRlVHB5eXYxUzJDYzhWOEk0SUQ1V1Z4Q1E?oc=5",
       "source": "투데이안",
       "kind": "domestic",
       "publishedAt": "2026-11-12T05:30:00.000Z",
@@ -979,8 +1049,8 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 45,
-      "score": 53,
-      "snapshotDate": "2026-11-16"
+      "score": 63,
+      "snapshotDate": "2026-11-15"
     },
     {
       "id": "ee8e9eb65552",
@@ -1025,6 +1095,20 @@
       "snapshotDate": "2026-11-16"
     },
     {
+      "id": "20f150e6c3c4",
+      "title": "교육부, “학생 자살 줄이자” .. 학생 마음건강 시도책임제 시행",
+      "url": "https://www.edupress.kr/news/articleView.html?idxno=30615",
+      "source": "에듀프레스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-12T04:01:00.000Z",
+      "description": "에듀프레스 장재훈 기자 = 늘어나는 초·중·고생 자살을 줄이기 위해 교육부가 '학생 마음건강 시도책임제'를 이달부터 시행한다고 12일 밝혔다. 교육부는 이날 전국 16개 시·도교육청 부교육감들이 참석한 가운데 '학생 마음건강 안전망 강화 전담팀' 1차 회의를 열어 학생 위기 사안 발생과 관련한 정책 추진 현황을 매달 점검하기로 했다. 점검 대상은 ▲학생 마 ...",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 87,
+      "score": 76,
+      "snapshotDate": "2026-11-16"
+    },
+    {
       "id": "e61283d3daf9",
       "title": "이인선 의원, 고등교육 지원 형평성 문제 제기...“국립대는 전액 지원, 사립대는 등록금 부담”",
       "url": "https://www.pressian.com/pages/articles/2026111209002900657",
@@ -1049,22 +1133,8 @@
       "category": "AI·디지털",
       "feedProvider": "google",
       "policyRelevance": 40,
-      "score": 55,
-      "snapshotDate": "2026-11-16"
-    },
-    {
-      "id": "4effbb5755d8",
-      "title": "학생 마음건강 관리, 교육청 책임 커진다…교육부 매달 성과 점검",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOR0dYV0VnZTlLc21xQmU1UmlFelphZlZWQUJkN3dfdmNCNjBBQWp5SS1aYXQ5bVNuRmlfalpqelljMjRjVk1zOUlJamZCcE1aZWlVVlU3OEhoTnZtRllxQg?oc=5",
-      "source": "메트로신문",
-      "kind": "domestic",
-      "publishedAt": "2026-11-12T01:48:17.000Z",
-      "description": "학생 마음건강 관리, 교육청 책임 커진다…교육부 매달 성과 점검 메트로신문",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 53,
-      "snapshotDate": "2026-11-16"
+      "score": 65,
+      "snapshotDate": "2026-11-15"
     },
     {
       "id": "e61283d3daf9",
@@ -1092,7 +1162,7 @@
       "feedProvider": "google",
       "policyRelevance": 57,
       "score": 63,
-      "snapshotDate": "2026-11-16"
+      "snapshotDate": "2026-11-15"
     },
     {
       "id": "0fa615db4548",
@@ -2068,8 +2138,6 @@
       "policyRelevance": 44,
       "score": 59,
       "originalTitle": "Korea's first university admissions program for refugees offers hope, but barriers and resistance remain",
-      "titleKo": "한국 최초의 난민을 위한 대학 입학 프로그램이 희망을 제시하지만, 여전히 장벽과 저항이 남아 있습니다.",
-      "summaryKo": "한국 최초의 난민 대학 입학 프로그램이 희망을 제시하지만, 여전히 장벽과 반발이 남아 있다 코리아중앙데일리",
       "snapshotDate": "2026-11-16"
     },
     {
@@ -8356,76 +8424,6 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 55,
-      "snapshotDate": "2026-10-24"
-    },
-    {
-      "id": "8a34864461dd",
-      "title": "한국교총, 마이크로소프트와 맞손…교원 AI 역량 강화·미래교육 지원",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YdjYzYVM5R2lTUnpDYXJtd1hjVW1ZX1ljWC11SHlOMUlkc2U0eWRISGZiMklNQ3ZDNlZmbEVpWm1VX2w5cmJUdkxzblR2RUw2d0p4UGRHRDlDN0N3?oc=5",
-      "source": "뉴스핌",
-      "kind": "domestic",
-      "publishedAt": "2026-10-20T03:33:00.000Z",
-      "description": "한국교총, 마이크로소프트와 맞손…교원 AI 역량 강화·미래교육 지원 뉴스핌",
-      "category": "AI·디지털",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 61,
-      "snapshotDate": "2026-10-24"
-    },
-    {
-      "id": "d25fefbe36b8",
-      "title": "대전·세종·충남교육감 \"AI교육은 키우고 교부금 지켜야\"",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CWnBaR0JoaXBmRzJfdmNybjBfZ1l3RWpVVUJ4aGx3ck9xQ2xLTUI0STNQU1hvcU9idGlxRHpiaS1LRUpXbmRuMmt0VkhzRmI5OFJFSDYwa0tkNGRuVGVCX244SzFiTk1qd1E3NmpRU0htb3ZTdS1wY9IBeEFVX3lxTE5CWnBaR0JoaXBmRzJfdmNybjBfZ1l3RWpVVUJ4aGx3ck9xQ2xLTUI0STNQU1hvcU9idGlxRHpiaS1LRUpXbmRuMmt0VkhzRmI5OFJFSDYwa0tkNGRuVGVCX244SzFiTk1qd1E3NmpRU0htb3ZTdS1wYw?oc=5",
-      "source": "뉴시스",
-      "kind": "domestic",
-      "publishedAt": "2026-10-20T03:30:19.000Z",
-      "description": "대전·세종·충남교육감 \"AI교육은 키우고 교부금 지켜야\" 뉴시스",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 70,
-      "snapshotDate": "2026-10-24"
-    },
-    {
-      "id": "889440638240",
-      "title": "‘일본 학령인구 감소에 따른 대학 체제의 위기와 정책 시사점’",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03ckxNVllQNWd1T1NRVkxzWUNMTHl5T3hENnBXLXlXazliX25weHpjRlhmU2hzNXJZMmgxVTRYNjlTSTJBV1NUNVFzUV84WTRKTkFmbHRwQlg1aWNVaXEyLXVlVEhSN2_SAWtBVV95cUxNWTVEWUx5dUlBVk9jYVY0MEdGNXRVWm96R09LNE1DLU4zcTNVUk9oYXU1THlNZWsyVEpVRmUtSkk4cmVBQ2s3a2R1b2VkaFJ0MkMyc1lTU3UwOUxIWTN4cVhuc2pMUHp6NEd3bw?oc=5",
-      "source": "투데이N",
-      "kind": "domestic",
-      "publishedAt": "2026-10-20T03:12:16.000Z",
-      "description": "‘일본 학령인구 감소에 따른 대학 체제의 위기와 정책 시사점’ 투데이N",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 71,
-      "snapshotDate": "2026-10-21"
-    },
-    {
-      "id": "a34d5c1840c7",
-      "title": "교육부, ‘APEC 스쿨리더십 프로그램’ 개최… AI 교육 혁신 사례 공유",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zU0ZjczhKdHdJVUctTmtsUDlDcTY0R3Bfc1AtWkF0d1VtM3p5LWItdV9GZXc5V1VtRU9LTXpnVG5lRzd0VjUxYlJ0NTBIVnRVZDcyekkxZDFRUlI2U0ZFbDliNVN3UQ?oc=5",
-      "source": "한국대학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-10-20T03:00:00.000Z",
-      "description": "교육부, ‘APEC 스쿨리더십 프로그램’ 개최… AI 교육 혁신 사례 공유 한국대학신문",
-      "category": "AI·디지털",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 57,
-      "snapshotDate": "2026-10-24"
-    },
-    {
-      "id": "4ee93e7f6729",
-      "title": "조용식 울산교육감 “지방교육재정 개편, 교육 현장의 어려움과 지역별 교육 수요 살펴야”",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9IZ3pjRzdfZzB0QTVJdEItUGIwLWoyZU9OYTM5Qm5yUFpzbXdNM252NkgtMHZTdS13SU9vdHUyYktkRkpNaXNrM2lB?oc=5",
-      "source": "미디어투데이",
-      "kind": "domestic",
-      "publishedAt": "2026-10-20T01:50:00.000Z",
-      "description": "조용식 울산교육감 “지방교육재정 개편, 교육 현장의 어려움과 지역별 교육 수요 살펴야” 미디어투데이",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 66,
       "snapshotDate": "2026-10-24"
     }
   ]
