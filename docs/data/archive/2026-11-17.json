@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-17T04:04:03.966Z",
-  "generatedAtKST": "2026-11-17T13:04:00.526+09:00",
+  "generatedAt": "2026-11-17T04:38:50.252Z",
+  "generatedAtKST": "2026-11-17T13:38:46.266+09:00",
   "date": "2026-11-17",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 21,
-    "domesticGoogle": 96,
+    "domesticBing": 23,
+    "domesticGoogle": 90,
     "foreignBing": 14,
-    "foreignGoogle": 102,
-    "carried": 95,
-    "rawUnique": 242,
-    "policyRejected": 151,
+    "foreignGoogle": 95,
+    "carried": 170,
+    "rawUnique": 249,
+    "policyRejected": 142,
     "policyKept": 80
   },
   "briefing": [
@@ -26,8 +26,8 @@
   "stats": {
     "total": 80,
     "official": 9,
-    "domestic": 70,
-    "foreign": 1
+    "domestic": 71,
+    "foreign": 0
   },
   "items": [
     {
@@ -139,6 +139,19 @@
       "score": 105
     },
     {
+      "id": "4a24b43d7159",
+      "title": "교육부 \"수능 연기 없어…초소형 카메라 대응 방안 검토\"(종합)",
+      "url": "https://www.nocutnews.co.kr/news/6607688",
+      "source": "노컷뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-16T09:41:00.000Z",
+      "description": "교육부가 세무사 시험에서 드러난 초소형 카메라를 이용한 부정행위 논란에도, 오는 19일 치러지는 2027학년도 대학수학능력시험(수능)을 예정대로 시행하겠다는 입장을 밝혔다. 또한 이번 수능에서 전파차단은 법적 기술적인 한계로 인해 검토하고 있지 않으며, 공공와이파이 차단여부는 과기부를 중심으로 검토하고 있다고 설명했다. 신진용 교육부 대입정책과장은 16일 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 87,
+      "score": 104
+    },
+    {
       "id": "92bc516c70ca",
       "title": "교육부 “수능 연기 없다”…‘AI 커닝 비상’에도 19일 예정대로",
       "url": "https://www.kyeonggi.com/article/20261116580222",
@@ -152,16 +165,29 @@
       "score": 104
     },
     {
-      "id": "5fe0f997a95a",
-      "title": "미미미누·이지영→현우진 호소도 안 통했다…\"수능 연기 없어\" 국무총리, \"끝까지 최선 다할 것\"",
-      "url": "https://www.tenasia.co.kr/article/2026111714804",
-      "source": "tenasia.co.kr",
+      "id": "3a2bb83b6ff1",
+      "title": "미미미누·이지영→현우진 호소도 안 통했다… 수능 연기 없어 국무총리, 끝까지 최선 다할 것",
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%AF%B8%EB%AF%B8%EB%AF%B8%EB%88%84-%EC%9D%B4%EC%A7%80%EC%98%81-%ED%98%84%EC%9A%B0%EC%A7%84-%ED%98%B8%EC%86%8C%EB%8F%84-%EC%95%88-%ED%86%B5%ED%96%88%EB%8B%A4-%EC%88%98%EB%8A%A5-%EC%97%B0%EA%B8%B0-%EC%97%86%EC%96%B4-%EA%B5%AD%EB%AC%B4%EC%B4%9D%EB%A6%AC-%EB%81%9D%EA%B9%8C%EC%A7%80-%EC%B5%9C%EC%84%A0-%EB%8B%A4%ED%95%A0-%EA%B2%83/ar-AA2hA8yS",
+      "source": "텐아시아 on MSN",
       "kind": "domestic",
-      "publishedAt": "2026-11-16T13:30:00.000Z",
-      "description": "2027학년도 대학수학능력시험을 앞두고 인공지능(AI) 부정행위 논란이 확산하자 한성숙 국무총리가 강력한 대응을 예고했다. 미미미누와 이지영, 현우진 등 입시업계 관계자들이 수능 연기 및 대책 마련을 촉구한 가운데, 정부는 수능을 예정대로 치르되 부정행위 단속을 ...",
+      "publishedAt": "2026-11-16T18:29:03.000Z",
+      "description": "2027학년도 대학수학능력시험을 앞두고 인공지능(AI) 부정행위 논란이 확산하자 한성숙 국무총리가 강력한 대응을 예고했다. 미미미누와 이지영, 현우진 등 입시업계 관계자들이 수능 연기 및 대책 마련을 촉구한 가운데, 정부는 수능을 예정대로 치르되 부정행위 단속을 강화하겠다는 방침이다.한성숙 국무총리는 17일 오전 서울 종로구 정부서울청사에서 열린 국무회의에 ...",
       "category": "입시·사교육",
       "feedProvider": "bing",
       "policyRelevance": 87,
+      "score": 100
+    },
+    {
+      "id": "1ea869401f11",
+      "title": "최교진 \"수능 연기하면 더 혼란…교육부 운명 걸고 사고 막겠다\"",
+      "url": "https://www.koreasisailbo.com/2469230",
+      "source": "시사일보",
+      "kind": "domestic",
+      "publishedAt": "2026-11-16T16:00:00.000Z",
+      "description": "최 장관은 정치권 일각에서 제기된 수능 연기론에는 더 큰 혼란을 초래할 수 있다며 선을 그었다. 교육부는 과학기술정보통신부와 협의를 거쳐 17 일 AI 기기 부정행위 방지 추가 대책을 발표할 예정이다.",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
       "score": 100
     },
     {
@@ -178,17 +204,17 @@
       "score": 100
     },
     {
-      "id": "47ca2f726c37",
-      "title": "수능 D-2, 끊이지 않는 연기 요구…교육부 검토 어렵다",
-      "url": "https://www.msn.com/ko-kr/news/national/%EC%88%98%EB%8A%A5-d-2-%EB%81%8A%EC%9D%B4%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%97%B0%EA%B8%B0-%EC%9A%94%EA%B5%AC-%EA%B5%90%EC%9C%A1%EB%B6%80-%EA%B2%80%ED%86%A0-%EC%96%B4%EB%A0%B5%EB%8B%A4/ar-AA2hzR88",
-      "source": "연합뉴스 on MSN",
+      "id": "928f150a73b0",
+      "title": "수능 시험장 통신 차단 검토···교육부, AI 부정행위 대책 17일 발표",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80TjhCME5iS1QzS3B5bjgydUtmYmNrbldQNHNaZnhONGE2ZXRVdE5ZY0g2U1NFUVVCN3VWU0RMYURDUTdWbmxUZ0U3R0Q5WFp4eDRYZ1FLQ0s5d9IBX0FVX3lxTE1Za2VBVllGWkZYclBSU2FqNkVnQW1pQmNISTNPMmU0SldEdG1LUm1fMk5wTUVGWXVGaFktOXowSDNQTWVFWGdFYVRTemI1X01meWkyRnAyWFB5US0yNGl3?oc=5",
+      "source": "경향신문",
       "kind": "domestic",
-      "publishedAt": "2026-11-16T18:10:31.000Z",
-      "description": "AI 부정행위 우려 확산…시험 직전 연기는 포항 지진 때뿐 연기 반대 목소리도 만만찮아…대입 일정 차질 등 부담 커 (서울=연합뉴스) 오보람 기자 = 2027학년도 대학수학능력시험(수능)을 이틀 앞두고 인공지능(AI)을 활용한 부정행위에 대한 우려가 커지면서 시험을 연기해야 한다는 요구가 잇따르고 있다. 교육부는 ...",
+      "publishedAt": "2026-11-16T04:51:00.000Z",
+      "description": "수능 시험장 통신 차단 검토···교육부, AI 부정행위 대책 17일 발표 경향신문",
       "category": "입시·사교육",
-      "feedProvider": "bing",
-      "policyRelevance": 75,
-      "score": 99
+      "feedProvider": "google",
+      "policyRelevance": 77,
+      "score": 100
     },
     {
       "id": "9e0fbc905628",
@@ -295,6 +321,45 @@
       "score": 95
     },
     {
+      "id": "4256b90a2d57",
+      "title": "교육부 \"수능 연기 없다 … 전파 차단 가능성, 과기부 등과 검토\"",
+      "url": "https://www.newdaily.co.kr/site/data/html/2026/11/16/2026111650195.html",
+      "source": "뉴데일리",
+      "kind": "domestic",
+      "publishedAt": "2026-11-16T05:35:00.000Z",
+      "description": "교육부가 2027학년도 대학수학능력시험 일정을 예정대로 유지한다는 방침이다. 수능시험을 사흘 앞두고 초소형 카메라와 인공지능(AI)을 이용한 신종 부정행위에 대한 우려가 확산하면서 시험 연기설이 제기됐지만 이에 선을 그은 것이다. 현재까지 추가 대책이 확정되지 않은 가운데 기존에 마련한 스마트안경 중심의 감독 체계를 강화하겠다는 입장이다.최교진 교육부 장관 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 95
+    },
+    {
+      "id": "248b6a1c51bc",
+      "title": "교육부 “수능 연기 없다”… ‘초소형카메라·AI안경’ 부정행위 추가 대책은 ‘공백’",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BRXFYQ09pZXR5RmZsYjhKa1NuMnFIcmRQcENWSWlGY1hLbEhOdGFqSVBSdm1iU0tqLUpRdnZ0RldkY3F1dW9lTkxyTWotcnppZXlBTGZBcFVDWG8wYXlIbDRaVGlDdw?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-11-16T05:13:15.000Z",
+      "description": "교육부 “수능 연기 없다”… ‘초소형카메라·AI안경’ 부정행위 추가 대책은 ‘공백’ 한국대학신문",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 75,
+      "score": 95
+    },
+    {
+      "id": "973d012eb773",
+      "title": "\"수능 연기 없다\" 못 박은 교육부...검사장비 도입도 '불가능'",
+      "url": "https://www.msn.com/ko-kr/news/other/%EA%B5%90%EC%9C%A1%EB%B6%80-%EC%88%98%EB%8A%A5-%EC%97%B0%EA%B8%B0-%EA%B3%A0%EB%A0%A4-%EC%95%88%ED%95%B4-%EC%97%B4%ED%99%94%EC%83%81%EC%B9%B4%EB%A9%94%EB%9D%BC-%ED%98%84%EC%8B%A4%EC%A0%81-%EB%8F%84%EC%9E%85-%EC%96%B4%EB%A0%A4%EC%9B%8C/ar-AA2hvvCk",
+      "source": "머니투데이 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-16T03:55:00.000Z",
+      "description": "교육부가 AI(인공지능)를 활용한 시험 부정행위 우려가 커지는 가운데 \"2027학년도 대학수학능력시험(수능) 연기는 고려하지 않고 있다\"고 밝혔다. 수능 감독 환경은 세무사 시험과 달리 엄격하다는 설명이다. 열화상카메라 등 추가적인 전자기기 검사장비 도입도 현실적으로는 어렵다고 덧붙였다. 16일 교육부 정례브리핑에서 신진용 교육부 대입정책과장은 '신뢰할 수 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 87,
+      "score": 94
+    },
+    {
       "id": "d520ae7a0a07",
       "title": "교육재정, 아이들에게 필요한 곳에… 천호성 교육감, 4조4421억 편성",
       "url": "https://www.msn.com/ko-kr/news/other/%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95-%EC%95%84%EC%9D%B4%EB%93%A4%EC%97%90%EA%B2%8C-%ED%95%84%EC%9A%94%ED%95%9C-%EA%B3%B3%EC%97%90-%EC%B2%9C%ED%98%B8%EC%84%B1-%EA%B5%90%EC%9C%A1%EA%B0%90-4%EC%A1%B04421%EC%96%B5-%ED%8E%B8%EC%84%B1/ar-AA2hvXzi",
@@ -321,6 +386,19 @@
       "score": 92
     },
     {
+      "id": "e09cb8eb6c78",
+      "title": "33년 수능 역사상 연기 사례는 단 4번…‘AI 커닝 우려’ 교육부 선택은?",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fZWJabmhoNm1adUl1UXV1dVpPQ21UT1RqTG45VzVOQ3BUWFhleTFRTXNWbEk2YWhtVGY1VTI4U2lXaHB2cG1sWXZycHdvU18zZEZoYlJfWUhHWWc?oc=5",
+      "source": "경기일보",
+      "kind": "domestic",
+      "publishedAt": "2026-11-17T04:20:15.000Z",
+      "description": "33년 수능 역사상 연기 사례는 단 4번…‘AI 커닝 우려’ 교육부 선택은? 경기일보",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 90
+    },
+    {
       "id": "d56d434fcc88",
       "title": "[현장영상] 수능 부정행위 응시 제한 5년 법안 잇따라…전파 차단·신체검사는 \"법 개정부터\"",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85alZWdkcyY0ZGb2FoNXpxQUx6S2hSOVp6S245aFRUcjNGTDdoX2NiNllpeDRMU3BuSDYwcWRoZGFFSjVfcUxHbGhtdnQ3TjVBZGNUTFlFRU01WHprN0RJ?oc=5",
@@ -328,6 +406,19 @@
       "kind": "domestic",
       "publishedAt": "2026-11-17T02:25:32.000Z",
       "description": "[현장영상] 수능 부정행위 응시 제한 5년 법안 잇따라…전파 차단·신체검사는 \"법 개정부터\" 전북미래교육신문",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 90
+    },
+    {
+      "id": "d1ad6bfe7475",
+      "title": "수능 D-3, AI 부정행위 막을 방법 역부족...교육부 \"육안 감독 강화\" 강조 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1naWE1OHAzd3V0U1NkR0JxcEljMTFDUUNSaWJkUHdEVGtZU095RGpmanhzcmJESGtaMG5mdXg3MHFURzlnb3RCbXhHV1g1OHpIUTlYT1VXYUJTMW55Q2pFdU9VS2RVNkJ1Q2RHZGljVdIBb0FVX3lxTE1naWE1OHAzd3V0U1NkR0JxcEljMTFDUUNSaWJkUHdEVGtZU095RGpmanhzcmJESGtaMG5mdXg3MHFURzlnb3RCbXhHV1g1OHpIUTlYT1VXYUJTMW55Q2pFdU9VS2RVNkJ1Q2RHZGljVQ?oc=5",
+      "source": "머니투데이",
+      "kind": "domestic",
+      "publishedAt": "2026-11-16T08:05:00.000Z",
+      "description": "수능 D-3, AI 부정행위 막을 방법 역부족...교육부 \"육안 감독 강화\" 강조 - 머니투데이 머니투데이",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
@@ -347,6 +438,19 @@
       "score": 90
     },
     {
+      "id": "dd888e7f84e8",
+      "title": "수능 AI 커닝 막는다더니…교육부 대책은 \"안경 벗어보세요\" - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42SksxeUpHZFM5cHJ2c28ybTdYT1hrRnAzaFVSVjV4MmU0NTZNS1NPUU4zNXd4dGpZZWVhU29TejlxeGlvTWFNdnZpZlFZYUFrdGk5X2JMM01qQXpPbXlsbXN6cFFGNHdIbWJGdldDNNIBb0FVX3lxTE42SksxeUpHZFM5cHJ2c28ybTdYT1hrRnAzaFVSVjV4MmU0NTZNS1NPUU4zNXd4dGpZZWVhU29TejlxeGlvTWFNdnZpZlFZYUFrdGk5X2JMM01qQXpPbXlsbXN6cFFGNHdIbWJGdldDNA?oc=5",
+      "source": "머니투데이",
+      "kind": "domestic",
+      "publishedAt": "2026-11-16T06:02:26.000Z",
+      "description": "수능 AI 커닝 막는다더니…교육부 대책은 \"안경 벗어보세요\" - 머니투데이 머니투데이",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 90
+    },
+    {
       "id": "b3f3d1ca8e63",
       "title": "AI 부정, 수능 대응책엔 없어... 대입 평가방식도 바꿔야",
       "url": "https://www.msn.com/ko-kr/news/other/ai-%EB%B6%80%EC%A0%95-%EC%88%98%EB%8A%A5-%EB%8C%80%EC%9D%91%EC%B1%85%EC%97%94-%EC%97%86%EC%96%B4-%EB%8C%80%EC%9E%85-%ED%8F%89%EA%B0%80%EB%B0%A9%EC%8B%9D%EB%8F%84-%EB%B0%94%EA%BF%94%EC%95%BC/ar-AA2hvbns",
@@ -360,6 +464,45 @@
       "score": 89
     },
     {
+      "id": "3cd0427de3e9",
+      "title": "수능 D-2, 끊이지 않는 연기 요구…교육부 \"검토 어렵다\"",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XN0JncnE4WXNxMFg4ekVJcFFKdEVGTU45RUczWUFnWFBlWTdkQmxIdTU1WjRJOFlDZ0p5bzI5emxFM3ZCbS12dnlqZEFSS24wMjRCZFJadEhraWvSAWBBVV95cUxPSVNuR3dTTnYteUZyeU4xV01wRjRlSzVLTVpQaUJRc2c0ZVlBbHlCR2xsaExLZ1NScGNFRGNpSmZINjc2enMwVEdrcXdCeTRNSkZvekp6OVltSWpmVGhXQmE?oc=5",
+      "source": "연합뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-17T02:10:31.000Z",
+      "description": "수능 D-2, 끊이지 않는 연기 요구…교육부 \"검토 어렵다\" 연합뉴스",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 86
+    },
+    {
+      "id": "2ecc080578ee",
+      "title": "부산시교육청, 학교급식·영양 교육 성과공유회 개최",
+      "url": "https://www.inews24.com/view/2027037",
+      "source": "아이뉴스24",
+      "kind": "domestic",
+      "publishedAt": "2026-11-16T13:09:00.000Z",
+      "description": "부산시교육청은 오는 18일 오후 3시 학생교육문화회관 대강당에서 '2026년 학교급식 및 영양·식생활 교육 성과발표회'를 개최한다고 17일 밝혔다. 이번 성과발표회에는 영양교사, 영양사, 교육청 관계자, 학교급식 학부모 정책모니터단 등 600여 명이 참석한다.",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 65,
+      "score": 86
+    },
+    {
+      "id": "1301747c9a94",
+      "title": "교육부 “수능 연기하면 더 큰 혼란”… 부정 적발 땐 무관용",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KLUlnd3hBTEI1UEM1YXJ1cFRXd3JTYWp3ejNrYlJhTnJWbGtsVEZfcGR4SENSUjMzWXFoUFVzZnl6VEJjU0s1TXU1WjZUaDhYTjRhNmFVaTYwSlNEbEs2ZjdJM1lZWG5OanZWZlNB?oc=5",
+      "source": "아시아투데이",
+      "kind": "domestic",
+      "publishedAt": "2026-11-16T08:57:13.000Z",
+      "description": "교육부 “수능 연기하면 더 큰 혼란”… 부정 적발 땐 무관용 아시아투데이",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 86
+    },
+    {
       "id": "7aa1ebd50d29",
       "title": "교육부 \"수능 전파차단 안 해…공공 와이파이는 과기부 검토 중\"",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pMFluTE5zNVJYZTVJMXlTTUt2RWVPZnFTMzBTQjg4ZjZRNG9lZTJWY1FyeFByZ0NBVG52bVA5YWRLVlBJb0xSWVl0TmRiMzlZcmJKaThqYzUtV0Zr?oc=5",
@@ -367,6 +510,19 @@
       "kind": "domestic",
       "publishedAt": "2026-11-16T08:45:00.000Z",
       "description": "교육부 \"수능 전파차단 안 해…공공 와이파이는 과기부 검토 중\" 뉴스핌",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 86
+    },
+    {
+      "id": "8086dd756fd3",
+      "title": "교육부 “수능 연기 없다…초소형카메라 적발 방안은 검토중”",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRjN4R2lDZFJYRnZib1hwd3ZQdmUzdFFQVnlPRVZ4Z085Nm5QaHRQR3B4WTI4Q25Ub0lWeldyR2dJWnpCaHVOMFpQN01UMFE5X0lGNjh1dUJ2M21BZDJtN3lGLWpsMHZITXc?oc=5",
+      "source": "한겨레",
+      "kind": "domestic",
+      "publishedAt": "2026-11-16T04:44:00.000Z",
+      "description": "교육부 “수능 연기 없다…초소형카메라 적발 방안은 검토중” 한겨레",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
@@ -412,6 +568,19 @@
       "score": 82
     },
     {
+      "id": "97ef1ff25881",
+      "title": "교육부 \"수능 연기 고려 안해...열화상카메라 현실적 도입 어려워\" - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UakJaOElsOFd6S1d5SmotbnRzaXBpbGRHaXoyMFJmdGN4VG5Wek93UDFoRmFoZjk3VXVjNkFMVkZUdlg3d3lnM0FFSHpiZXJrRlA3VWlUZC1DdzFqbGlwdF96dGx2M1haam1UYTltTdIBb0FVX3lxTE1UakJaOElsOFd6S1d5SmotbnRzaXBpbGRHaXoyMFJmdGN4VG5Wek93UDFoRmFoZjk3VXVjNkFMVkZUdlg3d3lnM0FFSHpiZXJrRlA3VWlUZC1DdzFqbGlwdF96dGx2M1haam1UYTltTQ?oc=5",
+      "source": "머니투데이",
+      "kind": "domestic",
+      "publishedAt": "2026-11-16T02:54:01.000Z",
+      "description": "교육부 \"수능 연기 고려 안해...열화상카메라 현실적 도입 어려워\" - 머니투데이 머니투데이",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 77,
+      "score": 82
+    },
+    {
       "id": "bd3dbcf3ab0e",
       "title": "최교진 교육부 장관 \"수능 스마트안경 부정행위 엄단…전파탐지기 내년 도입 검토\"",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jUk53Y2lvUmE5TGt0N1E1VEY1OHZJNEpMT3dRazdVX2szVW85X04xbFVtR3FYU1plWFdvYzZkQmhvb19yWGg3UTNXNjNBeHhkRWNzQThzaTgwZ0dK?oc=5",
@@ -436,6 +605,19 @@
       "feedProvider": "bing",
       "policyRelevance": 75,
       "score": 81
+    },
+    {
+      "id": "966d6e2ea06a",
+      "title": "교육부 \"2027학년도 수능 연기 없다\"…'AI 안경' 대책에 집중",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5INzZhUzlwUDV1NHltMkpaRHNObHB3V01jY05OcjhBYm9YOVprTlA4RE1aSzF1Z2t5NXZ1bW5HU1RkUXpsdUxQNEVtUnRwakFMM2xLUVV2cXh6NjhELXcyWjRaMFJVcDN5Si1TTzFEWQ?oc=5",
+      "source": "이코리아",
+      "kind": "domestic",
+      "publishedAt": "2026-11-16T04:10:34.000Z",
+      "description": "교육부 \"2027학년도 수능 연기 없다\"…'AI 안경' 대책에 집중 이코리아",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 80
     },
     {
       "id": "cc808ba6e0f5",
@@ -514,6 +696,58 @@
       "feedProvider": "google",
       "policyRelevance": 75,
       "score": 77
+    },
+    {
+      "id": "693886ccea80",
+      "title": "교육부 “초소형카메라 수능 부정행위대책 검토中”…수능연기 없어",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDdTJWRXg5empBa2hMUEV0RjBLcDRfUEJaV1dCY1JUR0tUbWYxdldVOUgwN1NPV3gxMUVxZ2ZEdW1Kb0VCdTlndl81eWFzUUJhUEhaeG4xZGdpcVJuZnd6X1pDMmJ1dVN4N3BR?oc=5",
+      "source": "BBS불교방송",
+      "kind": "domestic",
+      "publishedAt": "2026-11-16T04:32:28.000Z",
+      "description": "교육부 “초소형카메라 수능 부정행위대책 검토中”…수능연기 없어 BBS불교방송",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 76
+    },
+    {
+      "id": "86fa9ac54c99",
+      "title": "교육부 초소형카메라 수능 부정행위 대응 방안 검토 중",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAybno3WkVSZnR2ZjBiSkJTVXI0WlVqWlM0Qmw1blVQdWRoTUtvaUlYMEVhYVhLZi1EM1VhLVFrNlVJWkhubEQzblRrS2pyNi1hZE9V0gFYQVVfeXFMTnhKN1NUc2twZHlYYjh2VTlCVTlJV1hZc1BXR1FTc3dYNW5USXZoX3N6UjBicm9iWXk1TVd1Tk00U0VtYVpDMEgwcGtPVVFOZl9SZlJfOUMxQg?oc=5",
+      "source": "SBS Biz",
+      "kind": "domestic",
+      "publishedAt": "2026-11-16T03:50:00.000Z",
+      "description": "교육부 초소형카메라 수능 부정행위 대응 방안 검토 중 SBS Biz",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 76
+    },
+    {
+      "id": "2b6f1a1bb8e2",
+      "title": "교육부 “수능 연기하면 더 큰 혼란···초소형 카메라 완벽 대응 어려워”",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZbWVIeEV4Rnp1WWRKT2Y1eGR1MkVNY2VEaGdjc2Vzd1gxN180MDU2RlVvMC00dDRDaXhUQTQteUVxa28wYTMzZUh3V3BBX0dOWHJ2cm5XTmJrcmVFWkE?oc=5",
+      "source": "주간경향",
+      "kind": "domestic",
+      "publishedAt": "2026-11-16T03:29:00.000Z",
+      "description": "교육부 “수능 연기하면 더 큰 혼란···초소형 카메라 완벽 대응 어려워” 주간경향",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 76
+    },
+    {
+      "id": "f09a15197b63",
+      "title": "교육부 \"수능 연기 없다…초소형 카메라 등 추가 대책은 검토 중\"",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40MmQwSXBCSUxOMmFFLUJMRUt2Szk2SGpFR3FUajBHeVN5ZlE3bXRwTG01bmY0SzEtSjc2bzM3amZPc01uQ0ExMjdxelpwSHRqV21uWTZIa29xUQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-16T03:02:42.000Z",
+      "description": "교육부 \"수능 연기 없다…초소형 카메라 등 추가 대책은 검토 중\" 파이낸셜뉴스",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 76
     },
     {
       "id": "8650bb7aa865",
@@ -711,19 +945,6 @@
       "score": 70
     },
     {
-      "id": "a83d5ba597b2",
-      "title": "대전교육청, AI 미래교육 성과 공유…내년부터 박람회 '교육컨퍼런스'로 개편",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NOFBCSWVyTmp0Zi15TGJlYXBsSmhCdlhId1F5WkdJY0JKbml2TjctN09tUjZhY1BkVUQyT2tiTGxveW9LU1kzV0V0VDZ4bEU4MjJJVklEZXF3NFpjdnRBUEZROEJLdDBJLXAw?oc=5",
-      "source": "충청시사신문",
-      "kind": "domestic",
-      "publishedAt": "2026-11-13T04:14:20.000Z",
-      "description": "대전교육청, AI 미래교육 성과 공유…내년부터 박람회 '교육컨퍼런스'로 개편 충청시사신문",
-      "category": "AI·디지털",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 70
-    },
-    {
       "id": "6bdf044c86f9",
       "title": "교사 82.3% \"지금 절차로는 어렵다\"…수능 앞 ‘AI 커닝' 감독 지침 보완 요구",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtT0JCcncwR1ZUdUYySEpsbHNzRTZiWlBET0hjaUZqSExSY2twa0UySkVVbG9PSlVVRW9rX1Nxc3BWSmJLNmRqWTBpS0NZNGdENTFCOURjczNLNDVHQlVN?oc=5",
@@ -839,230 +1060,6 @@
       "feedProvider": "google",
       "policyRelevance": 42,
       "score": 66
-    },
-    {
-      "id": "19fa00a63b67",
-      "title": "경남교육청, 수능 104개 시험장에 스마트안경 전담요원 둔다",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81X2hiU1ZVVTlpMlVySkpEOUxkVFd0ZjhBYndPU3poVFYwS1VFbU5MbkxOSUFGVjc0cGVzWlpIdVNJTlY5Ty1oT1FrV2EyXzNlMEhSV2pJX1FDR1U2RU1BSV9DMXZQUQ?oc=5",
-      "source": "교육을 비추다",
-      "kind": "domestic",
-      "publishedAt": "2026-11-13T12:06:38.000Z",
-      "description": "경남교육청, 수능 104개 시험장에 스마트안경 전담요원 둔다 교육을 비추다",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 66
-    },
-    {
-      "id": "b845487d6d57",
-      "title": "최교진 장관, 영등포여고서 수능 준비 점검… 부정행위 형사고발 엄정 대응",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wZV9TdWxsSGtJZ0ZfTjllWFVHbHZLRnZIUFFDdU9lenVxVlRtYXpOZjQ0S1pQV1RfbTNWdVFlbkpyNFNjbXFfNE45ZXlkUEpzdDRqYnpfY3czZDAtc3BVMlhrOVJkUQ?oc=5",
-      "source": "한국대학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-11-16T01:58:28.000Z",
-      "description": "최교진 장관, 영등포여고서 수능 준비 점검… 부정행위 형사고발 엄정 대응 한국대학신문",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 65
-    },
-    {
-      "id": "2ed1777a71c9",
-      "title": "수능 D-3, 문답지 전국으로 출발… 경찰 경호로 전국 85개 시험지구로",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuNTZYeGUzdEJKSWRSeXJGTGNXajBGanlnbjRqU044bjRhVk9SbVNBMWVWVm1uRmdkeWFpRXV1c2UzdDRsWUlOVUVZOFBrN3U5YlIyZVhPbjlPVUhGRXU4NlBLaHY1Zw?oc=5",
-      "source": "한국대학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-11-16T01:22:31.000Z",
-      "description": "수능 D-3, 문답지 전국으로 출발… 경찰 경호로 전국 85개 시험지구로 한국대학신문",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 65
-    },
-    {
-      "id": "c6f9401a7e90",
-      "title": "산업계가 원하는 로봇·미래차 인재는…교육부, 대학 교육 혁신 논의",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zbDY5eVMwVHBNUGRjRDJzbm1xeVEzZ3BiU2FTR1EwVWUyY0hTdjhWdnNwd0ZmemNzMk13NExINURib0l0TkptamU5THZrdGFpX3ZPdF9QejQ5Qy1x?oc=5",
-      "source": "뉴스핌",
-      "kind": "domestic",
-      "publishedAt": "2026-11-16T03:00:00.000Z",
-      "description": "산업계가 원하는 로봇·미래차 인재는…교육부, 대학 교육 혁신 논의 뉴스핌",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 63
-    },
-    {
-      "id": "7992d9bcb9dd",
-      "title": "서울시교육청, 만학도 배움터 운영 위기 막아…85억원 적립금 동결 해제",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rZi1UaWVKNmo2bDNqSXI2M3ZTeFV0YVRrejZfUVFGZ1pheExiRGxJY3BWM19KNzAzdXl0d0lrQjk0ZHVaNW1pc3p3Yl85X19yYXB3YWRIZkhKb2gyOGFWNGdLdWRoZw?oc=5",
-      "source": "한국대학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-11-16T02:27:01.000Z",
-      "description": "서울시교육청, 만학도 배움터 운영 위기 막아…85억원 적립금 동결 해제 한국대학신문",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 63
-    },
-    {
-      "id": "af328c6a7e06",
-      "title": "서울시교육청, 85억 묶인 평생교육시설 회계 정상화 길 열어",
-      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1312010",
-      "source": "전국매일신문",
-      "kind": "domestic",
-      "publishedAt": "2026-11-15T23:07:00.000Z",
-      "description": "서울시교육청이 설치자 소재불명으로 재정 운영에 어려움을 겪으며 폐쇄 위기에 놓였던 평생교육시설 정상화를 위한 법적 해결책을 마련했다고 16일 밝혔다.시교육청은 법원 부재자 재산관리인 선임 결정을 통해 금융기관에 묶여 있던 약 85억 원의 적립금을 관리할 수 있는 길이 열리면서 시설 운영과 재학생 학습권 보호에도 전환점이 마련됐다고 밝혔다.대표자인 설치자 행 ...",
-      "category": "유·초중등",
-      "feedProvider": "bing",
-      "policyRelevance": 45,
-      "score": 63
-    },
-    {
-      "id": "d0649d817dcb",
-      "title": "2027 대학별 맞춤형 논술 풀이 및 코칭 서비스 무료 제공…고려대 등 19개 대학, 16일부터 '에듀플러스 뉴스레터로 만나보세요'",
-      "url": "https://www.etnews.com/20261113000231",
-      "source": "전자신문",
-      "kind": "domestic",
-      "publishedAt": "2026-11-13T07:07:00.000Z",
-      "description": "2027학년도 대입 논술을 위한 무료 코칭 서비스가 제공된다. 수학능력평가(수능) 시험 이후 치러지는 고려대 인문 논술을 포함 총 19개 대학의 논술가이드와 맞춤형 인문·수리 논술 문제를 통한 코칭 피드백까지 모두 무료로 제공된다. 이티에듀가 운영하는 교육정보포털 '에듀플러스'는 아이티센엔텍의 '인공지능(AI) 논술 코치' 서비스를 16일부터 뉴스레터를 통 ...",
-      "category": "입시·사교육",
-      "feedProvider": "bing",
-      "policyRelevance": 40,
-      "score": 63
-    },
-    {
-      "id": "e14875007bb2",
-      "title": "카메룬 정부 대표단 33명, 수원시의회 방문…\"정책 소통\"",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBESC02VTN0bEVmTmR1YnFFMzRYa1VZeUxNeHRuVXp3ZmRoOHNjT3ZDVjl5SUN3RVZ1SDJZZU01X3B0STlCeXFtUE16cmtpcWlGN05QXzZZRExwbjMzVEZvRHBabndUT0ZOQTZiM3o0UnpzWlM3S0RnMtIBeEFVX3lxTFBESC02VTN0bEVmTmR1YnFFMzRYa1VZeUxNeHRuVXp3ZmRoOHNjT3ZDVjl5SUN3RVZ1SDJZZU01X3B0STlCeXFtUE16cmtpcWlGN05QXzZZRExwbjMzVEZvRHBabndUT0ZOQTZiM3o0UnpzWlM3S0RnMg?oc=5",
-      "source": "뉴시스",
-      "kind": "domestic",
-      "publishedAt": "2026-11-13T04:12:36.000Z",
-      "description": "카메룬 정부 대표단 33명, 수원시의회 방문…\"정책 소통\" 뉴시스",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 62
-    },
-    {
-      "id": "5e3480b40284",
-      "title": "서울시의회 선정환 의원, `교육정책 성과` 학생과 학교 현장의 실질적 변화로 이어져야",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1uSWlYUmJ1RWNOV1VnTlpWZk00aXFsSmVYeW5KUFRNdkRPNVc0bEpObjM1WFoxaUF6bWx6Wm5RakFzZWpx?oc=5",
-      "source": "뉴스줌",
-      "kind": "domestic",
-      "publishedAt": "2026-11-16T03:01:00.000Z",
-      "description": "서울시의회 선정환 의원, `교육정책 성과` 학생과 학교 현장의 실질적 변화로 이어져야 뉴스줌",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 61
-    },
-    {
-      "id": "6694451a3b83",
-      "title": "선정환 서울시의원, “교육정책 성과, 학생과 학교 현장의 실질적 변화로 이어져야” > 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1BcndVZ2J2X2hlU01yd0NCOXhzZ2xXZkN6dENTLUJiekMzZWlwcFN4V2RxNU9HckR2VzhVMDNoTHh6Z0pI?oc=5",
-      "source": "더코리아",
-      "kind": "domestic",
-      "publishedAt": "2026-11-15T16:16:45.000Z",
-      "description": "선정환 서울시의원, “교육정책 성과, 학생과 학교 현장의 실질적 변화로 이어져야” > 뉴스 더코리아",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 61
-    },
-    {
-      "id": "2f7f7ba10083",
-      "title": "교수노조 “서울대 10개 만들기만으론 지역대학 못 살린다”",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QV3FHT19tRFlYSEpMR1dUZlJ1bTJCd0M2YXVaNndtTWt6eE1FWG1lWXl2dEdFdGFHbG9hUkdvblY1MlhvTmJpaFVKYWJHc0Y5akVxeFlJWGtJT0JIc242LXF6YXg2NW8?oc=5",
-      "source": "교육플러스",
-      "kind": "domestic",
-      "publishedAt": "2026-11-14T10:21:04.000Z",
-      "description": "교수노조 “서울대 10개 만들기만으론 지역대학 못 살린다” 교육플러스",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 61
-    },
-    {
-      "id": "caaeadaa5ee0",
-      "title": "교수노조 ‘비정년트랙 차별철폐·광역 지역대학연합 구축·사립대학 공공적 구조전환’ 촉구",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aRFJnMEp2eUFNMWZqV2EwbnJqQk52anF1QUVUdmV1SXhieEQ0RHZyUkxkLTcwektkOGhzQS1rTF9KRkFRQ3VfS19fSVZqaDlCT3ZBZnJFQ05BSzJsOHNIaVVvS3JIVGc?oc=5",
-      "source": "대학지성 In&Out",
-      "kind": "domestic",
-      "publishedAt": "2026-11-14T08:32:58.000Z",
-      "description": "교수노조 ‘비정년트랙 차별철폐·광역 지역대학연합 구축·사립대학 공공적 구조전환’ 촉구 대학지성 In&Out",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 61
-    },
-    {
-      "id": "c8325ff9b2f0",
-      "title": "[현장영상] AI 안경 탐지기, 올해 수능엔 적용 못 한다…교사 82.3% \"지금 절차로는 어렵다\"",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYSzRuTHh3bERJd1pFSC1YUFUzdWJIRFZIbXVZWUJPMzVUNkRQTC1vTTFQNjRJdmZfSjdJQ0xia01lX0U1T3g0Ql82X050MmZKQzdBeDdNOEZ6Szl1cnJV?oc=5",
-      "source": "전북미래교육신문",
-      "kind": "domestic",
-      "publishedAt": "2026-11-13T23:42:09.000Z",
-      "description": "[현장영상] AI 안경 탐지기, 올해 수능엔 적용 못 한다…교사 82.3% \"지금 절차로는 어렵다\" 전북미래교육신문",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 59
-    },
-    {
-      "id": "f07fac11e278",
-      "title": "\"수능 다음은 지원 전략\"…정시상담·입시 특강 나선 서울 자치구들",
-      "url": "https://www.fnnews.com/news/202611140740530607",
-      "source": "파이낸셜뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-11-13T09:40:00.000Z",
-      "description": "(서울=뉴스1) 송송이 기자 = 서울 자치구들이 2027학년도 수능을 앞두고 수험생과 학부모를 위한 입시 지원에 나섰다. 고3 수험생에게는 수능 성적을 바탕으로 한 정시 지원전략을, 저학년 학생과 학부모에게는 달라지는 대입제도에 대비한 진학 정보를 제공한다.",
-      "category": "입시·사교육",
-      "feedProvider": "bing",
-      "policyRelevance": 40,
-      "score": 59
-    },
-    {
-      "id": "be47f85fa41e",
-      "title": "[현장영상] \"교대생은 학생이 아닙니까\"…국립 교대 12곳, 6910억 미래인재 예산서 모두 빠져",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmMDhLZElYbl9OcmZIRXE2NWRidmpfT1NrN1lhTlRRX0xhbFlkcWdSQWZCZjFjZ1NfRVlPb1Mxc2U3RUk3M1B5SkRzRHBKX2Z0anJNZkxKU1RwSTdabGRj?oc=5",
-      "source": "전북미래교육신문",
-      "kind": "domestic",
-      "publishedAt": "2026-11-14T02:30:17.000Z",
-      "description": "[현장영상] \"교대생은 학생이 아닙니까\"…국립 교대 12곳, 6910억 미래인재 예산서 모두 빠져 전북미래교육신문",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 55
-    },
-    {
-      "id": "469f1b34794c",
-      "title": "Korea's first university admissions program for refugees offers hope, but barriers and resistance remain",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObGZVNnhHMEt5S1FIVV80RUdic1NWNWxyWkFqRUltZEZQS1pNbDFUcWlKRGxHQXB1R2FySUNaYnVuaE0xaTJVX0xUTndyM1VXU0Zua3REVGp1bXNrZ2JIaUdlNExnd0g0VElSSkd0amtWLThaNTVELVFNb0hwMkh3bW50ek9xb3JEQWw5UVRkbDZWRHBlVTV6UTZqZ193SWU1Z3luc3dXODVDZEdhZXZxYk9PRlJEeHJlZnJfaGgyRUJtYXRBS3lzRGhybVhoTWNuUHVxend1VGdYa2R0ckh3ajlwVFNMNm8?oc=5",
-      "source": "Korea JoongAng Daily",
-      "kind": "foreign",
-      "publishedAt": "2026-11-09T05:43:04.000Z",
-      "description": "Korea's first university admissions program for refugees offers hope, but barriers and resistance remain Korea JoongAng Daily",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 44,
-      "score": 54,
-      "originalTitle": "Korea's first university admissions program for refugees offers hope, but barriers and resistance remain",
-      "titleKo": "한국 최초의 난민을 위한 대학 입학 프로그램이 희망을 제시하지만, 여전히 장벽과 반발이 남아 있습니다.",
-      "summaryKo": "한국 최초의 난민 대학 입학 프로그램이 희망을 제시하지만, 여전히 장벽과 반발이 남아 있다 코리아중앙데일리"
-    },
-    {
-      "id": "9a443a965871",
-      "title": "울산교육청, 과학고 첨단 실험시설 지역 교사에게 개방",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hVlpnRWljTGs1aG8xaVd5VUZEZm5pckZ1emZXdGNKdG9YYWo1ZkdlWVdtTVJFUWhRMTRCVTZFeUk0WjRySEdTQU1kUXpBVHNXdzZ1NzFaaVdWbVFSbEJrSHVhSlhIaGZrTW94dg?oc=5",
-      "source": "경상일보",
-      "kind": "domestic",
-      "publishedAt": "2026-11-14T02:52:11.000Z",
-      "description": "울산교육청, 과학고 첨단 실험시설 지역 교사에게 개방 경상일보",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 53
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -1072,7 +1069,7 @@
     "throughDate": "2026-11-17",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-11-15T15:00:00.000Z",
-    "windowEnd": "2026-11-17T04:04:03.966Z",
+    "windowEnd": "2026-11-17T04:38:50.252Z",
     "itemIds": [
       "538db97f0e4c",
       "e06d1488c491",
@@ -1081,10 +1078,12 @@
       "4fa83f324fc1",
       "19510a4fd555",
       "9c11bb4f5d58",
+      "4a24b43d7159",
       "92bc516c70ca",
-      "5fe0f997a95a",
+      "3a2bb83b6ff1",
+      "1ea869401f11",
       "fce4f62476e1",
-      "47ca2f726c37",
+      "928f150a73b0",
       "9e0fbc905628",
       "2baa989d9ef2",
       "421bef70cdb0",
@@ -1093,20 +1092,36 @@
       "a4e698bf932d",
       "a51d55648b77",
       "767bf01d9af8",
+      "4256b90a2d57",
+      "248b6a1c51bc",
+      "973d012eb773",
       "d520ae7a0a07",
       "0b1d15e128ba",
+      "e09cb8eb6c78",
       "d56d434fcc88",
+      "d1ad6bfe7475",
       "4be129e1663c",
+      "dd888e7f84e8",
       "b3f3d1ca8e63",
+      "3cd0427de3e9",
+      "2ecc080578ee",
+      "1301747c9a94",
       "7aa1ebd50d29",
+      "8086dd756fd3",
       "d59f50155a05",
       "4e712ed0cfc6",
+      "97ef1ff25881",
       "bd3dbcf3ab0e",
       "03b9050a2b01",
+      "966d6e2ea06a",
       "cc808ba6e0f5",
       "466fa0094648",
       "2a5ced5f2b78",
       "d37922fce38b",
+      "693886ccea80",
+      "86fa9ac54c99",
+      "2b6f1a1bb8e2",
+      "f09a15197b63",
       "8650bb7aa865",
       "aee8fec8f4f8",
       "a38cb51151db",
@@ -1116,40 +1131,24 @@
       "219ad3aa81e0",
       "5bc18054ddda",
       "6bdf044c86f9",
-      "da28a8673d60",
-      "b845487d6d57",
-      "2ed1777a71c9",
-      "c6f9401a7e90",
-      "7992d9bcb9dd",
-      "af328c6a7e06",
-      "5e3480b40284",
-      "6694451a3b83"
+      "da28a8673d60"
     ],
     "stats": {
-      "total": 50,
+      "total": 61,
       "official": 7,
-      "domestic": 43,
+      "domestic": 54,
       "foreign": 0
     },
-    "headline": "오늘 아침 교육뉴스는 입시·사교육·유·초중등·고등교육 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 50건이 확인됐습니다. 교육부는 대학규제혁신 우수사례 발표, 현장 중심의 혁신 성과 확산 기대, 첨단분야 교육 올림픽 ‘2026 제3회 코-쇼(CO-SHOW)’ 전남광주에서 개최와 이주배경학생, 두 개의 언어로 꿈을 말하다 등을 공식 발표했습니다. 국내 언론에서는 교육부 “수능 연기 없다”…‘AI 커닝 비상’에도 19일 예정대로와 미미미누·이지영→현우진 호소도 안 통했다…\"수능 연기 없어\" 국무총리, \"끝까지 최선 다할 것\" 등이 주요하게 다뤄졌습니다. 전체적으로는 입시·사교육·유·초중등·고등교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "headline": "오늘 아침 교육뉴스는 입시·사교육·고등교육·유·초중등 이슈를 중심으로 형성됐습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 61건이 확인됐습니다. 교육부는 대학규제혁신 우수사례 발표, 현장 중심의 혁신 성과 확산 기대, 첨단분야 교육 올림픽 ‘2026 제3회 코-쇼(CO-SHOW)’ 전남광주에서 개최와 이주배경학생, 두 개의 언어로 꿈을 말하다 등을 공식 발표했습니다. 국내 언론에서는 교육부 \"수능 연기 없어…초소형 카메라 대응 방안 검토\"(종합)와 교육부 “수능 연기 없다”…‘AI 커닝 비상’에도 19일 예정대로 등이 주요하게 다뤄졌습니다. 전체적으로는 입시·사교육·고등교육·유·초중등 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "입시·사교육",
-        "summary": "최은옥 차관, 시도 부교육감과 2027학년도 수능 현안 논의 · 2027학년도 대학수학능력시험 문답지 전국 85개 시험지구에 배부 시작 · 교육부 “수능 연기 없다”…‘AI 커닝 비상’에도 19일 예정대로",
+        "summary": "최은옥 차관, 시도 부교육감과 2027학년도 수능 현안 논의 · 2027학년도 대학수학능력시험 문답지 전국 85개 시험지구에 배부 시작 · 교육부 \"수능 연기 없어…초소형 카메라 대응 방안 검토\"(종합)",
         "why": "대입·수능·사교육 이슈는 학생·학부모 체감도가 높고 후속 안내와 현장 반응 점검이 중요합니다.",
         "sources": [
           "교육부",
-          "경기일보"
-        ]
-      },
-      {
-        "title": "유·초중등",
-        "summary": "이주배경학생, 두 개의 언어로 꿈을 말하다 · 건강 취약학생 지원 강화를 위한 「학교건강검사규칙」 입법예고 · 선정환 서울시의원, “교육정책 성과, 학교 현장의 실질적 변화로 이어져야”",
-        "why": "학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
-        "sources": [
-          "교육부",
-          "https://www.jongnonews.com/"
+          "노컷뉴스"
         ]
       },
       {
@@ -1162,20 +1161,29 @@
         ]
       },
       {
+        "title": "유·초중등",
+        "summary": "이주배경학생, 두 개의 언어로 꿈을 말하다 · 건강 취약학생 지원 강화를 위한 「학교건강검사규칙」 입법예고 · 선정환 서울시의원, “교육정책 성과, 학교 현장의 실질적 변화로 이어져야”",
+        "why": "학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
+        "sources": [
+          "교육부",
+          "https://www.jongnonews.com/"
+        ]
+      },
+      {
         "title": "교원·조직",
-        "summary": "교육재정, 아이들에게 필요한 곳에… 천호성 교육감, 4조4421억 편성 · 천호성 교육감 \"교육재정, 아이들이 필요한 곳에 쓰겠다\" · 대전교육청, 질문 수업 연계 서·논술형평가 초등 교원 역량 강화",
+        "summary": "교육재정, 아이들에게 필요한 곳에… 천호성 교육감, 4조4421억 편성 · 부산시교육청, 학교급식·영양 교육 성과공유회 개최 · 천호성 교육감 \"교육재정, 아이들이 필요한 곳에 쓰겠다\"",
         "why": "교원 업무·교권·인사와 직접 연결될 수 있어 현장 반응과 제도 운영상 쟁점을 살펴볼 필요가 있습니다.",
         "sources": [
           "이투데이 on MSN",
-          "아이뉴스24 on MSN",
-          "금강일보"
+          "아이뉴스24",
+          "아이뉴스24 on MSN"
         ]
       }
     ],
     "watchpoints": [
       "입시·사교육: 대입·수능·사교육 이슈는 학생·학부모 체감도가 높고 후속 안내와 현장 반응 점검이 중요합니다.",
-      "유·초중등: 학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
-      "고등교육: 대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다."
+      "고등교육: 대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다.",
+      "유·초중등: 학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다."
     ]
   }
 }
