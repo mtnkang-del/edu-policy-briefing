@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-19T02:42:31.125Z",
-  "generatedAtKST": "2026-11-19T11:42:28.234+09:00",
+  "generatedAt": "2026-11-19T03:42:32.704Z",
+  "generatedAtKST": "2026-11-19T12:42:29.642+09:00",
   "date": "2026-11-19",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 17,
+    "domesticBing": 22,
     "domesticGoogle": 130,
-    "foreignBing": 21,
-    "foreignGoogle": 151,
-    "carried": 155,
-    "rawUnique": 319,
-    "policyRejected": 207,
+    "foreignBing": 19,
+    "foreignGoogle": 120,
+    "carried": 233,
+    "rawUnique": 291,
+    "policyRejected": 177,
     "policyKept": 80
   },
   "briefing": [
@@ -565,6 +565,19 @@
       "score": 85
     },
     {
+      "id": "0ad4e484fab4",
+      "title": "수능 코앞인데 ‘AI 커닝’ 비상… 교육부 “초소형 카메라 대책 검토”",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3449059",
+      "source": "천지일보",
+      "kind": "domestic",
+      "publishedAt": "2026-11-16T07:05:00.000Z",
+      "description": "[천지일보=김민희 기자] 오는 19일 치러지는 2027학년도 대학수학능력시험(수능)을 앞두고 교육부가 스마트안경에 이어 초소형 카메라를 활용한 부정행위에 대비하기 위한 추가 대책 마련에 나섰다. 전국 시험장에서 매 교시 수험생의 안경을 점검하고 시험 시간 중 통신을 차단하는 방안도 과 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 85
+    },
+    {
       "id": "767bf01d9af8",
       "title": "수능 D-3, AI 부정행위 차단 ‘총력’…교육부 “수능 연기, 없다”",
       "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261116010005970",
@@ -704,45 +717,6 @@
       "description": "초소형카메라 적발 방안 “검토 중” ...",
       "category": "입시·사교육",
       "feedProvider": "bing",
-      "policyRelevance": 77,
-      "score": 82
-    },
-    {
-      "id": "4e712ed0cfc6",
-      "title": "교육부 \"수능때 통신 차단 협의해 추진\"",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdnZqclB4TGRNMWdjZ3BCUjh0TURBSWRkZkN1b1hqNmdOdGtTaFlFUVM4djVwemU4SGxWcDNKWHRpUE44UkRnVGNPcE5WQlRVd1hTak1mUEI4elBLazlJNGVzYmhMamJtQkxMZVMtZjNfZFk2aGppbnRRaVR2a2EwR1JhMjN0bEk?oc=5",
-      "source": "조선일보",
-      "kind": "domestic",
-      "publishedAt": "2026-11-16T03:25:33.000Z",
-      "description": "교육부 \"수능때 통신 차단 협의해 추진\" 조선일보",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 77,
-      "score": 82
-    },
-    {
-      "id": "dd1d21e076b3",
-      "title": "\"수능 연기 없다\" 못 박은 교육부...검사장비 도입도 '불가능' - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00aDRDZjI3UGY5SWdRUkM1Q1FsM2JXaVZLNE1ESkdoX0oxRHp2aVB0UnB0SDhLbGo5WFlMOTFwREpHc0hyM0hLX1lLTThpamltX0p5Sm9ZdzhpS0RXQ1U4MXdVS0pKTTc2OHfSAW9BVV95cUxNVGpCWjhJbDhXektXeUpqLW50c2lwaWxkR2l6MjBSZnRjeFRuVnpPd1AxaEZhaGY5N1V1YzZBTFZGVHZYN3d5ZzNBRUh6YmVya0ZQN1VpVGQtQ3cxamxpcHRfenRsdjNYWmptVGE5bU0?oc=5",
-      "source": "머니투데이",
-      "kind": "domestic",
-      "publishedAt": "2026-11-16T02:54:01.000Z",
-      "description": "\"수능 연기 없다\" 못 박은 교육부...검사장비 도입도 '불가능' - 머니투데이 머니투데이",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 77,
-      "score": 82
-    },
-    {
-      "id": "97ef1ff25881",
-      "title": "교육부 \"수능 연기 고려 안해...열화상카메라 현실적 도입 어려워\" - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UakJaOElsOFd6S1d5SmotbnRzaXBpbGRHaXoyMFJmdGN4VG5Wek93UDFoRmFoZjk3VXVjNkFMVkZUdlg3d3lnM0FFSHpiZXJrRlA3VWlUZC1DdzFqbGlwdF96dGx2M1haam1UYTltTdIBb0FVX3lxTE1UakJaOElsOFd6S1d5SmotbnRzaXBpbGRHaXoyMFJmdGN4VG5Wek93UDFoRmFoZjk3VXVjNkFMVkZUdlg3d3lnM0FFSHpiZXJrRlA3VWlUZC1DdzFqbGlwdF96dGx2M1haam1UYTltTQ?oc=5",
-      "source": "머니투데이",
-      "kind": "domestic",
-      "publishedAt": "2026-11-16T02:54:01.000Z",
-      "description": "교육부 \"수능 연기 고려 안해...열화상카메라 현실적 도입 어려워\" - 머니투데이 머니투데이",
-      "category": "입시·사교육",
-      "feedProvider": "google",
       "policyRelevance": 77,
       "score": 82
     },
@@ -890,19 +864,6 @@
       "score": 80
     },
     {
-      "id": "cc808ba6e0f5",
-      "title": "최교진 “수능 연기 땐 더 큰 혼란, 검토 어려워 .. AI 부정 방지에 교육부 명운 걸겠다\"",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96VU9aNFBCNEFHWXczeWRwekpxSlgxQjlyRzc4M0dkRFdKZ2JyczM1OE84U09EMTM4LXNLQTNFbTBwU2lYOXhneUVudXRKNWhneUF4YXNUMVgzYWpMTFlKQXFzbW85Y2lx?oc=5",
-      "source": "에듀프레스",
-      "kind": "domestic",
-      "publishedAt": "2026-11-16T03:12:25.000Z",
-      "description": "최교진 “수능 연기 땐 더 큰 혼란, 검토 어려워 .. AI 부정 방지에 교육부 명운 걸겠다\" 에듀프레스",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 80
-    },
-    {
       "id": "b3f3d1ca8e63",
       "title": "AI 부정, 수능 대응책엔 없어... 대입 평가방식도 바꿔야",
       "url": "https://www.msn.com/ko-kr/news/other/ai-%EB%B6%80%EC%A0%95-%EC%88%98%EB%8A%A5-%EB%8C%80%EC%9D%91%EC%B1%85%EC%97%94-%EC%97%86%EC%96%B4-%EB%8C%80%EC%9E%85-%ED%8F%89%EA%B0%80%EB%B0%A9%EC%8B%9D%EB%8F%84-%EB%B0%94%EA%BF%94%EC%95%BC/ar-AA2hvbns",
@@ -1007,32 +968,6 @@
       "score": 76
     },
     {
-      "id": "2b6f1a1bb8e2",
-      "title": "교육부 “수능 연기하면 더 큰 혼란···초소형 카메라 완벽 대응 어려워”",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZbWVIeEV4Rnp1WWRKT2Y1eGR1MkVNY2VEaGdjc2Vzd1gxN180MDU2RlVvMC00dDRDaXhUQTQteUVxa28wYTMzZUh3V3BBX0dOWHJ2cm5XTmJrcmVFWkE?oc=5",
-      "source": "주간경향",
-      "kind": "domestic",
-      "publishedAt": "2026-11-16T03:29:00.000Z",
-      "description": "교육부 “수능 연기하면 더 큰 혼란···초소형 카메라 완벽 대응 어려워” 주간경향",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 76
-    },
-    {
-      "id": "f09a15197b63",
-      "title": "교육부 \"수능 연기 없다…초소형 카메라 등 추가 대책은 검토 중\"",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40MmQwSXBCSUxOMmFFLUJMRUt2Szk2SGpFR3FUajBHeVN5ZlE3bXRwTG01bmY0SzEtSjc2bzM3amZPc01uQ0ExMjdxelpwSHRqV21uWTZIa29xUQ?oc=5",
-      "source": "파이낸셜뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-11-16T03:02:42.000Z",
-      "description": "교육부 \"수능 연기 없다…초소형 카메라 등 추가 대책은 검토 중\" 파이낸셜뉴스",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 76
-    },
-    {
       "id": "28f7384f01d2",
       "title": "[속보] 평가원 \"사교육 유리 문항 배제…공교육 기반 변별력 확보\" [2027 수능]",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SRWxIT3hXX0tncG1Bcy1IRFBfWG5MSXprRk9sWVZ2UmF2X25LeWtydkFoTXlqNUM5TVB1U2RzTXd3MzUzbWdEUUs4QzVCUnMwVExabg?oc=5",
@@ -1057,6 +992,71 @@
       "feedProvider": "bing",
       "policyRelevance": 40,
       "score": 75
+    },
+    {
+      "id": "07c138125409",
+      "title": "호앙민선 교육부 장관은 11월 20일 교사들에게 서한을 보냈다.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdVE2LS1ZOWRTUUhuaENBZzZ2R0pHQURzV2ZKb2VZRU04cVdzYXdRQXBVWi1hR1I5MGFCbUJMaGU5Q0RZeEhPYXpndXFiNGdHZ0E5SWJSY1c3STJ1XzdCcUZBdDVXbnJPb2FSaUVvanE1T3lqbk5zZzVSb3ZydEZmaV82cFVLVUJncmlsREh0STFtX3NZZHc?oc=5",
+      "source": "Vietnam.vn",
+      "kind": "domestic",
+      "publishedAt": "2026-11-18T11:53:17.000Z",
+      "description": "호앙민선 교육부 장관은 11월 20일 교사들에게 서한을 보냈다. Vietnam.vn",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 73
+    },
+    {
+      "id": "d46e94244e00",
+      "title": "경북대, 교육부 대학규제혁신 우수사례 공모전서 우수상",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WdDk4Ulgxa0ZObHF3OVYwUllhdEx6Z1JBa0hlSHY3b2RaNHFJMGxKRWZRYktlSnViNEpiWWhXZk95Zk1yeUxKMHp1bi13aTZBT0Nqb19IaENCd3hlWHBKaHNB?oc=5",
+      "source": "매일신문",
+      "kind": "domestic",
+      "publishedAt": "2026-11-18T07:39:08.000Z",
+      "description": "경북대, 교육부 대학규제혁신 우수사례 공모전서 우수상 매일신문",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 73
+    },
+    {
+      "id": "13445ae65dee",
+      "title": "천호성 전북교육감 “순창 교육 정책, 순창이 결정”",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0QV9oWTRHOVduRzlHTVZTR056V2tZWmFNaTNwTG4zRnJGdkdxRm9DemZtYmpaR3RDOVAzcW4zSDRGOUt4azVNWTJOdjJfenJrV2FqalFfMDA1WV9MY3RQd1FPOA?oc=5",
+      "source": "열린순창",
+      "kind": "domestic",
+      "publishedAt": "2026-11-17T08:23:16.000Z",
+      "description": "천호성 전북교육감 “순창 교육 정책, 순창이 결정” 열린순창",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 72
+    },
+    {
+      "id": "d59f50155a05",
+      "title": "서울대, UAE 정부 리더십센터와 손잡는다…두바이 고위 관료 교육과정 공동 개발",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUUpZVHdvemFQTERJUHAtN0lhMVl2TmV0NFdWclMxZlFDWmgwV29OQ1dFVHBsNEQwRy1GQXluWjVySG9aQnpzVkhNSzVZNzh1bTJDTFRKSkI3Y09D?oc=5",
+      "source": "뉴스핌",
+      "kind": "domestic",
+      "publishedAt": "2026-11-17T03:00:00.000Z",
+      "description": "서울대, UAE 정부 리더십센터와 손잡는다…두바이 고위 관료 교육과정 공동 개발 뉴스핌",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 72
+    },
+    {
+      "id": "4e712ed0cfc6",
+      "title": "교육부 \"수능때 통신 차단 협의해 추진\"",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdnZqclB4TGRNMWdjZ3BCUjh0TURBSWRkZkN1b1hqNmdOdGtTaFlFUVM4djVwemU4SGxWcDNKWHRpUE44UkRnVGNPcE5WQlRVd1hTak1mUEI4elBLazlJNGVzYmhMamJtQkxMZVMtZjNfZFk2aGppbnRRaVR2a2EwR1JhMjN0bEk?oc=5",
+      "source": "조선일보",
+      "kind": "domestic",
+      "publishedAt": "2026-11-16T03:25:33.000Z",
+      "description": "교육부 \"수능때 통신 차단 협의해 추진\" 조선일보",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 77,
+      "score": 72
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -1066,7 +1066,7 @@
     "throughDate": "2026-11-19",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-11-17T15:00:00.000Z",
-    "windowEnd": "2026-11-19T02:42:31.125Z",
+    "windowEnd": "2026-11-19T03:42:32.704Z",
     "itemIds": [
       "9ec991f8b8ed",
       "256879f35a97",
@@ -1083,16 +1083,18 @@
       "2b74af5fb664",
       "1f5ce0acf0b0",
       "28f7384f01d2",
-      "22f5950c57ff"
+      "22f5950c57ff",
+      "07c138125409",
+      "d46e94244e00"
     ],
     "stats": {
-      "total": 16,
+      "total": 18,
       "official": 3,
-      "domestic": 13,
+      "domestic": 15,
       "foreign": 0
     },
-    "headline": "오늘 아침 교육뉴스는 입시·사교육·교원·조직·재정·법령 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 16건이 확인됐습니다. 교육부는 수능 부정행위 결코 용납하지 않겠습니다, 2027 수능 강화된 부정행위 예방조치에 따른 수험생 유의사항 추가 안내와 수능시험일 위급재난문자가 발송됩니다 등을 공식 발표했습니다. 국내 언론에서는 법원, 고3 '수능 집행정지 신청' 기각...\"응시기회·대입전형 차질\"와 오석진 대전교육감, 2027년 5대 정책방향 발표…\"AI·교육복지 강화\" 등이 주요하게 다뤄졌습니다. 전체적으로는 입시·사교육·교원·조직·재정·법령 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "headline": "오늘 아침 교육뉴스는 입시·사교육·교원·조직·고등교육 이슈를 중심으로 형성됐습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 18건이 확인됐습니다. 교육부는 수능 부정행위 결코 용납하지 않겠습니다, 2027 수능 강화된 부정행위 예방조치에 따른 수험생 유의사항 추가 안내와 수능시험일 위급재난문자가 발송됩니다 등을 공식 발표했습니다. 국내 언론에서는 법원, 고3 '수능 집행정지 신청' 기각...\"응시기회·대입전형 차질\"와 오석진 대전교육감, 2027년 5대 정책방향 발표…\"AI·교육복지 강화\" 등이 주요하게 다뤄졌습니다. 전체적으로는 입시·사교육·교원·조직·고등교육 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "입시·사교육",
@@ -1113,6 +1115,15 @@
         ]
       },
       {
+        "title": "고등교육",
+        "summary": "교부금법 개정안 국회 심의…교육단체들 “졸속 처리 중단” · 경북대, 교육부 대학규제혁신 우수사례 공모전서 우수상",
+        "why": "대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다.",
+        "sources": [
+          "한국대학신문",
+          "매일신문"
+        ]
+      },
+      {
         "title": "재정·법령",
         "summary": "[기고] 교육재정이 남는다고요?...정부가 ‘남는다’는 그 돈으로 해야 할 일 · 국회 교육위, 내년 교육예산 3.8조 증액",
         "why": "예산·법령 변화는 정책 집행의 직접 근거가 되므로 세부 기준과 시행 일정 확인이 중요합니다.",
@@ -1120,20 +1131,12 @@
           "교육플러스",
           "한국교육신문"
         ]
-      },
-      {
-        "title": "AI·디지털",
-        "summary": "오석진 대전교육감, 2027년 5대 정책방향 발표…\"AI·교육복지 강화\"",
-        "why": "AI·디지털 전환 정책은 교육과정·교원역량·인프라와 연결되므로 실행 여건과 현장 적용성을 함께 봐야 합니다.",
-        "sources": [
-          "대전일보"
-        ]
       }
     ],
     "watchpoints": [
       "입시·사교육: 대입·수능·사교육 이슈는 학생·학부모 체감도가 높고 후속 안내와 현장 반응 점검이 중요합니다.",
       "교원·조직: 교원 업무·교권·인사와 직접 연결될 수 있어 현장 반응과 제도 운영상 쟁점을 살펴볼 필요가 있습니다.",
-      "재정·법령: 예산·법령 변화는 정책 집행의 직접 근거가 되므로 세부 기준과 시행 일정 확인이 중요합니다."
+      "고등교육: 대학 운영·재정·입학·연구 정책과 연결되는 만큼 대학 현장과 이해관계자 반응을 점검할 필요가 있습니다."
     ]
   }
 }

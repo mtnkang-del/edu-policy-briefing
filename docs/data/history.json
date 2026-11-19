@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T02:43:00.103Z",
+  "generatedAt": "2026-11-19T03:43:00.449Z",
   "retentionDays": 30,
   "days": [
     "2026-11-19",
@@ -89,6 +89,20 @@
       "snapshotDate": "2026-11-19"
     },
     {
+      "id": "07c138125409",
+      "title": "호앙민선 교육부 장관은 11월 20일 교사들에게 서한을 보냈다.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdVE2LS1ZOWRTUUhuaENBZzZ2R0pHQURzV2ZKb2VZRU04cVdzYXdRQXBVWi1hR1I5MGFCbUJMaGU5Q0RZeEhPYXpndXFiNGdHZ0E5SWJSY1c3STJ1XzdCcUZBdDVXbnJPb2FSaUVvanE1T3lqbk5zZzVSb3ZydEZmaV82cFVLVUJncmlsREh0STFtX3NZZHc?oc=5",
+      "source": "Vietnam.vn",
+      "kind": "domestic",
+      "publishedAt": "2026-11-18T11:53:17.000Z",
+      "description": "호앙민선 교육부 장관은 11월 20일 교사들에게 서한을 보냈다. Vietnam.vn",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 73,
+      "snapshotDate": "2026-11-19"
+    },
+    {
       "id": "d9d09dcb58c0",
       "title": "법원, 고3 '수능 집행정지 신청' 기각...\"응시기회·대입전형 차질\"",
       "url": "https://www.msn.com/ko-kr/news/other/%EB%B2%95%EC%9B%90-%EA%B3%A03-%EC%88%98%EB%8A%A5-%EC%A7%91%ED%96%89%EC%A0%95%EC%A7%80-%EC%8B%A0%EC%B2%AD-%EA%B8%B0%EA%B0%81-%EC%9D%91%EC%8B%9C%EA%B8%B0%ED%9A%8C-%EB%8C%80%EC%9E%85%EC%A0%84%ED%98%95-%EC%B0%A8%EC%A7%88/ar-AA2hGHuE",
@@ -128,6 +142,20 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 82,
+      "snapshotDate": "2026-11-19"
+    },
+    {
+      "id": "d46e94244e00",
+      "title": "경북대, 교육부 대학규제혁신 우수사례 공모전서 우수상",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WdDk4Ulgxa0ZObHF3OVYwUllhdEx6Z1JBa0hlSHY3b2RaNHFJMGxKRWZRYktlSnViNEpiWWhXZk95Zk1yeUxKMHp1bi13aTZBT0Nqb19IaENCd3hlWHBKaHNB?oc=5",
+      "source": "매일신문",
+      "kind": "domestic",
+      "publishedAt": "2026-11-18T07:39:08.000Z",
+      "description": "경북대, 교육부 대학규제혁신 우수사례 공모전서 우수상 매일신문",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 73,
       "snapshotDate": "2026-11-19"
     },
     {
@@ -377,8 +405,8 @@
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 82,
-      "snapshotDate": "2026-11-18"
+      "score": 72,
+      "snapshotDate": "2026-11-19"
     },
     {
       "id": "27ed5bb2795d",
@@ -545,8 +573,8 @@
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 82,
-      "snapshotDate": "2026-11-17"
+      "score": 72,
+      "snapshotDate": "2026-11-19"
     },
     {
       "id": "9e0fbc905628",
@@ -950,6 +978,20 @@
       "snapshotDate": "2026-11-19"
     },
     {
+      "id": "0ad4e484fab4",
+      "title": "수능 코앞인데 ‘AI 커닝’ 비상… 교육부 “초소형 카메라 대책 검토”",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3449059",
+      "source": "천지일보",
+      "kind": "domestic",
+      "publishedAt": "2026-11-16T07:05:00.000Z",
+      "description": "[천지일보=김민희 기자] 오는 19일 치러지는 2027학년도 대학수학능력시험(수능)을 앞두고 교육부가 스마트안경에 이어 초소형 카메라를 활용한 부정행위에 대비하기 위한 추가 대책 마련에 나섰다. 전국 시험장에서 매 교시 수험생의 안경을 점검하고 시험 시간 중 통신을 차단하는 방안도 과 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 85,
+      "snapshotDate": "2026-11-19"
+    },
+    {
       "id": "d37922fce38b",
       "title": "대전교육청, 질문 수업 연계 서·논술형평가 초등 교원 역량 강화",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05N0dNMU1nZFBUWVJubnhjclp2Z1pzM1BDV29GbEt6THNDMEh4TTZ0dGFFdFRBY1J3X0QtMUstaXNVM2FzalZGamd4enJiZWg0RThpXzcwdXJpOHVVTGV4Z0RtN1owRWRGU0E?oc=5",
@@ -1241,7 +1283,7 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 76,
-      "snapshotDate": "2026-11-19"
+      "snapshotDate": "2026-11-18"
     },
     {
       "id": "4e712ed0cfc6",
@@ -1254,7 +1296,7 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 77,
-      "score": 82,
+      "score": 72,
       "snapshotDate": "2026-11-19"
     },
     {
@@ -1269,7 +1311,7 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 80,
-      "snapshotDate": "2026-11-19"
+      "snapshotDate": "2026-11-18"
     },
     {
       "id": "f09a15197b63",
@@ -1283,21 +1325,7 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 76,
-      "snapshotDate": "2026-11-19"
-    },
-    {
-      "id": "dd1d21e076b3",
-      "title": "\"수능 연기 없다\" 못 박은 교육부...검사장비 도입도 '불가능' - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00aDRDZjI3UGY5SWdRUkM1Q1FsM2JXaVZLNE1ESkdoX0oxRHp2aVB0UnB0SDhLbGo5WFlMOTFwREpHc0hyM0hLX1lLTThpamltX0p5Sm9ZdzhpS0RXQ1U4MXdVS0pKTTc2OHfSAW9BVV95cUxNVGpCWjhJbDhXektXeUpqLW50c2lwaWxkR2l6MjBSZnRjeFRuVnpPd1AxaEZhaGY5N1V1YzZBTFZGVHZYN3d5ZzNBRUh6YmVya0ZQN1VpVGQtQ3cxamxpcHRfenRsdjNYWmptVGE5bU0?oc=5",
-      "source": "머니투데이",
-      "kind": "domestic",
-      "publishedAt": "2026-11-16T02:54:01.000Z",
-      "description": "\"수능 연기 없다\" 못 박은 교육부...검사장비 도입도 '불가능' - 머니투데이 머니투데이",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 77,
-      "score": 82,
-      "snapshotDate": "2026-11-19"
+      "snapshotDate": "2026-11-18"
     },
     {
       "id": "97ef1ff25881",
@@ -1311,7 +1339,7 @@
       "feedProvider": "google",
       "policyRelevance": 77,
       "score": 82,
-      "snapshotDate": "2026-11-19"
+      "snapshotDate": "2026-11-18"
     },
     {
       "id": "5bc18054ddda",
@@ -8380,34 +8408,6 @@
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 55,
-      "snapshotDate": "2026-10-27"
-    },
-    {
-      "id": "0b2bb6fb92a8",
-      "title": "'대학 자율' 뒤에 숨은 '폐지론 단골' 교육부.. '정권마다 대입 갈아엎고 책임은 대교협'",
-      "url": "https://www.veritas-a.com/news/articleView.html?idxno=633022",
-      "source": "베리타스알파",
-      "kind": "domestic",
-      "publishedAt": "2026-10-23T10:10:00.000Z",
-      "description": "[베리타스알파=신현지 기자] 정권이 바뀔 때마다 대입을 뒤흔들며 역대 최대 사교육을 양산해 온 교육부를 폐지하는 것을 넘어서 교육거버넌스 자체를 전면 개편해야 한다는 비판이 거세다. 수험생의 예측 가능성을 보장하겠다며 4년 예고제를 운영하는 교육부가 정작 바뀌는 정권의 정책 기조에 따 ...",
-      "category": "입시·사교육",
-      "feedProvider": "bing",
-      "policyRelevance": 87,
-      "score": 80,
-      "snapshotDate": "2026-10-27"
-    },
-    {
-      "id": "5ee94c852213",
-      "title": "경기도의회 이성원 의원, 지방교육사업 국비 축소에 손 놓아선 안돼...경기도 대학지원 대책 마련해야",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CeTNTVnpNWWlpZ3Z2N1BWTXN2WldIWkJPeWNhc2diQjdPdTlrVy1xUWxnNjB5MzV4cERyU2E0U2pVWS1sd3NnQjJnd3Z6NF9wNXFiMTlsWEFpLTF2Mm5Pbmwxd05tQnVpQ2ZzVTdCQ3ZxQdIBckFVX3lxTE1CeTNTVnpNWWlpZ3Z2N1BWTXN2WldIWkJPeWNhc2diQjdPdTlrVy1xUWxnNjB5MzV4cERyU2E0U2pVWS1sd3NnQjJnd3Z6NF9wNXFiMTlsWEFpLTF2Mm5Pbmwxd05tQnVpQ2ZzVTdCQ3ZxQQ?oc=5",
-      "source": "뉴스 따옴",
-      "kind": "domestic",
-      "publishedAt": "2026-10-23T09:49:53.000Z",
-      "description": "경기도의회 이성원 의원, 지방교육사업 국비 축소에 손 놓아선 안돼...경기도 대학지원 대책 마련해야 뉴스 따옴",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 52,
-      "score": 56,
       "snapshotDate": "2026-10-27"
     }
   ]
