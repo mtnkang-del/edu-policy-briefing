@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-21T02:39:58.651Z",
-  "generatedAtKST": "2026-11-21T11:39:55.679+09:00",
+  "generatedAt": "2026-11-21T03:18:05.436Z",
+  "generatedAtKST": "2026-11-21T12:18:01.581+09:00",
   "date": "2026-11-21",
   "aiSummaryEnabled": false,
-  "foreignTranslationEnabled": true,
+  "foreignTranslationEnabled": false,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 13,
+    "domesticBing": 12,
     "domesticGoogle": 156,
     "foreignBing": 23,
-    "foreignGoogle": 127,
-    "carried": 117,
-    "rawUnique": 300,
-    "policyRejected": 207,
+    "foreignGoogle": 160,
+    "carried": 190,
+    "rawUnique": 329,
+    "policyRejected": 226,
     "policyKept": 80
   },
   "briefing": [
@@ -178,6 +178,19 @@
       "score": 95
     },
     {
+      "id": "18757836a5b8",
+      "title": "[속보]교육부 “수능 스마트기기 부정행위 111건 적발…재난문자로 54건”",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%BC%EB%B0%98/%EC%86%8D%EB%B3%B4-%EA%B5%90%EC%9C%A1%EB%B6%80-%EC%88%98%EB%8A%A5-%EC%8A%A4%EB%A7%88%ED%8A%B8%EA%B8%B0%EA%B8%B0-%EB%B6%80%EC%A0%95%ED%96%89%EC%9C%84-111%EA%B1%B4-%EC%A0%81%EB%B0%9C-%EC%9E%AC%EB%82%9C%EB%AC%B8%EC%9E%90%EB%A1%9C-54%EA%B1%B4/ar-AA2hOkrt",
+      "source": "경향신문(Kyunghyang Shinmun) on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-20T04:48:00.000Z",
+      "description": "최은옥 교육부 차관이 19일 2027학년도 대학수학능력시험 종료 후 세종시 정부세종청사에서 AI 부정행위 적발 현황 등을 설명하고 있다. 연합뉴스 2027학년도 대학수학능력시험(수능)에서 스마트기기 등 전자기기 관련 부정행위가 총 111건 적발된 것으로 집계됐다. 위급재난문자 발송으로 적발된 사례는 54건이었다. 교육부는 20일 전날 치러진 수능에서 스마트 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 95
+    },
+    {
       "id": "94898c5ef0f0",
       "title": "수능 끝나자 최교진 퇴진론 급부상…존재감 잃은 교육수장",
       "url": "https://www.msn.com/ko-kr/news/other/%EC%88%98%EB%8A%A5-%EB%81%9D%EB%82%98%EC%9E%90-%EC%B5%9C%EA%B5%90%EC%A7%84-%ED%87%B4%EC%A7%84%EB%A1%A0-%EA%B8%89%EB%B6%80%EC%83%81-%EC%A1%B4%EC%9E%AC%EA%B0%90-%EC%9E%83%EC%9D%80-%EA%B5%90%EC%9C%A1%EC%88%98%EC%9E%A5/ar-AA2hPaV4",
@@ -269,17 +282,17 @@
       "score": 87
     },
     {
-      "id": "d442beb79919",
-      "title": "호앙 민 선 교육부 장관은 교사들에 대한 감사는 실질적인 인센티브 정책을 통해 표현되어야 한다고 강조했습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdGdDNzBPaFlxTlJVZGR6dTB0RGhEQ283UXlLRW50amV2WkxLdHcyNEdxRnRmTThaQi14TGZ1R2IyUTZPMUxEQXhLU2djUGQwczFYLXByTVFuTHFMbHdyYzZFbWNVeThwcGMtZkppcURyQVFpb3NwXzk1YjVQTUpqdUFjUmtHS2F4VkhnR043WW5lYndOSmRxd2VjaXgxRnBzaUZtMG42TjkzOVBEemFOaHluX2dialIxV3hR?oc=5",
-      "source": "Vietnam.vn",
+      "id": "093710fc2b56",
+      "title": "수능 전후 사라진 교육부 장관...\"자격도 책임감도 없다\"",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45bkRER3dVOWdvdGphUHV0MEI0Ty1FVVFIQnNzOWVjTk91d0tEX3JQYThJMmp4eXVCMWRpTTR4TUtPdnNLZ1RGUnR6R010TFVLelZoMzdFb2VjQW9Jd0E?oc=5",
+      "source": "YTN",
       "kind": "domestic",
-      "publishedAt": "2026-11-20T02:51:30.000Z",
-      "description": "호앙 민 선 교육부 장관은 교사들에 대한 감사는 실질적인 인센티브 정책을 통해 표현되어야 한다고 강조했습니다. Vietnam.vn",
-      "category": "교원·조직",
+      "publishedAt": "2026-11-20T08:09:00.000Z",
+      "description": "수능 전후 사라진 교육부 장관...\"자격도 책임감도 없다\" YTN",
+      "category": "입시·사교육",
       "feedProvider": "google",
-      "policyRelevance": 75,
-      "score": 87
+      "policyRelevance": 65,
+      "score": 86
     },
     {
       "id": "6c6099a8f200",
@@ -315,6 +328,19 @@
       "kind": "domestic",
       "publishedAt": "2026-11-19T16:00:00.000Z",
       "description": "향후 진행할 논술 시험 등에서 스마트기기 부정행위 방지 대응책을 논의하기 위해 정부와 대학 입학관리자들이 오늘(20일) 오전 10시 온라인 회의를 진행했습니다. 대입 전형에서 논술시험 등을 진행하는 전국 56개 대학 입학관리자와 교육부 관계자 등이 참여했습니다. 교육부 관계자는, 수능시험 뒤 본격적인 대학별 시험을 앞둔 상황에 시험관리를 철저하게 하고 부정 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 85
+    },
+    {
+      "id": "d189eed3cb05",
+      "title": "[2027 수능]부정행위 수험생 98명 적발···국어·영어 지난해보다 쉬웠다",
+      "url": "https://www.msn.com/ko-kr/news/national/2027-%EC%88%98%EB%8A%A5-%EB%B6%80%EC%A0%95%ED%96%89%EC%9C%84-%EC%88%98%ED%97%98%EC%83%9D-98%EB%AA%85-%EC%A0%81%EB%B0%9C-%EA%B5%AD%EC%96%B4-%EC%98%81%EC%96%B4-%EC%A7%80%EB%82%9C%ED%95%B4%EB%B3%B4%EB%8B%A4-%EC%89%AC%EC%9B%A0%EB%8B%A4/ar-AA2hLtvE",
+      "source": "경향신문 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-19T12:20:00.000Z",
+      "description": "2027학년도 대학수학능력시험이 실시된 19일 서울 용산구 용산고등학교에서 한 수험생이 스마트안경 여부를 확인 받기 위해 안경을 벗어 책상 위에 올려놓고 있다. 사진공동취재단 인공지능(AI)을 활용한 부정행위 우려가 커지면서 2027학년도 대학수학능력시험(수능)이 19일 역대 가장 강도 높은 부정행위 방지 대책 속에 치러졌다. 정부가 사상 처음으로 위급재난 ...",
       "category": "입시·사교육",
       "feedProvider": "bing",
       "policyRelevance": 75,
@@ -386,19 +412,6 @@
       "score": 82
     },
     {
-      "id": "c243a1864706",
-      "title": "[인터뷰] 이병도 충남교육감 \"교육 중심은 사람…충남교육 10년 대전환 이끌겠다\"",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%9D%B4%EB%B3%91%EB%8F%84-%EC%B6%A9%EB%82%A8%EA%B5%90%EC%9C%A1%EA%B0%90-%EA%B5%90%EC%9C%A1-%EC%A4%91%EC%8B%AC%EC%9D%80-%EC%82%AC%EB%9E%8C-%EC%B6%A9%EB%82%A8%EA%B5%90%EC%9C%A1-10%EB%85%84-%EB%8C%80%EC%A0%84%ED%99%98-%EC%9D%B4%EB%81%8C%EA%B2%A0%EB%8B%A4/ar-AA2hOzRo",
-      "source": "주간한국 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-11-19T17:22:42.000Z",
-      "description": "[대전충청본부 = 주간한국 임덕철 기자] “충남교육의 10년 대전환은 기술보다 사람의 온기를 중심에 세우고 단 한 명의 아이도 배움에서 소외되지 않도록 모든 학생이 저마다의 가능성을 펼치는 미래교육을 실현하는 데 있습니다.”이병도 충남교육감이 인공지능(AI)과 디지털 기술의 급속한 발전, 학령인구 감소, 지역 간 교육격차 등 교육환경의 구조적 변화에 대응하 ...",
-      "category": "AI·디지털",
-      "feedProvider": "bing",
-      "policyRelevance": 75,
-      "score": 81
-    },
-    {
       "id": "0840121e993b",
       "title": "교부금법 개정안 국회 심의…교육단체들 “졸속 처리 중단”",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iZ3JwYklhN2V3YWNBeUhoYUl5aU1ITmJPZ01PMUdWTGFIQ24weWJGZVFyX3oxVF9aZ3NBbjEyYmJnVENKVklnWVpNRkllbmxXSlVpV2hScTNUYkN5RzZzX1pvY2lKdw?oc=5",
@@ -466,7 +479,7 @@
     {
       "id": "230c22251908",
       "title": "전북교육감 국회 앞 1인 시위 \"교육재정 개편 중단하라\"",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%A0%84%EB%B6%81%EA%B5%90%EC%9C%A1%EA%B0%90-%EA%B5%AD%ED%9A%8C-%EC%95%9E-1%EC%9D%B8-%EC%8B%9C%EC%9C%84-%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95-%EA%B0%9C%ED%8E%B8-%EC%A4%91%EB%8B%A8%ED%95%98%EB%9D%BC/ar-AA2hBA4P",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%A0%84%EB%B6%81%EA%B5%90%EC%9C%A1%EA%B0%90-%EA%B5%AD%ED%9A%8C-%EC%95%9E-1%EC%9D%B8-%EC%8B%9C%EC%9C%84-%EA%B5%90%EC%9C%A1%EC%9E%AC%EC%A0%95-%EA%B0%9C%ED%8E%B8-%EC%A4%91%EB%8B%A8%ED%95%98%EB%9D%BC/ar-AA2hBA4P",
       "source": "노컷뉴스 on MSN",
       "kind": "domestic",
       "publishedAt": "2026-11-17T08:41:25.000Z",
@@ -516,16 +529,16 @@
       "score": 77
     },
     {
-      "id": "1b745b651aed",
-      "title": "교육부, MS·구글·AWS와 손잡고 교사 240명에 AI 실습교육",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84ZkhfSDRqLTlSZk5GdmxLb2syUmpxZGJ0djdTc0VzcVUwY3QzMk9WaXN4WkFZTUZ0b29lajlvZExuOXY4MWZzZXVGdWR0aDZrOTl3X05RejVmMERQ?oc=5",
-      "source": "뉴스핌",
+      "id": "d442beb79919",
+      "title": "호앙 민 선 교육부 장관은 교사들에 대한 감사는 실질적인 인센티브 정책을 통해 표현되어야 한다고 강조했습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdGdDNzBPaFlxTlJVZGR6dTB0RGhEQ283UXlLRW50amV2WkxLdHcyNEdxRnRmTThaQi14TGZ1R2IyUTZPMUxEQXhLU2djUGQwczFYLXByTVFuTHFMbHdyYzZFbWNVeThwcGMtZkppcURyQVFpb3NwXzk1YjVQTUpqdUFjUmtHS2F4VkhnR043WW5lYndOSmRxd2VjaXgxRnBzaUZtMG42TjkzOVBEemFOaHluX2dialIxV3hR?oc=5",
+      "source": "Vietnam.vn",
       "kind": "domestic",
-      "publishedAt": "2026-11-20T03:00:00.000Z",
-      "description": "교육부, MS·구글·AWS와 손잡고 교사 240명에 AI 실습교육 뉴스핌",
-      "category": "AI·디지털",
+      "publishedAt": "2026-11-20T02:51:30.000Z",
+      "description": "호앙 민 선 교육부 장관은 교사들에 대한 감사는 실질적인 인센티브 정책을 통해 표현되어야 한다고 강조했습니다. Vietnam.vn",
+      "category": "교원·조직",
       "feedProvider": "google",
-      "policyRelevance": 45,
+      "policyRelevance": 75,
       "score": 77
     },
     {
@@ -581,19 +594,6 @@
       "score": 76
     },
     {
-      "id": "720460f42a51",
-      "title": "[속보]교육부 “수능 스마트기기 부정행위 111건 적발…재난문자로 54건”",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBldFp0OGNsRG9pbmxhdXBmeHIwYUtVTWY4dlhPMkFUaVRjVDlUcFhvb0RnX1U3S3J0Vk81am1LUWNjTWJhdW4yTmFVSnRhV2l4Zmg0QXJzd0tuZ9IBX0FVX3lxTE5STlhWMnZKOWVjdDNrNjRMN2YwdFU4ZDF5NWpGcFhSSXBDeTBlN0ZFd2Z4SFFJOWVEdDZxa3RQa2pGLTdKaHNJZUtRdHVfMUdiMjA3aG9MTld2b1Yxa2Qw?oc=5",
-      "source": "경향신문",
-      "kind": "domestic",
-      "publishedAt": "2026-11-20T02:08:00.000Z",
-      "description": "[속보]교육부 “수능 스마트기기 부정행위 111건 적발…재난문자로 54건” 경향신문",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 76
-    },
-    {
       "id": "fa516385746d",
       "title": "【사설】 수능 부정행위 막으려다 국민 불편 키운 교육부",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jR0VMWG80MlFFRlV2S2NfZ0E5ek83UFk1ZmM3T2RBVi01SEtLZUljeGpzSVNvZ3hvNlR3dWFYQlhDOGtnTG9haG5PVXM?oc=5",
@@ -628,6 +628,19 @@
       "publishedAt": "2026-11-19T07:55:00.000Z",
       "description": "교육부 \"작년 수능 시험지 폐기 말라\" 전국 공문… '수능냥이' 의혹 정조준? 한국일보",
       "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 76
+    },
+    {
+      "id": "67e5fc6bc345",
+      "title": "세종교육청 정책국→기획안전국…AI 업무혁신 사무 신설",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tdXFPeFJOSHhFRDQtZkZKT2Y0cmNiWHo5akRTYm5VcDVldVRWb1ZxcXFKbjdIVnJsc1g3NWI4MnUxR3F2QXNMZERqSk5BZWlsWnhvQ2lXTURSOUJjSFZyYV9fazNhUQ?oc=5",
+      "source": "교육을 비추다",
+      "kind": "domestic",
+      "publishedAt": "2026-11-18T14:50:00.000Z",
+      "description": "세종교육청 정책국→기획안전국…AI 업무혁신 사무 신설 교육을 비추다",
+      "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 76
@@ -763,6 +776,19 @@
       "score": 72
     },
     {
+      "id": "3132b9f51971",
+      "title": "오석진 대전교육감, ‘오감만족’ 기치, 2027년 교육정책 제시",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lZ3Zyd1lJWVZ0eWE2VEhRTEpleXpvV1FYQkVwV2E0Vk9xRGJ6dHJZTy1aMVF0Z1BYekxKblNlSWZuS19qamhWQlRySmFfa2gxUUpRWndHeE1DeFlmYlVYNG5YeTBhajlnbEHSAW5BVV95cUxQTFc4bG5TRVR2dlVSOU8yT1FyeFRhblB6Q1BOUTZuM1NhUDZYdUJEeFR5X3BMUHhxeTdOeGEwTGNIdU93aFBaelpPcnNGb0diWFpMN2tWOTFoZ1lTUDRvMmtCT0d3ZHBaaUoySWc3Zw?oc=5",
+      "source": "충청신문",
+      "kind": "domestic",
+      "publishedAt": "2026-11-18T08:50:58.000Z",
+      "description": "오석진 대전교육감, ‘오감만족’ 기치, 2027년 교육정책 제시 충청신문",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 72
+    },
+    {
       "id": "2b74af5fb664",
       "title": "[기고] 교육재정이 남는다고요?...정부가 ‘남는다’는 그 돈으로 해야 할 일",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEaVhodS1rQmJpcW9Zcl91RXVvMjVZUFc3dTUzQzNsZ1dmcVdzYmdHaDhGNWgyZ2RocjJBekdLczVKRnJEYkdOdUFGdnJTZXNjLXdwcDdvM0lLR29IbXNVRFBHb3VZQ0U?oc=5",
@@ -773,6 +799,19 @@
       "category": "재정·법령",
       "feedProvider": "google",
       "policyRelevance": 65,
+      "score": 72
+    },
+    {
+      "id": "e2e05126470a",
+      "title": "대전교육청 오석진 교육감, 2027년도 대전교육 정책방향 발표",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VTW9xamRmMzlZa3YxMFJuaVhHOGI5YUhtRWo3MmpSUkNsVG56bnRETkJnQ2pkd09uNjdHMjNNLXhGS0RnWHIwQ2pzQ0Y0a1BRNG00YXgzaVdOYW1NS3pPcUVvbWlLd0Rn?oc=5",
+      "source": "OTN뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-18T02:27:27.000Z",
+      "description": "대전교육청 오석진 교육감, 2027년도 대전교육 정책방향 발표 OTN뉴스",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 77,
       "score": 72
     },
     {
@@ -919,17 +958,30 @@
       "score": 70
     },
     {
-      "id": "bc1585b19317",
+      "id": "2a5011ef9076",
       "title": "“학생은 실험 대상 아니다”… 대한민교육주체연합, 수능 AI 부정행위 ‘사후약방문’ 행정 질타",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kTjNJcTA1OUxTN2pWcVkwaS1aWkEwNThXNTVwc0poNlItQ29rQ0NleEZpc0ZvMDF6WVUwTy1ITEM0cDB0b1hIalo4Qk9MaGxoMFZ3bUM2N3ZqOVdFcjFVdlZaU3A5WUxJSEkwazR2OA?oc=5",
-      "source": "프리진뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QU3VwR09jcG10WmlQZVMxc0ZzMEVKRGNKNEpHbDAzbmNMMGkyMWQ2TWZLb1IyV19PWUwxNVZzZGFwYzJrSDJ5Z05YLTg2aXpIc3ZpYkdFNlpWelJhUExTNjJIWHF0Zm5MdEJ4Tg?oc=5",
+      "source": "프리진경제",
       "kind": "domestic",
       "publishedAt": "2026-11-19T05:21:08.000Z",
-      "description": "“학생은 실험 대상 아니다”… 대한민교육주체연합, 수능 AI 부정행위 ‘사후약방문’ 행정 질타 프리진뉴스",
+      "description": "“학생은 실험 대상 아니다”… 대한민교육주체연합, 수능 AI 부정행위 ‘사후약방문’ 행정 질타 프리진경제",
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 40,
       "score": 69
+    },
+    {
+      "id": "1b745b651aed",
+      "title": "교육부, MS·구글·AWS와 손잡고 교사 240명에 AI 실습교육",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84ZkhfSDRqLTlSZk5GdmxLb2syUmpxZGJ0djdTc0VzcVUwY3QzMk9WaXN4WkFZTUZ0b29lajlvZExuOXY4MWZzZXVGdWR0aDZrOTl3X05RejVmMERQ?oc=5",
+      "source": "뉴스핌",
+      "kind": "domestic",
+      "publishedAt": "2026-11-20T03:00:00.000Z",
+      "description": "교육부, MS·구글·AWS와 손잡고 교사 240명에 AI 실습교육 뉴스핌",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 67
     },
     {
       "id": "2d3da5b1258e",
@@ -943,6 +995,32 @@
       "feedProvider": "google",
       "policyRelevance": 75,
       "score": 67
+    },
+    {
+      "id": "15ca1efaffc7",
+      "title": "한국보건복지인재원, AI 전문강사 23명 양성…복지·돌봄 현장 디지털 전환 확대",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KX24tVUpLWVgwTHE2VTh1UGkwTlc5MFhuNWxEaVdEUnlaODZreWtPU1JoRTFjdURDa2dLTWVEb0c2UEhjOUU1Q3MxWjZ6Vm9TYWJ0YlVlZDNHM3NLSk5oMEhxb0FvQlMydlhNMU5n0gFyQVVfeXFMTndySzVCZFdUUWthcUJROXZoMTB3TzQ0Q0w1cllsV1BxWUJxOG4tdFAwSV9fcjFOVHlMOUY3RGFqM3dqT1RtM0FaOXBrYlZiWWRNcEpHNzZFOGVTeHRKOGVqR0JTMTFBUWJoUmNWazdpZDFR?oc=5",
+      "source": "잡포스트",
+      "kind": "domestic",
+      "publishedAt": "2026-11-19T06:00:31.000Z",
+      "description": "한국보건복지인재원, AI 전문강사 23명 양성…복지·돌봄 현장 디지털 전환 확대 잡포스트",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 42,
+      "score": 66
+    },
+    {
+      "id": "0c423b5e2978",
+      "title": "영남대, 새마을학 기반 국제개발협력 확대…AI 접목·베트남 교육협력·아프리카 정책연수",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rMVZrczNqQmtnd0tXWWRVNW1zQTAzUEwydnExLVpDMHNTcHMxWTBrb0FPMWx0aVVGX2otaVhYMU03WWpLT1JUaEJ3blBjVVJ3alBQaWNPMHNOaG5qcUc1bzBheWN3bDlDWXdJc3hfcWRGdw?oc=5",
+      "source": "웹이코노미",
+      "kind": "domestic",
+      "publishedAt": "2026-11-18T15:28:22.000Z",
+      "description": "영남대, 새마을학 기반 국제개발협력 확대…AI 접목·베트남 교육협력·아프리카 정책연수 웹이코노미",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 42,
+      "score": 66
     },
     {
       "id": "d23104018031",
@@ -982,94 +1060,16 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 66
-    },
-    {
-      "id": "5399cb30e2f0",
-      "title": "수능 D-2, 끊이지 않는 연기 요구…교육부 \"검토 어렵다\"",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCc25Da0VQM25STW4xajhRdlp6WWcyUFIzaHVwX2JNYWVac19WRmhZcEx3aEkwd3R2S0hEa19WUHQ0dEU0NmlhT1VJdDc?oc=5",
-      "source": "시사일보",
-      "kind": "domestic",
-      "publishedAt": "2026-11-17T04:47:00.000Z",
-      "description": "수능 D-2, 끊이지 않는 연기 요구…교육부 \"검토 어렵다\" 시사일보",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 66
-    },
-    {
-      "id": "e13f171ca9fd",
-      "title": "[속보] 수능 2차 위급재난문자 오후 2시 21분 발송",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tbTB2blhnSVpKU3ZIeVVLeXB4ZGpwWklNajZoVmQ4X1VjbmR6OENZTFVPWjdfbWdIZDZFdERyYnhTdXEtcXJFaWFaM0szTkhTazh0ZThaU0tqa0c2NlhCakI2YXN3QQ?oc=5",
-      "source": "한국대학신문",
-      "kind": "domestic",
-      "publishedAt": "2026-11-19T05:30:02.000Z",
-      "description": "[속보] 수능 2차 위급재난문자 오후 2시 21분 발송 한국대학신문",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 65
-    },
-    {
-      "id": "0a4482bb2e2d",
-      "title": "[2027 수능] \"스마트폰 적발\"…학부모들 \"임기응변 그만, 상시 대책 필요\"",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjNkhoYXJHX1VhRnZOWmk1QWhOWFE1d3ZTR1pvSlAwMEQ5MUFFcUhSaTV2MVFhWm9YV0VxdlVvaE9sWm9IN0ZWYVNSMlZlcUlVRmVKRGl6cjdwYlE0?oc=5",
-      "source": "뉴스핌",
-      "kind": "domestic",
-      "publishedAt": "2026-11-19T02:35:00.000Z",
-      "description": "[2027 수능] \"스마트폰 적발\"…학부모들 \"임기응변 그만, 상시 대책 필요\" 뉴스핌",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 65
-    },
-    {
-      "id": "28f7384f01d2",
-      "title": "[속보] 평가원 \"사교육 유리 문항 배제…공교육 기반 변별력 확보\" [2027 수능]",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SRWxIT3hXX0tncG1Bcy1IRFBfWG5MSXprRk9sWVZ2UmF2X25LeWtydkFoTXlqNUM5TVB1U2RzTXd3MzUzbWdEUUs4QzVCUnMwVExabg?oc=5",
-      "source": "이투데이",
-      "kind": "domestic",
-      "publishedAt": "2026-11-18T23:43:00.000Z",
-      "description": "[속보] 평가원 \"사교육 유리 문항 배제…공교육 기반 변별력 확보\" [2027 수능] 이투데이",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 65
-    },
-    {
-      "id": "22f5950c57ff",
-      "title": "[2027 수능] 출제위원장 \"고등학교 정상화 위해 핵심 내용 중심으로 출제... 사교육 유리한 문항 배제\"",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/2027-%EC%88%98%EB%8A%A5-%EC%B6%9C%EC%A0%9C%EC%9C%84%EC%9B%90%EC%9E%A5-%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90-%EC%A0%95%EC%83%81%ED%99%94-%EC%9C%84%ED%95%B4-%ED%95%B5%EC%8B%AC-%EB%82%B4%EC%9A%A9-%EC%A4%91%EC%8B%AC%EC%9C%BC%EB%A1%9C-%EC%B6%9C%EC%A0%9C-%EC%82%AC%EA%B5%90%EC%9C%A1-%EC%9C%A0%EB%A6%AC%ED%95%9C-%EB%AC%B8%ED%95%AD-%EB%B0%B0%EC%A0%9C/ar-AA2hJs3B",
-      "source": "조선비즈 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-11-18T17:52:13.000Z",
-      "description": "2027학년도 수능 출제위원장 오기영은 교육과정 핵심 내용을 중심으로 문제를 출제하고, 사교육에서 유리한 문항은 배제한다고 밝혔다.",
-      "category": "입시·사교육",
-      "feedProvider": "bing",
-      "policyRelevance": 40,
-      "score": 65
-    },
-    {
-      "id": "f08b297a8957",
-      "title": "오석진 대전교육감, 2027년 ‘오감만족 대전교육’ 본격 추진",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vdEVtckRaY3diU2xobW1HT2c3YWR3ajg2Vy1zY3JjSkZKOE5zWUY3NzFCNEJnbTFlS3B5b1Nqd3ppR08zV0V3OUVTY2VMSUxlbE1XWnlMZmNNZC1wVzlYZ2poTVhIS0kzM1E?oc=5",
-      "source": "충청매일",
-      "kind": "domestic",
-      "publishedAt": "2026-11-18T05:05:51.000Z",
-      "description": "오석진 대전교육감, 2027년 ‘오감만족 대전교육’ 본격 추진 충청매일",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 47,
-      "score": 64
     }
   ],
-  "translationProvider": "MyMemory MT fallback",
+  "translationProvider": "none",
   "dailyDigest": {
     "ai": false,
     "date": "2026-11-20",
     "throughDate": "2026-11-21",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-11-19T15:00:00.000Z",
-    "windowEnd": "2026-11-21T02:39:58.651Z",
+    "windowEnd": "2026-11-21T03:18:05.436Z",
     "itemIds": [
       "382ad3becc56",
       "18441d1bc641",
@@ -1077,26 +1077,26 @@
       "26f0ccbc022b",
       "be16522bab34",
       "8f9b86ddfe35",
+      "18757836a5b8",
       "94898c5ef0f0",
       "c498412ca5b3",
       "875c97517961",
-      "d442beb79919",
+      "093710fc2b56",
       "6c6099a8f200",
       "7dc6abc5696d",
-      "c243a1864706",
       "062cffbd6b24",
       "b9b53e97eb4f",
-      "1b745b651aed",
+      "d442beb79919",
       "1b1eb1950bd8",
       "a3bba7c1d744",
       "feb10d937910",
-      "720460f42a51",
       "fa516385746d",
       "22d2a40b06b7",
       "532faf89ea5b",
       "532652c68575",
       "370e2a8049ea",
-      "1089500ceba9"
+      "1089500ceba9",
+      "1b745b651aed"
     ],
     "stats": {
       "total": 26,
@@ -1129,11 +1129,11 @@
       },
       {
         "title": "AI·디지털",
-        "summary": "MS·Google·AWS와 손잡고 교사의 인공지능(AI)·융합교육 역량을 키운다 · [인터뷰] 이병도 충남교육감 \"교육 중심은 사람…충남교육 10년 대전환 이끌겠다\" · 교육부, MS·구글·AWS와 손잡고 교사 240명에 AI 실습교육",
+        "summary": "MS·Google·AWS와 손잡고 교사의 인공지능(AI)·융합교육 역량을 키운다 · 베트남, 법률교육에 AI·디지털 기술 도입…법률정보 접근권 강화 · 교육부, MS·구글·AWS와 손잡고 교사 240명에 AI 실습교육",
         "why": "AI·디지털 전환 정책은 교육과정·교원역량·인프라와 연결되므로 실행 여건과 현장 적용성을 함께 봐야 합니다.",
         "sources": [
           "교육부",
-          "주간한국 on MSN",
+          "법치뉴스",
           "뉴스핌"
         ]
       },
