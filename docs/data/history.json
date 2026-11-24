@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T05:25:28.389Z",
+  "generatedAt": "2026-11-24T06:11:01.169Z",
   "retentionDays": 30,
   "days": [
     "2026-11-24",
@@ -379,6 +379,34 @@
       "snapshotDate": "2026-11-24"
     },
     {
+      "id": "0a2ecfb118ec",
+      "title": "세종교총, 세종교육감 출신 교육장관 사퇴에 \"신뢰회복 계기돼야\"",
+      "url": "https://www.yna.co.kr/view/AKR20261123152400063",
+      "source": "연합뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-23T09:28:00.000Z",
+      "description": "(세종=연합뉴스) 양영석 기자 = 세종시교원단체총연합회 (세종교총)는 23일 최교진 전 교육부 장관이 전날 사퇴한 것을 두고 \"교육행정의 책임을 무겁게 받아들이고 교육 현장의 신뢰를 회복하는 계기로 삼아야 한다\"고 밝혔다.",
+      "category": "교원·조직",
+      "feedProvider": "bing",
+      "policyRelevance": 45,
+      "score": 77,
+      "snapshotDate": "2026-11-24"
+    },
+    {
+      "id": "83c0316bd2f5",
+      "title": "[경북교육 소식] AI·디지털교육 축제 개최·인성교육 주요 과제 달성률 95% 이상·유아 독서교육 역량 강화 연수",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=904091",
+      "source": "뉴스웍스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-23T09:08:00.000Z",
+      "description": "[뉴스웍스=최만수 기자] 경북교육청은 지난 21일 더케이호텔 경주에서 도내 교원과 학생, 학부모, 교육 관계자 등 500여 명이 참석한 가운데 '2026년 AI·디지털교육 축제'를 개최했다고 밝혔다. 'AI 대전환, 교실에서 꽃피다!'를 주제로 열린 이번 축제는 한 해 동안 학교 현장에서 이뤄진 인공지능(AI)·디지털교육의 성과를 공유하고, '한 아이도 빠 ...",
+      "category": "AI·디지털",
+      "feedProvider": "bing",
+      "policyRelevance": 45,
+      "score": 81,
+      "snapshotDate": "2026-11-24"
+    },
+    {
       "id": "df102df1107c",
       "title": "교육부 \"수능 스마트기기 부정행위자 5명 오늘 전원 고발\"(종합)",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PZ05HQXctczlpeXJNX0JWZEJKODZNQS1CazYzX1VDM0xtSW8xQW5VTURZd053YWpYUnVPS3hZczAyai0zVEc4RExrbk5RR0pNY0E?oc=5",
@@ -404,20 +432,6 @@
       "feedProvider": "bing",
       "policyRelevance": 57,
       "score": 83,
-      "snapshotDate": "2026-11-24"
-    },
-    {
-      "id": "62d7e9cd98f2",
-      "title": "충북교육청, AI 공교육 선도 선포…'인간다움 지향'",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PWHk2LW45YmtIUmMzclhkQVNIY21WbVNhcVV4ZTB0dExxdURQdENndnF3RnVNcTFkeWxEQ1hOV2RwbnI0elpHWmlhdkpHTEUtSFZkV3MzZmlSNDB0bXpTTnJfeUpJOGl0OTlPaENmVzI?oc=5",
-      "source": "충청일보",
-      "kind": "domestic",
-      "publishedAt": "2026-11-23T08:09:33.000Z",
-      "description": "충북교육청, AI 공교육 선도 선포…'인간다움 지향' 충청일보",
-      "category": "AI·디지털",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 77,
       "snapshotDate": "2026-11-24"
     },
     {
@@ -491,20 +505,6 @@
       "snapshotDate": "2026-11-24"
     },
     {
-      "id": "86db7bd6a260",
-      "title": "경북교육청, ‘2026 AI·디지털교육 축제’ 열어 학교 현장 성과 공유",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15emRqZHh3ZTRCUC1ReTZnUXJRSUdRbFRmWGR4OFdna0xJZDRick1zRHV4YUhtNDdKNVlVTkFZZXc2UFY5bDZHUEI5WWhiM08xSGo3Z3BDSHFPb05iSkhOT1ZuSUNxZjlvRjFj0gFvQVVfeXFMUE9WYjRNS05jdE1FUGhIc3lDanNHNzQ4NGRkdklWQ0IzWGNyc1Z5NjhzMG1LaV82MUxuLVdqbHpoQUg0WTNoVkV3X1ZiRTBId2RsWXlYMnB4NGV0NE44dl9iZnJxckZQaWw4Qkk5aDZj?oc=5",
-      "source": "한스경제",
-      "kind": "domestic",
-      "publishedAt": "2026-11-23T07:12:30.000Z",
-      "description": "경북교육청, ‘2026 AI·디지털교육 축제’ 열어 학교 현장 성과 공유 한스경제",
-      "category": "AI·디지털",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 77,
-      "snapshotDate": "2026-11-24"
-    },
-    {
       "id": "b7272fb8730e",
       "title": "교육부, 수능 스마트기기 부정행위 5명 전원 형사고발… 과거 사례도 조사",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TMFRacEFuVVRveGtFem1tZ2Z4cnBFRVYwWjRwZVBfRVUxRjFfZUtQdFdVdnZ4b0M0UGZzTWh0dkx3dTNCczdwaDdTUHVwaktOMGc?oc=5",
@@ -547,20 +547,6 @@
       "snapshotDate": "2026-11-24"
     },
     {
-      "id": "718ca1a06b6d",
-      "title": "나주교육지원청, 교육부 정책보좌관에 한옥 유치원·혁신선도지구 등 현장 건의 전달",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10TmxnaFJCcjFsY2xTRGxKNWI1MXpsRGN0QlpIN0ljTG9LdTBmVFpNZFRzbVVGc0R0QlhGbV9jRE04TGdkX19qQzA0SnhPbFJ3a2hWZ1NZSFpYR0xKU2ItdV9RXzVMcVdZTXJLcmhR?oc=5",
-      "source": "폴리뉴스 Polinews",
-      "kind": "domestic",
-      "publishedAt": "2026-11-23T06:09:05.000Z",
-      "description": "나주교육지원청, 교육부 정책보좌관에 한옥 유치원·혁신선도지구 등 현장 건의 전달 폴리뉴스 Polinews",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 82,
-      "snapshotDate": "2026-11-24"
-    },
-    {
       "id": "3d6f06571055",
       "title": "교육부, 수능 AI 커닝 5명 형사고발···과거 부정행위도 캔다",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IRkJHUTBwWjRqNU5IQk81bXBqMVBfNk9yUzhmZzNVb2FhOHgyc2hmREhlM2l6blNwNkhoeE9YWFNER2RDTnpfOHhIX0FWcW1uYmFCSEU0azdjQll6WlNlYzJuWkMxZEtNd0d1cw?oc=5",
@@ -571,7 +557,21 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 90,
+      "score": 80,
+      "snapshotDate": "2026-11-24"
+    },
+    {
+      "id": "850eeefdf6b4",
+      "title": "수능 혼선에 최교진 사퇴…교육부 ‘대행 체제’ 교부금·유보통합 조율 시험대",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2djBVNXdEcjU5bGtpWEZXbmI5TG1BMDNRZ09JT25DN09OYnZsWDM3Y1BMeVhUZ2VMd0NmV2s5ajIySEVKTVFCdHg3a1kxYk9tbGRYUnR5dXlBVlZvUFZDMXRJY3FZUQ?oc=5",
+      "source": "일요신문",
+      "kind": "domestic",
+      "publishedAt": "2026-11-23T05:48:23.000Z",
+      "description": "수능 혼선에 최교진 사퇴…교육부 ‘대행 체제’ 교부금·유보통합 조율 시험대 일요신문",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 80,
       "snapshotDate": "2026-11-24"
     },
     {
@@ -585,35 +585,7 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 90,
-      "snapshotDate": "2026-11-24"
-    },
-    {
-      "id": "34f0ac73a34c",
-      "title": "수시 합격생이 수능서 부정행위, 합격 취소될까?⋯교육부 답변 보니",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VeXRteGhuZ0NNVmY4MksyY1JfYmZJcnBEM3NwMWhfNU5tcHlJSmxkcFlpWVQwdlh1ODNqV09ocmVCakdyMVU1S1BVRQ?oc=5",
-      "source": "아이뉴스24",
-      "kind": "domestic",
-      "publishedAt": "2026-11-23T05:42:17.000Z",
-      "description": "수시 합격생이 수능서 부정행위, 합격 취소될까?⋯교육부 답변 보니 아이뉴스24",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 86,
-      "snapshotDate": "2026-11-24"
-    },
-    {
-      "id": "8add39695f83",
-      "title": "교육부 \"수능서 스마트기기 부정행위 5명 오늘 모두 고발\"",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xMDNySzQtZ0U3SEdoOWp1b2FPM3ZqejBDMjBscGJRdTRySVBPeEliVUg3T2h4NnJYRHJCNXBHOU9BMkFZU3JzdkJDbElkWEhuUzRZM2ZXdEZQX1Z4S1RaZktKSlNHN0Q5N05CdUpiN3Y?oc=5",
-      "source": "화이트페이퍼",
-      "kind": "domestic",
-      "publishedAt": "2026-11-23T05:30:24.000Z",
-      "description": "교육부 \"수능서 스마트기기 부정행위 5명 오늘 모두 고발\" 화이트페이퍼",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 86,
+      "score": 80,
       "snapshotDate": "2026-11-24"
     },
     {
@@ -697,6 +669,20 @@
       "category": "AI·디지털",
       "feedProvider": "bing",
       "policyRelevance": 87,
+      "score": 86,
+      "snapshotDate": "2026-11-24"
+    },
+    {
+      "id": "452ef995a199",
+      "title": "교육부, 교육 ODA 지원체계 개편 논의…AI·에듀테크 활용 확대 모색",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0a3RlbXB1Y1M0M3QzcUZhaWRERGtkQ19TRDFRQzdDcW0wNzRMRUs5OHNaMllqU01fcE4tU1pKMUh6eG5NdDk4QnZMSFZNN2Q0ZlVmRU10cHVXeXo4?oc=5",
+      "source": "뉴스핌",
+      "kind": "domestic",
+      "publishedAt": "2026-11-23T03:00:00.000Z",
+      "description": "교육부, 교육 ODA 지원체계 개편 논의…AI·에듀테크 활용 확대 모색 뉴스핌",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 77,
       "score": 86,
       "snapshotDate": "2026-11-24"
     },
@@ -839,6 +825,20 @@
       "policyRelevance": 75,
       "score": 87,
       "snapshotDate": "2026-11-23"
+    },
+    {
+      "id": "14e12726c55d",
+      "title": "교육부, 수능 부정행위자 5명 전원 고발…수능 부정 신고는 범위 제한없이 운영\"",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B5%90%EC%9C%A1%EB%B6%80-%EC%88%98%EB%8A%A5-%EB%B6%80%EC%A0%95%ED%96%89%EC%9C%84%EC%9E%90-5%EB%AA%85-%EC%A0%84%EC%9B%90-%EA%B3%A0%EB%B0%9C-%EC%88%98%EB%8A%A5-%EB%B6%80%EC%A0%95-%EC%8B%A0%EA%B3%A0%EB%8A%94-%EB%B2%94%EC%9C%84-%EC%A0%9C%ED%95%9C%EC%97%86%EC%9D%B4-%EC%9A%B4%EC%98%81/ar-AA2i0PO4",
+      "source": "프레시안 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-23T00:24:53.000Z",
+      "description": "교육부가 2027학년도 대학수학능력시험에서 첨단기기를 이용해 부정행위를 저지르다 적발된 수험생 5명 전원을 고발하기로 했다. 23일 신진용 교육부 대입정책과장은 정부세종청사에서 가진 정례브리핑에서 이들 수험생 5명에 대한 처우를 결정했다며 관련 고발 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 85,
+      "snapshotDate": "2026-11-24"
     },
     {
       "id": "ca265b24a46c",
@@ -1050,7 +1050,7 @@
     {
       "id": "3e0a24598a61",
       "title": "SNS 논란 속 최교진 교육부 장관 사임, 수능 부정행위 대책의 민낯",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rQmNYQjJ3cm1JczdVdmZHX01jWWJqM0ZRMUdKX1o2Mks1dUttQkpNUGN4V2FWcGdtTnE4SWNOSXRyWENWQ0pGT0lucndpM05KRWpXVTA0ZnEzbmdCVllST3JtVlB1MGJR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2NGgzak96ZDUzV29ORk1teENjWDl0YXF1a1RwQVVNdW9HUXRFaUFJNmlkSjBJZi0xYl9IdjVnMExYZHFLLUZIYWRLS01QM2lqRHNoR1ZTRno3d1lCUzJ2VTYyOWJHSkE?oc=5",
       "source": "공감신문",
       "kind": "domestic",
       "publishedAt": "2026-11-22T09:33:35.000Z",
