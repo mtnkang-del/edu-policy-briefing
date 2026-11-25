@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-25T04:26:15.405Z",
-  "generatedAtKST": "2026-11-25T13:26:12.099+09:00",
+  "generatedAt": "2026-11-25T04:57:15.605Z",
+  "generatedAtKST": "2026-11-25T13:57:13.009+09:00",
   "date": "2026-11-25",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 25,
-    "domesticGoogle": 157,
-    "foreignBing": 20,
-    "foreignGoogle": 171,
-    "carried": 127,
-    "rawUnique": 356,
-    "policyRejected": 211,
+    "domesticBing": 24,
+    "domesticGoogle": 147,
+    "foreignBing": 25,
+    "foreignGoogle": 169,
+    "carried": 207,
+    "rawUnique": 360,
+    "policyRejected": 215,
     "policyKept": 80
   },
   "briefing": [
@@ -153,7 +153,7 @@
     {
       "id": "cd62fefcbc63",
       "title": "전국 125개 대학 정시 정보 한자리에…대교협, 내달 11~13일 코엑스서 정시 박람회 개최",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%A0%84%EA%B5%AD-125%EA%B0%9C-%EB%8C%80%ED%95%99-%EC%A0%95%EC%8B%9C-%EC%A0%95%EB%B3%B4-%ED%95%9C%EC%9E%90%EB%A6%AC%EC%97%90-%EB%8C%80%EA%B5%90%ED%98%91-%EB%82%B4%EB%8B%AC-11-13%EC%9D%BC-%EC%BD%94%EC%97%91%EC%8A%A4%EC%84%9C-%EC%A0%95%EC%8B%9C-%EB%B0%95%EB%9E%8C%ED%9A%8C-%EA%B0%9C%EC%B5%9C/ar-AA2iaMXV",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%A0%84%EA%B5%AD-125%EA%B0%9C-%EB%8C%80%ED%95%99-%EC%A0%95%EC%8B%9C-%EC%A0%95%EB%B3%B4-%ED%95%9C%EC%9E%90%EB%A6%AC%EC%97%90-%EB%8C%80%EA%B5%90%ED%98%91-%EB%82%B4%EB%8B%AC-11-13%EC%9D%BC-%EC%BD%94%EC%97%91%EC%8A%A4%EC%84%9C-%EC%A0%95%EC%8B%9C-%EB%B0%95%EB%9E%8C%ED%9A%8C-%EA%B0%9C%EC%B5%9C/ar-AA2iaMXV",
       "source": "아주경제 on MSN",
       "kind": "domestic",
       "publishedAt": "2026-11-24T19:08:49.000Z",
@@ -241,6 +241,32 @@
       "score": 92
     },
     {
+      "id": "a0025b05488c",
+      "title": "대교협, 내달 11~13일 코엑스서 정시 박람회…전국 125개 대학 참가",
+      "url": "https://www.mt.co.kr/policy/2026/11/25/2026112513384986278",
+      "source": "머니투데이",
+      "kind": "domestic",
+      "publishedAt": "2026-11-24T15:52:00.000Z",
+      "description": "서울 코엑스에서 전국 125개 대학이 참여하는 정시 대학입학정보박람회가 열린다. 한국대학교육협의회(대교협)는 다음달 11일부터 13일까지 서울 강남구 코엑스 1층 A홀에서 '2027학년도 정시 대학입학정보박람회'를 개최한다고 25일 밝혔다.",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 87,
+      "score": 92
+    },
+    {
+      "id": "8f8286285105",
+      "title": "AI 전환기 영어교육 해법은…경기도교육청, 교사·학부모와 정책 토론 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1la2Y5eUdpdTJUOURwSm5rcEJZTWV5SFBiSW5jYzZPc2RSdURuRVotaW04ODFUU0RQeXRIc21lbTQ2elFWc2RPOUhlLXFqcHFYSEhfc0JYalVGWi1xQWJrZVdzdnJhcDdlRGNocGdldk5WaGxxemJZ0gF8QVVfeXFMUGYzS0hVTElsS0M5X3JvS1VvYnczeG1OQnFNS1FhT3hrRVJWOU9nbFo1YUpkNzY0LTVQQ251OVhJSEVrTDlJT2lKX3BuMnplRm5HQjU3SE5Hd2ZxN2pMYVVMSzI0ZzZvSWFYcHRwMXJMcVRlQ215S2FGNk5KNQ?oc=5",
+      "source": "머니투데이",
+      "kind": "domestic",
+      "publishedAt": "2026-11-25T04:40:38.000Z",
+      "description": "AI 전환기 영어교육 해법은…경기도교육청, 교사·학부모와 정책 토론 - 머니투데이 머니투데이",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 75,
+      "score": 91
+    },
+    {
       "id": "e4b334f3de8c",
       "title": "경기도교육청, AI 플랫폼 ‘클래스업’으로 영어 사교육 잡는다…공교육 혁신 포럼 개최",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1URlEzV2lta05JeXJUYjFvT3hnRFhYZWxZNWlNa0dQd1ZiWGxDZ1Fjd2ctSFR1T2hNS2d0dkNoYjNvMUlaZl9UeEg2ZjhSM2FXVmdfbjFUalR6Tjk4N0lndDRZZVJOM28?oc=5",
@@ -263,6 +289,19 @@
       "description": "경기도교육청, 영어 사교육비 경감 해법 논의…AI 활용·공교육 강화 오늘경제",
       "category": "입시·사교육",
       "feedProvider": "google",
+      "policyRelevance": 75,
+      "score": 91
+    },
+    {
+      "id": "546bc856c660",
+      "title": "경기도교육청, AI 영어학습 활용·사교육 경감 방안 논의",
+      "url": "https://www.newstown.co.kr/news/articleView.html?idxno=723228",
+      "source": "뉴스타운",
+      "kind": "domestic",
+      "publishedAt": "2026-11-24T15:55:00.000Z",
+      "description": "[뉴스타운/송은경 기자] 경기도교육청(이하 도교육청)이 인공지능 전환 시대에 맞춰 학생별 영어학습을 지원하고 사교육 의존도를 낮추기 위한 공교육의 역할을 논의했다. 교사와 학부모, 전문가들은 영어 사교육비 증가 원인과 학교의 대응 방안을 살피고 인공지능 기반 수업 사례를 공유했다. 도교육청은 포럼에서 수렴한 현장 의견과 정책 제언을 바탕으로 학생의 영어학습 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
       "policyRelevance": 75,
       "score": 91
     },
@@ -319,6 +358,19 @@
       "score": 90
     },
     {
+      "id": "602bbac7f399",
+      "title": "[속보] 교육부, 수능 스마트기기 부정행위 수험생 5명 오늘 전원 고발",
+      "url": "https://www.msn.com/ko-kr/news/news/%EC%86%8D%EB%B3%B4-%EA%B5%90%EC%9C%A1%EB%B6%80-%EC%88%98%EB%8A%A5-%EC%8A%A4%EB%A7%88%ED%8A%B8%EA%B8%B0%EA%B8%B0-%EB%B6%80%EC%A0%95%ED%96%89%EC%9C%84-%EC%88%98%ED%97%98%EC%83%9D-5%EB%AA%85-%EC%98%A4%EB%8A%98-%EC%A0%84%EC%9B%90-%EA%B3%A0%EB%B0%9C/ar-AA2i1vUW",
+      "source": "강원도민일보 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-22T20:56:36.000Z",
+      "description": "교육부가 2027학년도 대학수학능력시험에서 스마트기기를 이용해 부정행위를 저지른 수험생 5명을 전원 고발하기로 했다. 과거 수능에서 발생한 부정행위 의혹도 신고할 수 있도록 신고센터 운영 범위를 확대하고, 신고 기한도 별도로 두지 않기로 했다.신진용 교육부 대입정책과장은 23일 정부세종청사에서 열린 정례브리핑에서 수능 시험 중 스마트기기를 활용하다 적발된 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 87,
+      "score": 90
+    },
+    {
       "id": "8c631b678e72",
       "title": "최교진 떠난 교육부, 남은 대입은…교원단체 \"후임은 현장감각·추진력 갖춰야\"",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBMWxHaGtuVzJZWmdWZDluRXBsRkpPMlVFblBSVnh3bkdNZFI0RkFDMlRZdUM4SE42OWpFWjUzbTVfMGtkTkhDQ3EycFozbnlXLUQ1Rm1meGNkMVNiUDJV?oc=5",
@@ -328,19 +380,6 @@
       "description": "최교진 떠난 교육부, 남은 대입은…교원단체 \"후임은 현장감각·추진력 갖춰야\" 전북미래교육신문",
       "category": "입시·사교육",
       "feedProvider": "google",
-      "policyRelevance": 87,
-      "score": 90
-    },
-    {
-      "id": "262d8ae9c2b8",
-      "title": "수능 AI 대응에 발목 잡힌 최교진 교육장관…잇단 논란 끝 사의(종합)",
-      "url": "https://www.fnnews.com/news/202611221235377068",
-      "source": "파이낸셜뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-11-22T04:35:00.000Z",
-      "description": "(서울=뉴스1) 조수빈 김재현 기자 = 2027학년도 대학수학능력시험(수능)을 앞두고 인공지능(AI) 부정행위 대응 부실과 잇단 정책 혼선으로 비판을 받아온 최교진 교육부 장관이 결국 사의를 표명했다.",
-      "category": "입시·사교육",
-      "feedProvider": "bing",
       "policyRelevance": 87,
       "score": 90
     },
@@ -384,6 +423,19 @@
       "score": 87
     },
     {
+      "id": "3f68ae168da5",
+      "title": "대전시교육청, 미래교육박람회 25~27일…AI 수업 체험부터 정책 토론까지",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NZWV4WnRRZnNha2lBNUMxYVdjSGFqemxwT3BxS0NnWDRZZUZFbFhGZGtDMm8yc3lvU1YtbzdPeXl0aDdBdWhMV2doaldodGhkNEFBR0JHZl9DNEZibkhwM0dRYVhNTWJadnZYVQ?oc=5",
+      "source": "뉴스인뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-25T04:38:55.000Z",
+      "description": "대전시교육청, 미래교육박람회 25~27일…AI 수업 체험부터 정책 토론까지 뉴스인뉴스",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 86
+    },
+    {
       "id": "fcdd32aeaf3c",
       "title": "영어교육도 AI 전환…경기도교육청, 교육격차 해소 나서",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iandnaXhEZ1lqVmFtS0J6ekhTelJITFdUT2xtdlRwd2V1dFVaUzZ6ckVmVWFsUG1oQjNvbE9ISXBnY0xwNzR5V0tEM0trWDdfcU1TOVBLaE82S1l2UEs2UU5QN2FJMkJHcHplWV9n?oc=5",
@@ -392,19 +444,6 @@
       "publishedAt": "2026-11-25T03:13:00.000Z",
       "description": "영어교육도 AI 전환…경기도교육청, 교육격차 해소 나서 뉴스후플러스",
       "category": "AI·디지털",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 86
-    },
-    {
-      "id": "546bc856c660",
-      "title": "경기도교육청, AI 영어학습 활용·사교육 경감 방안 논의",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53STRDcXNWMXpYTFVQcjlPVUozQ0oyeHdLS2ZUUm01QkJaRGljWlNmQ1M5Y1pFVWktVmUxM3NCVHVpdzZsNUZmdDlnWjg3NEF0RVFYRHlMSVpiOUF1alpmaGlidzNQZVUyWEpFcmxB?oc=5",
-      "source": "뉴스타운",
-      "kind": "domestic",
-      "publishedAt": "2026-11-24T14:53:13.000Z",
-      "description": "경기도교육청, AI 영어학습 활용·사교육 경감 방안 논의 뉴스타운",
-      "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 86
@@ -605,6 +644,19 @@
       "score": 82
     },
     {
+      "id": "3eef97753406",
+      "title": "경기도교육청 'AX 시대 경기영어교육 대전환 포럼'...사교육 경감 해법 모색",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UTmJ4emtmVENFY3ZGanRoUkcwOVB2aER6OGlGMm9qbnZBQXg5cEJYb0lVYWVkYXBIQTFJTE9kX0NkQmttZ01ZZWlIREZUVDlqalY0TjMtNG8yZ0RV?oc=5",
+      "source": "뉴스핌",
+      "kind": "domestic",
+      "publishedAt": "2026-11-24T09:29:00.000Z",
+      "description": "경기도교육청 'AX 시대 경기영어교육 대전환 포럼'...사교육 경감 해법 모색 뉴스핌",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 82
+    },
+    {
       "id": "f88f3ea52745",
       "title": "충북교육청, 중·고생 대상 미래교육 정책 아이디어 공모",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50SHdtV1lzSVpyS1lYdkNnR01CcDBJel9QU1VERUNRSEh6Unp5RHJ2WElIN2tjTk5HYUVmMTRRWktRUUloakJVN1VnT2VBamxDYVpTQzFwaWxtM1ZpeHZ4OGh5ZDlIWTZKYlE?oc=5",
@@ -612,19 +664,6 @@
       "kind": "domestic",
       "publishedAt": "2026-11-24T06:08:46.000Z",
       "description": "충북교육청, 중·고생 대상 미래교육 정책 아이디어 공모 뉴스티앤티",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 82
-    },
-    {
-      "id": "e5606f6acb07",
-      "title": "교육부, 한-아랍에미리트(UAE) 교육당국, 교육정책 교류를 통해 상호 이해와 협력 강화",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5icTdUUktoMmhvU3lUZmlDYlZVQVV3dnN4V1RvY01zMTBmdm91SDFITzFvRjBaYm84ek1xR2t3OFZWel9RY3pWdnBwdVhnWHV6anNrV0Fyc0xScmlJY1dqN1lpdjlRZ2tk?oc=5",
-      "source": "OTN뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-11-24T04:44:03.000Z",
-      "description": "교육부, 한-아랍에미리트(UAE) 교육당국, 교육정책 교류를 통해 상호 이해와 협력 강화 OTN뉴스",
       "category": "기타",
       "feedProvider": "google",
       "policyRelevance": 65,
@@ -718,6 +757,19 @@
       "description": "교육부 “대학별 논술서 부정행위 없었다”…수험생 “대입일정 연기해야” 헤럴드경제",
       "category": "입시·사교육",
       "feedProvider": "google",
+      "policyRelevance": 75,
+      "score": 81
+    },
+    {
+      "id": "97ec521bcd1f",
+      "title": "최교진 후임 누가 될까…李 대선 교육 싱크탱크 인맥 주목",
+      "url": "https://www.msn.com/ko-kr/news/news/%EC%B5%9C%EA%B5%90%EC%A7%84-%ED%9B%84%EC%9E%84-%EB%88%84%EA%B0%80-%EB%90%A0%EA%B9%8C-%E6%9D%8E-%EB%8C%80%EC%84%A0-%EA%B5%90%EC%9C%A1-%EC%8B%B1%ED%81%AC%ED%83%B1%ED%81%AC-%EC%9D%B8%EB%A7%A5-%EC%A3%BC%EB%AA%A9/ar-AA2i1dCd",
+      "source": "뉴스1 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-22T20:38:04.000Z",
+      "description": "김영호·고민정·유은혜 등 정치권 인사부터 관료 출신까지박백범·홍창남·성기선도 물망…위기관리·개혁 실행력 관건 (서울=뉴스1) 김재현 기자 = 최교진 교육부 장관의 사퇴로 후임 인선에 관심이 쏠리고 있다. 대학수학능력시험 인공지능(AI) 부정행위 대응 부실로 교육행정의 신뢰가 흔들렸다. 위기 수습과 교육개혁을 동시에 이끌 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
       "policyRelevance": 75,
       "score": 81
     },
@@ -904,6 +956,19 @@
       "score": 80
     },
     {
+      "id": "262d8ae9c2b8",
+      "title": "수능 AI 대응에 발목 잡힌 최교진 교육장관…잇단 논란 끝 사의(종합)",
+      "url": "https://www.fnnews.com/news/202611221235377068",
+      "source": "파이낸셜뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-22T04:35:00.000Z",
+      "description": "(서울=뉴스1) 조수빈 김재현 기자 = 2027학년도 대학수학능력시험(수능)을 앞두고 인공지능(AI) 부정행위 대응 부실과 잇단 정책 혼선으로 비판을 받아온 최교진 교육부 장관이 결국 사의를 표명했다.",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 87,
+      "score": 80
+    },
+    {
       "id": "dd5c4bf100b0",
       "title": "[사설] '수능 혼란 책임' 교육부 장관 사퇴, 시험체계 전면 개편 서둘러야",
       "url": "https://www.msn.com/ko-kr/news/other/%EC%82%AC%EC%84%A4-%EC%88%98%EB%8A%A5-%ED%98%BC%EB%9E%80-%EC%B1%85%EC%9E%84-%EA%B5%90%EC%9C%A1%EB%B6%80-%EC%9E%A5%EA%B4%80-%EC%82%AC%ED%87%B4-%EC%8B%9C%ED%97%98%EC%B2%B4%EA%B3%84-%EC%A0%84%EB%A9%B4-%EA%B0%9C%ED%8E%B8-%EC%84%9C%EB%91%98%EB%9F%AC%EC%95%BC/ar-AA2hXHuw",
@@ -993,71 +1058,6 @@
       "feedProvider": "google",
       "policyRelevance": 75,
       "score": 77
-    },
-    {
-      "id": "e3c1b6db2fce",
-      "title": "충북교육청, 학생이 만드는 미래교육 정책 아이디어 공모 외 (11월24일 종합)",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TVm5lV2lER0pUUU1kQmsyaXFYd0J3NVZpc1lxV2Y2MFVLWXNWOHZEN0NJYVQxZkNzcGpObDQ3TmVxUFNCV3hVYTMzWTZzUnRrcmdxSVM2MmlxSzhGRmJfdWlB?oc=5",
-      "source": "충북데일리",
-      "kind": "domestic",
-      "publishedAt": "2026-11-23T22:36:08.000Z",
-      "description": "충북교육청, 학생이 만드는 미래교육 정책 아이디어 공모 외 (11월24일 종합) 충북데일리",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 75,
-      "score": 77
-    },
-    {
-      "id": "f8e4d87da6a5",
-      "title": "전남광주교육청, 유치원·초등학교 교육과정 연계 강화",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByVnlWckVEd2dHOE5LRWVOMm5DaEdVSjhMVHdtY29ScGtIbWV6X2E4X3o1NEJBMS1YSTVueXBlRnFDQmExVEE2OVU0TmdXYjZiVnRmQkhvMHlVUy1wVDZjZTlQekpyNTA0Q3VabFhfbjZBZw?oc=5",
-      "source": "중앙이코노미뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-11-23T12:28:51.000Z",
-      "description": "전남광주교육청, 유치원·초등학교 교육과정 연계 강화 중앙이코노미뉴스",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 75,
-      "score": 77
-    },
-    {
-      "id": "5f159b95335e",
-      "title": "대교협, ‘30만 외국인 유학생’을 위한 제도 개선 방향 모색",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kcllxZ2p5bUN1ZUdTakNTRXN0WW1FeVp6LURvOWgyeGxSdzRoME5wWUxLc1JrWVl4SmdBaGlSamk4TzNtUUpVTjNSRXBycWtSdldaVDJ3ZGNqQ2xlTmxiVmVXYlJwQdIBaEFVX3lxTE5EYkY0eVU0Q3o5emgxTFdpVmRXSlJkblNxR0MteTlHLUJBU1BQbW90ano1Z0lNbXZwbkpNQ0JuNjl3MmoteTZfMkZGU3kySzNkeUhmWTBmNEREWTNRdkwyUk9uNjc1ZmtO?oc=5",
-      "source": "Usline(유스라인)",
-      "kind": "domestic",
-      "publishedAt": "2026-11-23T11:56:24.000Z",
-      "description": "대교협, ‘30만 외국인 유학생’을 위한 제도 개선 방향 모색 Usline(유스라인)",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 75,
-      "score": 77
-    },
-    {
-      "id": "93004a44167d",
-      "title": "충북교육청, 학생‧학교 위한 ‘AI 공교육 전환’ 본격 추진",
-      "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=456339",
-      "source": "굿모닝충청",
-      "kind": "domestic",
-      "publishedAt": "2026-11-23T09:38:00.000Z",
-      "description": "[굿모닝충청 김종혁 기자] 충북교육청이 학생과 학교를 위한 ‘AI 공교육 전환’을 본격 추진한다.윤건영 교육감은 23일 본청 기자실에서 ‘AI 공교육 1번지를 선도하는 충북교육’을 발표하며 AI·디지털 기술을 활용해 학생의 배움과 성장을 확장하고, 인간다움을 지향하는 AI 공교육으로의 ...",
-      "category": "AI·디지털",
-      "feedProvider": "bing",
-      "policyRelevance": 57,
-      "score": 77
-    },
-    {
-      "id": "be31a484161f",
-      "title": "외국인 유학생 제도 어떻게 개선할까…대교협 정책포럼",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MWVgwclhDQWx4Z0ZMdTNha3RyeGNtWklNTm1zekZMNVFTbjFEaXlKRTkzTlVXTkR6cFU2dkloQjVWYUtqdHRZX1NhT1N6Z0xnWXFkSFFwTzRPNmvSAWBBVV95cUxOQkJ3ZDQ4NTFZb2dOajhBMzh4ZFpJT01wck1mOWtadEQwTVVxWllvTVY5ci1vYnVXY29tb1FqVzhza005ZldKVExBUWdIcmc4b21JZ3o0eTBnNXhQZC1haFo?oc=5",
-      "source": "연합뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-11-23T03:00:01.000Z",
-      "description": "외국인 유학생 제도 어떻게 개선할까…대교협 정책포럼 연합뉴스",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 75,
-      "score": 77
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -1067,7 +1067,7 @@
     "throughDate": "2026-11-25",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-11-23T15:00:00.000Z",
-    "windowEnd": "2026-11-25T04:26:15.405Z",
+    "windowEnd": "2026-11-25T04:57:15.605Z",
     "itemIds": [
       "29d2d70441e4",
       "28168a318aaf",
@@ -1081,8 +1081,11 @@
       "f8fe95b535fe",
       "9997e5e284d8",
       "5330da48772b",
+      "a0025b05488c",
+      "8f8286285105",
       "e4b334f3de8c",
       "6b5d965dd694",
+      "546bc856c660",
       "f37b7df7af2a",
       "741d20e723e1",
       "ec4e091d7d91",
@@ -1090,30 +1093,29 @@
       "bc720f0855e6",
       "879152592a04",
       "d28c63ef5715",
+      "3f68ae168da5",
       "fcdd32aeaf3c",
-      "546bc856c660",
       "481a75a54b6f",
       "c5dfede71ca0",
       "418ebdd88b85",
+      "3eef97753406",
       "f88f3ea52745",
-      "e5606f6acb07",
       "473d3b98b582",
       "6d8c50d4c4d6",
       "2fbb6cf5075d",
       "52933e2ff4ae",
       "0abfee16b5d1",
       "245906a53fac",
-      "cca3e269544e",
-      "e3c1b6db2fce"
+      "cca3e269544e"
     ],
     "stats": {
-      "total": 36,
+      "total": 38,
       "official": 7,
-      "domestic": 29,
+      "domestic": 31,
       "foreign": 0
     },
     "headline": "오늘 아침 교육뉴스는 입시·사교육·AI·디지털·유·초중등 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 36건이 확인됐습니다. 교육부는 전국 인공지능(AI) 인재가 한자리에, 인공지능(AI) 부트캠프 학생 교류의 장 마련, 교육부, 수능 부정행위 끝까지 추적 시험지 보관기간 5년으로 연장 추진와 교육부 ‘수능 부정행위 대응팀(TF)’ 본격 가동 등을 공식 발표했습니다. 국내 언론에서는 전국 125개 대학 정시 정보 한자리에…대교협, 내달 11~13일 코엑스서 정시 박람회 개최와 교육부, 수능 시험지 보관기한 1년 → 5년 추진 등이 주요하게 다뤄졌습니다. 전체적으로는 입시·사교육·AI·디지털·유·초중등 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 38건이 확인됐습니다. 교육부는 전국 인공지능(AI) 인재가 한자리에, 인공지능(AI) 부트캠프 학생 교류의 장 마련, 교육부, 수능 부정행위 끝까지 추적 시험지 보관기간 5년으로 연장 추진와 교육부 ‘수능 부정행위 대응팀(TF)’ 본격 가동 등을 공식 발표했습니다. 국내 언론에서는 전국 125개 대학 정시 정보 한자리에…대교협, 내달 11~13일 코엑스서 정시 박람회 개최와 교육부, 수능 시험지 보관기한 1년 → 5년 추진 등이 주요하게 다뤄졌습니다. 전체적으로는 입시·사교육·AI·디지털·유·초중등 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "입시·사교육",
@@ -1126,12 +1128,12 @@
       },
       {
         "title": "AI·디지털",
-        "summary": "전국 인공지능(AI) 인재가 한자리에, 인공지능(AI) 부트캠프 학생 교류의 장 마련 · 충북교육청, 학생이 만드는 미래교육 정책 아이디어 공모…AI·진로 등 분야 · 영어교육도 AI 전환…경기도교육청, 교육격차 해소 나서",
+        "summary": "전국 인공지능(AI) 인재가 한자리에, 인공지능(AI) 부트캠프 학생 교류의 장 마련 · AI 전환기 영어교육 해법은…경기도교육청, 교사·학부모와 정책 토론 - 머니투데이 · 충북교육청, 학생이 만드는 미래교육 정책 아이디어 공모…AI·진로 등 분야",
         "why": "AI·디지털 전환 정책은 교육과정·교원역량·인프라와 연결되므로 실행 여건과 현장 적용성을 함께 봐야 합니다.",
         "sources": [
           "교육부",
-          "충청매일",
-          "뉴스후플러스"
+          "머니투데이",
+          "충청매일"
         ]
       },
       {

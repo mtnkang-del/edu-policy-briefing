@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T04:35:03.405Z",
+  "generatedAt": "2026-11-25T04:57:49.165Z",
   "retentionDays": 30,
   "days": [
     "2026-11-25",
@@ -34,6 +34,34 @@
     "2026-10-27"
   ],
   "items": [
+    {
+      "id": "8f8286285105",
+      "title": "AI 전환기 영어교육 해법은…경기도교육청, 교사·학부모와 정책 토론 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1la2Y5eUdpdTJUOURwSm5rcEJZTWV5SFBiSW5jYzZPc2RSdURuRVotaW04ODFUU0RQeXRIc21lbTQ2elFWc2RPOUhlLXFqcHFYSEhfc0JYalVGWi1xQWJrZVdzdnJhcDdlRGNocGdldk5WaGxxemJZ0gF8QVVfeXFMUGYzS0hVTElsS0M5X3JvS1VvYnczeG1OQnFNS1FhT3hrRVJWOU9nbFo1YUpkNzY0LTVQQ251OVhJSEVrTDlJT2lKX3BuMnplRm5HQjU3SE5Hd2ZxN2pMYVVMSzI0ZzZvSWFYcHRwMXJMcVRlQ215S2FGNk5KNQ?oc=5",
+      "source": "머니투데이",
+      "kind": "domestic",
+      "publishedAt": "2026-11-25T04:40:38.000Z",
+      "description": "AI 전환기 영어교육 해법은…경기도교육청, 교사·학부모와 정책 토론 - 머니투데이 머니투데이",
+      "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 75,
+      "score": 91,
+      "snapshotDate": "2026-11-25"
+    },
+    {
+      "id": "3f68ae168da5",
+      "title": "대전시교육청, 미래교육박람회 25~27일…AI 수업 체험부터 정책 토론까지",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NZWV4WnRRZnNha2lBNUMxYVdjSGFqemxwT3BxS0NnWDRZZUZFbFhGZGtDMm8yc3lvU1YtbzdPeXl0aDdBdWhMV2doaldodGhkNEFBR0JHZl9DNEZibkhwM0dRYVhNTWJadnZYVQ?oc=5",
+      "source": "뉴스인뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-25T04:38:55.000Z",
+      "description": "대전시교육청, 미래교육박람회 25~27일…AI 수업 체험부터 정책 토론까지 뉴스인뉴스",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 86,
+      "snapshotDate": "2026-11-25"
+    },
     {
       "id": "fcdd32aeaf3c",
       "title": "영어교육도 AI 전환…경기도교육청, 교육격차 해소 나서",
@@ -133,7 +161,7 @@
     {
       "id": "cd62fefcbc63",
       "title": "전국 125개 대학 정시 정보 한자리에…대교협, 내달 11~13일 코엑스서 정시 박람회 개최",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%A0%84%EA%B5%AD-125%EA%B0%9C-%EB%8C%80%ED%95%99-%EC%A0%95%EC%8B%9C-%EC%A0%95%EB%B3%B4-%ED%95%9C%EC%9E%90%EB%A6%AC%EC%97%90-%EB%8C%80%EA%B5%90%ED%98%91-%EB%82%B4%EB%8B%AC-11-13%EC%9D%BC-%EC%BD%94%EC%97%91%EC%8A%A4%EC%84%9C-%EC%A0%95%EC%8B%9C-%EB%B0%95%EB%9E%8C%ED%9A%8C-%EA%B0%9C%EC%B5%9C/ar-AA2iaMXV",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%A0%84%EA%B5%AD-125%EA%B0%9C-%EB%8C%80%ED%95%99-%EC%A0%95%EC%8B%9C-%EC%A0%95%EB%B3%B4-%ED%95%9C%EC%9E%90%EB%A6%AC%EC%97%90-%EB%8C%80%EA%B5%90%ED%98%91-%EB%82%B4%EB%8B%AC-11-13%EC%9D%BC-%EC%BD%94%EC%97%91%EC%8A%A4%EC%84%9C-%EC%A0%95%EC%8B%9C-%EB%B0%95%EB%9E%8C%ED%9A%8C-%EA%B0%9C%EC%B5%9C/ar-AA2iaMXV",
       "source": "아주경제 on MSN",
       "kind": "domestic",
       "publishedAt": "2026-11-24T19:08:49.000Z",
@@ -173,6 +201,20 @@
       "snapshotDate": "2026-11-25"
     },
     {
+      "id": "546bc856c660",
+      "title": "경기도교육청, AI 영어학습 활용·사교육 경감 방안 논의",
+      "url": "https://www.newstown.co.kr/news/articleView.html?idxno=723228",
+      "source": "뉴스타운",
+      "kind": "domestic",
+      "publishedAt": "2026-11-24T15:55:00.000Z",
+      "description": "[뉴스타운/송은경 기자] 경기도교육청(이하 도교육청)이 인공지능 전환 시대에 맞춰 학생별 영어학습을 지원하고 사교육 의존도를 낮추기 위한 공교육의 역할을 논의했다. 교사와 학부모, 전문가들은 영어 사교육비 증가 원인과 학교의 대응 방안을 살피고 인공지능 기반 수업 사례를 공유했다. 도교육청은 포럼에서 수렴한 현장 의견과 정책 제언을 바탕으로 학생의 영어학습 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 91,
+      "snapshotDate": "2026-11-25"
+    },
+    {
       "id": "f37b7df7af2a",
       "title": "[경기교육청 소식] AX 시대 경기영어교육 대전환 포럼 개최 등",
       "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B2%BD%EA%B8%B0%EA%B5%90%EC%9C%A1%EC%B2%AD-%EC%86%8C%EC%8B%9D-ax-%EC%8B%9C%EB%8C%80-%EA%B2%BD%EA%B8%B0%EC%98%81%EC%96%B4%EA%B5%90%EC%9C%A1-%EB%8C%80%EC%A0%84%ED%99%98-%ED%8F%AC%EB%9F%BC-%EA%B0%9C%EC%B5%9C-%EB%93%B1/ar-AA2ia9Tc",
@@ -187,6 +229,20 @@
       "snapshotDate": "2026-11-25"
     },
     {
+      "id": "a0025b05488c",
+      "title": "대교협, 내달 11~13일 코엑스서 정시 박람회…전국 125개 대학 참가",
+      "url": "https://www.mt.co.kr/policy/2026/11/25/2026112513384986278",
+      "source": "머니투데이",
+      "kind": "domestic",
+      "publishedAt": "2026-11-24T15:52:00.000Z",
+      "description": "서울 코엑스에서 전국 125개 대학이 참여하는 정시 대학입학정보박람회가 열린다. 한국대학교육협의회(대교협)는 다음달 11일부터 13일까지 서울 강남구 코엑스 1층 A홀에서 '2027학년도 정시 대학입학정보박람회'를 개최한다고 25일 밝혔다.",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 87,
+      "score": 92,
+      "snapshotDate": "2026-11-25"
+    },
+    {
       "id": "418ebdd88b85",
       "title": "경기도교육청, 'AX 시대 경기영어교육 대전환 포럼' 개최…\"사교육 경감 해법 모색\"",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DQ1JBdERhc2R0aE8tWER3czFxQVBrd1E2ZG42YWNIOWZVYWpVemR0eUtqNTVYUmdXajQ4TUxFQjZCYmtzSTVtMVVKb1kxZHV0M29zdVU5eEtNSHBKR25uN2hqYXFQLW9BcVE?oc=5",
@@ -198,20 +254,6 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 82,
-      "snapshotDate": "2026-11-25"
-    },
-    {
-      "id": "546bc856c660",
-      "title": "경기도교육청, AI 영어학습 활용·사교육 경감 방안 논의",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53STRDcXNWMXpYTFVQcjlPVUozQ0oyeHdLS2ZUUm01QkJaRGljWlNmQ1M5Y1pFVWktVmUxM3NCVHVpdzZsNUZmdDlnWjg3NEF0RVFYRHlMSVpiOUF1alpmaGlidzNQZVUyWEpFcmxB?oc=5",
-      "source": "뉴스타운",
-      "kind": "domestic",
-      "publishedAt": "2026-11-24T14:53:13.000Z",
-      "description": "경기도교육청, AI 영어학습 활용·사교육 경감 방안 논의 뉴스타운",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 86,
       "snapshotDate": "2026-11-25"
     },
     {
@@ -240,6 +282,20 @@
       "feedProvider": "google",
       "policyRelevance": 75,
       "score": 91,
+      "snapshotDate": "2026-11-25"
+    },
+    {
+      "id": "3eef97753406",
+      "title": "경기도교육청 'AX 시대 경기영어교육 대전환 포럼'...사교육 경감 해법 모색",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UTmJ4emtmVENFY3ZGanRoUkcwOVB2aER6OGlGMm9qbnZBQXg5cEJYb0lVYWVkYXBIQTFJTE9kX0NkQmttZ01ZZWlIREZUVDlqalY0TjMtNG8yZ0RV?oc=5",
+      "source": "뉴스핌",
+      "kind": "domestic",
+      "publishedAt": "2026-11-24T09:29:00.000Z",
+      "description": "경기도교육청 'AX 시대 경기영어교육 대전환 포럼'...사교육 경감 해법 모색 뉴스핌",
+      "category": "입시·사교육",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 82,
       "snapshotDate": "2026-11-25"
     },
     {
@@ -310,20 +366,6 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 77,
-      "snapshotDate": "2026-11-25"
-    },
-    {
-      "id": "e5606f6acb07",
-      "title": "교육부, 한-아랍에미리트(UAE) 교육당국, 교육정책 교류를 통해 상호 이해와 협력 강화",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5icTdUUktoMmhvU3lUZmlDYlZVQVV3dnN4V1RvY01zMTBmdm91SDFITzFvRjBaYm84ek1xR2t3OFZWel9RY3pWdnBwdVhnWHV6anNrV0Fyc0xScmlJY1dqN1lpdjlRZ2tk?oc=5",
-      "source": "OTN뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-11-24T04:44:03.000Z",
-      "description": "교육부, 한-아랍에미리트(UAE) 교육당국, 교육정책 교류를 통해 상호 이해와 협력 강화 OTN뉴스",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 82,
       "snapshotDate": "2026-11-25"
     },
     {
@@ -569,8 +611,8 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 75,
-      "score": 77,
-      "snapshotDate": "2026-11-25"
+      "score": 87,
+      "snapshotDate": "2026-11-24"
     },
     {
       "id": "9997e5e284d8",
@@ -653,8 +695,8 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 75,
-      "score": 77,
-      "snapshotDate": "2026-11-25"
+      "score": 87,
+      "snapshotDate": "2026-11-24"
     },
     {
       "id": "5f159b95335e",
@@ -667,8 +709,8 @@
       "category": "유·초중등",
       "feedProvider": "google",
       "policyRelevance": 75,
-      "score": 77,
-      "snapshotDate": "2026-11-25"
+      "score": 87,
+      "snapshotDate": "2026-11-24"
     },
     {
       "id": "143223e6026f",
@@ -709,8 +751,8 @@
       "category": "AI·디지털",
       "feedProvider": "bing",
       "policyRelevance": 57,
-      "score": 77,
-      "snapshotDate": "2026-11-25"
+      "score": 87,
+      "snapshotDate": "2026-11-24"
     },
     {
       "id": "0a2ecfb118ec",
@@ -1021,20 +1063,6 @@
       "snapshotDate": "2026-11-25"
     },
     {
-      "id": "be31a484161f",
-      "title": "외국인 유학생 제도 어떻게 개선할까…대교협 정책포럼",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MWVgwclhDQWx4Z0ZMdTNha3RyeGNtWklNTm1zekZMNVFTbjFEaXlKRTkzTlVXTkR6cFU2dkloQjVWYUtqdHRZX1NhT1N6Z0xnWXFkSFFwTzRPNmvSAWBBVV95cUxOQkJ3ZDQ4NTFZb2dOajhBMzh4ZFpJT01wck1mOWtadEQwTVVxWllvTVY5ci1vYnVXY29tb1FqVzhza005ZldKVExBUWdIcmc4b21JZ3o0eTBnNXhQZC1haFo?oc=5",
-      "source": "연합뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-11-23T03:00:01.000Z",
-      "description": "외국인 유학생 제도 어떻게 개선할까…대교협 정책포럼 연합뉴스",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 75,
-      "score": 77,
-      "snapshotDate": "2026-11-25"
-    },
-    {
       "id": "452ef995a199",
       "title": "교육부, 교육 ODA 지원체계 개편 논의…AI·에듀테크 활용 확대 모색",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0a3RlbXB1Y1M0M3QzcUZhaWRERGtkQ19TRDFRQzdDcW0wNzRMRUs5OHNaMllqU01fcE4tU1pKMUh6eG5NdDk4QnZMSFZNN2Q0ZlVmRU10cHVXeXo4?oc=5",
@@ -1294,7 +1322,7 @@
       "feedProvider": "bing",
       "policyRelevance": 87,
       "score": 90,
-      "snapshotDate": "2026-11-24"
+      "snapshotDate": "2026-11-25"
     },
     {
       "id": "aab62f61e7d3",
@@ -1309,6 +1337,20 @@
       "policyRelevance": 45,
       "score": 73,
       "snapshotDate": "2026-11-23"
+    },
+    {
+      "id": "97ec521bcd1f",
+      "title": "최교진 후임 누가 될까…李 대선 교육 싱크탱크 인맥 주목",
+      "url": "https://www.msn.com/ko-kr/news/news/%EC%B5%9C%EA%B5%90%EC%A7%84-%ED%9B%84%EC%9E%84-%EB%88%84%EA%B0%80-%EB%90%A0%EA%B9%8C-%E6%9D%8E-%EB%8C%80%EC%84%A0-%EA%B5%90%EC%9C%A1-%EC%8B%B1%ED%81%AC%ED%83%B1%ED%81%AC-%EC%9D%B8%EB%A7%A5-%EC%A3%BC%EB%AA%A9/ar-AA2i1dCd",
+      "source": "뉴스1 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-22T20:38:04.000Z",
+      "description": "김영호·고민정·유은혜 등 정치권 인사부터 관료 출신까지박백범·홍창남·성기선도 물망…위기관리·개혁 실행력 관건 (서울=뉴스1) 김재현 기자 = 최교진 교육부 장관의 사퇴로 후임 인선에 관심이 쏠리고 있다. 대학수학능력시험 인공지능(AI) 부정행위 대응 부실로 교육행정의 신뢰가 흔들렸다. 위기 수습과 교육개혁을 동시에 이끌 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 81,
+      "snapshotDate": "2026-11-25"
     },
     {
       "id": "cf8f366b7783",
@@ -1601,7 +1643,7 @@
       "category": "입시·사교육",
       "feedProvider": "bing",
       "policyRelevance": 87,
-      "score": 90,
+      "score": 80,
       "snapshotDate": "2026-11-25"
     },
     {
@@ -8351,47 +8393,6 @@
       "feedProvider": "bing",
       "policyRelevance": 45,
       "score": 57,
-      "snapshotDate": "2026-11-05"
-    },
-    {
-      "id": "3509ad63cdeb",
-      "title": "2026년 전국 학교예술교육 축제 개최",
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107537&lev=0&m=020402",
-      "source": "교육부",
-      "kind": "official",
-      "publishedAt": "2026-11-02T09:00:00+09:00",
-      "description": "교육부 공식 보도자료",
-      "category": "유·초중등",
-      "policyRelevance": 100,
-      "score": 90,
-      "snapshotDate": "2026-11-09"
-    },
-    {
-      "id": "c528df9bcb57",
-      "title": "교육훈련부는 대학 등록금에 대한 검토 및 시정을 요청합니다.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSV95X09veUhhQnJzZnFYbFlhWHJ5Nm9DM1QzZThXMUc5MDJhRUZMcE83dzR0UHpvM19UMWpSdGZ2VjUyZGxERDRsbnBhY2lnRFZOZUc2MFNKQ1ZHWklJbW9DaTB2ZHdoVDVmd3d2SnMyU0FvWi1YV1YyeXVMbFBBZUZzSGRaNkE?oc=5",
-      "source": "Vietnam.vn",
-      "kind": "domestic",
-      "publishedAt": "2026-11-01T13:14:07.000Z",
-      "description": "교육훈련부는 대학 등록금에 대한 검토 및 시정을 요청합니다. Vietnam.vn",
-      "category": "고등교육",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 51,
-      "snapshotDate": "2026-11-05"
-    },
-    {
-      "id": "9d84f780498e",
-      "title": "2026년 11월부터 시행될 8가지 교육 정책.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV0E1ZHpLNll0N3NmUzlGa1NNWDYxaWp4cEg5dlUyNmRucmJLa1ZJZ0hURlN5bTFTcUp5dURneGZQWVdPdlJJY052YnhkTnplQ0Y1TElhSjF3TGxZMGJXRU9nbkVadkxLV1RqNkFfQlVpNWozcDQwZ3YxbExsRHNoLVhR?oc=5",
-      "source": "Vietnam.vn",
-      "kind": "domestic",
-      "publishedAt": "2026-11-01T12:03:35.000Z",
-      "description": "2026년 11월부터 시행될 8가지 교육 정책. Vietnam.vn",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 42,
-      "score": 56,
       "snapshotDate": "2026-11-05"
     }
   ]
