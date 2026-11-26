@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T03:42:00.121Z",
+  "generatedAt": "2026-11-26T04:22:27.711Z",
   "retentionDays": 30,
   "days": [
     "2026-11-26",
@@ -240,6 +240,20 @@
       "snapshotDate": "2026-11-26"
     },
     {
+      "id": "1d06c23acc02",
+      "title": "고교학점제 시행 2년차…교육부·평가원, 학교 운영 성과 공유",
+      "url": "https://view.asiae.co.kr/article/2026112520022938617",
+      "source": "아시아경제",
+      "kind": "domestic",
+      "publishedAt": "2026-11-25T08:00:00.000Z",
+      "description": "고교학점제가 전면 시행된 지 2년째를 맞아 학교별 운영 성과를 공유하는 자리가 마련된다. 26일 교육부와 한국교육과정평가원은 이날 서울 피스앤파크 컨벤션에서 '2026년 고교학점제 성과공유회'를 개최한다고 밝혔다.",
+      "category": "유·초중등",
+      "feedProvider": "bing",
+      "policyRelevance": 55,
+      "score": 82,
+      "snapshotDate": "2026-11-26"
+    },
+    {
       "id": "1f51e3d398c0",
       "title": "AI·디지털 교육 선도…대전시교육청 미래교육박람회 주목",
       "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2316301",
@@ -296,20 +310,6 @@
       "snapshotDate": "2026-11-26"
     },
     {
-      "id": "6cfe389c99e1",
-      "title": "제도 개선 및 교육 정책 시행의 병목 현상 제거.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR1NnN05wajltSk5sSEdLNDVZZk5wb0lOVERLbDM1a241S3E3a1ByOVg4ZVlzRldsRVl6elc5cXdWbm82eXVrdkthZjA4YVB4cHdqM3dKY1RHV2hrczBqT0ZtTVJBdmgxbUJRRnMyWVpmLXFpdnIzVmEwY3lfRjFWcTl6c19tcldqLU40SG12YTMzQ0lHaU96emFDc0tYREdweldF?oc=5",
-      "source": "Vietnam.vn",
-      "kind": "domestic",
-      "publishedAt": "2026-11-25T03:54:44.000Z",
-      "description": "제도 개선 및 교육 정책 시행의 병목 현상 제거. Vietnam.vn",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 42,
-      "score": 76,
-      "snapshotDate": "2026-11-26"
-    },
-    {
       "id": "fcdd32aeaf3c",
       "title": "영어교육도 AI 전환…경기도교육청, 교육격차 해소 나서",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iandnaXhEZ1lqVmFtS0J6ekhTelJITFdUT2xtdlRwd2V1dFVaUzZ6ckVmVWFsUG1oQjNvbE9ISXBnY0xwNzR5V0tEM0trWDdfcU1TOVBLaE82S1l2UEs2UU5QN2FJMkJHcHplWV9n?oc=5",
@@ -335,6 +335,20 @@
       "feedProvider": "bing",
       "policyRelevance": 77,
       "score": 82,
+      "snapshotDate": "2026-11-26"
+    },
+    {
+      "id": "96b76f50184d",
+      "title": "교육감들, 교부금 11.7조 보장 요구…학교시설 개선비도 40조",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jVHh5NDl5ZXcxQ0xraUdCSXY1blFjUU1WZkJNRGliNTFqSS1DX3J0SnRONEtwbUNweW1qM0daTWlyeVpKNFRxaGF0VUV5SkFxVXNVUWNDRFNIS2s?oc=5",
+      "source": "더에듀",
+      "kind": "domestic",
+      "publishedAt": "2026-11-25T00:55:00.000Z",
+      "description": "교육감들, 교부금 11.7조 보장 요구…학교시설 개선비도 40조 더에듀",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 76,
       "snapshotDate": "2026-11-26"
     },
     {
@@ -1150,8 +1164,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 76,
-      "snapshotDate": "2026-11-26"
+      "score": 86,
+      "snapshotDate": "2026-11-24"
     },
     {
       "id": "cacb11724e8c",
@@ -1347,7 +1361,7 @@
       "feedProvider": "bing",
       "policyRelevance": 75,
       "score": 81,
-      "snapshotDate": "2026-11-26"
+      "snapshotDate": "2026-11-25"
     },
     {
       "id": "780730d645d0",
@@ -1662,8 +1676,8 @@
       "category": "입시·사교육",
       "feedProvider": "bing",
       "policyRelevance": 87,
-      "score": 90,
-      "snapshotDate": "2026-11-25"
+      "score": 80,
+      "snapshotDate": "2026-11-26"
     },
     {
       "id": "aab62f61e7d3",
@@ -8369,21 +8383,6 @@
       "titleKo": "한국 유학생 30만 명 돌파, 양질의 교육 우선",
       "summaryKo": "국내 대학에서 공부하는 유학생 수가 올해 처음으로 30만 명을 돌파했습니다. 정부는 30만 명의 유학생을 유치하기 위해...",
       "snapshotDate": "2026-11-06"
-    },
-    {
-      "id": "bdf1a69732ad",
-      "title": "South Korea surpasses 300,000 international students, prioritizes quality education",
-      "url": "https://www.msn.com/en-xl/money/general/south-korea-surpasses-300-000-international-students-prioritizes-quality-education/ar-AA2gBBVH",
-      "source": "The Chosun Ilbo on MSN",
-      "kind": "foreign",
-      "publishedAt": "2026-11-02T14:50:26.000Z",
-      "description": "The number of international students studying at domestic universities has surpassed 300,000 people for the first time this year. The government had aimed to attract 300,000 international students by ...",
-      "category": "유·초중등",
-      "score": 30,
-      "originalTitle": "South Korea surpasses 300,000 international students, prioritizes quality education",
-      "titleKo": "한국 유학생 30만 명 돌파, 양질의 교육 우선",
-      "summaryKo": "국내 대학에서 공부하는 유학생 수가 올해 처음으로 30만 명을 돌파했습니다. 정부는 30만 명의 유학생을 유치하기 위해...",
-      "snapshotDate": "2026-11-10"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-26T03:41:28.903Z",
-  "generatedAtKST": "2026-11-26T12:41:26.049+09:00",
+  "generatedAt": "2026-11-26T04:13:38.165Z",
+  "generatedAtKST": "2026-11-26T13:13:35.121+09:00",
   "date": "2026-11-26",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
   "retentionDays": 30,
   "collectionHealth": {
     "officialLive": 10,
-    "domesticBing": 32,
-    "domesticGoogle": 179,
-    "foreignBing": 24,
-    "foreignGoogle": 125,
-    "carried": 182,
-    "rawUnique": 358,
-    "policyRejected": 195,
+    "domesticBing": 28,
+    "domesticGoogle": 171,
+    "foreignBing": 10,
+    "foreignGoogle": 171,
+    "carried": 262,
+    "rawUnique": 379,
+    "policyRejected": 217,
     "policyKept": 80
   },
   "briefing": [
@@ -484,6 +484,19 @@
       "score": 82
     },
     {
+      "id": "1d06c23acc02",
+      "title": "고교학점제 시행 2년차…교육부·평가원, 학교 운영 성과 공유",
+      "url": "https://view.asiae.co.kr/article/2026112520022938617",
+      "source": "아시아경제",
+      "kind": "domestic",
+      "publishedAt": "2026-11-25T08:00:00.000Z",
+      "description": "고교학점제가 전면 시행된 지 2년째를 맞아 학교별 운영 성과를 공유하는 자리가 마련된다. 26일 교육부와 한국교육과정평가원은 이날 서울 피스앤파크 컨벤션에서 '2026년 고교학점제 성과공유회'를 개최한다고 밝혔다.",
+      "category": "유·초중등",
+      "feedProvider": "bing",
+      "policyRelevance": 55,
+      "score": 82
+    },
+    {
       "id": "5330da48772b",
       "title": "지난해 수능 시험지 233개교에서 이미 폐기···교육부, 보관기간 1년→5년 연장 추진",
       "url": "https://www.msn.com/ko-kr/news/national/%EC%A7%80%EB%82%9C%ED%95%B4-%EC%88%98%EB%8A%A5-%EC%8B%9C%ED%97%98%EC%A7%80-233%EA%B0%9C%EA%B5%90%EC%97%90%EC%84%9C-%EC%9D%B4%EB%AF%B8-%ED%8F%90%EA%B8%B0-%EA%B5%90%EC%9C%A1%EB%B6%80-%EB%B3%B4%EA%B4%80%EA%B8%B0%EA%B0%84-1%EB%85%84-5%EB%85%84-%EC%97%B0%EC%9E%A5-%EC%B6%94%EC%A7%84/ar-AA2i9QW0",
@@ -614,19 +627,6 @@
       "score": 81
     },
     {
-      "id": "d8b25ba78f1e",
-      "title": "교육부 \"수능중 스마트기기 부정행위 5명 오늘 전원 고발\"",
-      "url": "https://www.yna.co.kr/view/AKR20261123085500530",
-      "source": "연합뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-11-23T03:56:00.000Z",
-      "description": "(세종=연합뉴스) 고상민 기자 = 교육부가 올해 대학수학능력시험에서 스마트기기를 이용해 부정행위를 하다 적발된 수험생 5명을 23일 전원 고발하기로 했다. 지난 주말 치러진 대학별 논술고사에서는 스마트기기를 활용한 부정행위가 확인되지 않았으며, 수능 부정행위 신고센터는 신고 기한이나 대상 연도에 제한을 두지 않고 운영하기로 했다. 교육부는 또 고(故) 이진 ...",
-      "category": "입시·사교육",
-      "feedProvider": "bing",
-      "policyRelevance": 75,
-      "score": 81
-    },
-    {
       "id": "6d8c50d4c4d6",
       "title": "교육부, 수능 'AI 부정행위' 5명 형사고발…과거 비위도 조사 착수",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fODBmUGVFWm55VVJxV1F0bDV4VzFYRGVoalVSbTRPeEl0U3BFVzRKN01QcDJXYkc1TTJpRzNHZ2NzWkRhMHBrR0VGY21aQ3laVGZGV2Jrbm10ZG0tSFpLMlNXNWlXbnpiNENUONIBcEFVX3lxTFBvVUM2NXMtemtoSTVVOFlZRnpZaFlpQUpFWUlidDNIMVNkamJKZEVUSTNMNHY5bV9vaGFubHVjQU5BNm5QQ0FwVVA2OUNrLUVCSkM2Tll1Mk9td0QxZ2hYcjNmRlZBXzFpR2NaQkxTeEs?oc=5",
@@ -702,6 +702,19 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
+      "score": 80
+    },
+    {
+      "id": "602bbac7f399",
+      "title": "[속보] 교육부, 수능 스마트기기 부정행위 수험생 5명 오늘 전원 고발",
+      "url": "https://www.msn.com/ko-kr/news/news/%EC%86%8D%EB%B3%B4-%EA%B5%90%EC%9C%A1%EB%B6%80-%EC%88%98%EB%8A%A5-%EC%8A%A4%EB%A7%88%ED%8A%B8%EA%B8%B0%EA%B8%B0-%EB%B6%80%EC%A0%95%ED%96%89%EC%9C%84-%EC%88%98%ED%97%98%EC%83%9D-5%EB%AA%85-%EC%98%A4%EB%8A%98-%EC%A0%84%EC%9B%90-%EA%B3%A0%EB%B0%9C/ar-AA2i1vUW",
+      "source": "강원도민일보 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-22T20:56:36.000Z",
+      "description": "교육부가 2027학년도 대학수학능력시험에서 스마트기기를 이용해 부정행위를 저지른 수험생 5명을 전원 고발하기로 했다. 과거 수능에서 발생한 부정행위 의혹도 신고할 수 있도록 신고센터 운영 범위를 확대하고, 신고 기한도 별도로 두지 않기로 했다.신진용 교육부 대입정책과장은 23일 정부세종청사에서 열린 정례브리핑에서 수능 시험 중 스마트기기를 활용하다 적발된 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 87,
       "score": 80
     },
     {
@@ -926,19 +939,6 @@
       "score": 76
     },
     {
-      "id": "6cfe389c99e1",
-      "title": "제도 개선 및 교육 정책 시행의 병목 현상 제거.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR1NnN05wajltSk5sSEdLNDVZZk5wb0lOVERLbDM1a241S3E3a1ByOVg4ZVlzRldsRVl6elc5cXdWbm82eXVrdkthZjA4YVB4cHdqM3dKY1RHV2hrczBqT0ZtTVJBdmgxbUJRRnMyWVpmLXFpdnIzVmEwY3lfRjFWcTl6c19tcldqLU40SG12YTMzQ0lHaU96emFDc0tYREdweldF?oc=5",
-      "source": "Vietnam.vn",
-      "kind": "domestic",
-      "publishedAt": "2026-11-25T03:54:44.000Z",
-      "description": "제도 개선 및 교육 정책 시행의 병목 현상 제거. Vietnam.vn",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 42,
-      "score": 76
-    },
-    {
       "id": "fcdd32aeaf3c",
       "title": "영어교육도 AI 전환…경기도교육청, 교육격차 해소 나서",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iandnaXhEZ1lqVmFtS0J6ekhTelJITFdUT2xtdlRwd2V1dFVaUzZ6ckVmVWFsUG1oQjNvbE9ISXBnY0xwNzR5V0tEM0trWDdfcU1TOVBLaE82S1l2UEs2UU5QN2FJMkJHcHplWV9n?oc=5",
@@ -947,6 +947,19 @@
       "publishedAt": "2026-11-25T03:13:00.000Z",
       "description": "영어교육도 AI 전환…경기도교육청, 교육격차 해소 나서 뉴스후플러스",
       "category": "AI·디지털",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 76
+    },
+    {
+      "id": "96b76f50184d",
+      "title": "교육감들, 교부금 11.7조 보장 요구…학교시설 개선비도 40조",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jVHh5NDl5ZXcxQ0xraUdCSXY1blFjUU1WZkJNRGliNTFqSS1DX3J0SnRONEtwbUNweW1qM0daTWlyeVpKNFRxaGF0VUV5SkFxVXNVUWNDRFNIS2s?oc=5",
+      "source": "더에듀",
+      "kind": "domestic",
+      "publishedAt": "2026-11-25T00:55:00.000Z",
+      "description": "교육감들, 교부금 11.7조 보장 요구…학교시설 개선비도 40조 더에듀",
+      "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 76
@@ -1041,19 +1054,6 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 76
-    },
-    {
-      "id": "389e507b88c2",
-      "title": "교육부, 수능 스마트기기 부정행위 5명 전원 고발",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kX3luV3paM3ItZTZFRXY3SWN5bGJfZzVrejVoVjl2d2d3ZmRFRlJkeVdtNTQyZVBKWXdoLUVzRzV3ZUZMX0ZGNWhvUlcxU21sRlVoSFg2MUZsUWFZNnZEd1ljSlNGTkhy?oc=5",
-      "source": "대경일보",
-      "kind": "domestic",
-      "publishedAt": "2026-11-23T07:43:43.000Z",
-      "description": "교육부, 수능 스마트기기 부정행위 5명 전원 고발 대경일보",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 76
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -1063,7 +1063,7 @@
     "throughDate": "2026-11-26",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-11-24T15:00:00.000Z",
-    "windowEnd": "2026-11-26T03:41:28.903Z",
+    "windowEnd": "2026-11-26T04:13:38.165Z",
     "itemIds": [
       "7a7adbe7bcca",
       "6dc65ac4c562",
@@ -1084,6 +1084,7 @@
       "56d03ac8b19b",
       "f1f1624bb9af",
       "61ca8012662e",
+      "1d06c23acc02",
       "5330da48772b",
       "a0025b05488c",
       "e4b334f3de8c",
@@ -1096,17 +1097,17 @@
       "bc720f0855e6",
       "bb0f9245ebc3",
       "f1488e640bdc",
-      "6cfe389c99e1",
-      "fcdd32aeaf3c"
+      "fcdd32aeaf3c",
+      "96b76f50184d"
     ],
     "stats": {
-      "total": 33,
+      "total": 34,
       "official": 7,
-      "domestic": 26,
+      "domestic": 27,
       "foreign": 0
     },
     "headline": "오늘 아침 교육뉴스는 입시·사교육·AI·디지털·교원·조직 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 33건이 확인됐습니다. 교육부는 아이들의 상처 난 마음, 현장의 세심한 손길로 보듬다, “아이의 성장 속도를 지켜주세요” 영유아 사교육 개선을 위한 공동 실천 약속와 수업을 바꾸는 교사들, 교실 너머로 변화를 나누다 등을 공식 발표했습니다. 국내 언론에서는 강은희 대구교육감 1인 시위 지방교육재정 상생안 입법 촉구와 교육부, 수능 부정행위 사후 검증 5년으로 확대 등이 주요하게 다뤄졌습니다. 전체적으로는 입시·사교육·AI·디지털·교원·조직 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 34건이 확인됐습니다. 교육부는 아이들의 상처 난 마음, 현장의 세심한 손길로 보듬다, “아이의 성장 속도를 지켜주세요” 영유아 사교육 개선을 위한 공동 실천 약속와 수업을 바꾸는 교사들, 교실 너머로 변화를 나누다 등을 공식 발표했습니다. 국내 언론에서는 강은희 대구교육감 1인 시위 지방교육재정 상생안 입법 촉구와 교육부, 수능 부정행위 사후 검증 5년으로 확대 등이 주요하게 다뤄졌습니다. 전체적으로는 입시·사교육·AI·디지털·교원·조직 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "입시·사교육",
@@ -1139,10 +1140,11 @@
       },
       {
         "title": "유·초중등",
-        "summary": "교육부는 시도교육청과 함께 안정적 학교 운영에 만전을 기하겠습니다",
+        "summary": "교육부는 시도교육청과 함께 안정적 학교 운영에 만전을 기하겠습니다 · 고교학점제 시행 2년차…교육부·평가원, 학교 운영 성과 공유",
         "why": "학교 현장 적용과 학생·학부모 영향이 큰 영역으로 시행 과정과 현장 수용성을 함께 볼 필요가 있습니다.",
         "sources": [
-          "교육부"
+          "교육부",
+          "아시아경제"
         ]
       }
     ],
