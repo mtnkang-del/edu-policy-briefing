@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T03:42:44.211Z",
+  "generatedAt": "2026-11-27T04:21:12.012Z",
   "retentionDays": 30,
   "days": [
     "2026-11-27",
@@ -117,6 +117,20 @@
       "snapshotDate": "2026-11-27"
     },
     {
+      "id": "02192e07d627",
+      "title": "장비·인력도 없이 내신 스마트기기 전수검사?…국회 교육위, 교육부 AI 부정행위 방지 대책 실효성 도마 위",
+      "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EC%9E%A5%EB%B9%84-%EC%9D%B8%EB%A0%A5%EB%8F%84-%EC%97%86%EC%9D%B4-%EB%82%B4%EC%8B%A0-%EC%8A%A4%EB%A7%88%ED%8A%B8%EA%B8%B0%EA%B8%B0-%EC%A0%84%EC%88%98%EA%B2%80%EC%82%AC-%EA%B5%AD%ED%9A%8C-%EA%B5%90%EC%9C%A1%EC%9C%84-%EA%B5%90%EC%9C%A1%EB%B6%80-ai-%EB%B6%80%EC%A0%95%ED%96%89%EC%9C%84-%EB%B0%A9%EC%A7%80-%EB%8C%80%EC%B1%85-%EC%8B%A4%ED%9A%A8%EC%84%B1-%EB%8F%84%EB%A7%88-%EC%9C%84/ar-AA2ik2Gl",
+      "source": "아주경제 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-26T18:59:57.000Z",
+      "description": "최은옥 교육부 차관이 대학수학능력시험(수능) 부정행위 사태와 관련해 인공지능(AI) 등 첨단기기 활용 부정행위 대응 방안을 국회에 보고했으나, 여야 의원들은 장비와 인력조차 뒷받침되지 않은 대책의 실효성과 학교 현장의 괴리를 질타했다.27일 오전 국회에서 열린 제439 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 95,
+      "snapshotDate": "2026-11-27"
+    },
+    {
       "id": "4d66571bc9e8",
       "title": "수능 부정행위 1년새 70% 급증… 스마트기기·카메라 악용 6명 형사고발",
       "url": "https://www.msn.com/ko-kr/news/other/%EC%88%98%EB%8A%A5-%EB%B6%80%EC%A0%95%ED%96%89%EC%9C%84-1%EB%85%84%EC%83%88-70-%EA%B8%89%EC%A6%9D-%EC%8A%A4%EB%A7%88%ED%8A%B8%EA%B8%B0%EA%B8%B0-%EC%B9%B4%EB%A9%94%EB%9D%BC-%EC%95%85%EC%9A%A9-6%EB%AA%85-%ED%98%95%EC%82%AC%EA%B3%A0%EB%B0%9C/ar-AA2ikBCu",
@@ -170,6 +184,20 @@
       "feedProvider": "bing",
       "policyRelevance": 77,
       "score": 100,
+      "snapshotDate": "2026-11-27"
+    },
+    {
+      "id": "fe10ba6eda90",
+      "title": "“유치원·어린이집 다른 장애영유아 교육 격차? 동등한 교육권 보장돼야”",
+      "url": "https://www.ablenews.co.kr/news/articleView.html?idxno=234918",
+      "source": "에이블뉴스",
+      "kind": "domestic",
+      "publishedAt": "2026-11-26T12:25:00.000Z",
+      "description": "【에이블뉴스 이슬기 기자】국회 보건복지위원회 소속 서미화 의원(더불어민주당)이 고민정·이인선·조지연 의원과 함께 지난 26일 국회의원회관에서 ‘장애영유아 유보 지원 격차 해소를 위한 정책 토론회’를 개최했다. 이번 토론회는 전국장애아동보육제공기관협의회와 장보협 사회적협동조합이 공동 주관했다.2024년 6월 영유아 보육 사무가 교육부로 일원화되며 유보통합이 ...",
+      "category": "유·초중등",
+      "feedProvider": "bing",
+      "policyRelevance": 77,
+      "score": 88,
       "snapshotDate": "2026-11-27"
     },
     {
@@ -988,7 +1016,7 @@
       "category": "AI·디지털",
       "feedProvider": "bing",
       "policyRelevance": 87,
-      "score": 86,
+      "score": 76,
       "snapshotDate": "2026-11-27"
     },
     {
@@ -1318,20 +1346,6 @@
       "snapshotDate": "2026-11-27"
     },
     {
-      "id": "1f07769d204b",
-      "title": "교육부, 수능 AI 커닝 5명 형사고발…과거 부정행위도 캔다(종합) > 뉴스포커스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHUmc2em1GdWV5R2VSdEtZRWhMLXdoNFc0cURrX3VIZTJhVFJZQnQwWHZTX1JRQ2RwWlViX1QzWUhNXzNDUWFvZWpSa3MxVGNDNkVsb2hhZU41VzJtYXZrQlJIZkR0aXdtbm1QalltcllFSFE?oc=5",
-      "source": "SeattleN",
-      "kind": "domestic",
-      "publishedAt": "2026-11-23T19:55:30.000Z",
-      "description": "교육부, 수능 AI 커닝 5명 형사고발…과거 부정행위도 캔다(종합) > 뉴스포커스 SeattleN",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 70,
-      "snapshotDate": "2026-11-27"
-    },
-    {
       "id": "025b1760d394",
       "title": "교육부, 수능서 스마트기기 쓴 5명 고발… 과거 의심 사례도 접수",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SRjJPZHVNMmNlOGJhazlHTXRXbXBrZ2huYWtYSW5EOW9nMV9EdW9wLW1jRlpyVW1qQVJQOVl3bjcybzZQWEFJZWpEOHZVSGhPZGo4RUFmUFJyTUxtbG1Fd09aVHpOZkRlVTFiODUxQklubURDOFHSAWZBVV95cUxNXzZSNWxLR2pnMXFvdjVDTmtCYnFrX1pSSjc0Z2ljUVVJaUpCWWlzcmV5Zi1fZ3ZVXzZYc204WVRHcnZ0aTNMeUxsb3BPYXlReUpWRHZDdk8yXzkzMlQ5VGFwMDQ3VFE?oc=5",
@@ -1384,8 +1398,8 @@
       "category": "입시·사교육",
       "feedProvider": "bing",
       "policyRelevance": 65,
-      "score": 70,
-      "snapshotDate": "2026-11-27"
+      "score": 80,
+      "snapshotDate": "2026-11-26"
     },
     {
       "id": "f8e4d87da6a5",
@@ -1608,8 +1622,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 70,
-      "snapshotDate": "2026-11-27"
+      "score": 80,
+      "snapshotDate": "2026-11-26"
     },
     {
       "id": "0de834ed8699",
@@ -1640,6 +1654,20 @@
       "snapshotDate": "2026-11-24"
     },
     {
+      "id": "d0df2be044e2",
+      "title": "스마트 안경·쌀알 이어폰 끼고 수능...\"중대 부정행위 5명 고발\"",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%95%88%EA%B2%BD-%EC%8C%80%EC%95%8C-%EC%9D%B4%EC%96%B4%ED%8F%B0-%EB%81%BC%EA%B3%A0-%EC%88%98%EB%8A%A5-%EC%A4%91%EB%8C%80-%EB%B6%80%EC%A0%95%ED%96%89%EC%9C%84-5%EB%AA%85-%EA%B3%A0%EB%B0%9C/ar-AA2i1goK",
+      "source": "머니투데이 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-23T06:25:00.000Z",
+      "description": "교육부가 2027학년도 대학수학능력시험(수능)에서 스마트기기 사용이 명확히 확인된 수험생 5명을 23일 전원 고발하기로 했다. 신진용 교육부 대입정책과장은 이날 정부세종청사에서 열린 정례브리핑에서 \"19일 치러진 수능에서 스마트기기 활용 부정행위가 확인된 5명 중 일부는 경찰 조사를 받고 있다\"며 \"아직 조치가 이뤄지지 않은 수험생에 대해서는 오늘 중 고발 ...",
+      "category": "입시·사교육",
+      "feedProvider": "bing",
+      "policyRelevance": 75,
+      "score": 75,
+      "snapshotDate": "2026-11-27"
+    },
+    {
       "id": "3d6f06571055",
       "title": "교육부, 수능 AI 커닝 5명 형사고발···과거 부정행위도 캔다",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IRkJHUTBwWjRqNU5IQk81bXBqMVBfNk9yUzhmZzNVb2FhOHgyc2hmREhlM2l6blNwNkhoeE9YWFNER2RDTnpfOHhIX0FWcW1uYmFCSEU0azdjQll6WlNlYzJuWkMxZEtNd0d1cw?oc=5",
@@ -1650,8 +1678,8 @@
       "category": "입시·사교육",
       "feedProvider": "google",
       "policyRelevance": 65,
-      "score": 70,
-      "snapshotDate": "2026-11-27"
+      "score": 80,
+      "snapshotDate": "2026-11-26"
     },
     {
       "id": "850eeefdf6b4",
@@ -1734,8 +1762,8 @@
       "category": "입시·사교육",
       "feedProvider": "bing",
       "policyRelevance": 75,
-      "score": 85,
-      "snapshotDate": "2026-11-26"
+      "score": 75,
+      "snapshotDate": "2026-11-27"
     },
     {
       "id": "d8b25ba78f1e",
@@ -8343,34 +8371,6 @@
       "feedProvider": "bing",
       "policyRelevance": 75,
       "score": 79,
-      "snapshotDate": "2026-11-07"
-    },
-    {
-      "id": "5f0a16740162",
-      "title": "교육부, 학교 디지털 미디어 문해교육 체계 마련…수업자료 보급",
-      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B5%90%EC%9C%A1%EB%B6%80-%ED%95%99%EA%B5%90-%EB%94%94%EC%A7%80%ED%84%B8-%EB%AF%B8%EB%94%94%EC%96%B4-%EB%AC%B8%ED%95%B4%EA%B5%90%EC%9C%A1-%EC%B2%B4%EA%B3%84-%EB%A7%88%EB%A0%A8-%EC%88%98%EC%97%85%EC%9E%90%EB%A3%8C-%EB%B3%B4%EA%B8%89/ar-AA2gGYxS",
-      "source": "조선에듀 on MSN",
-      "kind": "domestic",
-      "publishedAt": "2026-11-03T16:44:44.000Z",
-      "description": "교육부는 지난 3일 ‘학교 디지털 미디어 문해교육 기본계획’을 지난 3일 발표했다. 이번 기본계획은 소셜미디어와 인공지능(AI)의 발달로 학생들의 정보 접근과 사회 참여 기회가 늘어나는 동시에 온라인상 허위·조작 정보도 증가하는 상황에 대응하기 위해 ...",
-      "category": "AI·디지털",
-      "feedProvider": "bing",
-      "policyRelevance": 57,
-      "score": 67,
-      "snapshotDate": "2026-11-07"
-    },
-    {
-      "id": "82163a5f9786",
-      "title": "교육부, '학교 디지털 미디어 문해교육 기본계획' 발표…비판적 미디어 이해·민주적 소통 역량 강화",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ETU1SZV9Rd0R6ckN3LWo1TWhwU2R2cDYwcm5zUmNQdkFoLVliM1pqSkF0c3ZTZE5Ld2dwNVNhSUFVN3dDVmwyV3hkaHIzNFptS0F4UEN1UGI4UHFIaXdSdmdFNEpVQmhNT1lB0gFvQVVfeXFMTWdvRFZKTTlsakx5M29aU0xBaXV5NXNOUHFKMXJDZ0dKalViVWFfckc1ekdPVmpxNlQ3SUdZTWMtc1A4ZmE1alNvSkRiaDB0QWpOVVdBeFdubzIwZ2N0a2lxYnh6MGdMc1hMbUtoS2hr?oc=5",
-      "source": "더브리프뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-11-03T15:01:19.000Z",
-      "description": "교육부, '학교 디지털 미디어 문해교육 기본계획' 발표…비판적 미디어 이해·민주적 소통 역량 강화 더브리프뉴스",
-      "category": "AI·디지털",
-      "feedProvider": "google",
-      "policyRelevance": 47,
-      "score": 58,
       "snapshotDate": "2026-11-07"
     }
   ]
