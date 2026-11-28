@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T03:25:18.572Z",
+  "generatedAt": "2026-11-28T04:06:08.966Z",
   "retentionDays": 30,
   "days": [
     "2026-11-28",
@@ -35,6 +35,20 @@
   ],
   "items": [
     {
+      "id": "e02555bafcc3",
+      "title": "쩐 탄 만 국회 의장: 우리는 올바른 정책이 효과를 발휘하는 데 시간이 오래 걸리도록 내버려둬서는 안 됩니다.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWpsMklzaUdOTHFYSWlIX1ZLdWthcnBEUmJybkZrQXdBeDRkbDRLLUdaTTdpNlg5NllteDhVdlFhNmNzWWFxOURwbGt5UVlXbERpNkRtMnEtSXRDMzBfbWdHOU1NcnR3YWl6bVhpMjF2MHNHRlBVZUZoVmZMWk9uYjRlQi05STdnaVB0OWxWdGdIbFJ3YmxyaXhnTTg4VmQtVFlqZmtLZEdqQQ?oc=5",
+      "source": "Vietnam.vn",
+      "kind": "domestic",
+      "publishedAt": "2026-11-27T15:24:12.000Z",
+      "description": "쩐 탄 만 국회 의장: 우리는 올바른 정책이 효과를 발휘하는 데 시간이 오래 걸리도록 내버려둬서는 안 됩니다. Vietnam.vn",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 82,
+      "snapshotDate": "2026-11-28"
+    },
+    {
       "id": "2c0a08d61b35",
       "title": "[현장영상] 수능 부정행위 474건, 1년 새 195건 늘어… 교육부 \"응시 제한 10년으로 상향\"",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fdVV6VG40RTJQZHhoZFppWU12Vm90UHZxd0t2QUp4cmFhVW5WeGYycXFyMHc2RUVTX2Jmc0hqcVh1VUNfZzVMSDN1N2dWa2RFUHpQX2hSY3RkeldBYjN3SA?oc=5",
@@ -46,6 +60,20 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 86,
+      "snapshotDate": "2026-11-28"
+    },
+    {
+      "id": "c5edc4f1b11e",
+      "title": "국회의장: 우리는 정책이 제대로 시행되더라도 조정 부족으로 인해 효과가 나타나는 데 시간이 오래 걸리는 것을 용납해서는 안 됩니다.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQalBxRjBZcmpkckhrVHJqQy1xV3lvc2RlaFlOVmV0YTYwRkZDRkRPX2U4TWdsZmtlZ3EwM1BBT3RrelZfajk4NmljLUgxczBydFdpeExPVEFwc3JCQ0tGSmxNNF9jY3hfRXlXSkczczl4WXdvdmx5aEZnaE9ETFNsbVA2aVhxWVZ1OUFPdVh2ZlNFVl9Fcm5ld29ieWMyNmI3WDBQVVB3VUIxTkcwV2xpeEFKZ0NyTXc?oc=5",
+      "source": "Vietnam.vn",
+      "kind": "domestic",
+      "publishedAt": "2026-11-27T13:13:27.000Z",
+      "description": "국회의장: 우리는 정책이 제대로 시행되더라도 조정 부족으로 인해 효과가 나타나는 데 시간이 오래 걸리는 것을 용납해서는 안 됩니다. Vietnam.vn",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 77,
+      "score": 92,
       "snapshotDate": "2026-11-28"
     },
     {
@@ -133,6 +161,20 @@
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 77,
+      "snapshotDate": "2026-11-28"
+    },
+    {
+      "id": "71a4f36fede0",
+      "title": "정부는 공립 대학 수를 최소 20% 줄일 것을 요구했다.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU1RhdjBCSUFmaXVyajZweWdDbDRHZXhNTkVLckwtTzFYSjNZZ3FubmNlaFVMbUM3Ujg1Q2Jpb2NDQ1ZobUVTRHZ5dDZoZG9na2N6RlYyYkp0TWFVNWwyQkg2dklncVFjdEY1Q2Q2QjBUcUl3dWRiekFtX2RGME1uc1Q2ZkVBdnk5UUlGaDhDZw?oc=5",
+      "source": "Vietnam.vn",
+      "kind": "domestic",
+      "publishedAt": "2026-11-27T11:17:18.000Z",
+      "description": "정부는 공립 대학 수를 최소 20% 줄일 것을 요구했다. Vietnam.vn",
+      "category": "고등교육",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 73,
       "snapshotDate": "2026-11-28"
     },
     {
@@ -430,7 +472,7 @@
     {
       "id": "1b3cf3d6483c",
       "title": "충청권 4개 교육청, AI 교육 협력체계 구축…미래교육 공동 대응",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%B6%A9%EC%B2%AD%EA%B6%8C-4%EA%B0%9C-%EA%B5%90%EC%9C%A1%EC%B2%AD-ai-%EA%B5%90%EC%9C%A1-%ED%98%91%EB%A0%A5%EC%B2%B4%EA%B3%84-%EA%B5%AC%EC%B6%95-%EB%AF%B8%EB%9E%98%EA%B5%90%EC%9C%A1-%EA%B3%B5%EB%8F%99-%EB%8C%80%EC%9D%91/ar-AA2ike5U",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%B6%A9%EC%B2%AD%EA%B6%8C-4%EA%B0%9C-%EA%B5%90%EC%9C%A1%EC%B2%AD-ai-%EA%B5%90%EC%9C%A1-%ED%98%91%EB%A0%A5%EC%B2%B4%EA%B3%84-%EA%B5%AC%EC%B6%95-%EB%AF%B8%EB%9E%98%EA%B5%90%EC%9C%A1-%EA%B3%B5%EB%8F%99-%EB%8C%80%EC%9D%91/ar-AA2ike5U",
       "source": "뉴스핌 on MSN",
       "kind": "domestic",
       "publishedAt": "2026-11-26T16:25:07.000Z",
@@ -440,6 +482,20 @@
       "policyRelevance": 65,
       "score": 76,
       "snapshotDate": "2026-11-28"
+    },
+    {
+      "id": "1b3cf3d6483c",
+      "title": "충청권 4개 교육청, AI 교육 협력체계 구축…미래교육 공동 대응",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%B6%A9%EC%B2%AD%EA%B6%8C-4%EA%B0%9C-%EA%B5%90%EC%9C%A1%EC%B2%AD-ai-%EA%B5%90%EC%9C%A1-%ED%98%91%EB%A0%A5%EC%B2%B4%EA%B3%84-%EA%B5%AC%EC%B6%95-%EB%AF%B8%EB%9E%98%EA%B5%90%EC%9C%A1-%EA%B3%B5%EB%8F%99-%EB%8C%80%EC%9D%91/ar-AA2ike5U",
+      "source": "뉴스핌 on MSN",
+      "kind": "domestic",
+      "publishedAt": "2026-11-26T16:25:07.000Z",
+      "description": "[청주=뉴스핌] 백운학 기자 = 충청권 4개 교육청이 인공지능(AI) 교육의 공동 발전을 위해 협력체계를 구축하고 미래교육 정책 연계에 나선다. 27일 충북교육청에 따르면 충북·대전·세종·충남교육청은 이날 청주 오스코에서 열리는 '2026 AI·디지털 기반 교육혁신 수업 박람회(AI-ONE FESTIVAL)'와 연계해 ...",
+      "category": "AI·디지털",
+      "feedProvider": "bing",
+      "policyRelevance": 65,
+      "score": 86,
+      "snapshotDate": "2026-11-27"
     },
     {
       "id": "2b075df18392",
@@ -565,6 +621,20 @@
       "feedProvider": "google",
       "policyRelevance": 65,
       "score": 72,
+      "snapshotDate": "2026-11-28"
+    },
+    {
+      "id": "2b725534b4b8",
+      "title": "정근식 교육감, 순직교원 추모 ‘숭고한 등불’ 발족식 참석",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwZmtQUFU3YzhjaEs3TUVqTWhXWXVySEx0S0xBWko3aFZyeHNoU3RzS2c4dmI2aVVOblQ5anRibURBamkzcjJyX3ZvdUNzVnlpS0dpSXdzaVVMbEVGSlZCb1piZnp1dw?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-11-26T01:19:19.000Z",
+      "description": "정근식 교육감, 순직교원 추모 ‘숭고한 등불’ 발족식 참석 한국대학신문",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 67,
       "snapshotDate": "2026-11-28"
     },
     {
@@ -744,20 +814,6 @@
       "snapshotDate": "2026-11-28"
     },
     {
-      "id": "cf740e851220",
-      "title": "수능 시험지 5년 보관 추진…\"부정행위 끝까지 추적\"",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xaFNhLWFmaU5FVnlBVjd3akdaWUNlaVdGNnFRazlHRjY3QjNYbjh5RW0tbHBQZGQzaC12eWh1R0xucVMxVWpSQXJZMlA1b2F1alhZYVp6VnBvcThTUm0tRUpLanVkdWNZX2VYcA?oc=5",
-      "source": "대한민국 정책브리핑",
-      "kind": "domestic",
-      "publishedAt": "2026-11-25T15:07:01.000Z",
-      "description": "수능 시험지 5년 보관 추진…\"부정행위 끝까지 추적\" 대한민국 정책브리핑",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 42,
-      "score": 66,
-      "snapshotDate": "2026-11-28"
-    },
-    {
       "id": "6b0f33dfd13a",
       "title": "대전시교육청, ‘AI 시대 디지털교육’ 원탁회의 성료...학생·학부모·교사 한자리에",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GSXhLSHhQOVFYakJLekpidFpJZHRXV3ZQczdBNnJEVHExbVVhOXNNSGd6a3phLXhiSWdtLU83ejhBLWNBTjREUjR2VnVyOS10M2p6SXY5ZkNaQkZuOHRZaVllMXpjY1NEcHF4SzdQMlJ6VTdKa3owbGxTNzc0RG_SAX9BVV95cUxNRkl4S0h4UDlRWGpCS3pKYnRaSWR0V1d2UHM3QTZyRFRxMW1VYTlzTUhnemt6YS14YklnbS1PN3o4QS1jQU40RFI0dlZ1cjktdDNqekl2OWZDWkJGbjh0WWlZZTF6Y2NTRHBxeEs3UDJSelU3Smt6MGxsUzc3NERv?oc=5",
@@ -796,8 +852,8 @@
       "category": "입시·사교육",
       "feedProvider": "bing",
       "policyRelevance": 52,
-      "score": 66,
-      "snapshotDate": "2026-11-28"
+      "score": 76,
+      "snapshotDate": "2026-11-26"
     },
     {
       "id": "66c06545dd0e",
@@ -1341,21 +1397,7 @@
       "feedProvider": "bing",
       "policyRelevance": 87,
       "score": 76,
-      "snapshotDate": "2026-11-28"
-    },
-    {
-      "id": "e27ea3f740ff",
-      "title": "교육부, 수능 부정행위 대응팀 본격 가동",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vSXpfS1FTRnBZYms3QUNrcDlHVDdadVdsbUdDUDlQandwSXBYTXF1OG51emxlUnJjaHh6SFFDdnBYbWdtb0tCZWtjUGVkUk15YlRxSVdsNGdUckNJc2VYRUN5WFNSV0VkaWFjSdIBcEFVX3lxTE92TTd3UWVjRldpT09YREZ3UHN0UDBKMlhtVnhNVk9meFZPQlphd2VxenZ6aUhOczNxZlhFYklEVUFqUFdpTlRnbUs5SGR4OXY4VFIwODZ1MFpEU3JzX2RkbHh4QkFoaXdtUkswbUxuU0c?oc=5",
-      "source": "대학IN",
-      "kind": "domestic",
-      "publishedAt": "2026-11-24T03:30:52.000Z",
-      "description": "교육부, 수능 부정행위 대응팀 본격 가동 대학IN",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 75,
-      "score": 71,
-      "snapshotDate": "2026-11-28"
+      "snapshotDate": "2026-11-27"
     },
     {
       "id": "481a75a54b6f",
@@ -8333,48 +8375,6 @@
       "feedProvider": "bing",
       "policyRelevance": 65,
       "score": 66,
-      "snapshotDate": "2026-11-09"
-    },
-    {
-      "id": "2acbe5683826",
-      "title": "전북교육청, 14일 ‘AI교육 이음마당’…내년 교육정책 방향 모색",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IWXpVSzgzbUhTM1FOUnZreGdKNHhuVm1sa01MVkJHME4wN0xVdzViNi1CdTJ2czFtZkdnbG9TbGhPWGROWTI1VVpuR09DUFd2a3d1WHItak80a3ZsYlk3cGFjblA3QVpvOEY2ZXJ3?oc=5",
-      "source": "아시아투데이",
-      "kind": "domestic",
-      "publishedAt": "2026-11-05T05:35:39.000Z",
-      "description": "전북교육청, 14일 ‘AI교육 이음마당’…내년 교육정책 방향 모색 아시아투데이",
-      "category": "기타",
-      "feedProvider": "google",
-      "policyRelevance": 65,
-      "score": 66,
-      "snapshotDate": "2026-11-09"
-    },
-    {
-      "id": "f748e5d0d120",
-      "title": "김정우 시의원 \"교사 처우 개선·교육부 관료 독점 해소해야\"",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RWmZiLXdVbFhXWXlPaTllRE1NN3NWcmVpNnV2NThmUFhJemI4NEJFeHI4V2tNRUtDTHJvRUUyRzRtdzdQaHkwU1VYNjBQVzhiZDRuOEVnOWJxTE1w?oc=5",
-      "source": "뉴스핌",
-      "kind": "domestic",
-      "publishedAt": "2026-11-05T04:37:00.000Z",
-      "description": "김정우 시의원 \"교사 처우 개선·교육부 관료 독점 해소해야\" 뉴스핌",
-      "category": "교원·조직",
-      "feedProvider": "google",
-      "policyRelevance": 45,
-      "score": 53,
-      "snapshotDate": "2026-11-09"
-    },
-    {
-      "id": "c07c23afdf33",
-      "title": "고흥 학생대표 34명…교육정책 6건 직접 제안",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VYWdnWS1lX0JKV3UtaEt5RklwR3R0NVB2VmRDLS15MXk4a0RrUzFsWFVEQ2JPTnlQVHZCdW9paEVnd1YxM001cExLN2dYT2hVMVNuS1U4TkNEc0g5ZDVGOXJzZTJ5OU5rRHFlbA?oc=5",
-      "source": "호남교육신문",
-      "kind": "domestic",
-      "publishedAt": "2026-11-05T02:48:00.000Z",
-      "description": "고흥 학생대표 34명…교육정책 6건 직접 제안 호남교육신문",
-      "category": "유·초중등",
-      "feedProvider": "google",
-      "policyRelevance": 40,
-      "score": 51,
       "snapshotDate": "2026-11-09"
     }
   ]

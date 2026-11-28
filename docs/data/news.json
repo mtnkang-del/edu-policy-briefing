@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-28T03:24:48.275Z",
-  "generatedAtKST": "2026-11-28T12:24:45.266+09:00",
+  "generatedAt": "2026-11-28T04:01:39.828Z",
+  "generatedAtKST": "2026-11-28T13:01:37.071+09:00",
   "date": "2026-11-28",
   "aiSummaryEnabled": false,
   "foreignTranslationEnabled": true,
@@ -8,12 +8,12 @@
   "collectionHealth": {
     "officialLive": 10,
     "domesticBing": 21,
-    "domesticGoogle": 168,
-    "foreignBing": 23,
-    "foreignGoogle": 164,
-    "carried": 130,
-    "rawUnique": 345,
-    "policyRejected": 236,
+    "domesticGoogle": 121,
+    "foreignBing": 27,
+    "foreignGoogle": 220,
+    "carried": 205,
+    "rawUnique": 358,
+    "policyRejected": 251,
     "policyKept": 80
   },
   "briefing": [
@@ -190,6 +190,19 @@
       "score": 94
     },
     {
+      "id": "c5edc4f1b11e",
+      "title": "국회의장: 우리는 정책이 제대로 시행되더라도 조정 부족으로 인해 효과가 나타나는 데 시간이 오래 걸리는 것을 용납해서는 안 됩니다.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQalBxRjBZcmpkckhrVHJqQy1xV3lvc2RlaFlOVmV0YTYwRkZDRkRPX2U4TWdsZmtlZ3EwM1BBT3RrelZfajk4NmljLUgxczBydFdpeExPVEFwc3JCQ0tGSmxNNF9jY3hfRXlXSkczczl4WXdvdmx5aEZnaE9ETFNsbVA2aVhxWVZ1OUFPdVh2ZlNFVl9Fcm5ld29ieWMyNmI3WDBQVVB3VUIxTkcwV2xpeEFKZ0NyTXc?oc=5",
+      "source": "Vietnam.vn",
+      "kind": "domestic",
+      "publishedAt": "2026-11-27T13:13:27.000Z",
+      "description": "국회의장: 우리는 정책이 제대로 시행되더라도 조정 부족으로 인해 효과가 나타나는 데 시간이 오래 걸리는 것을 용납해서는 안 됩니다. Vietnam.vn",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 77,
+      "score": 92
+    },
+    {
       "id": "c7bb9fcfdc6b",
       "title": "대전시교육청, 충청권 교육감 정책협의회서 AI 보안 공동 대응 제안",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxQnBmTnV3UjcxdWp4SUtVTm9XT05GN2kwb1g0ZTdoSHZwQS0tRWxxT1dVNnVwT3U0dEM2MTNFZjVrTkE5QjdXakVXZTZJN25xMHNvYm53aVQtV0xpcldGa0Zoak5GeVVHc1R5NkdtbE9RN1HSAXdBVV95cUxQUGhHT1ZKMWxiR29zb3RtMkJtUDFMX18zWFk4U015Q1FrLWdhXzF3clpJWlR0RU0tTFJiQWhSSFRkOUcySU10UGR5RklKMHBUS3hfazlDZldSb0hQekc5QVNmeTc1ejJEd0RNblFqZklDSEhxa3VoOA?oc=5",
@@ -279,6 +292,19 @@
       "feedProvider": "bing",
       "policyRelevance": 65,
       "score": 84
+    },
+    {
+      "id": "e02555bafcc3",
+      "title": "쩐 탄 만 국회 의장: 우리는 올바른 정책이 효과를 발휘하는 데 시간이 오래 걸리도록 내버려둬서는 안 됩니다.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWpsMklzaUdOTHFYSWlIX1ZLdWthcnBEUmJybkZrQXdBeDRkbDRLLUdaTTdpNlg5NllteDhVdlFhNmNzWWFxOURwbGt5UVlXbERpNkRtMnEtSXRDMzBfbWdHOU1NcnR3YWl6bVhpMjF2MHNHRlBVZUZoVmZMWk9uYjRlQi05STdnaVB0OWxWdGdIbFJ3YmxyaXhnTTg4VmQtVFlqZmtLZEdqQQ?oc=5",
+      "source": "Vietnam.vn",
+      "kind": "domestic",
+      "publishedAt": "2026-11-27T15:24:12.000Z",
+      "description": "쩐 탄 만 국회 의장: 우리는 올바른 정책이 효과를 발휘하는 데 시간이 오래 걸리도록 내버려둬서는 안 됩니다. Vietnam.vn",
+      "category": "기타",
+      "feedProvider": "google",
+      "policyRelevance": 65,
+      "score": 82
     },
     {
       "id": "146914b2d38a",
@@ -530,7 +556,7 @@
     {
       "id": "1b3cf3d6483c",
       "title": "충청권 4개 교육청, AI 교육 협력체계 구축…미래교육 공동 대응",
-      "url": "https://www.msn.com/ko-kr/news/other/%EC%B6%A9%EC%B2%AD%EA%B6%8C-4%EA%B0%9C-%EA%B5%90%EC%9C%A1%EC%B2%AD-ai-%EA%B5%90%EC%9C%A1-%ED%98%91%EB%A0%A5%EC%B2%B4%EA%B3%84-%EA%B5%AC%EC%B6%95-%EB%AF%B8%EB%9E%98%EA%B5%90%EC%9C%A1-%EA%B3%B5%EB%8F%99-%EB%8C%80%EC%9D%91/ar-AA2ike5U",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%B6%A9%EC%B2%AD%EA%B6%8C-4%EA%B0%9C-%EA%B5%90%EC%9C%A1%EC%B2%AD-ai-%EA%B5%90%EC%9C%A1-%ED%98%91%EB%A0%A5%EC%B2%B4%EA%B3%84-%EA%B5%AC%EC%B6%95-%EB%AF%B8%EB%9E%98%EA%B5%90%EC%9C%A1-%EA%B3%B5%EB%8F%99-%EB%8C%80%EC%9D%91/ar-AA2ike5U",
       "source": "뉴스핌 on MSN",
       "kind": "domestic",
       "publishedAt": "2026-11-26T16:25:07.000Z",
@@ -580,19 +606,6 @@
       "score": 76
     },
     {
-      "id": "481a75a54b6f",
-      "title": "UAE 교육부 대표단 방한…초중등 AI·융합교육 등 정책 협의",
-      "url": "https://www.yna.co.kr/view/AKR20261124038500530",
-      "source": "연합뉴스",
-      "kind": "domestic",
-      "publishedAt": "2026-11-24T04:00:00.000Z",
-      "description": "(서울=연합뉴스) 노재현 기자 = 교육부는 24일 정부세종청사에서 아랍에미리트(UAE) 교육부 대표단과 양국 간 주요 교육 정책 현안과 교육 정책 전반에 대한 협의를 진행했다고 밝혔다. 협의 내용은 초·중등 인공지능(AI) 교육 및 융합교육(스팀·STEAM), 교육정보시스템(NEIS), 학생평가 등이다. 또 양측은 교육 협력을 강화하는 방안을 논의했다. 전 ...",
-      "category": "AI·디지털",
-      "feedProvider": "bing",
-      "policyRelevance": 87,
-      "score": 76
-    },
-    {
       "id": "f1f1624bb9af",
       "title": "'교육교부금 상생안' 무산에 금속탐지기 구입까지…교육청 부담 커진다",
       "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B5%90%EC%9C%A1%EA%B5%90%EB%B6%80%EA%B8%88-%EC%83%81%EC%83%9D%EC%95%88-%EB%AC%B4%EC%82%B0%EC%97%90-%EA%B8%88%EC%86%8D%ED%83%90%EC%A7%80%EA%B8%B0-%EA%B5%AC%EC%9E%85%EA%B9%8C%EC%A7%80-%EA%B5%90%EC%9C%A1%EC%B2%AD-%EB%B6%80%EB%8B%B4-%EC%BB%A4%EC%A7%84%EB%8B%A4/ar-AA2ibFhP",
@@ -614,6 +627,19 @@
       "publishedAt": "2026-11-27T12:30:02.000Z",
       "description": "충남교육청, 어린이집과 초등학교가 함께 잇는 배움과 성장 지원 누리일보",
       "category": "유·초중등",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 73
+    },
+    {
+      "id": "71a4f36fede0",
+      "title": "정부는 공립 대학 수를 최소 20% 줄일 것을 요구했다.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU1RhdjBCSUFmaXVyajZweWdDbDRHZXhNTkVLckwtTzFYSjNZZ3FubmNlaFVMbUM3Ujg1Q2Jpb2NDQ1ZobUVTRHZ5dDZoZG9na2N6RlYyYkp0TWFVNWwyQkg2dklncVFjdEY1Q2Q2QjBUcUl3dWRiekFtX2RGME1uc1Q2ZkVBdnk5UUlGaDhDZw?oc=5",
+      "source": "Vietnam.vn",
+      "kind": "domestic",
+      "publishedAt": "2026-11-27T11:17:18.000Z",
+      "description": "정부는 공립 대학 수를 최소 20% 줄일 것을 요구했다. Vietnam.vn",
+      "category": "고등교육",
       "feedProvider": "google",
       "policyRelevance": 45,
       "score": 73
@@ -814,19 +840,6 @@
       "score": 71
     },
     {
-      "id": "e27ea3f740ff",
-      "title": "교육부, 수능 부정행위 대응팀 본격 가동",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vSXpfS1FTRnBZYms3QUNrcDlHVDdadVdsbUdDUDlQandwSXBYTXF1OG51emxlUnJjaHh6SFFDdnBYbWdtb0tCZWtjUGVkUk15YlRxSVdsNGdUckNJc2VYRUN5WFNSV0VkaWFjSdIBcEFVX3lxTE92TTd3UWVjRldpT09YREZ3UHN0UDBKMlhtVnhNVk9meFZPQlphd2VxenZ6aUhOczNxZlhFYklEVUFqUFdpTlRnbUs5SGR4OXY4VFIwODZ1MFpEU3JzX2RkbHh4QkFoaXdtUkswbUxuU0c?oc=5",
-      "source": "대학IN",
-      "kind": "domestic",
-      "publishedAt": "2026-11-24T03:30:52.000Z",
-      "description": "교육부, 수능 부정행위 대응팀 본격 가동 대학IN",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 75,
-      "score": 71
-    },
-    {
       "id": "250664a455c0",
       "title": "“Connected Curriculum. Connected School. Authentic Learning”: UNICEF and the Ministry of Education and Research, with support from the European Union, turn the curriculum into meaningful learning experiences for students",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0F6QUxuTWNHcDN0U2Vja3cwaHZPUFMyQkhKR2M1SzJfY2FkbnFzZW1FWVVfODNaT09HLXZZQWZLdElkUy0tbjJ4S0JiNy15TDlJaXJNdVpTZWlJbFFIYkx3S1I4QmhiUEk5MzVSNFRpczdLdGZSbHZXUmxJbnhYaGNvekpJcG44VXN4VERTY2lDUDRVZTFJMWdKSmR0VlVkaEtOaS01QVgwZnhSQnVkYWRXYzF4MjIzVHNjTnRlbHZYSGM?oc=5",
@@ -902,6 +915,19 @@
       "kind": "domestic",
       "publishedAt": "2026-11-26T07:32:36.000Z",
       "description": "대전시교육청, 독서교육 성과 한자리에…교원들 실천 경험 공유 - 보도자료 | 기사 더팩트",
+      "category": "교원·조직",
+      "feedProvider": "google",
+      "policyRelevance": 45,
+      "score": 67
+    },
+    {
+      "id": "2b725534b4b8",
+      "title": "정근식 교육감, 순직교원 추모 ‘숭고한 등불’ 발족식 참석",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwZmtQUFU3YzhjaEs3TUVqTWhXWXVySEx0S0xBWko3aFZyeHNoU3RzS2c4dmI2aVVOblQ5anRibURBamkzcjJyX3ZvdUNzVnlpS0dpSXdzaVVMbEVGSlZCb1piZnp1dw?oc=5",
+      "source": "한국대학신문",
+      "kind": "domestic",
+      "publishedAt": "2026-11-26T01:19:19.000Z",
+      "description": "정근식 교육감, 순직교원 추모 ‘숭고한 등불’ 발족식 참석 한국대학신문",
       "category": "교원·조직",
       "feedProvider": "google",
       "policyRelevance": 45,
@@ -1036,32 +1062,6 @@
       "feedProvider": "google",
       "policyRelevance": 42,
       "score": 66
-    },
-    {
-      "id": "cf740e851220",
-      "title": "수능 시험지 5년 보관 추진…\"부정행위 끝까지 추적\"",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xaFNhLWFmaU5FVnlBVjd3akdaWUNlaVdGNnFRazlHRjY3QjNYbjh5RW0tbHBQZGQzaC12eWh1R0xucVMxVWpSQXJZMlA1b2F1alhZYVp6VnBvcThTUm0tRUpLanVkdWNZX2VYcA?oc=5",
-      "source": "대한민국 정책브리핑",
-      "kind": "domestic",
-      "publishedAt": "2026-11-25T15:07:01.000Z",
-      "description": "수능 시험지 5년 보관 추진…\"부정행위 끝까지 추적\" 대한민국 정책브리핑",
-      "category": "입시·사교육",
-      "feedProvider": "google",
-      "policyRelevance": 42,
-      "score": 66
-    },
-    {
-      "id": "f1488e640bdc",
-      "title": "충남도, 고3 학생 사회 첫출발 교육 52개교 확대",
-      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1316156",
-      "source": "전국매일신문",
-      "kind": "domestic",
-      "publishedAt": "2026-11-25T12:21:00.000Z",
-      "description": "충남도는 대학 진학과 사회 진출을 앞둔 도내 고등학교 3학년 학생들의 안정적인 사회생활 준비를 돕기 위해 맞춤형 교육과 청년정책 안내 프로그램을 확대 운영한다고 26일 밝혔다.이번 사업은 대학수학능력시험 이후 학생들이 금융과 주거, 노동 등 실생활에 필요한 정보를 습득하고, 진로 탐색과 자립에 필요한 역량을 갖출 수 있도록 지원하기 위해 마련됐다.특히 올해 ...",
-      "category": "입시·사교육",
-      "feedProvider": "bing",
-      "policyRelevance": 52,
-      "score": 66
     }
   ],
   "translationProvider": "MyMemory MT fallback",
@@ -1071,17 +1071,19 @@
     "throughDate": "2026-11-28",
     "basis": "previous-day-plus-early-morning",
     "windowStart": "2026-11-26T15:00:00.000Z",
-    "windowEnd": "2026-11-28T03:24:48.275Z",
+    "windowEnd": "2026-11-28T04:01:39.828Z",
     "itemIds": [
       "e04866334f9a",
       "16027ee8e142",
       "6ba644214dfe",
       "2853f44872be",
+      "c5edc4f1b11e",
       "c7bb9fcfdc6b",
       "45868352cf8b",
       "2b075df18392",
       "2c0a08d61b35",
       "b755269a5f00",
+      "e02555bafcc3",
       "146914b2d38a",
       "463b0965d90e",
       "dfefee524538",
@@ -1091,6 +1093,7 @@
       "26858c1e6205",
       "1b3cf3d6483c",
       "3b803452918f",
+      "71a4f36fede0",
       "ac222d1ada3e",
       "d0b4966bbf2e",
       "250664a455c0",
@@ -1101,13 +1104,13 @@
       "6ecff56fa3a3"
     ],
     "stats": {
-      "total": 26,
+      "total": 29,
       "official": 2,
-      "domestic": 23,
+      "domestic": 26,
       "foreign": 1
     },
     "headline": "오늘 아침 교육뉴스는 교원·조직·입시·사교육·AI·디지털 이슈를 중심으로 형성됐습니다.",
-    "summary": "브리핑 범위에서 교육 관련 기사 26건이 확인됐습니다. 교육부는 학교에서 시작된 인공지능(AI) 교육의 변화, 전국으로 확산한다와 국립대학 양성평등 추진 성과공유회 개최 등을 공식 발표했습니다. 국내 언론에서는 충남교육청, 1시간 이내 출동·136 회복 점검 협의회 개최와 교육부 \"스마트안경 탐지 기술 상용화 단계…내년 수능 대비\"(종합) 등이 주요하게 다뤄졌습니다. 해외에서는 “연결된 커리큘럼. 연결된 학교. 진정한 학습”: 유니세프와 교육연구부(Ministry of Education and Research)는 유럽연합(EU)의 지원을 받아 교육과정을 학생들에게 의미 있는 학습 경험으로 전환합니다. 관련 보도가 확인됐습니다. 전체적으로는 교원·조직·입시·사교육·AI·디지털 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
+    "summary": "브리핑 범위에서 교육 관련 기사 29건이 확인됐습니다. 교육부는 학교에서 시작된 인공지능(AI) 교육의 변화, 전국으로 확산한다와 국립대학 양성평등 추진 성과공유회 개최 등을 공식 발표했습니다. 국내 언론에서는 충남교육청, 1시간 이내 출동·136 회복 점검 협의회 개최와 교육부 \"스마트안경 탐지 기술 상용화 단계…내년 수능 대비\"(종합) 등이 주요하게 다뤄졌습니다. 해외에서는 “연결된 커리큘럼. 연결된 학교. 진정한 학습”: 유니세프와 교육연구부(Ministry of Education and Research)는 유럽연합(EU)의 지원을 받아 교육과정을 학생들에게 의미 있는 학습 경험으로 전환합니다. 관련 보도가 확인됐습니다. 전체적으로는 교원·조직·입시·사교육·AI·디지털 분야의 정책 변화와 후속 집행·현장 반응을 함께 살펴볼 필요가 있습니다.",
     "issues": [
       {
         "title": "교원·조직",
